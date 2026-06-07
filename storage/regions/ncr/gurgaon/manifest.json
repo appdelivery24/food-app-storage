@@ -1,1633 +1,3327 @@
 {
-  "version": 1,
-  "manifestVersion": "63eebea3db711b5ecddb7f33050263de",
+  "version": 2,
+  "manifestVersion": "faf99345c5acce96c67ac520b5675e87",
   "cityId": "gurgaon",
   "region": "ncr",
   "name": "Gurgaon",
   "entryCount": 203,
-  "updatedAt": "2026-06-06T16:38:19.794Z",
+  "updatedAt": "2026-06-07T07:13:02.659Z",
+  "basePath": "regions/ncr/gurgaon",
+  "sections": {
+    "meta": {
+      "label": "City metadata",
+      "syncPolicy": "on-change",
+      "pollIntervalSec": null,
+      "fileCount": 1,
+      "sectionVersion": "88357a4a29340dcaf7dd3c59be42b5d7",
+      "files": [
+        {
+          "path": "meta.json",
+          "md5": "8b5187c3d73de6de8372cb2472cc8135",
+          "sizeBytes": 273,
+          "updatedAt": "2026-06-06T13:41:50.697Z"
+        }
+      ]
+    },
+    "vendors": {
+      "label": "Static vendor index",
+      "syncPolicy": "on-change",
+      "pollIntervalSec": null,
+      "fileCount": 1,
+      "sectionVersion": "07050d13dbf5b2945795593d60926c1e",
+      "files": [
+        {
+          "path": "vendors/index.json",
+          "md5": "d774154d8df946d1b5f4e6fa3e467351",
+          "sizeBytes": 88264,
+          "updatedAt": "2026-06-06T14:30:29.588Z"
+        }
+      ]
+    },
+    "products": {
+      "label": "Static products per vendor",
+      "syncPolicy": "on-change",
+      "pollIntervalSec": null,
+      "fileCount": 100,
+      "sectionVersion": "68e4ae96ffe6afa1bd992bbb4244025f",
+      "files": [
+        {
+          "path": "products/vendor_gurgaon_001.json",
+          "md5": "7bed747086b0c0d6c3a7f8660f474a52",
+          "sizeBytes": 95253,
+          "updatedAt": "2026-06-07T06:35:38.344Z",
+          "vendorId": "vendor_gurgaon_001"
+        },
+        {
+          "path": "products/vendor_gurgaon_002.json",
+          "md5": "995d11acd1a93a3924c46d38d308c9d9",
+          "sizeBytes": 94330,
+          "updatedAt": "2026-06-07T06:35:38.346Z",
+          "vendorId": "vendor_gurgaon_002"
+        },
+        {
+          "path": "products/vendor_gurgaon_003.json",
+          "md5": "4758c15e0f52189d40c1d5849ae9e312",
+          "sizeBytes": 93156,
+          "updatedAt": "2026-06-07T06:35:38.348Z",
+          "vendorId": "vendor_gurgaon_003"
+        },
+        {
+          "path": "products/vendor_gurgaon_004.json",
+          "md5": "74902185a623543be2adfcaad35e9a89",
+          "sizeBytes": 92686,
+          "updatedAt": "2026-06-07T06:35:38.350Z",
+          "vendorId": "vendor_gurgaon_004"
+        },
+        {
+          "path": "products/vendor_gurgaon_005.json",
+          "md5": "c2fa506de8ed62f3627b294024a1714e",
+          "sizeBytes": 93416,
+          "updatedAt": "2026-06-07T06:35:38.352Z",
+          "vendorId": "vendor_gurgaon_005"
+        },
+        {
+          "path": "products/vendor_gurgaon_006.json",
+          "md5": "61a6e9c744b3750ed1080d97227a2d0f",
+          "sizeBytes": 93515,
+          "updatedAt": "2026-06-07T06:35:38.355Z",
+          "vendorId": "vendor_gurgaon_006"
+        },
+        {
+          "path": "products/vendor_gurgaon_007.json",
+          "md5": "ef2fd1b6b05265149cb1676cc5435614",
+          "sizeBytes": 94178,
+          "updatedAt": "2026-06-07T06:35:38.359Z",
+          "vendorId": "vendor_gurgaon_007"
+        },
+        {
+          "path": "products/vendor_gurgaon_008.json",
+          "md5": "32175fecb48ac114dc4bcc19ee3c61cc",
+          "sizeBytes": 94286,
+          "updatedAt": "2026-06-07T06:35:38.365Z",
+          "vendorId": "vendor_gurgaon_008"
+        },
+        {
+          "path": "products/vendor_gurgaon_009.json",
+          "md5": "bd2323402203242a503e9864435e3d5c",
+          "sizeBytes": 93898,
+          "updatedAt": "2026-06-07T06:35:38.367Z",
+          "vendorId": "vendor_gurgaon_009"
+        },
+        {
+          "path": "products/vendor_gurgaon_010.json",
+          "md5": "d0b5c2f9749edf95424abdf5e79a4941",
+          "sizeBytes": 93215,
+          "updatedAt": "2026-06-07T06:35:38.373Z",
+          "vendorId": "vendor_gurgaon_010"
+        },
+        {
+          "path": "products/vendor_gurgaon_011.json",
+          "md5": "dcd88f0ec3b6df9e0b70743298c5605b",
+          "sizeBytes": 92791,
+          "updatedAt": "2026-06-07T06:35:38.375Z",
+          "vendorId": "vendor_gurgaon_011"
+        },
+        {
+          "path": "products/vendor_gurgaon_012.json",
+          "md5": "92b07797b8f1bd046d5bd7d8541ae836",
+          "sizeBytes": 94852,
+          "updatedAt": "2026-06-07T06:35:38.377Z",
+          "vendorId": "vendor_gurgaon_012"
+        },
+        {
+          "path": "products/vendor_gurgaon_013.json",
+          "md5": "6e5b9ba15e3a0e03e2d03a8efcd3fca3",
+          "sizeBytes": 94414,
+          "updatedAt": "2026-06-07T06:35:38.380Z",
+          "vendorId": "vendor_gurgaon_013"
+        },
+        {
+          "path": "products/vendor_gurgaon_014.json",
+          "md5": "41b98065a9c499fd6060a741568231ec",
+          "sizeBytes": 93246,
+          "updatedAt": "2026-06-07T06:35:38.383Z",
+          "vendorId": "vendor_gurgaon_014"
+        },
+        {
+          "path": "products/vendor_gurgaon_015.json",
+          "md5": "8b4ed9b0b78900c3f1197c14a8e68116",
+          "sizeBytes": 92869,
+          "updatedAt": "2026-06-07T06:35:38.388Z",
+          "vendorId": "vendor_gurgaon_015"
+        },
+        {
+          "path": "products/vendor_gurgaon_016.json",
+          "md5": "ad4467ea857a8fc684dececd52d5deb6",
+          "sizeBytes": 94954,
+          "updatedAt": "2026-06-07T06:36:10.343Z",
+          "vendorId": "vendor_gurgaon_016"
+        },
+        {
+          "path": "products/vendor_gurgaon_017.json",
+          "md5": "16caaf5e2c491c1abee1c1fc67242e3d",
+          "sizeBytes": 94009,
+          "updatedAt": "2026-06-07T06:35:38.392Z",
+          "vendorId": "vendor_gurgaon_017"
+        },
+        {
+          "path": "products/vendor_gurgaon_018.json",
+          "md5": "dc6efa8196e0380aa250a0a946c3b815",
+          "sizeBytes": 94601,
+          "updatedAt": "2026-06-07T06:35:38.396Z",
+          "vendorId": "vendor_gurgaon_018"
+        },
+        {
+          "path": "products/vendor_gurgaon_019.json",
+          "md5": "acf792ab34247fe9db714b376b7df105",
+          "sizeBytes": 94223,
+          "updatedAt": "2026-06-07T06:35:38.399Z",
+          "vendorId": "vendor_gurgaon_019"
+        },
+        {
+          "path": "products/vendor_gurgaon_020.json",
+          "md5": "c1dafccdfd3ece8e33c03d74eb37ddc4",
+          "sizeBytes": 93931,
+          "updatedAt": "2026-06-07T06:36:10.348Z",
+          "vendorId": "vendor_gurgaon_020"
+        },
+        {
+          "path": "products/vendor_gurgaon_021.json",
+          "md5": "6e5732246789b77e2465e1fa4ed717fa",
+          "sizeBytes": 92791,
+          "updatedAt": "2026-06-07T06:35:38.405Z",
+          "vendorId": "vendor_gurgaon_021"
+        },
+        {
+          "path": "products/vendor_gurgaon_022.json",
+          "md5": "ea1b7903ea61c3ce6b21b757ae0c0b7c",
+          "sizeBytes": 94664,
+          "updatedAt": "2026-06-07T06:36:10.351Z",
+          "vendorId": "vendor_gurgaon_022"
+        },
+        {
+          "path": "products/vendor_gurgaon_023.json",
+          "md5": "5d54dc57bc1f2f91f6d43012e4ee45cc",
+          "sizeBytes": 95312,
+          "updatedAt": "2026-06-07T06:35:38.409Z",
+          "vendorId": "vendor_gurgaon_023"
+        },
+        {
+          "path": "products/vendor_gurgaon_024.json",
+          "md5": "75dbf52055745633170bace38d6002b2",
+          "sizeBytes": 93666,
+          "updatedAt": "2026-06-07T06:35:38.411Z",
+          "vendorId": "vendor_gurgaon_024"
+        },
+        {
+          "path": "products/vendor_gurgaon_025.json",
+          "md5": "9ddd853e8993710854cf70b024df97a3",
+          "sizeBytes": 95052,
+          "updatedAt": "2026-06-07T06:35:38.414Z",
+          "vendorId": "vendor_gurgaon_025"
+        },
+        {
+          "path": "products/vendor_gurgaon_026.json",
+          "md5": "4260011ab422947450969d2a54d7a431",
+          "sizeBytes": 94007,
+          "updatedAt": "2026-06-07T06:36:10.356Z",
+          "vendorId": "vendor_gurgaon_026"
+        },
+        {
+          "path": "products/vendor_gurgaon_027.json",
+          "md5": "cf1b48d4bd19f478bbd9e1fe9168489f",
+          "sizeBytes": 95431,
+          "updatedAt": "2026-06-07T06:35:38.419Z",
+          "vendorId": "vendor_gurgaon_027"
+        },
+        {
+          "path": "products/vendor_gurgaon_028.json",
+          "md5": "a606566583562d11e847961610ee264d",
+          "sizeBytes": 94669,
+          "updatedAt": "2026-06-07T06:35:38.421Z",
+          "vendorId": "vendor_gurgaon_028"
+        },
+        {
+          "path": "products/vendor_gurgaon_029.json",
+          "md5": "00aeb4f743084810ab857983c77c1e45",
+          "sizeBytes": 92165,
+          "updatedAt": "2026-06-07T06:35:38.424Z",
+          "vendorId": "vendor_gurgaon_029"
+        },
+        {
+          "path": "products/vendor_gurgaon_030.json",
+          "md5": "3e13dbb4cfbb36f4fadf3f5b23f744e9",
+          "sizeBytes": 93409,
+          "updatedAt": "2026-06-07T06:35:38.426Z",
+          "vendorId": "vendor_gurgaon_030"
+        },
+        {
+          "path": "products/vendor_gurgaon_031.json",
+          "md5": "96fad682dbdd0043b0102650fd2a5711",
+          "sizeBytes": 94023,
+          "updatedAt": "2026-06-07T06:35:38.432Z",
+          "vendorId": "vendor_gurgaon_031"
+        },
+        {
+          "path": "products/vendor_gurgaon_032.json",
+          "md5": "ba3fe4df8871a05ccfd1d346810b646b",
+          "sizeBytes": 93489,
+          "updatedAt": "2026-06-07T06:35:38.435Z",
+          "vendorId": "vendor_gurgaon_032"
+        },
+        {
+          "path": "products/vendor_gurgaon_033.json",
+          "md5": "d976e04705b37a26d6cbafa36e22a418",
+          "sizeBytes": 94841,
+          "updatedAt": "2026-06-07T06:35:38.439Z",
+          "vendorId": "vendor_gurgaon_033"
+        },
+        {
+          "path": "products/vendor_gurgaon_034.json",
+          "md5": "5828c9f7b8bc02f8e2733c7026a79983",
+          "sizeBytes": 94584,
+          "updatedAt": "2026-06-07T06:36:10.365Z",
+          "vendorId": "vendor_gurgaon_034"
+        },
+        {
+          "path": "products/vendor_gurgaon_035.json",
+          "md5": "c36216ed9cc13ac7c88535cd705d2aae",
+          "sizeBytes": 93865,
+          "updatedAt": "2026-06-07T06:35:38.444Z",
+          "vendorId": "vendor_gurgaon_035"
+        },
+        {
+          "path": "products/vendor_gurgaon_036.json",
+          "md5": "82678b30683dbbcc14cff2dc43fbb3e3",
+          "sizeBytes": 94035,
+          "updatedAt": "2026-06-07T06:35:38.447Z",
+          "vendorId": "vendor_gurgaon_036"
+        },
+        {
+          "path": "products/vendor_gurgaon_037.json",
+          "md5": "c3915ef9ef6609c058375ed2f60c8d41",
+          "sizeBytes": 94513,
+          "updatedAt": "2026-06-07T06:36:10.368Z",
+          "vendorId": "vendor_gurgaon_037"
+        },
+        {
+          "path": "products/vendor_gurgaon_038.json",
+          "md5": "73eb09760cdfdc2d3e756d3baced0385",
+          "sizeBytes": 95771,
+          "updatedAt": "2026-06-07T06:35:38.452Z",
+          "vendorId": "vendor_gurgaon_038"
+        },
+        {
+          "path": "products/vendor_gurgaon_039.json",
+          "md5": "594fe39eb3f9a10d3d6cd49f4ac566d6",
+          "sizeBytes": 94955,
+          "updatedAt": "2026-06-07T06:36:10.371Z",
+          "vendorId": "vendor_gurgaon_039"
+        },
+        {
+          "path": "products/vendor_gurgaon_040.json",
+          "md5": "c40068142942839d2d340297734173f3",
+          "sizeBytes": 92890,
+          "updatedAt": "2026-06-07T06:35:38.457Z",
+          "vendorId": "vendor_gurgaon_040"
+        },
+        {
+          "path": "products/vendor_gurgaon_041.json",
+          "md5": "db677973234c7d905176808d16388d65",
+          "sizeBytes": 93574,
+          "updatedAt": "2026-06-07T06:35:38.460Z",
+          "vendorId": "vendor_gurgaon_041"
+        },
+        {
+          "path": "products/vendor_gurgaon_042.json",
+          "md5": "e55e5d0336237ee0ed4d6beb781681f1",
+          "sizeBytes": 94443,
+          "updatedAt": "2026-06-07T06:36:10.375Z",
+          "vendorId": "vendor_gurgaon_042"
+        },
+        {
+          "path": "products/vendor_gurgaon_043.json",
+          "md5": "481ab55a0ac24834522c54f03e2a9bf1",
+          "sizeBytes": 95363,
+          "updatedAt": "2026-06-07T06:35:38.468Z",
+          "vendorId": "vendor_gurgaon_043"
+        },
+        {
+          "path": "products/vendor_gurgaon_044.json",
+          "md5": "aa4db15976d8c177a09c0787b32a8000",
+          "sizeBytes": 93166,
+          "updatedAt": "2026-06-07T06:35:38.471Z",
+          "vendorId": "vendor_gurgaon_044"
+        },
+        {
+          "path": "products/vendor_gurgaon_045.json",
+          "md5": "e49df4ab5b1dd4c57d6e31948b453391",
+          "sizeBytes": 94329,
+          "updatedAt": "2026-06-07T06:35:38.473Z",
+          "vendorId": "vendor_gurgaon_045"
+        },
+        {
+          "path": "products/vendor_gurgaon_046.json",
+          "md5": "a6f208b0a79cfd7eb9b3c4900818ba79",
+          "sizeBytes": 94413,
+          "updatedAt": "2026-06-07T06:35:38.475Z",
+          "vendorId": "vendor_gurgaon_046"
+        },
+        {
+          "path": "products/vendor_gurgaon_047.json",
+          "md5": "8318acd6e09b34c423aaa6b675d67734",
+          "sizeBytes": 94304,
+          "updatedAt": "2026-06-07T06:35:38.477Z",
+          "vendorId": "vendor_gurgaon_047"
+        },
+        {
+          "path": "products/vendor_gurgaon_048.json",
+          "md5": "4f1051bcb64b59faf3b5dc515bd04853",
+          "sizeBytes": 94772,
+          "updatedAt": "2026-06-07T06:35:38.481Z",
+          "vendorId": "vendor_gurgaon_048"
+        },
+        {
+          "path": "products/vendor_gurgaon_049.json",
+          "md5": "51fb33f835718c70a0da9b57c801955c",
+          "sizeBytes": 92949,
+          "updatedAt": "2026-06-07T06:35:38.483Z",
+          "vendorId": "vendor_gurgaon_049"
+        },
+        {
+          "path": "products/vendor_gurgaon_050.json",
+          "md5": "b30d7ba9714345d590aca3eda260537f",
+          "sizeBytes": 93975,
+          "updatedAt": "2026-06-07T06:36:10.384Z",
+          "vendorId": "vendor_gurgaon_050"
+        },
+        {
+          "path": "products/vendor_gurgaon_051.json",
+          "md5": "fc2e8a2d97d68918be1913a1aa7596b8",
+          "sizeBytes": 99888,
+          "updatedAt": "2026-06-07T06:35:38.488Z",
+          "vendorId": "vendor_gurgaon_051"
+        },
+        {
+          "path": "products/vendor_gurgaon_052.json",
+          "md5": "d38c6505da82fe7fe7cabe33b3ea6fff",
+          "sizeBytes": 100483,
+          "updatedAt": "2026-06-07T06:35:38.490Z",
+          "vendorId": "vendor_gurgaon_052"
+        },
+        {
+          "path": "products/vendor_gurgaon_053.json",
+          "md5": "acca148f186aa0049c7970453b2f4641",
+          "sizeBytes": 100667,
+          "updatedAt": "2026-06-07T06:35:38.492Z",
+          "vendorId": "vendor_gurgaon_053"
+        },
+        {
+          "path": "products/vendor_gurgaon_054.json",
+          "md5": "1a93c9b2e1ded948f2637c9541ddad69",
+          "sizeBytes": 98911,
+          "updatedAt": "2026-06-07T06:35:38.494Z",
+          "vendorId": "vendor_gurgaon_054"
+        },
+        {
+          "path": "products/vendor_gurgaon_055.json",
+          "md5": "76fd7e2c957b32f961198987a063a411",
+          "sizeBytes": 99533,
+          "updatedAt": "2026-06-07T06:35:38.498Z",
+          "vendorId": "vendor_gurgaon_055"
+        },
+        {
+          "path": "products/vendor_gurgaon_056.json",
+          "md5": "d33623300aac30c97f0f9f8f56ca95a6",
+          "sizeBytes": 98645,
+          "updatedAt": "2026-06-07T06:35:38.500Z",
+          "vendorId": "vendor_gurgaon_056"
+        },
+        {
+          "path": "products/vendor_gurgaon_057.json",
+          "md5": "ed09efd82b8c9713fbb26459930fb709",
+          "sizeBytes": 100445,
+          "updatedAt": "2026-06-07T06:35:38.502Z",
+          "vendorId": "vendor_gurgaon_057"
+        },
+        {
+          "path": "products/vendor_gurgaon_058.json",
+          "md5": "832b36b38f187285ce4d6e1bdd6fad5b",
+          "sizeBytes": 99678,
+          "updatedAt": "2026-06-07T06:35:38.506Z",
+          "vendorId": "vendor_gurgaon_058"
+        },
+        {
+          "path": "products/vendor_gurgaon_059.json",
+          "md5": "32f705736c6c14597616284326de552f",
+          "sizeBytes": 100515,
+          "updatedAt": "2026-06-07T06:35:38.508Z",
+          "vendorId": "vendor_gurgaon_059"
+        },
+        {
+          "path": "products/vendor_gurgaon_060.json",
+          "md5": "20379a92cb51512374688960f53b595d",
+          "sizeBytes": 101208,
+          "updatedAt": "2026-06-07T06:35:38.511Z",
+          "vendorId": "vendor_gurgaon_060"
+        },
+        {
+          "path": "products/vendor_gurgaon_061.json",
+          "md5": "c4cd6a0d95056aac42a02750037b97a8",
+          "sizeBytes": 98021,
+          "updatedAt": "2026-06-07T06:35:38.513Z",
+          "vendorId": "vendor_gurgaon_061"
+        },
+        {
+          "path": "products/vendor_gurgaon_062.json",
+          "md5": "3915c0db0b9a987bee9bf4db935aaa93",
+          "sizeBytes": 98861,
+          "updatedAt": "2026-06-07T06:35:38.515Z",
+          "vendorId": "vendor_gurgaon_062"
+        },
+        {
+          "path": "products/vendor_gurgaon_063.json",
+          "md5": "266d1ebacfb41d5ace15c32cd9acca6f",
+          "sizeBytes": 99531,
+          "updatedAt": "2026-06-07T06:35:38.518Z",
+          "vendorId": "vendor_gurgaon_063"
+        },
+        {
+          "path": "products/vendor_gurgaon_064.json",
+          "md5": "568df35052d207206334a60c1256b951",
+          "sizeBytes": 101185,
+          "updatedAt": "2026-06-07T06:35:38.521Z",
+          "vendorId": "vendor_gurgaon_064"
+        },
+        {
+          "path": "products/vendor_gurgaon_065.json",
+          "md5": "99cbbed255edae307729e2c2e4004a52",
+          "sizeBytes": 99414,
+          "updatedAt": "2026-06-07T06:35:38.523Z",
+          "vendorId": "vendor_gurgaon_065"
+        },
+        {
+          "path": "products/vendor_gurgaon_066.json",
+          "md5": "aceb46d61706e3f534312df318decf52",
+          "sizeBytes": 100633,
+          "updatedAt": "2026-06-07T06:35:38.526Z",
+          "vendorId": "vendor_gurgaon_066"
+        },
+        {
+          "path": "products/vendor_gurgaon_067.json",
+          "md5": "bebc7879766b7d3406bf5aa8e04e7e97",
+          "sizeBytes": 99898,
+          "updatedAt": "2026-06-07T06:35:38.528Z",
+          "vendorId": "vendor_gurgaon_067"
+        },
+        {
+          "path": "products/vendor_gurgaon_068.json",
+          "md5": "769e0df6097724945a3543f436e1f7f2",
+          "sizeBytes": 99759,
+          "updatedAt": "2026-06-07T06:35:38.531Z",
+          "vendorId": "vendor_gurgaon_068"
+        },
+        {
+          "path": "products/vendor_gurgaon_069.json",
+          "md5": "cf02f630158354bb6afbcdeed2f28b75",
+          "sizeBytes": 98813,
+          "updatedAt": "2026-06-07T06:35:38.533Z",
+          "vendorId": "vendor_gurgaon_069"
+        },
+        {
+          "path": "products/vendor_gurgaon_070.json",
+          "md5": "15518f629510213f6b8753685d5d05d7",
+          "sizeBytes": 98623,
+          "updatedAt": "2026-06-07T06:35:38.535Z",
+          "vendorId": "vendor_gurgaon_070"
+        },
+        {
+          "path": "products/vendor_gurgaon_071.json",
+          "md5": "0bd55f75d010b748b2d5d11b0ff8fcd2",
+          "sizeBytes": 99970,
+          "updatedAt": "2026-06-07T06:35:38.536Z",
+          "vendorId": "vendor_gurgaon_071"
+        },
+        {
+          "path": "products/vendor_gurgaon_072.json",
+          "md5": "0bf84d687cb2d2244c07d09cc24442be",
+          "sizeBytes": 100034,
+          "updatedAt": "2026-06-07T06:35:38.539Z",
+          "vendorId": "vendor_gurgaon_072"
+        },
+        {
+          "path": "products/vendor_gurgaon_073.json",
+          "md5": "baedd806b09d19894ad25e77fde1826e",
+          "sizeBytes": 98637,
+          "updatedAt": "2026-06-07T06:35:38.541Z",
+          "vendorId": "vendor_gurgaon_073"
+        },
+        {
+          "path": "products/vendor_gurgaon_074.json",
+          "md5": "fa7d7fa598b5f19a645aabf90bae58ad",
+          "sizeBytes": 98761,
+          "updatedAt": "2026-06-07T06:35:38.544Z",
+          "vendorId": "vendor_gurgaon_074"
+        },
+        {
+          "path": "products/vendor_gurgaon_075.json",
+          "md5": "d918b29851126f0dabb401cd1570bd2d",
+          "sizeBytes": 99356,
+          "updatedAt": "2026-06-07T06:35:38.546Z",
+          "vendorId": "vendor_gurgaon_075"
+        },
+        {
+          "path": "products/vendor_gurgaon_076.json",
+          "md5": "f430c2049e6ce728c295a6f9058631b7",
+          "sizeBytes": 100060,
+          "updatedAt": "2026-06-07T06:35:38.548Z",
+          "vendorId": "vendor_gurgaon_076"
+        },
+        {
+          "path": "products/vendor_gurgaon_077.json",
+          "md5": "0446a29a1bf466f04bd5eed130c32f24",
+          "sizeBytes": 98993,
+          "updatedAt": "2026-06-07T06:35:38.550Z",
+          "vendorId": "vendor_gurgaon_077"
+        },
+        {
+          "path": "products/vendor_gurgaon_078.json",
+          "md5": "ba95c4322e5985bb54b8037843d8f316",
+          "sizeBytes": 100986,
+          "updatedAt": "2026-06-07T06:35:38.552Z",
+          "vendorId": "vendor_gurgaon_078"
+        },
+        {
+          "path": "products/vendor_gurgaon_079.json",
+          "md5": "ee5cf36eef4237ca6bfabe70e90ac5f0",
+          "sizeBytes": 99019,
+          "updatedAt": "2026-06-07T06:35:38.555Z",
+          "vendorId": "vendor_gurgaon_079"
+        },
+        {
+          "path": "products/vendor_gurgaon_080.json",
+          "md5": "65f765d130709dbfa5ce00ad4a73f147",
+          "sizeBytes": 98956,
+          "updatedAt": "2026-06-07T06:35:38.557Z",
+          "vendorId": "vendor_gurgaon_080"
+        },
+        {
+          "path": "products/vendor_gurgaon_081.json",
+          "md5": "000358a725e5217b9141a15b1f11e940",
+          "sizeBytes": 98045,
+          "updatedAt": "2026-06-07T06:35:38.559Z",
+          "vendorId": "vendor_gurgaon_081"
+        },
+        {
+          "path": "products/vendor_gurgaon_082.json",
+          "md5": "bb7753af679e175517c929e7ef71dc18",
+          "sizeBytes": 98932,
+          "updatedAt": "2026-06-07T06:35:38.561Z",
+          "vendorId": "vendor_gurgaon_082"
+        },
+        {
+          "path": "products/vendor_gurgaon_083.json",
+          "md5": "e53065ec523b1677f3009a5690c7c4e0",
+          "sizeBytes": 98390,
+          "updatedAt": "2026-06-07T06:35:38.564Z",
+          "vendorId": "vendor_gurgaon_083"
+        },
+        {
+          "path": "products/vendor_gurgaon_084.json",
+          "md5": "d7f7de4ef513204c19e96ce7b8934e64",
+          "sizeBytes": 99604,
+          "updatedAt": "2026-06-07T06:35:38.567Z",
+          "vendorId": "vendor_gurgaon_084"
+        },
+        {
+          "path": "products/vendor_gurgaon_085.json",
+          "md5": "2ba8ed5e729b9ebbf5f18993616b410f",
+          "sizeBytes": 100046,
+          "updatedAt": "2026-06-07T06:35:38.569Z",
+          "vendorId": "vendor_gurgaon_085"
+        },
+        {
+          "path": "products/vendor_gurgaon_086.json",
+          "md5": "1f425ac78aa45312df90f8c5d7aa6a75",
+          "sizeBytes": 100889,
+          "updatedAt": "2026-06-07T06:35:38.571Z",
+          "vendorId": "vendor_gurgaon_086"
+        },
+        {
+          "path": "products/vendor_gurgaon_087.json",
+          "md5": "fada61e45bed065db2076b8d5034788e",
+          "sizeBytes": 98652,
+          "updatedAt": "2026-06-07T06:35:38.573Z",
+          "vendorId": "vendor_gurgaon_087"
+        },
+        {
+          "path": "products/vendor_gurgaon_088.json",
+          "md5": "91ee15af5051996849a3b7c76f7081ec",
+          "sizeBytes": 99145,
+          "updatedAt": "2026-06-07T06:35:38.575Z",
+          "vendorId": "vendor_gurgaon_088"
+        },
+        {
+          "path": "products/vendor_gurgaon_089.json",
+          "md5": "2a194b8262afd000becbdfe37d61dcc7",
+          "sizeBytes": 98909,
+          "updatedAt": "2026-06-07T06:35:38.577Z",
+          "vendorId": "vendor_gurgaon_089"
+        },
+        {
+          "path": "products/vendor_gurgaon_090.json",
+          "md5": "d2934ef908f5d107a6621bf6d17b7046",
+          "sizeBytes": 100122,
+          "updatedAt": "2026-06-07T06:35:38.580Z",
+          "vendorId": "vendor_gurgaon_090"
+        },
+        {
+          "path": "products/vendor_gurgaon_091.json",
+          "md5": "87d7a567d64a8ad347ad2d8250c9a6a8",
+          "sizeBytes": 99508,
+          "updatedAt": "2026-06-07T06:35:38.582Z",
+          "vendorId": "vendor_gurgaon_091"
+        },
+        {
+          "path": "products/vendor_gurgaon_092.json",
+          "md5": "b508e3827b5b272e2b6d5a4119ad76b5",
+          "sizeBytes": 100047,
+          "updatedAt": "2026-06-07T06:35:38.584Z",
+          "vendorId": "vendor_gurgaon_092"
+        },
+        {
+          "path": "products/vendor_gurgaon_093.json",
+          "md5": "a5bbaac51a1772fc1874b7ae826168d3",
+          "sizeBytes": 100737,
+          "updatedAt": "2026-06-07T06:35:38.586Z",
+          "vendorId": "vendor_gurgaon_093"
+        },
+        {
+          "path": "products/vendor_gurgaon_094.json",
+          "md5": "85a950a9cf4dfe1874b3f87295f6a549",
+          "sizeBytes": 99374,
+          "updatedAt": "2026-06-07T06:35:38.588Z",
+          "vendorId": "vendor_gurgaon_094"
+        },
+        {
+          "path": "products/vendor_gurgaon_095.json",
+          "md5": "56f6d229a8250311f6f15b5713eb57d1",
+          "sizeBytes": 99757,
+          "updatedAt": "2026-06-07T06:35:38.590Z",
+          "vendorId": "vendor_gurgaon_095"
+        },
+        {
+          "path": "products/vendor_gurgaon_096.json",
+          "md5": "6a70ada42f3c4a0ad83554138dab4d4b",
+          "sizeBytes": 99861,
+          "updatedAt": "2026-06-07T06:35:38.593Z",
+          "vendorId": "vendor_gurgaon_096"
+        },
+        {
+          "path": "products/vendor_gurgaon_097.json",
+          "md5": "1e6ec9835326b957e91342abb5c7c518",
+          "sizeBytes": 98434,
+          "updatedAt": "2026-06-07T06:35:38.595Z",
+          "vendorId": "vendor_gurgaon_097"
+        },
+        {
+          "path": "products/vendor_gurgaon_098.json",
+          "md5": "44ce70ec3379d8884efabd424e8f5211",
+          "sizeBytes": 99766,
+          "updatedAt": "2026-06-07T06:35:38.597Z",
+          "vendorId": "vendor_gurgaon_098"
+        },
+        {
+          "path": "products/vendor_gurgaon_099.json",
+          "md5": "12a16b1883a40b3834704b15e7ea68cb",
+          "sizeBytes": 99069,
+          "updatedAt": "2026-06-07T06:35:38.599Z",
+          "vendorId": "vendor_gurgaon_099"
+        },
+        {
+          "path": "products/vendor_gurgaon_100.json",
+          "md5": "bc0663c29c0c1b525e47cbc972a8beb0",
+          "sizeBytes": 99522,
+          "updatedAt": "2026-06-07T06:35:38.601Z",
+          "vendorId": "vendor_gurgaon_100"
+        }
+      ]
+    },
+    "liveVendors": {
+      "label": "Live vendor state",
+      "syncPolicy": "poll",
+      "pollIntervalSec": 60,
+      "fileCount": 1,
+      "sectionVersion": "d2ca0bf7c073a16c9e733d7333a964ab",
+      "files": [
+        {
+          "path": "live/vendors/index.json",
+          "md5": "f9499752dcb08cef029a56a87a2d9507",
+          "sizeBytes": 25895,
+          "updatedAt": "2026-06-06T13:41:50.696Z"
+        }
+      ]
+    },
+    "liveProducts": {
+      "label": "Live product state per vendor",
+      "syncPolicy": "poll",
+      "pollIntervalSec": 60,
+      "fileCount": 100,
+      "sectionVersion": "09cb182f6e04eb9f7dde475c98be78ca",
+      "files": [
+        {
+          "path": "live/products/vendor_gurgaon_001.json",
+          "md5": "753ef59964aff761b23294d374de06fc",
+          "sizeBytes": 20274,
+          "updatedAt": "2026-06-06T13:41:50.539Z",
+          "vendorId": "vendor_gurgaon_001"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_002.json",
+          "md5": "b3dc962e275b0f1b0e27afff4bb3eaf5",
+          "sizeBytes": 20274,
+          "updatedAt": "2026-06-06T13:41:50.541Z",
+          "vendorId": "vendor_gurgaon_002"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_003.json",
+          "md5": "fe9c29c069b5d0e17f0615f1f0bb0907",
+          "sizeBytes": 20283,
+          "updatedAt": "2026-06-06T13:41:50.542Z",
+          "vendorId": "vendor_gurgaon_003"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_004.json",
+          "md5": "b1aefac29ac3a88296144a43b5c3fe1d",
+          "sizeBytes": 20265,
+          "updatedAt": "2026-06-06T13:41:50.544Z",
+          "vendorId": "vendor_gurgaon_004"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_005.json",
+          "md5": "1c0c174a97a34d0b8db8b4682c129e86",
+          "sizeBytes": 20277,
+          "updatedAt": "2026-06-06T13:41:50.545Z",
+          "vendorId": "vendor_gurgaon_005"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_006.json",
+          "md5": "d2d56c04b821f7657da3fa6d5c8f290d",
+          "sizeBytes": 20272,
+          "updatedAt": "2026-06-06T13:41:50.546Z",
+          "vendorId": "vendor_gurgaon_006"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_007.json",
+          "md5": "6a5df0b5ce77616da6bb66d78e681353",
+          "sizeBytes": 20271,
+          "updatedAt": "2026-06-06T13:41:50.548Z",
+          "vendorId": "vendor_gurgaon_007"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_008.json",
+          "md5": "5da38ed8576b5e5546167c992b901e93",
+          "sizeBytes": 20265,
+          "updatedAt": "2026-06-06T13:41:50.549Z",
+          "vendorId": "vendor_gurgaon_008"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_009.json",
+          "md5": "a7f1c8e1987b53113e72f40ed75b623c",
+          "sizeBytes": 20272,
+          "updatedAt": "2026-06-06T13:41:50.551Z",
+          "vendorId": "vendor_gurgaon_009"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_010.json",
+          "md5": "52b39d5b6986a0089fb8afa196f457c3",
+          "sizeBytes": 20279,
+          "updatedAt": "2026-06-06T13:41:50.552Z",
+          "vendorId": "vendor_gurgaon_010"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_011.json",
+          "md5": "39cefbe9b429ebee03e080e4c786f103",
+          "sizeBytes": 20274,
+          "updatedAt": "2026-06-06T13:41:50.554Z",
+          "vendorId": "vendor_gurgaon_011"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_012.json",
+          "md5": "7d2e06d4ccf688e001a08313787946cf",
+          "sizeBytes": 20271,
+          "updatedAt": "2026-06-06T13:41:50.555Z",
+          "vendorId": "vendor_gurgaon_012"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_013.json",
+          "md5": "f769fb4616500cb1a166d3c943304b56",
+          "sizeBytes": 20270,
+          "updatedAt": "2026-06-06T13:41:50.556Z",
+          "vendorId": "vendor_gurgaon_013"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_014.json",
+          "md5": "3b7e09b22846191d174d7626ae0e13af",
+          "sizeBytes": 20274,
+          "updatedAt": "2026-06-06T13:41:50.557Z",
+          "vendorId": "vendor_gurgaon_014"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_015.json",
+          "md5": "36c1ad73857334260e1cb8a6bdd01f2f",
+          "sizeBytes": 20278,
+          "updatedAt": "2026-06-06T13:41:50.559Z",
+          "vendorId": "vendor_gurgaon_015"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_016.json",
+          "md5": "69d86a275f21d8a1644072b1e006b5aa",
+          "sizeBytes": 20267,
+          "updatedAt": "2026-06-06T13:41:50.560Z",
+          "vendorId": "vendor_gurgaon_016"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_017.json",
+          "md5": "50de109c85c27054527d22600e9be8cb",
+          "sizeBytes": 20272,
+          "updatedAt": "2026-06-06T13:41:50.561Z",
+          "vendorId": "vendor_gurgaon_017"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_018.json",
+          "md5": "0effede3cb1189c7990e03e8e7a3b992",
+          "sizeBytes": 20273,
+          "updatedAt": "2026-06-06T13:41:50.563Z",
+          "vendorId": "vendor_gurgaon_018"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_019.json",
+          "md5": "2135388e69ba81d03688c3a71c5c50c4",
+          "sizeBytes": 20274,
+          "updatedAt": "2026-06-06T13:41:50.564Z",
+          "vendorId": "vendor_gurgaon_019"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_020.json",
+          "md5": "23d4481487d7a5176cfbe73b7d0162a9",
+          "sizeBytes": 20270,
+          "updatedAt": "2026-06-06T13:41:50.566Z",
+          "vendorId": "vendor_gurgaon_020"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_021.json",
+          "md5": "49d8c9174012f7b27d5861bec553860a",
+          "sizeBytes": 20265,
+          "updatedAt": "2026-06-06T13:41:50.567Z",
+          "vendorId": "vendor_gurgaon_021"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_022.json",
+          "md5": "41e7ae635139d0b17519b53352f1a93a",
+          "sizeBytes": 20278,
+          "updatedAt": "2026-06-06T13:41:50.569Z",
+          "vendorId": "vendor_gurgaon_022"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_023.json",
+          "md5": "ea5696a4f562013616f3b1aed3a6e430",
+          "sizeBytes": 20273,
+          "updatedAt": "2026-06-06T13:41:50.570Z",
+          "vendorId": "vendor_gurgaon_023"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_024.json",
+          "md5": "8732acc20bc0b9a0586a3da4a8964dd3",
+          "sizeBytes": 20273,
+          "updatedAt": "2026-06-06T13:41:50.572Z",
+          "vendorId": "vendor_gurgaon_024"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_025.json",
+          "md5": "2783c144859b67db6338989cb7f37c58",
+          "sizeBytes": 20274,
+          "updatedAt": "2026-06-06T13:41:50.573Z",
+          "vendorId": "vendor_gurgaon_025"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_026.json",
+          "md5": "e20f51b6b1d4aaa59876bd5a8fccde32",
+          "sizeBytes": 20280,
+          "updatedAt": "2026-06-06T13:41:50.574Z",
+          "vendorId": "vendor_gurgaon_026"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_027.json",
+          "md5": "99372325d543af373939f504eaae75b8",
+          "sizeBytes": 20267,
+          "updatedAt": "2026-06-06T13:41:50.577Z",
+          "vendorId": "vendor_gurgaon_027"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_028.json",
+          "md5": "d16474d485f75858fc1f9ebf42666fe2",
+          "sizeBytes": 20274,
+          "updatedAt": "2026-06-06T13:41:50.579Z",
+          "vendorId": "vendor_gurgaon_028"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_029.json",
+          "md5": "01260ccbb2b5658e422543d509a05ccb",
+          "sizeBytes": 20273,
+          "updatedAt": "2026-06-06T13:41:50.580Z",
+          "vendorId": "vendor_gurgaon_029"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_030.json",
+          "md5": "0a594adae57ed0846a898a060774d7a6",
+          "sizeBytes": 20275,
+          "updatedAt": "2026-06-06T13:41:50.582Z",
+          "vendorId": "vendor_gurgaon_030"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_031.json",
+          "md5": "a6047e21df74dd2a3d3fc1ff2b022e30",
+          "sizeBytes": 20271,
+          "updatedAt": "2026-06-06T13:41:50.583Z",
+          "vendorId": "vendor_gurgaon_031"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_032.json",
+          "md5": "4965a50993858d0123514fb309a7d79b",
+          "sizeBytes": 20273,
+          "updatedAt": "2026-06-06T13:41:50.585Z",
+          "vendorId": "vendor_gurgaon_032"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_033.json",
+          "md5": "ea4a3e23fc9b1104312ccd10e35fa490",
+          "sizeBytes": 20271,
+          "updatedAt": "2026-06-06T13:41:50.586Z",
+          "vendorId": "vendor_gurgaon_033"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_034.json",
+          "md5": "b75c2f811ef141327769d1dda63ea8db",
+          "sizeBytes": 20274,
+          "updatedAt": "2026-06-06T13:41:50.587Z",
+          "vendorId": "vendor_gurgaon_034"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_035.json",
+          "md5": "f84155505ad980f8d4e07bbe54aeec35",
+          "sizeBytes": 20267,
+          "updatedAt": "2026-06-06T13:41:50.589Z",
+          "vendorId": "vendor_gurgaon_035"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_036.json",
+          "md5": "54bf7cf536f8c8ec7bc1f522fdb2d29b",
+          "sizeBytes": 20269,
+          "updatedAt": "2026-06-06T13:41:50.590Z",
+          "vendorId": "vendor_gurgaon_036"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_037.json",
+          "md5": "c3c6e07b44114fbf9a2f83917df02e30",
+          "sizeBytes": 20272,
+          "updatedAt": "2026-06-06T13:41:50.592Z",
+          "vendorId": "vendor_gurgaon_037"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_038.json",
+          "md5": "f2c96caf0b0692b2a58b1ebba093afad",
+          "sizeBytes": 20271,
+          "updatedAt": "2026-06-06T13:41:50.593Z",
+          "vendorId": "vendor_gurgaon_038"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_039.json",
+          "md5": "c3b23d8bb8a4dc5987ed95054bd3cfd5",
+          "sizeBytes": 20274,
+          "updatedAt": "2026-06-06T13:41:50.595Z",
+          "vendorId": "vendor_gurgaon_039"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_040.json",
+          "md5": "d45481e704c21a5195612e8625c396a1",
+          "sizeBytes": 20268,
+          "updatedAt": "2026-06-06T13:41:50.596Z",
+          "vendorId": "vendor_gurgaon_040"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_041.json",
+          "md5": "0959768bee8a49d1b0cbbfa326ec3d92",
+          "sizeBytes": 20267,
+          "updatedAt": "2026-06-06T13:41:50.597Z",
+          "vendorId": "vendor_gurgaon_041"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_042.json",
+          "md5": "0cd5f2af50adf188eec25624ed5f10ca",
+          "sizeBytes": 20264,
+          "updatedAt": "2026-06-06T13:41:50.598Z",
+          "vendorId": "vendor_gurgaon_042"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_043.json",
+          "md5": "996b3d6eefde9700a2a310c2d99130de",
+          "sizeBytes": 20264,
+          "updatedAt": "2026-06-06T13:41:50.600Z",
+          "vendorId": "vendor_gurgaon_043"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_044.json",
+          "md5": "57a5b39ea0990013a7b9d675a04583a9",
+          "sizeBytes": 20266,
+          "updatedAt": "2026-06-06T13:41:50.601Z",
+          "vendorId": "vendor_gurgaon_044"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_045.json",
+          "md5": "3171e1238e6d13f487a1415a45a22c49",
+          "sizeBytes": 20277,
+          "updatedAt": "2026-06-06T13:41:50.603Z",
+          "vendorId": "vendor_gurgaon_045"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_046.json",
+          "md5": "473d83a810b52b385191b4aa6cc12275",
+          "sizeBytes": 20278,
+          "updatedAt": "2026-06-06T13:41:50.604Z",
+          "vendorId": "vendor_gurgaon_046"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_047.json",
+          "md5": "a05a75a51efd2abb1b6ec5ec1044e07f",
+          "sizeBytes": 20268,
+          "updatedAt": "2026-06-06T13:41:50.605Z",
+          "vendorId": "vendor_gurgaon_047"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_048.json",
+          "md5": "cba0c52dbe6ff14ae0bb43738f6275e3",
+          "sizeBytes": 20277,
+          "updatedAt": "2026-06-06T13:41:50.607Z",
+          "vendorId": "vendor_gurgaon_048"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_049.json",
+          "md5": "2db62dddb04735b3446e200ea2bba4a5",
+          "sizeBytes": 20272,
+          "updatedAt": "2026-06-06T13:41:50.608Z",
+          "vendorId": "vendor_gurgaon_049"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_050.json",
+          "md5": "7762a46b82410bdae90c0240582ae8b8",
+          "sizeBytes": 20274,
+          "updatedAt": "2026-06-06T13:41:50.609Z",
+          "vendorId": "vendor_gurgaon_050"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_051.json",
+          "md5": "38860751ccc49f92b5b43b39d0da5145",
+          "sizeBytes": 20316,
+          "updatedAt": "2026-06-06T13:41:50.611Z",
+          "vendorId": "vendor_gurgaon_051"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_052.json",
+          "md5": "6d96676e090ef6df47425a359917334c",
+          "sizeBytes": 20315,
+          "updatedAt": "2026-06-06T13:41:50.613Z",
+          "vendorId": "vendor_gurgaon_052"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_053.json",
+          "md5": "4a40b2daabf6450fa1ea45bd40a183a1",
+          "sizeBytes": 20325,
+          "updatedAt": "2026-06-06T13:41:50.615Z",
+          "vendorId": "vendor_gurgaon_053"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_054.json",
+          "md5": "125e6c7028227d04725bdcb1f3f399bc",
+          "sizeBytes": 20322,
+          "updatedAt": "2026-06-06T13:41:50.616Z",
+          "vendorId": "vendor_gurgaon_054"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_055.json",
+          "md5": "86ae566fef4e3325da5cc80254a61728",
+          "sizeBytes": 20331,
+          "updatedAt": "2026-06-06T13:41:50.619Z",
+          "vendorId": "vendor_gurgaon_055"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_056.json",
+          "md5": "beb83039df0a1e63e733cc1913d80b9c",
+          "sizeBytes": 20326,
+          "updatedAt": "2026-06-06T13:41:50.621Z",
+          "vendorId": "vendor_gurgaon_056"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_057.json",
+          "md5": "6800e7364febfde78f51bdb4e386e0c6",
+          "sizeBytes": 20337,
+          "updatedAt": "2026-06-06T13:41:50.623Z",
+          "vendorId": "vendor_gurgaon_057"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_058.json",
+          "md5": "3388d6880fc0ac7b740f301e9664c11b",
+          "sizeBytes": 20319,
+          "updatedAt": "2026-06-06T13:41:50.624Z",
+          "vendorId": "vendor_gurgaon_058"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_059.json",
+          "md5": "eb66590e1ceaf5e748c48e23b89589fa",
+          "sizeBytes": 20318,
+          "updatedAt": "2026-06-06T13:41:50.626Z",
+          "vendorId": "vendor_gurgaon_059"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_060.json",
+          "md5": "4f2a9f4b8850f2be05cfc6739a85e47a",
+          "sizeBytes": 20336,
+          "updatedAt": "2026-06-06T13:41:50.628Z",
+          "vendorId": "vendor_gurgaon_060"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_061.json",
+          "md5": "a3076b51cc11efeca49dec58bc0ab050",
+          "sizeBytes": 20332,
+          "updatedAt": "2026-06-06T13:41:50.630Z",
+          "vendorId": "vendor_gurgaon_061"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_062.json",
+          "md5": "804a072efeaf35260d0813ad3c28209f",
+          "sizeBytes": 20333,
+          "updatedAt": "2026-06-06T13:41:50.631Z",
+          "vendorId": "vendor_gurgaon_062"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_063.json",
+          "md5": "9c2157f1f94e5b24f2d63e671cff1082",
+          "sizeBytes": 20329,
+          "updatedAt": "2026-06-06T13:41:50.633Z",
+          "vendorId": "vendor_gurgaon_063"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_064.json",
+          "md5": "16d04a9f9e3970c9f2128181c07046e6",
+          "sizeBytes": 20316,
+          "updatedAt": "2026-06-06T13:41:50.635Z",
+          "vendorId": "vendor_gurgaon_064"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_065.json",
+          "md5": "c965eb389e1797e1782487ef946f40fc",
+          "sizeBytes": 20331,
+          "updatedAt": "2026-06-06T13:41:50.636Z",
+          "vendorId": "vendor_gurgaon_065"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_066.json",
+          "md5": "d34d9de3d247d8a2a28597eb96f6c56f",
+          "sizeBytes": 20324,
+          "updatedAt": "2026-06-06T13:41:50.638Z",
+          "vendorId": "vendor_gurgaon_066"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_067.json",
+          "md5": "c3b28168c074d961fc1194dd1fee0d93",
+          "sizeBytes": 20324,
+          "updatedAt": "2026-06-06T13:41:50.640Z",
+          "vendorId": "vendor_gurgaon_067"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_068.json",
+          "md5": "d9ee7680629b68f2451f37c73fa02f72",
+          "sizeBytes": 20318,
+          "updatedAt": "2026-06-06T13:41:50.641Z",
+          "vendorId": "vendor_gurgaon_068"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_069.json",
+          "md5": "a7c3896654ceabe493fe62b0312ba31d",
+          "sizeBytes": 20316,
+          "updatedAt": "2026-06-06T13:41:50.643Z",
+          "vendorId": "vendor_gurgaon_069"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_070.json",
+          "md5": "c4bc0ba5b472b437f74445db1fd875b1",
+          "sizeBytes": 20324,
+          "updatedAt": "2026-06-06T13:41:50.644Z",
+          "vendorId": "vendor_gurgaon_070"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_071.json",
+          "md5": "302c28a66109c20ce538e66ae7e7882f",
+          "sizeBytes": 20315,
+          "updatedAt": "2026-06-06T13:41:50.646Z",
+          "vendorId": "vendor_gurgaon_071"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_072.json",
+          "md5": "9af8ec936f7fa7b29397b06166d3640e",
+          "sizeBytes": 20329,
+          "updatedAt": "2026-06-06T13:41:50.649Z",
+          "vendorId": "vendor_gurgaon_072"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_073.json",
+          "md5": "e68599069d7bbf48c668c58ca99f8a1f",
+          "sizeBytes": 20325,
+          "updatedAt": "2026-06-06T13:41:50.650Z",
+          "vendorId": "vendor_gurgaon_073"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_074.json",
+          "md5": "cf3153359847144074868ba12d97fe12",
+          "sizeBytes": 20321,
+          "updatedAt": "2026-06-06T13:41:50.652Z",
+          "vendorId": "vendor_gurgaon_074"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_075.json",
+          "md5": "9d69f82c8ee861038f1c866a400c1687",
+          "sizeBytes": 20322,
+          "updatedAt": "2026-06-06T13:41:50.653Z",
+          "vendorId": "vendor_gurgaon_075"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_076.json",
+          "md5": "d461d1e4c657b6c665f404ed71ec6a0e",
+          "sizeBytes": 20320,
+          "updatedAt": "2026-06-06T13:41:50.655Z",
+          "vendorId": "vendor_gurgaon_076"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_077.json",
+          "md5": "028fc44034b4eeef869387d2ee53c6c9",
+          "sizeBytes": 20326,
+          "updatedAt": "2026-06-06T13:41:50.656Z",
+          "vendorId": "vendor_gurgaon_077"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_078.json",
+          "md5": "6451019b96580442426892a4bfec5aa4",
+          "sizeBytes": 20327,
+          "updatedAt": "2026-06-06T13:41:50.658Z",
+          "vendorId": "vendor_gurgaon_078"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_079.json",
+          "md5": "534a5e4c3315591bd7f02bd91617c599",
+          "sizeBytes": 20323,
+          "updatedAt": "2026-06-06T13:41:50.660Z",
+          "vendorId": "vendor_gurgaon_079"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_080.json",
+          "md5": "76bbbb049714377d82366aa16f92e8c2",
+          "sizeBytes": 20315,
+          "updatedAt": "2026-06-06T13:41:50.661Z",
+          "vendorId": "vendor_gurgaon_080"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_081.json",
+          "md5": "4baff3a2d5f51f724904fff81ae7b90e",
+          "sizeBytes": 20319,
+          "updatedAt": "2026-06-06T13:41:50.663Z",
+          "vendorId": "vendor_gurgaon_081"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_082.json",
+          "md5": "3f205e6a573fcc11fe8914074b8190bb",
+          "sizeBytes": 20327,
+          "updatedAt": "2026-06-06T13:41:50.665Z",
+          "vendorId": "vendor_gurgaon_082"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_083.json",
+          "md5": "578d349d58399a80fe5a74a24856d15b",
+          "sizeBytes": 20319,
+          "updatedAt": "2026-06-06T13:41:50.667Z",
+          "vendorId": "vendor_gurgaon_083"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_084.json",
+          "md5": "0153defecc0ee5438f2b5cc58230480c",
+          "sizeBytes": 20330,
+          "updatedAt": "2026-06-06T13:41:50.669Z",
+          "vendorId": "vendor_gurgaon_084"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_085.json",
+          "md5": "e8695a9a58af81dba13776dc695899c9",
+          "sizeBytes": 20326,
+          "updatedAt": "2026-06-06T13:41:50.670Z",
+          "vendorId": "vendor_gurgaon_085"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_086.json",
+          "md5": "fda4749a62abbdcd554b83097faf40fa",
+          "sizeBytes": 20334,
+          "updatedAt": "2026-06-06T13:41:50.672Z",
+          "vendorId": "vendor_gurgaon_086"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_087.json",
+          "md5": "609463a8a3c553e0b5d1e30f60e69989",
+          "sizeBytes": 20341,
+          "updatedAt": "2026-06-06T13:41:50.673Z",
+          "vendorId": "vendor_gurgaon_087"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_088.json",
+          "md5": "5746f11c61735d8790c45719c7519dca",
+          "sizeBytes": 20318,
+          "updatedAt": "2026-06-06T13:41:50.675Z",
+          "vendorId": "vendor_gurgaon_088"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_089.json",
+          "md5": "dd6f25bb27c089d2caf32a58b503b9f4",
+          "sizeBytes": 20326,
+          "updatedAt": "2026-06-06T13:41:50.677Z",
+          "vendorId": "vendor_gurgaon_089"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_090.json",
+          "md5": "f08853e18e47e0405dbdef79a00fb733",
+          "sizeBytes": 20317,
+          "updatedAt": "2026-06-06T13:41:50.678Z",
+          "vendorId": "vendor_gurgaon_090"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_091.json",
+          "md5": "184d332307e771a28e9dfa43367c70f9",
+          "sizeBytes": 20326,
+          "updatedAt": "2026-06-06T13:41:50.680Z",
+          "vendorId": "vendor_gurgaon_091"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_092.json",
+          "md5": "61c5d9b5a1427befd470ca1db07e85ee",
+          "sizeBytes": 20319,
+          "updatedAt": "2026-06-06T13:41:50.682Z",
+          "vendorId": "vendor_gurgaon_092"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_093.json",
+          "md5": "8ef169c6dd7f128874766767966eedae",
+          "sizeBytes": 20332,
+          "updatedAt": "2026-06-06T13:41:50.684Z",
+          "vendorId": "vendor_gurgaon_093"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_094.json",
+          "md5": "e183ed8f7d4bc11d2ab53ed8d34c4581",
+          "sizeBytes": 20335,
+          "updatedAt": "2026-06-06T13:41:50.686Z",
+          "vendorId": "vendor_gurgaon_094"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_095.json",
+          "md5": "550d2ec3eac2f5ee8f6284c5b190e7fd",
+          "sizeBytes": 20326,
+          "updatedAt": "2026-06-06T13:41:50.687Z",
+          "vendorId": "vendor_gurgaon_095"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_096.json",
+          "md5": "d44ceb8ee27f45497494a1dccdd3ba3d",
+          "sizeBytes": 20312,
+          "updatedAt": "2026-06-06T13:41:50.688Z",
+          "vendorId": "vendor_gurgaon_096"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_097.json",
+          "md5": "c01617230824d7991d2c7e6ee4f97ff6",
+          "sizeBytes": 20336,
+          "updatedAt": "2026-06-06T13:41:50.690Z",
+          "vendorId": "vendor_gurgaon_097"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_098.json",
+          "md5": "fde04983ce0f98b83d2ecc635be410f5",
+          "sizeBytes": 20317,
+          "updatedAt": "2026-06-06T13:41:50.692Z",
+          "vendorId": "vendor_gurgaon_098"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_099.json",
+          "md5": "a59ea6b9dbe26326258bd8c08ab1e664",
+          "sizeBytes": 20328,
+          "updatedAt": "2026-06-06T13:41:50.693Z",
+          "vendorId": "vendor_gurgaon_099"
+        },
+        {
+          "path": "live/products/vendor_gurgaon_100.json",
+          "md5": "e9164349a459e0055b13c26ebebba09a",
+          "sizeBytes": 20326,
+          "updatedAt": "2026-06-06T13:41:50.695Z",
+          "vendorId": "vendor_gurgaon_100"
+        }
+      ]
+    }
+  },
+  "sync": {
+    "totalFiles": 203,
+    "compareBy": "md5",
+    "actions": {
+      "download": "Local path missing OR local MD5 !== manifest MD5",
+      "skip": "Local path exists AND local MD5 === manifest MD5",
+      "delete": "Local path exists BUT path not listed in sections.*.files or index.paths",
+      "update": "Same as download — MD5 mismatch means file was updated on CDN"
+    },
+    "order": [
+      "meta",
+      "vendors",
+      "products",
+      "liveVendors",
+      "liveProducts"
+    ],
+    "sectionVersions": {
+      "meta": "88357a4a29340dcaf7dd3c59be42b5d7",
+      "vendors": "07050d13dbf5b2945795593d60926c1e",
+      "products": "68e4ae96ffe6afa1bd992bbb4244025f",
+      "liveVendors": "d2ca0bf7c073a16c9e733d7333a964ab",
+      "liveProducts": "09cb182f6e04eb9f7dde475c98be78ca"
+    },
+    "paths": [
+      "live/products/vendor_gurgaon_001.json",
+      "live/products/vendor_gurgaon_002.json",
+      "live/products/vendor_gurgaon_003.json",
+      "live/products/vendor_gurgaon_004.json",
+      "live/products/vendor_gurgaon_005.json",
+      "live/products/vendor_gurgaon_006.json",
+      "live/products/vendor_gurgaon_007.json",
+      "live/products/vendor_gurgaon_008.json",
+      "live/products/vendor_gurgaon_009.json",
+      "live/products/vendor_gurgaon_010.json",
+      "live/products/vendor_gurgaon_011.json",
+      "live/products/vendor_gurgaon_012.json",
+      "live/products/vendor_gurgaon_013.json",
+      "live/products/vendor_gurgaon_014.json",
+      "live/products/vendor_gurgaon_015.json",
+      "live/products/vendor_gurgaon_016.json",
+      "live/products/vendor_gurgaon_017.json",
+      "live/products/vendor_gurgaon_018.json",
+      "live/products/vendor_gurgaon_019.json",
+      "live/products/vendor_gurgaon_020.json",
+      "live/products/vendor_gurgaon_021.json",
+      "live/products/vendor_gurgaon_022.json",
+      "live/products/vendor_gurgaon_023.json",
+      "live/products/vendor_gurgaon_024.json",
+      "live/products/vendor_gurgaon_025.json",
+      "live/products/vendor_gurgaon_026.json",
+      "live/products/vendor_gurgaon_027.json",
+      "live/products/vendor_gurgaon_028.json",
+      "live/products/vendor_gurgaon_029.json",
+      "live/products/vendor_gurgaon_030.json",
+      "live/products/vendor_gurgaon_031.json",
+      "live/products/vendor_gurgaon_032.json",
+      "live/products/vendor_gurgaon_033.json",
+      "live/products/vendor_gurgaon_034.json",
+      "live/products/vendor_gurgaon_035.json",
+      "live/products/vendor_gurgaon_036.json",
+      "live/products/vendor_gurgaon_037.json",
+      "live/products/vendor_gurgaon_038.json",
+      "live/products/vendor_gurgaon_039.json",
+      "live/products/vendor_gurgaon_040.json",
+      "live/products/vendor_gurgaon_041.json",
+      "live/products/vendor_gurgaon_042.json",
+      "live/products/vendor_gurgaon_043.json",
+      "live/products/vendor_gurgaon_044.json",
+      "live/products/vendor_gurgaon_045.json",
+      "live/products/vendor_gurgaon_046.json",
+      "live/products/vendor_gurgaon_047.json",
+      "live/products/vendor_gurgaon_048.json",
+      "live/products/vendor_gurgaon_049.json",
+      "live/products/vendor_gurgaon_050.json",
+      "live/products/vendor_gurgaon_051.json",
+      "live/products/vendor_gurgaon_052.json",
+      "live/products/vendor_gurgaon_053.json",
+      "live/products/vendor_gurgaon_054.json",
+      "live/products/vendor_gurgaon_055.json",
+      "live/products/vendor_gurgaon_056.json",
+      "live/products/vendor_gurgaon_057.json",
+      "live/products/vendor_gurgaon_058.json",
+      "live/products/vendor_gurgaon_059.json",
+      "live/products/vendor_gurgaon_060.json",
+      "live/products/vendor_gurgaon_061.json",
+      "live/products/vendor_gurgaon_062.json",
+      "live/products/vendor_gurgaon_063.json",
+      "live/products/vendor_gurgaon_064.json",
+      "live/products/vendor_gurgaon_065.json",
+      "live/products/vendor_gurgaon_066.json",
+      "live/products/vendor_gurgaon_067.json",
+      "live/products/vendor_gurgaon_068.json",
+      "live/products/vendor_gurgaon_069.json",
+      "live/products/vendor_gurgaon_070.json",
+      "live/products/vendor_gurgaon_071.json",
+      "live/products/vendor_gurgaon_072.json",
+      "live/products/vendor_gurgaon_073.json",
+      "live/products/vendor_gurgaon_074.json",
+      "live/products/vendor_gurgaon_075.json",
+      "live/products/vendor_gurgaon_076.json",
+      "live/products/vendor_gurgaon_077.json",
+      "live/products/vendor_gurgaon_078.json",
+      "live/products/vendor_gurgaon_079.json",
+      "live/products/vendor_gurgaon_080.json",
+      "live/products/vendor_gurgaon_081.json",
+      "live/products/vendor_gurgaon_082.json",
+      "live/products/vendor_gurgaon_083.json",
+      "live/products/vendor_gurgaon_084.json",
+      "live/products/vendor_gurgaon_085.json",
+      "live/products/vendor_gurgaon_086.json",
+      "live/products/vendor_gurgaon_087.json",
+      "live/products/vendor_gurgaon_088.json",
+      "live/products/vendor_gurgaon_089.json",
+      "live/products/vendor_gurgaon_090.json",
+      "live/products/vendor_gurgaon_091.json",
+      "live/products/vendor_gurgaon_092.json",
+      "live/products/vendor_gurgaon_093.json",
+      "live/products/vendor_gurgaon_094.json",
+      "live/products/vendor_gurgaon_095.json",
+      "live/products/vendor_gurgaon_096.json",
+      "live/products/vendor_gurgaon_097.json",
+      "live/products/vendor_gurgaon_098.json",
+      "live/products/vendor_gurgaon_099.json",
+      "live/products/vendor_gurgaon_100.json",
+      "live/vendors/index.json",
+      "meta.json",
+      "products/vendor_gurgaon_001.json",
+      "products/vendor_gurgaon_002.json",
+      "products/vendor_gurgaon_003.json",
+      "products/vendor_gurgaon_004.json",
+      "products/vendor_gurgaon_005.json",
+      "products/vendor_gurgaon_006.json",
+      "products/vendor_gurgaon_007.json",
+      "products/vendor_gurgaon_008.json",
+      "products/vendor_gurgaon_009.json",
+      "products/vendor_gurgaon_010.json",
+      "products/vendor_gurgaon_011.json",
+      "products/vendor_gurgaon_012.json",
+      "products/vendor_gurgaon_013.json",
+      "products/vendor_gurgaon_014.json",
+      "products/vendor_gurgaon_015.json",
+      "products/vendor_gurgaon_016.json",
+      "products/vendor_gurgaon_017.json",
+      "products/vendor_gurgaon_018.json",
+      "products/vendor_gurgaon_019.json",
+      "products/vendor_gurgaon_020.json",
+      "products/vendor_gurgaon_021.json",
+      "products/vendor_gurgaon_022.json",
+      "products/vendor_gurgaon_023.json",
+      "products/vendor_gurgaon_024.json",
+      "products/vendor_gurgaon_025.json",
+      "products/vendor_gurgaon_026.json",
+      "products/vendor_gurgaon_027.json",
+      "products/vendor_gurgaon_028.json",
+      "products/vendor_gurgaon_029.json",
+      "products/vendor_gurgaon_030.json",
+      "products/vendor_gurgaon_031.json",
+      "products/vendor_gurgaon_032.json",
+      "products/vendor_gurgaon_033.json",
+      "products/vendor_gurgaon_034.json",
+      "products/vendor_gurgaon_035.json",
+      "products/vendor_gurgaon_036.json",
+      "products/vendor_gurgaon_037.json",
+      "products/vendor_gurgaon_038.json",
+      "products/vendor_gurgaon_039.json",
+      "products/vendor_gurgaon_040.json",
+      "products/vendor_gurgaon_041.json",
+      "products/vendor_gurgaon_042.json",
+      "products/vendor_gurgaon_043.json",
+      "products/vendor_gurgaon_044.json",
+      "products/vendor_gurgaon_045.json",
+      "products/vendor_gurgaon_046.json",
+      "products/vendor_gurgaon_047.json",
+      "products/vendor_gurgaon_048.json",
+      "products/vendor_gurgaon_049.json",
+      "products/vendor_gurgaon_050.json",
+      "products/vendor_gurgaon_051.json",
+      "products/vendor_gurgaon_052.json",
+      "products/vendor_gurgaon_053.json",
+      "products/vendor_gurgaon_054.json",
+      "products/vendor_gurgaon_055.json",
+      "products/vendor_gurgaon_056.json",
+      "products/vendor_gurgaon_057.json",
+      "products/vendor_gurgaon_058.json",
+      "products/vendor_gurgaon_059.json",
+      "products/vendor_gurgaon_060.json",
+      "products/vendor_gurgaon_061.json",
+      "products/vendor_gurgaon_062.json",
+      "products/vendor_gurgaon_063.json",
+      "products/vendor_gurgaon_064.json",
+      "products/vendor_gurgaon_065.json",
+      "products/vendor_gurgaon_066.json",
+      "products/vendor_gurgaon_067.json",
+      "products/vendor_gurgaon_068.json",
+      "products/vendor_gurgaon_069.json",
+      "products/vendor_gurgaon_070.json",
+      "products/vendor_gurgaon_071.json",
+      "products/vendor_gurgaon_072.json",
+      "products/vendor_gurgaon_073.json",
+      "products/vendor_gurgaon_074.json",
+      "products/vendor_gurgaon_075.json",
+      "products/vendor_gurgaon_076.json",
+      "products/vendor_gurgaon_077.json",
+      "products/vendor_gurgaon_078.json",
+      "products/vendor_gurgaon_079.json",
+      "products/vendor_gurgaon_080.json",
+      "products/vendor_gurgaon_081.json",
+      "products/vendor_gurgaon_082.json",
+      "products/vendor_gurgaon_083.json",
+      "products/vendor_gurgaon_084.json",
+      "products/vendor_gurgaon_085.json",
+      "products/vendor_gurgaon_086.json",
+      "products/vendor_gurgaon_087.json",
+      "products/vendor_gurgaon_088.json",
+      "products/vendor_gurgaon_089.json",
+      "products/vendor_gurgaon_090.json",
+      "products/vendor_gurgaon_091.json",
+      "products/vendor_gurgaon_092.json",
+      "products/vendor_gurgaon_093.json",
+      "products/vendor_gurgaon_094.json",
+      "products/vendor_gurgaon_095.json",
+      "products/vendor_gurgaon_096.json",
+      "products/vendor_gurgaon_097.json",
+      "products/vendor_gurgaon_098.json",
+      "products/vendor_gurgaon_099.json",
+      "products/vendor_gurgaon_100.json",
+      "vendors/index.json"
+    ]
+  },
   "entries": [
     {
       "path": "live/products/vendor_gurgaon_001.json",
-      "type": "live-products",
       "md5": "753ef59964aff761b23294d374de06fc",
       "sizeBytes": 20274,
       "updatedAt": "2026-06-06T13:41:50.539Z",
-      "vendorId": "vendor_gurgaon_001"
+      "vendorId": "vendor_gurgaon_001",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_002.json",
-      "type": "live-products",
       "md5": "b3dc962e275b0f1b0e27afff4bb3eaf5",
       "sizeBytes": 20274,
       "updatedAt": "2026-06-06T13:41:50.541Z",
-      "vendorId": "vendor_gurgaon_002"
+      "vendorId": "vendor_gurgaon_002",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_003.json",
-      "type": "live-products",
       "md5": "fe9c29c069b5d0e17f0615f1f0bb0907",
       "sizeBytes": 20283,
       "updatedAt": "2026-06-06T13:41:50.542Z",
-      "vendorId": "vendor_gurgaon_003"
+      "vendorId": "vendor_gurgaon_003",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_004.json",
-      "type": "live-products",
       "md5": "b1aefac29ac3a88296144a43b5c3fe1d",
       "sizeBytes": 20265,
       "updatedAt": "2026-06-06T13:41:50.544Z",
-      "vendorId": "vendor_gurgaon_004"
+      "vendorId": "vendor_gurgaon_004",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_005.json",
-      "type": "live-products",
       "md5": "1c0c174a97a34d0b8db8b4682c129e86",
       "sizeBytes": 20277,
       "updatedAt": "2026-06-06T13:41:50.545Z",
-      "vendorId": "vendor_gurgaon_005"
+      "vendorId": "vendor_gurgaon_005",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_006.json",
-      "type": "live-products",
       "md5": "d2d56c04b821f7657da3fa6d5c8f290d",
       "sizeBytes": 20272,
       "updatedAt": "2026-06-06T13:41:50.546Z",
-      "vendorId": "vendor_gurgaon_006"
+      "vendorId": "vendor_gurgaon_006",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_007.json",
-      "type": "live-products",
       "md5": "6a5df0b5ce77616da6bb66d78e681353",
       "sizeBytes": 20271,
       "updatedAt": "2026-06-06T13:41:50.548Z",
-      "vendorId": "vendor_gurgaon_007"
+      "vendorId": "vendor_gurgaon_007",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_008.json",
-      "type": "live-products",
       "md5": "5da38ed8576b5e5546167c992b901e93",
       "sizeBytes": 20265,
       "updatedAt": "2026-06-06T13:41:50.549Z",
-      "vendorId": "vendor_gurgaon_008"
+      "vendorId": "vendor_gurgaon_008",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_009.json",
-      "type": "live-products",
       "md5": "a7f1c8e1987b53113e72f40ed75b623c",
       "sizeBytes": 20272,
       "updatedAt": "2026-06-06T13:41:50.551Z",
-      "vendorId": "vendor_gurgaon_009"
+      "vendorId": "vendor_gurgaon_009",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_010.json",
-      "type": "live-products",
       "md5": "52b39d5b6986a0089fb8afa196f457c3",
       "sizeBytes": 20279,
       "updatedAt": "2026-06-06T13:41:50.552Z",
-      "vendorId": "vendor_gurgaon_010"
+      "vendorId": "vendor_gurgaon_010",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_011.json",
-      "type": "live-products",
       "md5": "39cefbe9b429ebee03e080e4c786f103",
       "sizeBytes": 20274,
       "updatedAt": "2026-06-06T13:41:50.554Z",
-      "vendorId": "vendor_gurgaon_011"
+      "vendorId": "vendor_gurgaon_011",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_012.json",
-      "type": "live-products",
       "md5": "7d2e06d4ccf688e001a08313787946cf",
       "sizeBytes": 20271,
       "updatedAt": "2026-06-06T13:41:50.555Z",
-      "vendorId": "vendor_gurgaon_012"
+      "vendorId": "vendor_gurgaon_012",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_013.json",
-      "type": "live-products",
       "md5": "f769fb4616500cb1a166d3c943304b56",
       "sizeBytes": 20270,
       "updatedAt": "2026-06-06T13:41:50.556Z",
-      "vendorId": "vendor_gurgaon_013"
+      "vendorId": "vendor_gurgaon_013",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_014.json",
-      "type": "live-products",
       "md5": "3b7e09b22846191d174d7626ae0e13af",
       "sizeBytes": 20274,
       "updatedAt": "2026-06-06T13:41:50.557Z",
-      "vendorId": "vendor_gurgaon_014"
+      "vendorId": "vendor_gurgaon_014",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_015.json",
-      "type": "live-products",
       "md5": "36c1ad73857334260e1cb8a6bdd01f2f",
       "sizeBytes": 20278,
       "updatedAt": "2026-06-06T13:41:50.559Z",
-      "vendorId": "vendor_gurgaon_015"
+      "vendorId": "vendor_gurgaon_015",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_016.json",
-      "type": "live-products",
       "md5": "69d86a275f21d8a1644072b1e006b5aa",
       "sizeBytes": 20267,
       "updatedAt": "2026-06-06T13:41:50.560Z",
-      "vendorId": "vendor_gurgaon_016"
+      "vendorId": "vendor_gurgaon_016",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_017.json",
-      "type": "live-products",
       "md5": "50de109c85c27054527d22600e9be8cb",
       "sizeBytes": 20272,
       "updatedAt": "2026-06-06T13:41:50.561Z",
-      "vendorId": "vendor_gurgaon_017"
+      "vendorId": "vendor_gurgaon_017",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_018.json",
-      "type": "live-products",
       "md5": "0effede3cb1189c7990e03e8e7a3b992",
       "sizeBytes": 20273,
       "updatedAt": "2026-06-06T13:41:50.563Z",
-      "vendorId": "vendor_gurgaon_018"
+      "vendorId": "vendor_gurgaon_018",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_019.json",
-      "type": "live-products",
       "md5": "2135388e69ba81d03688c3a71c5c50c4",
       "sizeBytes": 20274,
       "updatedAt": "2026-06-06T13:41:50.564Z",
-      "vendorId": "vendor_gurgaon_019"
+      "vendorId": "vendor_gurgaon_019",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_020.json",
-      "type": "live-products",
       "md5": "23d4481487d7a5176cfbe73b7d0162a9",
       "sizeBytes": 20270,
       "updatedAt": "2026-06-06T13:41:50.566Z",
-      "vendorId": "vendor_gurgaon_020"
+      "vendorId": "vendor_gurgaon_020",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_021.json",
-      "type": "live-products",
       "md5": "49d8c9174012f7b27d5861bec553860a",
       "sizeBytes": 20265,
       "updatedAt": "2026-06-06T13:41:50.567Z",
-      "vendorId": "vendor_gurgaon_021"
+      "vendorId": "vendor_gurgaon_021",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_022.json",
-      "type": "live-products",
       "md5": "41e7ae635139d0b17519b53352f1a93a",
       "sizeBytes": 20278,
       "updatedAt": "2026-06-06T13:41:50.569Z",
-      "vendorId": "vendor_gurgaon_022"
+      "vendorId": "vendor_gurgaon_022",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_023.json",
-      "type": "live-products",
       "md5": "ea5696a4f562013616f3b1aed3a6e430",
       "sizeBytes": 20273,
       "updatedAt": "2026-06-06T13:41:50.570Z",
-      "vendorId": "vendor_gurgaon_023"
+      "vendorId": "vendor_gurgaon_023",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_024.json",
-      "type": "live-products",
       "md5": "8732acc20bc0b9a0586a3da4a8964dd3",
       "sizeBytes": 20273,
       "updatedAt": "2026-06-06T13:41:50.572Z",
-      "vendorId": "vendor_gurgaon_024"
+      "vendorId": "vendor_gurgaon_024",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_025.json",
-      "type": "live-products",
       "md5": "2783c144859b67db6338989cb7f37c58",
       "sizeBytes": 20274,
       "updatedAt": "2026-06-06T13:41:50.573Z",
-      "vendorId": "vendor_gurgaon_025"
+      "vendorId": "vendor_gurgaon_025",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_026.json",
-      "type": "live-products",
       "md5": "e20f51b6b1d4aaa59876bd5a8fccde32",
       "sizeBytes": 20280,
       "updatedAt": "2026-06-06T13:41:50.574Z",
-      "vendorId": "vendor_gurgaon_026"
+      "vendorId": "vendor_gurgaon_026",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_027.json",
-      "type": "live-products",
       "md5": "99372325d543af373939f504eaae75b8",
       "sizeBytes": 20267,
       "updatedAt": "2026-06-06T13:41:50.577Z",
-      "vendorId": "vendor_gurgaon_027"
+      "vendorId": "vendor_gurgaon_027",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_028.json",
-      "type": "live-products",
       "md5": "d16474d485f75858fc1f9ebf42666fe2",
       "sizeBytes": 20274,
       "updatedAt": "2026-06-06T13:41:50.579Z",
-      "vendorId": "vendor_gurgaon_028"
+      "vendorId": "vendor_gurgaon_028",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_029.json",
-      "type": "live-products",
       "md5": "01260ccbb2b5658e422543d509a05ccb",
       "sizeBytes": 20273,
       "updatedAt": "2026-06-06T13:41:50.580Z",
-      "vendorId": "vendor_gurgaon_029"
+      "vendorId": "vendor_gurgaon_029",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_030.json",
-      "type": "live-products",
       "md5": "0a594adae57ed0846a898a060774d7a6",
       "sizeBytes": 20275,
       "updatedAt": "2026-06-06T13:41:50.582Z",
-      "vendorId": "vendor_gurgaon_030"
+      "vendorId": "vendor_gurgaon_030",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_031.json",
-      "type": "live-products",
       "md5": "a6047e21df74dd2a3d3fc1ff2b022e30",
       "sizeBytes": 20271,
       "updatedAt": "2026-06-06T13:41:50.583Z",
-      "vendorId": "vendor_gurgaon_031"
+      "vendorId": "vendor_gurgaon_031",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_032.json",
-      "type": "live-products",
       "md5": "4965a50993858d0123514fb309a7d79b",
       "sizeBytes": 20273,
       "updatedAt": "2026-06-06T13:41:50.585Z",
-      "vendorId": "vendor_gurgaon_032"
+      "vendorId": "vendor_gurgaon_032",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_033.json",
-      "type": "live-products",
       "md5": "ea4a3e23fc9b1104312ccd10e35fa490",
       "sizeBytes": 20271,
       "updatedAt": "2026-06-06T13:41:50.586Z",
-      "vendorId": "vendor_gurgaon_033"
+      "vendorId": "vendor_gurgaon_033",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_034.json",
-      "type": "live-products",
       "md5": "b75c2f811ef141327769d1dda63ea8db",
       "sizeBytes": 20274,
       "updatedAt": "2026-06-06T13:41:50.587Z",
-      "vendorId": "vendor_gurgaon_034"
+      "vendorId": "vendor_gurgaon_034",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_035.json",
-      "type": "live-products",
       "md5": "f84155505ad980f8d4e07bbe54aeec35",
       "sizeBytes": 20267,
       "updatedAt": "2026-06-06T13:41:50.589Z",
-      "vendorId": "vendor_gurgaon_035"
+      "vendorId": "vendor_gurgaon_035",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_036.json",
-      "type": "live-products",
       "md5": "54bf7cf536f8c8ec7bc1f522fdb2d29b",
       "sizeBytes": 20269,
       "updatedAt": "2026-06-06T13:41:50.590Z",
-      "vendorId": "vendor_gurgaon_036"
+      "vendorId": "vendor_gurgaon_036",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_037.json",
-      "type": "live-products",
       "md5": "c3c6e07b44114fbf9a2f83917df02e30",
       "sizeBytes": 20272,
       "updatedAt": "2026-06-06T13:41:50.592Z",
-      "vendorId": "vendor_gurgaon_037"
+      "vendorId": "vendor_gurgaon_037",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_038.json",
-      "type": "live-products",
       "md5": "f2c96caf0b0692b2a58b1ebba093afad",
       "sizeBytes": 20271,
       "updatedAt": "2026-06-06T13:41:50.593Z",
-      "vendorId": "vendor_gurgaon_038"
+      "vendorId": "vendor_gurgaon_038",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_039.json",
-      "type": "live-products",
       "md5": "c3b23d8bb8a4dc5987ed95054bd3cfd5",
       "sizeBytes": 20274,
       "updatedAt": "2026-06-06T13:41:50.595Z",
-      "vendorId": "vendor_gurgaon_039"
+      "vendorId": "vendor_gurgaon_039",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_040.json",
-      "type": "live-products",
       "md5": "d45481e704c21a5195612e8625c396a1",
       "sizeBytes": 20268,
       "updatedAt": "2026-06-06T13:41:50.596Z",
-      "vendorId": "vendor_gurgaon_040"
+      "vendorId": "vendor_gurgaon_040",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_041.json",
-      "type": "live-products",
       "md5": "0959768bee8a49d1b0cbbfa326ec3d92",
       "sizeBytes": 20267,
       "updatedAt": "2026-06-06T13:41:50.597Z",
-      "vendorId": "vendor_gurgaon_041"
+      "vendorId": "vendor_gurgaon_041",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_042.json",
-      "type": "live-products",
       "md5": "0cd5f2af50adf188eec25624ed5f10ca",
       "sizeBytes": 20264,
       "updatedAt": "2026-06-06T13:41:50.598Z",
-      "vendorId": "vendor_gurgaon_042"
+      "vendorId": "vendor_gurgaon_042",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_043.json",
-      "type": "live-products",
       "md5": "996b3d6eefde9700a2a310c2d99130de",
       "sizeBytes": 20264,
       "updatedAt": "2026-06-06T13:41:50.600Z",
-      "vendorId": "vendor_gurgaon_043"
+      "vendorId": "vendor_gurgaon_043",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_044.json",
-      "type": "live-products",
       "md5": "57a5b39ea0990013a7b9d675a04583a9",
       "sizeBytes": 20266,
       "updatedAt": "2026-06-06T13:41:50.601Z",
-      "vendorId": "vendor_gurgaon_044"
+      "vendorId": "vendor_gurgaon_044",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_045.json",
-      "type": "live-products",
       "md5": "3171e1238e6d13f487a1415a45a22c49",
       "sizeBytes": 20277,
       "updatedAt": "2026-06-06T13:41:50.603Z",
-      "vendorId": "vendor_gurgaon_045"
+      "vendorId": "vendor_gurgaon_045",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_046.json",
-      "type": "live-products",
       "md5": "473d83a810b52b385191b4aa6cc12275",
       "sizeBytes": 20278,
       "updatedAt": "2026-06-06T13:41:50.604Z",
-      "vendorId": "vendor_gurgaon_046"
+      "vendorId": "vendor_gurgaon_046",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_047.json",
-      "type": "live-products",
       "md5": "a05a75a51efd2abb1b6ec5ec1044e07f",
       "sizeBytes": 20268,
       "updatedAt": "2026-06-06T13:41:50.605Z",
-      "vendorId": "vendor_gurgaon_047"
+      "vendorId": "vendor_gurgaon_047",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_048.json",
-      "type": "live-products",
       "md5": "cba0c52dbe6ff14ae0bb43738f6275e3",
       "sizeBytes": 20277,
       "updatedAt": "2026-06-06T13:41:50.607Z",
-      "vendorId": "vendor_gurgaon_048"
+      "vendorId": "vendor_gurgaon_048",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_049.json",
-      "type": "live-products",
       "md5": "2db62dddb04735b3446e200ea2bba4a5",
       "sizeBytes": 20272,
       "updatedAt": "2026-06-06T13:41:50.608Z",
-      "vendorId": "vendor_gurgaon_049"
+      "vendorId": "vendor_gurgaon_049",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_050.json",
-      "type": "live-products",
       "md5": "7762a46b82410bdae90c0240582ae8b8",
       "sizeBytes": 20274,
       "updatedAt": "2026-06-06T13:41:50.609Z",
-      "vendorId": "vendor_gurgaon_050"
+      "vendorId": "vendor_gurgaon_050",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_051.json",
-      "type": "live-products",
       "md5": "38860751ccc49f92b5b43b39d0da5145",
       "sizeBytes": 20316,
       "updatedAt": "2026-06-06T13:41:50.611Z",
-      "vendorId": "vendor_gurgaon_051"
+      "vendorId": "vendor_gurgaon_051",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_052.json",
-      "type": "live-products",
       "md5": "6d96676e090ef6df47425a359917334c",
       "sizeBytes": 20315,
       "updatedAt": "2026-06-06T13:41:50.613Z",
-      "vendorId": "vendor_gurgaon_052"
+      "vendorId": "vendor_gurgaon_052",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_053.json",
-      "type": "live-products",
       "md5": "4a40b2daabf6450fa1ea45bd40a183a1",
       "sizeBytes": 20325,
       "updatedAt": "2026-06-06T13:41:50.615Z",
-      "vendorId": "vendor_gurgaon_053"
+      "vendorId": "vendor_gurgaon_053",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_054.json",
-      "type": "live-products",
       "md5": "125e6c7028227d04725bdcb1f3f399bc",
       "sizeBytes": 20322,
       "updatedAt": "2026-06-06T13:41:50.616Z",
-      "vendorId": "vendor_gurgaon_054"
+      "vendorId": "vendor_gurgaon_054",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_055.json",
-      "type": "live-products",
       "md5": "86ae566fef4e3325da5cc80254a61728",
       "sizeBytes": 20331,
       "updatedAt": "2026-06-06T13:41:50.619Z",
-      "vendorId": "vendor_gurgaon_055"
+      "vendorId": "vendor_gurgaon_055",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_056.json",
-      "type": "live-products",
       "md5": "beb83039df0a1e63e733cc1913d80b9c",
       "sizeBytes": 20326,
       "updatedAt": "2026-06-06T13:41:50.621Z",
-      "vendorId": "vendor_gurgaon_056"
+      "vendorId": "vendor_gurgaon_056",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_057.json",
-      "type": "live-products",
       "md5": "6800e7364febfde78f51bdb4e386e0c6",
       "sizeBytes": 20337,
       "updatedAt": "2026-06-06T13:41:50.623Z",
-      "vendorId": "vendor_gurgaon_057"
+      "vendorId": "vendor_gurgaon_057",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_058.json",
-      "type": "live-products",
       "md5": "3388d6880fc0ac7b740f301e9664c11b",
       "sizeBytes": 20319,
       "updatedAt": "2026-06-06T13:41:50.624Z",
-      "vendorId": "vendor_gurgaon_058"
+      "vendorId": "vendor_gurgaon_058",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_059.json",
-      "type": "live-products",
       "md5": "eb66590e1ceaf5e748c48e23b89589fa",
       "sizeBytes": 20318,
       "updatedAt": "2026-06-06T13:41:50.626Z",
-      "vendorId": "vendor_gurgaon_059"
+      "vendorId": "vendor_gurgaon_059",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_060.json",
-      "type": "live-products",
       "md5": "4f2a9f4b8850f2be05cfc6739a85e47a",
       "sizeBytes": 20336,
       "updatedAt": "2026-06-06T13:41:50.628Z",
-      "vendorId": "vendor_gurgaon_060"
+      "vendorId": "vendor_gurgaon_060",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_061.json",
-      "type": "live-products",
       "md5": "a3076b51cc11efeca49dec58bc0ab050",
       "sizeBytes": 20332,
       "updatedAt": "2026-06-06T13:41:50.630Z",
-      "vendorId": "vendor_gurgaon_061"
+      "vendorId": "vendor_gurgaon_061",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_062.json",
-      "type": "live-products",
       "md5": "804a072efeaf35260d0813ad3c28209f",
       "sizeBytes": 20333,
       "updatedAt": "2026-06-06T13:41:50.631Z",
-      "vendorId": "vendor_gurgaon_062"
+      "vendorId": "vendor_gurgaon_062",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_063.json",
-      "type": "live-products",
       "md5": "9c2157f1f94e5b24f2d63e671cff1082",
       "sizeBytes": 20329,
       "updatedAt": "2026-06-06T13:41:50.633Z",
-      "vendorId": "vendor_gurgaon_063"
+      "vendorId": "vendor_gurgaon_063",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_064.json",
-      "type": "live-products",
       "md5": "16d04a9f9e3970c9f2128181c07046e6",
       "sizeBytes": 20316,
       "updatedAt": "2026-06-06T13:41:50.635Z",
-      "vendorId": "vendor_gurgaon_064"
+      "vendorId": "vendor_gurgaon_064",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_065.json",
-      "type": "live-products",
       "md5": "c965eb389e1797e1782487ef946f40fc",
       "sizeBytes": 20331,
       "updatedAt": "2026-06-06T13:41:50.636Z",
-      "vendorId": "vendor_gurgaon_065"
+      "vendorId": "vendor_gurgaon_065",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_066.json",
-      "type": "live-products",
       "md5": "d34d9de3d247d8a2a28597eb96f6c56f",
       "sizeBytes": 20324,
       "updatedAt": "2026-06-06T13:41:50.638Z",
-      "vendorId": "vendor_gurgaon_066"
+      "vendorId": "vendor_gurgaon_066",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_067.json",
-      "type": "live-products",
       "md5": "c3b28168c074d961fc1194dd1fee0d93",
       "sizeBytes": 20324,
       "updatedAt": "2026-06-06T13:41:50.640Z",
-      "vendorId": "vendor_gurgaon_067"
+      "vendorId": "vendor_gurgaon_067",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_068.json",
-      "type": "live-products",
       "md5": "d9ee7680629b68f2451f37c73fa02f72",
       "sizeBytes": 20318,
       "updatedAt": "2026-06-06T13:41:50.641Z",
-      "vendorId": "vendor_gurgaon_068"
+      "vendorId": "vendor_gurgaon_068",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_069.json",
-      "type": "live-products",
       "md5": "a7c3896654ceabe493fe62b0312ba31d",
       "sizeBytes": 20316,
       "updatedAt": "2026-06-06T13:41:50.643Z",
-      "vendorId": "vendor_gurgaon_069"
+      "vendorId": "vendor_gurgaon_069",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_070.json",
-      "type": "live-products",
       "md5": "c4bc0ba5b472b437f74445db1fd875b1",
       "sizeBytes": 20324,
       "updatedAt": "2026-06-06T13:41:50.644Z",
-      "vendorId": "vendor_gurgaon_070"
+      "vendorId": "vendor_gurgaon_070",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_071.json",
-      "type": "live-products",
       "md5": "302c28a66109c20ce538e66ae7e7882f",
       "sizeBytes": 20315,
       "updatedAt": "2026-06-06T13:41:50.646Z",
-      "vendorId": "vendor_gurgaon_071"
+      "vendorId": "vendor_gurgaon_071",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_072.json",
-      "type": "live-products",
       "md5": "9af8ec936f7fa7b29397b06166d3640e",
       "sizeBytes": 20329,
       "updatedAt": "2026-06-06T13:41:50.649Z",
-      "vendorId": "vendor_gurgaon_072"
+      "vendorId": "vendor_gurgaon_072",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_073.json",
-      "type": "live-products",
       "md5": "e68599069d7bbf48c668c58ca99f8a1f",
       "sizeBytes": 20325,
       "updatedAt": "2026-06-06T13:41:50.650Z",
-      "vendorId": "vendor_gurgaon_073"
+      "vendorId": "vendor_gurgaon_073",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_074.json",
-      "type": "live-products",
       "md5": "cf3153359847144074868ba12d97fe12",
       "sizeBytes": 20321,
       "updatedAt": "2026-06-06T13:41:50.652Z",
-      "vendorId": "vendor_gurgaon_074"
+      "vendorId": "vendor_gurgaon_074",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_075.json",
-      "type": "live-products",
       "md5": "9d69f82c8ee861038f1c866a400c1687",
       "sizeBytes": 20322,
       "updatedAt": "2026-06-06T13:41:50.653Z",
-      "vendorId": "vendor_gurgaon_075"
+      "vendorId": "vendor_gurgaon_075",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_076.json",
-      "type": "live-products",
       "md5": "d461d1e4c657b6c665f404ed71ec6a0e",
       "sizeBytes": 20320,
       "updatedAt": "2026-06-06T13:41:50.655Z",
-      "vendorId": "vendor_gurgaon_076"
+      "vendorId": "vendor_gurgaon_076",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_077.json",
-      "type": "live-products",
       "md5": "028fc44034b4eeef869387d2ee53c6c9",
       "sizeBytes": 20326,
       "updatedAt": "2026-06-06T13:41:50.656Z",
-      "vendorId": "vendor_gurgaon_077"
+      "vendorId": "vendor_gurgaon_077",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_078.json",
-      "type": "live-products",
       "md5": "6451019b96580442426892a4bfec5aa4",
       "sizeBytes": 20327,
       "updatedAt": "2026-06-06T13:41:50.658Z",
-      "vendorId": "vendor_gurgaon_078"
+      "vendorId": "vendor_gurgaon_078",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_079.json",
-      "type": "live-products",
       "md5": "534a5e4c3315591bd7f02bd91617c599",
       "sizeBytes": 20323,
       "updatedAt": "2026-06-06T13:41:50.660Z",
-      "vendorId": "vendor_gurgaon_079"
+      "vendorId": "vendor_gurgaon_079",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_080.json",
-      "type": "live-products",
       "md5": "76bbbb049714377d82366aa16f92e8c2",
       "sizeBytes": 20315,
       "updatedAt": "2026-06-06T13:41:50.661Z",
-      "vendorId": "vendor_gurgaon_080"
+      "vendorId": "vendor_gurgaon_080",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_081.json",
-      "type": "live-products",
       "md5": "4baff3a2d5f51f724904fff81ae7b90e",
       "sizeBytes": 20319,
       "updatedAt": "2026-06-06T13:41:50.663Z",
-      "vendorId": "vendor_gurgaon_081"
+      "vendorId": "vendor_gurgaon_081",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_082.json",
-      "type": "live-products",
       "md5": "3f205e6a573fcc11fe8914074b8190bb",
       "sizeBytes": 20327,
       "updatedAt": "2026-06-06T13:41:50.665Z",
-      "vendorId": "vendor_gurgaon_082"
+      "vendorId": "vendor_gurgaon_082",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_083.json",
-      "type": "live-products",
       "md5": "578d349d58399a80fe5a74a24856d15b",
       "sizeBytes": 20319,
       "updatedAt": "2026-06-06T13:41:50.667Z",
-      "vendorId": "vendor_gurgaon_083"
+      "vendorId": "vendor_gurgaon_083",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_084.json",
-      "type": "live-products",
       "md5": "0153defecc0ee5438f2b5cc58230480c",
       "sizeBytes": 20330,
       "updatedAt": "2026-06-06T13:41:50.669Z",
-      "vendorId": "vendor_gurgaon_084"
+      "vendorId": "vendor_gurgaon_084",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_085.json",
-      "type": "live-products",
       "md5": "e8695a9a58af81dba13776dc695899c9",
       "sizeBytes": 20326,
       "updatedAt": "2026-06-06T13:41:50.670Z",
-      "vendorId": "vendor_gurgaon_085"
+      "vendorId": "vendor_gurgaon_085",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_086.json",
-      "type": "live-products",
       "md5": "fda4749a62abbdcd554b83097faf40fa",
       "sizeBytes": 20334,
       "updatedAt": "2026-06-06T13:41:50.672Z",
-      "vendorId": "vendor_gurgaon_086"
+      "vendorId": "vendor_gurgaon_086",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_087.json",
-      "type": "live-products",
       "md5": "609463a8a3c553e0b5d1e30f60e69989",
       "sizeBytes": 20341,
       "updatedAt": "2026-06-06T13:41:50.673Z",
-      "vendorId": "vendor_gurgaon_087"
+      "vendorId": "vendor_gurgaon_087",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_088.json",
-      "type": "live-products",
       "md5": "5746f11c61735d8790c45719c7519dca",
       "sizeBytes": 20318,
       "updatedAt": "2026-06-06T13:41:50.675Z",
-      "vendorId": "vendor_gurgaon_088"
+      "vendorId": "vendor_gurgaon_088",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_089.json",
-      "type": "live-products",
       "md5": "dd6f25bb27c089d2caf32a58b503b9f4",
       "sizeBytes": 20326,
       "updatedAt": "2026-06-06T13:41:50.677Z",
-      "vendorId": "vendor_gurgaon_089"
+      "vendorId": "vendor_gurgaon_089",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_090.json",
-      "type": "live-products",
       "md5": "f08853e18e47e0405dbdef79a00fb733",
       "sizeBytes": 20317,
       "updatedAt": "2026-06-06T13:41:50.678Z",
-      "vendorId": "vendor_gurgaon_090"
+      "vendorId": "vendor_gurgaon_090",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_091.json",
-      "type": "live-products",
       "md5": "184d332307e771a28e9dfa43367c70f9",
       "sizeBytes": 20326,
       "updatedAt": "2026-06-06T13:41:50.680Z",
-      "vendorId": "vendor_gurgaon_091"
+      "vendorId": "vendor_gurgaon_091",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_092.json",
-      "type": "live-products",
       "md5": "61c5d9b5a1427befd470ca1db07e85ee",
       "sizeBytes": 20319,
       "updatedAt": "2026-06-06T13:41:50.682Z",
-      "vendorId": "vendor_gurgaon_092"
+      "vendorId": "vendor_gurgaon_092",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_093.json",
-      "type": "live-products",
       "md5": "8ef169c6dd7f128874766767966eedae",
       "sizeBytes": 20332,
       "updatedAt": "2026-06-06T13:41:50.684Z",
-      "vendorId": "vendor_gurgaon_093"
+      "vendorId": "vendor_gurgaon_093",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_094.json",
-      "type": "live-products",
       "md5": "e183ed8f7d4bc11d2ab53ed8d34c4581",
       "sizeBytes": 20335,
       "updatedAt": "2026-06-06T13:41:50.686Z",
-      "vendorId": "vendor_gurgaon_094"
+      "vendorId": "vendor_gurgaon_094",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_095.json",
-      "type": "live-products",
       "md5": "550d2ec3eac2f5ee8f6284c5b190e7fd",
       "sizeBytes": 20326,
       "updatedAt": "2026-06-06T13:41:50.687Z",
-      "vendorId": "vendor_gurgaon_095"
+      "vendorId": "vendor_gurgaon_095",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_096.json",
-      "type": "live-products",
       "md5": "d44ceb8ee27f45497494a1dccdd3ba3d",
       "sizeBytes": 20312,
       "updatedAt": "2026-06-06T13:41:50.688Z",
-      "vendorId": "vendor_gurgaon_096"
+      "vendorId": "vendor_gurgaon_096",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_097.json",
-      "type": "live-products",
       "md5": "c01617230824d7991d2c7e6ee4f97ff6",
       "sizeBytes": 20336,
       "updatedAt": "2026-06-06T13:41:50.690Z",
-      "vendorId": "vendor_gurgaon_097"
+      "vendorId": "vendor_gurgaon_097",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_098.json",
-      "type": "live-products",
       "md5": "fde04983ce0f98b83d2ecc635be410f5",
       "sizeBytes": 20317,
       "updatedAt": "2026-06-06T13:41:50.692Z",
-      "vendorId": "vendor_gurgaon_098"
+      "vendorId": "vendor_gurgaon_098",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_099.json",
-      "type": "live-products",
       "md5": "a59ea6b9dbe26326258bd8c08ab1e664",
       "sizeBytes": 20328,
       "updatedAt": "2026-06-06T13:41:50.693Z",
-      "vendorId": "vendor_gurgaon_099"
+      "vendorId": "vendor_gurgaon_099",
+      "type": "liveProducts"
     },
     {
       "path": "live/products/vendor_gurgaon_100.json",
-      "type": "live-products",
       "md5": "e9164349a459e0055b13c26ebebba09a",
       "sizeBytes": 20326,
       "updatedAt": "2026-06-06T13:41:50.695Z",
-      "vendorId": "vendor_gurgaon_100"
+      "vendorId": "vendor_gurgaon_100",
+      "type": "liveProducts"
     },
     {
       "path": "live/vendors/index.json",
-      "type": "live-vendors",
       "md5": "f9499752dcb08cef029a56a87a2d9507",
       "sizeBytes": 25895,
-      "updatedAt": "2026-06-06T13:41:50.696Z"
+      "updatedAt": "2026-06-06T13:41:50.696Z",
+      "type": "liveVendors"
     },
     {
       "path": "meta.json",
-      "type": "meta",
       "md5": "8b5187c3d73de6de8372cb2472cc8135",
       "sizeBytes": 273,
-      "updatedAt": "2026-06-06T13:41:50.697Z"
+      "updatedAt": "2026-06-06T13:41:50.697Z",
+      "type": "meta"
     },
     {
       "path": "products/vendor_gurgaon_001.json",
-      "type": "products",
-      "md5": "70ff5de4e7c10c283819a447d71f30e6",
-      "sizeBytes": 90218,
-      "updatedAt": "2026-06-06T14:30:29.476Z",
-      "vendorId": "vendor_gurgaon_001"
+      "md5": "7bed747086b0c0d6c3a7f8660f474a52",
+      "sizeBytes": 95253,
+      "updatedAt": "2026-06-07T06:35:38.344Z",
+      "vendorId": "vendor_gurgaon_001",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_002.json",
-      "type": "products",
-      "md5": "34b6614957849ed70375b08e079201be",
-      "sizeBytes": 89295,
-      "updatedAt": "2026-06-06T14:30:29.478Z",
-      "vendorId": "vendor_gurgaon_002"
+      "md5": "995d11acd1a93a3924c46d38d308c9d9",
+      "sizeBytes": 94330,
+      "updatedAt": "2026-06-07T06:35:38.346Z",
+      "vendorId": "vendor_gurgaon_002",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_003.json",
-      "type": "products",
-      "md5": "7842756080f4f70a31ed2656346b45ed",
-      "sizeBytes": 87856,
-      "updatedAt": "2026-06-06T13:41:50.542Z",
-      "vendorId": "vendor_gurgaon_003"
+      "md5": "4758c15e0f52189d40c1d5849ae9e312",
+      "sizeBytes": 93156,
+      "updatedAt": "2026-06-07T06:35:38.348Z",
+      "vendorId": "vendor_gurgaon_003",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_004.json",
-      "type": "products",
-      "md5": "78cd96aa8a8eaaf1c7b6d9f8fca8c177",
-      "sizeBytes": 87386,
-      "updatedAt": "2026-06-06T13:41:50.544Z",
-      "vendorId": "vendor_gurgaon_004"
+      "md5": "74902185a623543be2adfcaad35e9a89",
+      "sizeBytes": 92686,
+      "updatedAt": "2026-06-07T06:35:38.350Z",
+      "vendorId": "vendor_gurgaon_004",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_005.json",
-      "type": "products",
-      "md5": "d290a987e1b924b4de6bd15fda6d577b",
-      "sizeBytes": 88116,
-      "updatedAt": "2026-06-06T13:41:50.545Z",
-      "vendorId": "vendor_gurgaon_005"
+      "md5": "c2fa506de8ed62f3627b294024a1714e",
+      "sizeBytes": 93416,
+      "updatedAt": "2026-06-07T06:35:38.352Z",
+      "vendorId": "vendor_gurgaon_005",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_006.json",
-      "type": "products",
-      "md5": "184a605ed55da551828f53d1ca20a4bf",
-      "sizeBytes": 88215,
-      "updatedAt": "2026-06-06T13:41:50.546Z",
-      "vendorId": "vendor_gurgaon_006"
+      "md5": "61a6e9c744b3750ed1080d97227a2d0f",
+      "sizeBytes": 93515,
+      "updatedAt": "2026-06-07T06:35:38.355Z",
+      "vendorId": "vendor_gurgaon_006",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_007.json",
-      "type": "products",
-      "md5": "aea0e04a838c51350eb446406deee391",
-      "sizeBytes": 88878,
-      "updatedAt": "2026-06-06T13:41:50.547Z",
-      "vendorId": "vendor_gurgaon_007"
+      "md5": "ef2fd1b6b05265149cb1676cc5435614",
+      "sizeBytes": 94178,
+      "updatedAt": "2026-06-07T06:35:38.359Z",
+      "vendorId": "vendor_gurgaon_007",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_008.json",
-      "type": "products",
-      "md5": "d6af9ad06daebec7ad2f02febe615fe8",
-      "sizeBytes": 88986,
-      "updatedAt": "2026-06-06T13:41:50.549Z",
-      "vendorId": "vendor_gurgaon_008"
+      "md5": "32175fecb48ac114dc4bcc19ee3c61cc",
+      "sizeBytes": 94286,
+      "updatedAt": "2026-06-07T06:35:38.365Z",
+      "vendorId": "vendor_gurgaon_008",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_009.json",
-      "type": "products",
-      "md5": "250d95cf132a2b81cbaab90404f058ee",
-      "sizeBytes": 88598,
-      "updatedAt": "2026-06-06T13:41:50.551Z",
-      "vendorId": "vendor_gurgaon_009"
+      "md5": "bd2323402203242a503e9864435e3d5c",
+      "sizeBytes": 93898,
+      "updatedAt": "2026-06-07T06:35:38.367Z",
+      "vendorId": "vendor_gurgaon_009",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_010.json",
-      "type": "products",
-      "md5": "031e73d21447b1ed452153bfe3dc0757",
-      "sizeBytes": 87915,
-      "updatedAt": "2026-06-06T13:41:50.552Z",
-      "vendorId": "vendor_gurgaon_010"
+      "md5": "d0b5c2f9749edf95424abdf5e79a4941",
+      "sizeBytes": 93215,
+      "updatedAt": "2026-06-07T06:35:38.373Z",
+      "vendorId": "vendor_gurgaon_010",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_011.json",
-      "type": "products",
-      "md5": "69071a270b78bcdecd8977278df84777",
-      "sizeBytes": 87491,
-      "updatedAt": "2026-06-06T13:41:50.553Z",
-      "vendorId": "vendor_gurgaon_011"
+      "md5": "dcd88f0ec3b6df9e0b70743298c5605b",
+      "sizeBytes": 92791,
+      "updatedAt": "2026-06-07T06:35:38.375Z",
+      "vendorId": "vendor_gurgaon_011",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_012.json",
-      "type": "products",
-      "md5": "42c143eeb360949d8a382af232d5a7c0",
-      "sizeBytes": 89552,
-      "updatedAt": "2026-06-06T13:41:50.555Z",
-      "vendorId": "vendor_gurgaon_012"
+      "md5": "92b07797b8f1bd046d5bd7d8541ae836",
+      "sizeBytes": 94852,
+      "updatedAt": "2026-06-07T06:35:38.377Z",
+      "vendorId": "vendor_gurgaon_012",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_013.json",
-      "type": "products",
-      "md5": "f1129c703cdd43058e9cee649612c950",
-      "sizeBytes": 89114,
-      "updatedAt": "2026-06-06T13:41:50.556Z",
-      "vendorId": "vendor_gurgaon_013"
+      "md5": "6e5b9ba15e3a0e03e2d03a8efcd3fca3",
+      "sizeBytes": 94414,
+      "updatedAt": "2026-06-07T06:35:38.380Z",
+      "vendorId": "vendor_gurgaon_013",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_014.json",
-      "type": "products",
-      "md5": "ef0c8add489ac3d72cfc8f16bc6615c8",
-      "sizeBytes": 87946,
-      "updatedAt": "2026-06-06T13:41:50.557Z",
-      "vendorId": "vendor_gurgaon_014"
+      "md5": "41b98065a9c499fd6060a741568231ec",
+      "sizeBytes": 93246,
+      "updatedAt": "2026-06-07T06:35:38.383Z",
+      "vendorId": "vendor_gurgaon_014",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_015.json",
-      "type": "products",
-      "md5": "ab8aa172e025d582bf00cab00820faf6",
-      "sizeBytes": 87569,
-      "updatedAt": "2026-06-06T13:41:50.558Z",
-      "vendorId": "vendor_gurgaon_015"
+      "md5": "8b4ed9b0b78900c3f1197c14a8e68116",
+      "sizeBytes": 92869,
+      "updatedAt": "2026-06-07T06:35:38.388Z",
+      "vendorId": "vendor_gurgaon_015",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_016.json",
-      "type": "products",
-      "md5": "297daeb382184b7880cd3a77186b5b61",
-      "sizeBytes": 89654,
-      "updatedAt": "2026-06-06T13:41:50.560Z",
-      "vendorId": "vendor_gurgaon_016"
+      "md5": "ad4467ea857a8fc684dececd52d5deb6",
+      "sizeBytes": 94954,
+      "updatedAt": "2026-06-07T06:36:10.343Z",
+      "vendorId": "vendor_gurgaon_016",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_017.json",
-      "type": "products",
-      "md5": "426125f3af9f4b0cdbf6f3590d1d56d9",
-      "sizeBytes": 88709,
-      "updatedAt": "2026-06-06T13:41:50.561Z",
-      "vendorId": "vendor_gurgaon_017"
+      "md5": "16caaf5e2c491c1abee1c1fc67242e3d",
+      "sizeBytes": 94009,
+      "updatedAt": "2026-06-07T06:35:38.392Z",
+      "vendorId": "vendor_gurgaon_017",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_018.json",
-      "type": "products",
-      "md5": "fa3c2627c6cee8a32ece27a2ebe4ad05",
-      "sizeBytes": 89301,
-      "updatedAt": "2026-06-06T13:41:50.562Z",
-      "vendorId": "vendor_gurgaon_018"
+      "md5": "dc6efa8196e0380aa250a0a946c3b815",
+      "sizeBytes": 94601,
+      "updatedAt": "2026-06-07T06:35:38.396Z",
+      "vendorId": "vendor_gurgaon_018",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_019.json",
-      "type": "products",
-      "md5": "cf41766c6fce0dee9be32968ac0b0684",
-      "sizeBytes": 88923,
-      "updatedAt": "2026-06-06T13:41:50.564Z",
-      "vendorId": "vendor_gurgaon_019"
+      "md5": "acf792ab34247fe9db714b376b7df105",
+      "sizeBytes": 94223,
+      "updatedAt": "2026-06-07T06:35:38.399Z",
+      "vendorId": "vendor_gurgaon_019",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_020.json",
-      "type": "products",
-      "md5": "af5b015490da406d86120f9be910f879",
-      "sizeBytes": 88631,
-      "updatedAt": "2026-06-06T13:41:50.565Z",
-      "vendorId": "vendor_gurgaon_020"
+      "md5": "c1dafccdfd3ece8e33c03d74eb37ddc4",
+      "sizeBytes": 93931,
+      "updatedAt": "2026-06-07T06:36:10.348Z",
+      "vendorId": "vendor_gurgaon_020",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_021.json",
-      "type": "products",
-      "md5": "4107481a47f2fad987154b9394186317",
-      "sizeBytes": 87491,
-      "updatedAt": "2026-06-06T13:41:50.567Z",
-      "vendorId": "vendor_gurgaon_021"
+      "md5": "6e5732246789b77e2465e1fa4ed717fa",
+      "sizeBytes": 92791,
+      "updatedAt": "2026-06-07T06:35:38.405Z",
+      "vendorId": "vendor_gurgaon_021",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_022.json",
-      "type": "products",
-      "md5": "c9c4223f20b7c2df6870394065e77968",
-      "sizeBytes": 89364,
-      "updatedAt": "2026-06-06T13:41:50.569Z",
-      "vendorId": "vendor_gurgaon_022"
+      "md5": "ea1b7903ea61c3ce6b21b757ae0c0b7c",
+      "sizeBytes": 94664,
+      "updatedAt": "2026-06-07T06:36:10.351Z",
+      "vendorId": "vendor_gurgaon_022",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_023.json",
-      "type": "products",
-      "md5": "cceefe2f52c06fbe0a6f1f01a2f4d03b",
-      "sizeBytes": 90012,
-      "updatedAt": "2026-06-06T13:41:50.570Z",
-      "vendorId": "vendor_gurgaon_023"
+      "md5": "5d54dc57bc1f2f91f6d43012e4ee45cc",
+      "sizeBytes": 95312,
+      "updatedAt": "2026-06-07T06:35:38.409Z",
+      "vendorId": "vendor_gurgaon_023",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_024.json",
-      "type": "products",
-      "md5": "3f9c0275be80be38804dc616ff5e61e7",
-      "sizeBytes": 88366,
-      "updatedAt": "2026-06-06T13:41:50.571Z",
-      "vendorId": "vendor_gurgaon_024"
+      "md5": "75dbf52055745633170bace38d6002b2",
+      "sizeBytes": 93666,
+      "updatedAt": "2026-06-07T06:35:38.411Z",
+      "vendorId": "vendor_gurgaon_024",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_025.json",
-      "type": "products",
-      "md5": "bdf977ec84e5064dde8f2e338dc44da6",
-      "sizeBytes": 89752,
-      "updatedAt": "2026-06-06T13:41:50.572Z",
-      "vendorId": "vendor_gurgaon_025"
+      "md5": "9ddd853e8993710854cf70b024df97a3",
+      "sizeBytes": 95052,
+      "updatedAt": "2026-06-07T06:35:38.414Z",
+      "vendorId": "vendor_gurgaon_025",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_026.json",
-      "type": "products",
-      "md5": "6cafcbceecf3b9cccf912fa1369d2437",
-      "sizeBytes": 88707,
-      "updatedAt": "2026-06-06T13:41:50.574Z",
-      "vendorId": "vendor_gurgaon_026"
+      "md5": "4260011ab422947450969d2a54d7a431",
+      "sizeBytes": 94007,
+      "updatedAt": "2026-06-07T06:36:10.356Z",
+      "vendorId": "vendor_gurgaon_026",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_027.json",
-      "type": "products",
-      "md5": "e12c517e9bfc6c1c2b378b45fc2f254c",
-      "sizeBytes": 90131,
-      "updatedAt": "2026-06-06T13:41:50.575Z",
-      "vendorId": "vendor_gurgaon_027"
+      "md5": "cf1b48d4bd19f478bbd9e1fe9168489f",
+      "sizeBytes": 95431,
+      "updatedAt": "2026-06-07T06:35:38.419Z",
+      "vendorId": "vendor_gurgaon_027",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_028.json",
-      "type": "products",
-      "md5": "1c6219047348c8ee2f56c55b74dfa692",
-      "sizeBytes": 89369,
-      "updatedAt": "2026-06-06T13:41:50.578Z",
-      "vendorId": "vendor_gurgaon_028"
+      "md5": "a606566583562d11e847961610ee264d",
+      "sizeBytes": 94669,
+      "updatedAt": "2026-06-07T06:35:38.421Z",
+      "vendorId": "vendor_gurgaon_028",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_029.json",
-      "type": "products",
-      "md5": "c03feed9cc943645fb534aaa0dbe2bc5",
-      "sizeBytes": 86865,
-      "updatedAt": "2026-06-06T13:41:50.580Z",
-      "vendorId": "vendor_gurgaon_029"
+      "md5": "00aeb4f743084810ab857983c77c1e45",
+      "sizeBytes": 92165,
+      "updatedAt": "2026-06-07T06:35:38.424Z",
+      "vendorId": "vendor_gurgaon_029",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_030.json",
-      "type": "products",
-      "md5": "5353860f3bfe1f14e2830ba69b32e892",
-      "sizeBytes": 88109,
-      "updatedAt": "2026-06-06T13:41:50.581Z",
-      "vendorId": "vendor_gurgaon_030"
+      "md5": "3e13dbb4cfbb36f4fadf3f5b23f744e9",
+      "sizeBytes": 93409,
+      "updatedAt": "2026-06-07T06:35:38.426Z",
+      "vendorId": "vendor_gurgaon_030",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_031.json",
-      "type": "products",
-      "md5": "4a4476600c4e0e2377d25f3d5c4dd63b",
-      "sizeBytes": 88723,
-      "updatedAt": "2026-06-06T13:41:50.583Z",
-      "vendorId": "vendor_gurgaon_031"
+      "md5": "96fad682dbdd0043b0102650fd2a5711",
+      "sizeBytes": 94023,
+      "updatedAt": "2026-06-07T06:35:38.432Z",
+      "vendorId": "vendor_gurgaon_031",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_032.json",
-      "type": "products",
-      "md5": "97879778da551b1486c39b93224d8044",
-      "sizeBytes": 88189,
-      "updatedAt": "2026-06-06T13:41:50.584Z",
-      "vendorId": "vendor_gurgaon_032"
+      "md5": "ba3fe4df8871a05ccfd1d346810b646b",
+      "sizeBytes": 93489,
+      "updatedAt": "2026-06-07T06:35:38.435Z",
+      "vendorId": "vendor_gurgaon_032",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_033.json",
-      "type": "products",
-      "md5": "f2cc69c3eef64c22231e508b3c83e1e6",
-      "sizeBytes": 89541,
-      "updatedAt": "2026-06-06T13:41:50.586Z",
-      "vendorId": "vendor_gurgaon_033"
+      "md5": "d976e04705b37a26d6cbafa36e22a418",
+      "sizeBytes": 94841,
+      "updatedAt": "2026-06-07T06:35:38.439Z",
+      "vendorId": "vendor_gurgaon_033",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_034.json",
-      "type": "products",
-      "md5": "70ea855ef247717d496d10e285c8ef97",
-      "sizeBytes": 89284,
-      "updatedAt": "2026-06-06T13:41:50.587Z",
-      "vendorId": "vendor_gurgaon_034"
+      "md5": "5828c9f7b8bc02f8e2733c7026a79983",
+      "sizeBytes": 94584,
+      "updatedAt": "2026-06-07T06:36:10.365Z",
+      "vendorId": "vendor_gurgaon_034",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_035.json",
-      "type": "products",
-      "md5": "615d2579ca7cf158cd0461133f67fd8c",
-      "sizeBytes": 88565,
-      "updatedAt": "2026-06-06T13:41:50.588Z",
-      "vendorId": "vendor_gurgaon_035"
+      "md5": "c36216ed9cc13ac7c88535cd705d2aae",
+      "sizeBytes": 93865,
+      "updatedAt": "2026-06-07T06:35:38.444Z",
+      "vendorId": "vendor_gurgaon_035",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_036.json",
-      "type": "products",
-      "md5": "6e04bdf6e900876cf7bd8bc70339e25f",
-      "sizeBytes": 88735,
-      "updatedAt": "2026-06-06T13:41:50.590Z",
-      "vendorId": "vendor_gurgaon_036"
+      "md5": "82678b30683dbbcc14cff2dc43fbb3e3",
+      "sizeBytes": 94035,
+      "updatedAt": "2026-06-07T06:35:38.447Z",
+      "vendorId": "vendor_gurgaon_036",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_037.json",
-      "type": "products",
-      "md5": "80307b04bb577b03958721485d99e70f",
-      "sizeBytes": 89213,
-      "updatedAt": "2026-06-06T13:41:50.592Z",
-      "vendorId": "vendor_gurgaon_037"
+      "md5": "c3915ef9ef6609c058375ed2f60c8d41",
+      "sizeBytes": 94513,
+      "updatedAt": "2026-06-07T06:36:10.368Z",
+      "vendorId": "vendor_gurgaon_037",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_038.json",
-      "type": "products",
-      "md5": "419e5111fe071b7969f8521dcee09ca4",
-      "sizeBytes": 90471,
-      "updatedAt": "2026-06-06T13:41:50.593Z",
-      "vendorId": "vendor_gurgaon_038"
+      "md5": "73eb09760cdfdc2d3e756d3baced0385",
+      "sizeBytes": 95771,
+      "updatedAt": "2026-06-07T06:35:38.452Z",
+      "vendorId": "vendor_gurgaon_038",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_039.json",
-      "type": "products",
-      "md5": "7a75e4e6482bfd88504887b6f22ea49e",
-      "sizeBytes": 89655,
-      "updatedAt": "2026-06-06T13:41:50.594Z",
-      "vendorId": "vendor_gurgaon_039"
+      "md5": "594fe39eb3f9a10d3d6cd49f4ac566d6",
+      "sizeBytes": 94955,
+      "updatedAt": "2026-06-07T06:36:10.371Z",
+      "vendorId": "vendor_gurgaon_039",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_040.json",
-      "type": "products",
-      "md5": "83197b2c52571f61ed8a7497c10a8d5a",
-      "sizeBytes": 87590,
-      "updatedAt": "2026-06-06T13:41:50.596Z",
-      "vendorId": "vendor_gurgaon_040"
+      "md5": "c40068142942839d2d340297734173f3",
+      "sizeBytes": 92890,
+      "updatedAt": "2026-06-07T06:35:38.457Z",
+      "vendorId": "vendor_gurgaon_040",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_041.json",
-      "type": "products",
-      "md5": "8d7575b898aade3c30561085efc434a3",
-      "sizeBytes": 88274,
-      "updatedAt": "2026-06-06T13:41:50.597Z",
-      "vendorId": "vendor_gurgaon_041"
+      "md5": "db677973234c7d905176808d16388d65",
+      "sizeBytes": 93574,
+      "updatedAt": "2026-06-07T06:35:38.460Z",
+      "vendorId": "vendor_gurgaon_041",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_042.json",
-      "type": "products",
-      "md5": "b32cf8b367b5edaf6729f8c2039fa49f",
-      "sizeBytes": 89143,
-      "updatedAt": "2026-06-06T13:41:50.598Z",
-      "vendorId": "vendor_gurgaon_042"
+      "md5": "e55e5d0336237ee0ed4d6beb781681f1",
+      "sizeBytes": 94443,
+      "updatedAt": "2026-06-07T06:36:10.375Z",
+      "vendorId": "vendor_gurgaon_042",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_043.json",
-      "type": "products",
-      "md5": "51e9a64e4db9fe775e8aaf5e89bf2179",
-      "sizeBytes": 90063,
-      "updatedAt": "2026-06-06T13:41:50.599Z",
-      "vendorId": "vendor_gurgaon_043"
+      "md5": "481ab55a0ac24834522c54f03e2a9bf1",
+      "sizeBytes": 95363,
+      "updatedAt": "2026-06-07T06:35:38.468Z",
+      "vendorId": "vendor_gurgaon_043",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_044.json",
-      "type": "products",
-      "md5": "ca53e027e1a2dcdb980d956dc35e291a",
-      "sizeBytes": 87866,
-      "updatedAt": "2026-06-06T13:41:50.601Z",
-      "vendorId": "vendor_gurgaon_044"
+      "md5": "aa4db15976d8c177a09c0787b32a8000",
+      "sizeBytes": 93166,
+      "updatedAt": "2026-06-07T06:35:38.471Z",
+      "vendorId": "vendor_gurgaon_044",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_045.json",
-      "type": "products",
-      "md5": "486dbc0cc0e49cef451d4bd175dd919f",
-      "sizeBytes": 89029,
-      "updatedAt": "2026-06-06T13:41:50.602Z",
-      "vendorId": "vendor_gurgaon_045"
+      "md5": "e49df4ab5b1dd4c57d6e31948b453391",
+      "sizeBytes": 94329,
+      "updatedAt": "2026-06-07T06:35:38.473Z",
+      "vendorId": "vendor_gurgaon_045",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_046.json",
-      "type": "products",
-      "md5": "7f5c5bf2fc93eb3e7bb8e7abc250c507",
-      "sizeBytes": 89113,
-      "updatedAt": "2026-06-06T13:41:50.604Z",
-      "vendorId": "vendor_gurgaon_046"
+      "md5": "a6f208b0a79cfd7eb9b3c4900818ba79",
+      "sizeBytes": 94413,
+      "updatedAt": "2026-06-07T06:35:38.475Z",
+      "vendorId": "vendor_gurgaon_046",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_047.json",
-      "type": "products",
-      "md5": "7e6380bd82db24d023c8400372bfa74d",
-      "sizeBytes": 89004,
-      "updatedAt": "2026-06-06T13:41:50.605Z",
-      "vendorId": "vendor_gurgaon_047"
+      "md5": "8318acd6e09b34c423aaa6b675d67734",
+      "sizeBytes": 94304,
+      "updatedAt": "2026-06-07T06:35:38.477Z",
+      "vendorId": "vendor_gurgaon_047",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_048.json",
-      "type": "products",
-      "md5": "d0abe5f9f559d9e1d71fc05edf0389a3",
-      "sizeBytes": 89472,
-      "updatedAt": "2026-06-06T13:41:50.606Z",
-      "vendorId": "vendor_gurgaon_048"
+      "md5": "4f1051bcb64b59faf3b5dc515bd04853",
+      "sizeBytes": 94772,
+      "updatedAt": "2026-06-07T06:35:38.481Z",
+      "vendorId": "vendor_gurgaon_048",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_049.json",
-      "type": "products",
-      "md5": "157d3a37f97218b4d08e442c53e3c93d",
-      "sizeBytes": 87649,
-      "updatedAt": "2026-06-06T13:41:50.608Z",
-      "vendorId": "vendor_gurgaon_049"
+      "md5": "51fb33f835718c70a0da9b57c801955c",
+      "sizeBytes": 92949,
+      "updatedAt": "2026-06-07T06:35:38.483Z",
+      "vendorId": "vendor_gurgaon_049",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_050.json",
-      "type": "products",
-      "md5": "945c4276ea9ebe4329453bdfe24e4d45",
-      "sizeBytes": 88675,
-      "updatedAt": "2026-06-06T13:41:50.609Z",
-      "vendorId": "vendor_gurgaon_050"
+      "md5": "b30d7ba9714345d590aca3eda260537f",
+      "sizeBytes": 93975,
+      "updatedAt": "2026-06-07T06:36:10.384Z",
+      "vendorId": "vendor_gurgaon_050",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_051.json",
-      "type": "products",
-      "md5": "1c35b2ef1c446ca3b6e93f2d7d26a66e",
-      "sizeBytes": 94588,
-      "updatedAt": "2026-06-06T13:41:50.611Z",
-      "vendorId": "vendor_gurgaon_051"
+      "md5": "fc2e8a2d97d68918be1913a1aa7596b8",
+      "sizeBytes": 99888,
+      "updatedAt": "2026-06-07T06:35:38.488Z",
+      "vendorId": "vendor_gurgaon_051",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_052.json",
-      "type": "products",
-      "md5": "262995b4046deb5015e172a6c9a87ccd",
-      "sizeBytes": 95183,
-      "updatedAt": "2026-06-06T13:41:50.613Z",
-      "vendorId": "vendor_gurgaon_052"
+      "md5": "d38c6505da82fe7fe7cabe33b3ea6fff",
+      "sizeBytes": 100483,
+      "updatedAt": "2026-06-07T06:35:38.490Z",
+      "vendorId": "vendor_gurgaon_052",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_053.json",
-      "type": "products",
-      "md5": "384106cef45e6d5dccc5cfc7d7e02474",
-      "sizeBytes": 95367,
-      "updatedAt": "2026-06-06T13:41:50.614Z",
-      "vendorId": "vendor_gurgaon_053"
+      "md5": "acca148f186aa0049c7970453b2f4641",
+      "sizeBytes": 100667,
+      "updatedAt": "2026-06-07T06:35:38.492Z",
+      "vendorId": "vendor_gurgaon_053",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_054.json",
-      "type": "products",
-      "md5": "33fa4d5c0a8a54e8ddbf3321578e379d",
-      "sizeBytes": 93611,
-      "updatedAt": "2026-06-06T13:41:50.616Z",
-      "vendorId": "vendor_gurgaon_054"
+      "md5": "1a93c9b2e1ded948f2637c9541ddad69",
+      "sizeBytes": 98911,
+      "updatedAt": "2026-06-07T06:35:38.494Z",
+      "vendorId": "vendor_gurgaon_054",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_055.json",
-      "type": "products",
-      "md5": "98377c06b92670db3663c5b37439bdd4",
-      "sizeBytes": 94233,
-      "updatedAt": "2026-06-06T13:41:50.619Z",
-      "vendorId": "vendor_gurgaon_055"
+      "md5": "76fd7e2c957b32f961198987a063a411",
+      "sizeBytes": 99533,
+      "updatedAt": "2026-06-07T06:35:38.498Z",
+      "vendorId": "vendor_gurgaon_055",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_056.json",
-      "type": "products",
-      "md5": "638b35b00fc36e90239ce76a562b976c",
-      "sizeBytes": 93345,
-      "updatedAt": "2026-06-06T13:41:50.621Z",
-      "vendorId": "vendor_gurgaon_056"
+      "md5": "d33623300aac30c97f0f9f8f56ca95a6",
+      "sizeBytes": 98645,
+      "updatedAt": "2026-06-07T06:35:38.500Z",
+      "vendorId": "vendor_gurgaon_056",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_057.json",
-      "type": "products",
-      "md5": "0f10e698c401ad2e299681002b7a684b",
-      "sizeBytes": 95145,
-      "updatedAt": "2026-06-06T13:41:50.622Z",
-      "vendorId": "vendor_gurgaon_057"
+      "md5": "ed09efd82b8c9713fbb26459930fb709",
+      "sizeBytes": 100445,
+      "updatedAt": "2026-06-07T06:35:38.502Z",
+      "vendorId": "vendor_gurgaon_057",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_058.json",
-      "type": "products",
-      "md5": "e995a9c9045bfae56dc889138a80420d",
-      "sizeBytes": 94378,
-      "updatedAt": "2026-06-06T13:41:50.624Z",
-      "vendorId": "vendor_gurgaon_058"
+      "md5": "832b36b38f187285ce4d6e1bdd6fad5b",
+      "sizeBytes": 99678,
+      "updatedAt": "2026-06-07T06:35:38.506Z",
+      "vendorId": "vendor_gurgaon_058",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_059.json",
-      "type": "products",
-      "md5": "e69c3664e9cce2c25bcbebb4c2532721",
-      "sizeBytes": 95215,
-      "updatedAt": "2026-06-06T13:41:50.626Z",
-      "vendorId": "vendor_gurgaon_059"
+      "md5": "32f705736c6c14597616284326de552f",
+      "sizeBytes": 100515,
+      "updatedAt": "2026-06-07T06:35:38.508Z",
+      "vendorId": "vendor_gurgaon_059",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_060.json",
-      "type": "products",
-      "md5": "284ab765ad734cf7373ec8cebf305474",
-      "sizeBytes": 95908,
-      "updatedAt": "2026-06-06T13:41:50.628Z",
-      "vendorId": "vendor_gurgaon_060"
+      "md5": "20379a92cb51512374688960f53b595d",
+      "sizeBytes": 101208,
+      "updatedAt": "2026-06-07T06:35:38.511Z",
+      "vendorId": "vendor_gurgaon_060",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_061.json",
-      "type": "products",
-      "md5": "76e2b5eda13ebece162679f7752672ea",
-      "sizeBytes": 92721,
-      "updatedAt": "2026-06-06T13:41:50.629Z",
-      "vendorId": "vendor_gurgaon_061"
+      "md5": "c4cd6a0d95056aac42a02750037b97a8",
+      "sizeBytes": 98021,
+      "updatedAt": "2026-06-07T06:35:38.513Z",
+      "vendorId": "vendor_gurgaon_061",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_062.json",
-      "type": "products",
-      "md5": "6520545d28ba46e14447e5841fc4d156",
-      "sizeBytes": 93561,
-      "updatedAt": "2026-06-06T13:41:50.631Z",
-      "vendorId": "vendor_gurgaon_062"
+      "md5": "3915c0db0b9a987bee9bf4db935aaa93",
+      "sizeBytes": 98861,
+      "updatedAt": "2026-06-07T06:35:38.515Z",
+      "vendorId": "vendor_gurgaon_062",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_063.json",
-      "type": "products",
-      "md5": "db82292e6c87510a81f8dc2281db9449",
-      "sizeBytes": 94231,
-      "updatedAt": "2026-06-06T13:41:50.633Z",
-      "vendorId": "vendor_gurgaon_063"
+      "md5": "266d1ebacfb41d5ace15c32cd9acca6f",
+      "sizeBytes": 99531,
+      "updatedAt": "2026-06-07T06:35:38.518Z",
+      "vendorId": "vendor_gurgaon_063",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_064.json",
-      "type": "products",
-      "md5": "d372b4a5251916645dce2ee0bebdddde",
-      "sizeBytes": 95885,
-      "updatedAt": "2026-06-06T13:41:50.634Z",
-      "vendorId": "vendor_gurgaon_064"
+      "md5": "568df35052d207206334a60c1256b951",
+      "sizeBytes": 101185,
+      "updatedAt": "2026-06-07T06:35:38.521Z",
+      "vendorId": "vendor_gurgaon_064",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_065.json",
-      "type": "products",
-      "md5": "b70496d52d2827b2379d4fbf2d2c132e",
-      "sizeBytes": 94114,
-      "updatedAt": "2026-06-06T13:41:50.636Z",
-      "vendorId": "vendor_gurgaon_065"
+      "md5": "99cbbed255edae307729e2c2e4004a52",
+      "sizeBytes": 99414,
+      "updatedAt": "2026-06-07T06:35:38.523Z",
+      "vendorId": "vendor_gurgaon_065",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_066.json",
-      "type": "products",
-      "md5": "9559ca1e1f514eac676d9ad5acbdbdaf",
-      "sizeBytes": 95333,
-      "updatedAt": "2026-06-06T13:41:50.637Z",
-      "vendorId": "vendor_gurgaon_066"
+      "md5": "aceb46d61706e3f534312df318decf52",
+      "sizeBytes": 100633,
+      "updatedAt": "2026-06-07T06:35:38.526Z",
+      "vendorId": "vendor_gurgaon_066",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_067.json",
-      "type": "products",
-      "md5": "cce5a7c459142414a29cac171d6422d3",
-      "sizeBytes": 94598,
-      "updatedAt": "2026-06-06T13:41:50.639Z",
-      "vendorId": "vendor_gurgaon_067"
+      "md5": "bebc7879766b7d3406bf5aa8e04e7e97",
+      "sizeBytes": 99898,
+      "updatedAt": "2026-06-07T06:35:38.528Z",
+      "vendorId": "vendor_gurgaon_067",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_068.json",
-      "type": "products",
-      "md5": "317f0bb5a6235234dd57768869a40df0",
-      "sizeBytes": 94459,
-      "updatedAt": "2026-06-06T13:41:50.641Z",
-      "vendorId": "vendor_gurgaon_068"
+      "md5": "769e0df6097724945a3543f436e1f7f2",
+      "sizeBytes": 99759,
+      "updatedAt": "2026-06-07T06:35:38.531Z",
+      "vendorId": "vendor_gurgaon_068",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_069.json",
-      "type": "products",
-      "md5": "1c57eb195f81f47ed933f5c55c15847a",
-      "sizeBytes": 93513,
-      "updatedAt": "2026-06-06T13:41:50.642Z",
-      "vendorId": "vendor_gurgaon_069"
+      "md5": "cf02f630158354bb6afbcdeed2f28b75",
+      "sizeBytes": 98813,
+      "updatedAt": "2026-06-07T06:35:38.533Z",
+      "vendorId": "vendor_gurgaon_069",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_070.json",
-      "type": "products",
-      "md5": "8539c9446c29a934d46cc38aabf7288a",
-      "sizeBytes": 93323,
-      "updatedAt": "2026-06-06T13:41:50.644Z",
-      "vendorId": "vendor_gurgaon_070"
+      "md5": "15518f629510213f6b8753685d5d05d7",
+      "sizeBytes": 98623,
+      "updatedAt": "2026-06-07T06:35:38.535Z",
+      "vendorId": "vendor_gurgaon_070",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_071.json",
-      "type": "products",
-      "md5": "d40b5a105bd0fa4d1a8d88781538e36c",
-      "sizeBytes": 94670,
-      "updatedAt": "2026-06-06T13:41:50.646Z",
-      "vendorId": "vendor_gurgaon_071"
+      "md5": "0bd55f75d010b748b2d5d11b0ff8fcd2",
+      "sizeBytes": 99970,
+      "updatedAt": "2026-06-07T06:35:38.536Z",
+      "vendorId": "vendor_gurgaon_071",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_072.json",
-      "type": "products",
-      "md5": "166840c5814ecfe184a2d0b209b2cb41",
-      "sizeBytes": 94734,
-      "updatedAt": "2026-06-06T13:41:50.648Z",
-      "vendorId": "vendor_gurgaon_072"
+      "md5": "0bf84d687cb2d2244c07d09cc24442be",
+      "sizeBytes": 100034,
+      "updatedAt": "2026-06-07T06:35:38.539Z",
+      "vendorId": "vendor_gurgaon_072",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_073.json",
-      "type": "products",
-      "md5": "baf68ff75899c3314b2ae3810edbd289",
-      "sizeBytes": 93337,
-      "updatedAt": "2026-06-06T13:41:50.650Z",
-      "vendorId": "vendor_gurgaon_073"
+      "md5": "baedd806b09d19894ad25e77fde1826e",
+      "sizeBytes": 98637,
+      "updatedAt": "2026-06-07T06:35:38.541Z",
+      "vendorId": "vendor_gurgaon_073",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_074.json",
-      "type": "products",
-      "md5": "06472213ef4d0f0f45c747807c0bdeea",
-      "sizeBytes": 93461,
-      "updatedAt": "2026-06-06T13:41:50.651Z",
-      "vendorId": "vendor_gurgaon_074"
+      "md5": "fa7d7fa598b5f19a645aabf90bae58ad",
+      "sizeBytes": 98761,
+      "updatedAt": "2026-06-07T06:35:38.544Z",
+      "vendorId": "vendor_gurgaon_074",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_075.json",
-      "type": "products",
-      "md5": "121f3a5720771216faaea93219c348b0",
-      "sizeBytes": 94056,
-      "updatedAt": "2026-06-06T13:41:50.653Z",
-      "vendorId": "vendor_gurgaon_075"
+      "md5": "d918b29851126f0dabb401cd1570bd2d",
+      "sizeBytes": 99356,
+      "updatedAt": "2026-06-07T06:35:38.546Z",
+      "vendorId": "vendor_gurgaon_075",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_076.json",
-      "type": "products",
-      "md5": "401bb41cca79f93ab9420da78eb1cfe4",
-      "sizeBytes": 94760,
-      "updatedAt": "2026-06-06T13:41:50.655Z",
-      "vendorId": "vendor_gurgaon_076"
+      "md5": "f430c2049e6ce728c295a6f9058631b7",
+      "sizeBytes": 100060,
+      "updatedAt": "2026-06-07T06:35:38.548Z",
+      "vendorId": "vendor_gurgaon_076",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_077.json",
-      "type": "products",
-      "md5": "2f3e6dc8fe35d4d7c83a3e35b0135c8c",
-      "sizeBytes": 93693,
-      "updatedAt": "2026-06-06T13:41:50.656Z",
-      "vendorId": "vendor_gurgaon_077"
+      "md5": "0446a29a1bf466f04bd5eed130c32f24",
+      "sizeBytes": 98993,
+      "updatedAt": "2026-06-07T06:35:38.550Z",
+      "vendorId": "vendor_gurgaon_077",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_078.json",
-      "type": "products",
-      "md5": "561daca66dfebc834578ad435ae54526",
-      "sizeBytes": 95686,
-      "updatedAt": "2026-06-06T13:41:50.658Z",
-      "vendorId": "vendor_gurgaon_078"
+      "md5": "ba95c4322e5985bb54b8037843d8f316",
+      "sizeBytes": 100986,
+      "updatedAt": "2026-06-07T06:35:38.552Z",
+      "vendorId": "vendor_gurgaon_078",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_079.json",
-      "type": "products",
-      "md5": "1490b161bd31e9bc767a31e3217d201f",
-      "sizeBytes": 93719,
-      "updatedAt": "2026-06-06T13:41:50.659Z",
-      "vendorId": "vendor_gurgaon_079"
+      "md5": "ee5cf36eef4237ca6bfabe70e90ac5f0",
+      "sizeBytes": 99019,
+      "updatedAt": "2026-06-07T06:35:38.555Z",
+      "vendorId": "vendor_gurgaon_079",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_080.json",
-      "type": "products",
-      "md5": "eeffe4444f0ef5988721b33ae7912315",
-      "sizeBytes": 93656,
-      "updatedAt": "2026-06-06T13:41:50.661Z",
-      "vendorId": "vendor_gurgaon_080"
+      "md5": "65f765d130709dbfa5ce00ad4a73f147",
+      "sizeBytes": 98956,
+      "updatedAt": "2026-06-07T06:35:38.557Z",
+      "vendorId": "vendor_gurgaon_080",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_081.json",
-      "type": "products",
-      "md5": "8499d08d7aa86b84b4712defcb6009d3",
-      "sizeBytes": 92745,
-      "updatedAt": "2026-06-06T13:41:50.663Z",
-      "vendorId": "vendor_gurgaon_081"
+      "md5": "000358a725e5217b9141a15b1f11e940",
+      "sizeBytes": 98045,
+      "updatedAt": "2026-06-07T06:35:38.559Z",
+      "vendorId": "vendor_gurgaon_081",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_082.json",
-      "type": "products",
-      "md5": "8ef12ed03b034736360fc54c3815552d",
-      "sizeBytes": 93632,
-      "updatedAt": "2026-06-06T13:41:50.665Z",
-      "vendorId": "vendor_gurgaon_082"
+      "md5": "bb7753af679e175517c929e7ef71dc18",
+      "sizeBytes": 98932,
+      "updatedAt": "2026-06-07T06:35:38.561Z",
+      "vendorId": "vendor_gurgaon_082",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_083.json",
-      "type": "products",
-      "md5": "bb5db9728163b122aa2b63b19bce282e",
-      "sizeBytes": 93090,
-      "updatedAt": "2026-06-06T13:41:50.667Z",
-      "vendorId": "vendor_gurgaon_083"
+      "md5": "e53065ec523b1677f3009a5690c7c4e0",
+      "sizeBytes": 98390,
+      "updatedAt": "2026-06-07T06:35:38.564Z",
+      "vendorId": "vendor_gurgaon_083",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_084.json",
-      "type": "products",
-      "md5": "b42046cf381e06b619a78a186b74e2a0",
-      "sizeBytes": 94304,
-      "updatedAt": "2026-06-06T13:41:50.668Z",
-      "vendorId": "vendor_gurgaon_084"
+      "md5": "d7f7de4ef513204c19e96ce7b8934e64",
+      "sizeBytes": 99604,
+      "updatedAt": "2026-06-07T06:35:38.567Z",
+      "vendorId": "vendor_gurgaon_084",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_085.json",
-      "type": "products",
-      "md5": "f540d39539c54eee25866b97a268c7e4",
-      "sizeBytes": 94746,
-      "updatedAt": "2026-06-06T13:41:50.670Z",
-      "vendorId": "vendor_gurgaon_085"
+      "md5": "2ba8ed5e729b9ebbf5f18993616b410f",
+      "sizeBytes": 100046,
+      "updatedAt": "2026-06-07T06:35:38.569Z",
+      "vendorId": "vendor_gurgaon_085",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_086.json",
-      "type": "products",
-      "md5": "7701610d5505ab362800648ca86ab745",
-      "sizeBytes": 95589,
-      "updatedAt": "2026-06-06T13:41:50.672Z",
-      "vendorId": "vendor_gurgaon_086"
+      "md5": "1f425ac78aa45312df90f8c5d7aa6a75",
+      "sizeBytes": 100889,
+      "updatedAt": "2026-06-07T06:35:38.571Z",
+      "vendorId": "vendor_gurgaon_086",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_087.json",
-      "type": "products",
-      "md5": "b5d06f15c8430d9ce38c7533d5e78301",
-      "sizeBytes": 93352,
-      "updatedAt": "2026-06-06T13:41:50.673Z",
-      "vendorId": "vendor_gurgaon_087"
+      "md5": "fada61e45bed065db2076b8d5034788e",
+      "sizeBytes": 98652,
+      "updatedAt": "2026-06-07T06:35:38.573Z",
+      "vendorId": "vendor_gurgaon_087",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_088.json",
-      "type": "products",
-      "md5": "9c25d89d015ecd6e2c56876a38088a01",
-      "sizeBytes": 93845,
-      "updatedAt": "2026-06-06T13:41:50.675Z",
-      "vendorId": "vendor_gurgaon_088"
+      "md5": "91ee15af5051996849a3b7c76f7081ec",
+      "sizeBytes": 99145,
+      "updatedAt": "2026-06-07T06:35:38.575Z",
+      "vendorId": "vendor_gurgaon_088",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_089.json",
-      "type": "products",
-      "md5": "fadafa4a89e1e0e86266bccd21aca699",
-      "sizeBytes": 93609,
-      "updatedAt": "2026-06-06T13:41:50.676Z",
-      "vendorId": "vendor_gurgaon_089"
+      "md5": "2a194b8262afd000becbdfe37d61dcc7",
+      "sizeBytes": 98909,
+      "updatedAt": "2026-06-07T06:35:38.577Z",
+      "vendorId": "vendor_gurgaon_089",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_090.json",
-      "type": "products",
-      "md5": "ec578b2b8924dc4b67e7d9d7b403fe24",
-      "sizeBytes": 94822,
-      "updatedAt": "2026-06-06T13:41:50.678Z",
-      "vendorId": "vendor_gurgaon_090"
+      "md5": "d2934ef908f5d107a6621bf6d17b7046",
+      "sizeBytes": 100122,
+      "updatedAt": "2026-06-07T06:35:38.580Z",
+      "vendorId": "vendor_gurgaon_090",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_091.json",
-      "type": "products",
-      "md5": "de0772f0b909fc42db113700a887d673",
-      "sizeBytes": 94208,
-      "updatedAt": "2026-06-06T13:41:50.680Z",
-      "vendorId": "vendor_gurgaon_091"
+      "md5": "87d7a567d64a8ad347ad2d8250c9a6a8",
+      "sizeBytes": 99508,
+      "updatedAt": "2026-06-07T06:35:38.582Z",
+      "vendorId": "vendor_gurgaon_091",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_092.json",
-      "type": "products",
-      "md5": "ed7ffa88f1451adca22651b090a31a39",
-      "sizeBytes": 94747,
-      "updatedAt": "2026-06-06T13:41:50.682Z",
-      "vendorId": "vendor_gurgaon_092"
+      "md5": "b508e3827b5b272e2b6d5a4119ad76b5",
+      "sizeBytes": 100047,
+      "updatedAt": "2026-06-07T06:35:38.584Z",
+      "vendorId": "vendor_gurgaon_092",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_093.json",
-      "type": "products",
-      "md5": "49aa49e2bd4fa9ad8808e50539a0cd72",
-      "sizeBytes": 95437,
-      "updatedAt": "2026-06-06T13:41:50.684Z",
-      "vendorId": "vendor_gurgaon_093"
+      "md5": "a5bbaac51a1772fc1874b7ae826168d3",
+      "sizeBytes": 100737,
+      "updatedAt": "2026-06-07T06:35:38.586Z",
+      "vendorId": "vendor_gurgaon_093",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_094.json",
-      "type": "products",
-      "md5": "c426e404ff42e085805bb193cdab3aeb",
-      "sizeBytes": 94074,
-      "updatedAt": "2026-06-06T13:41:50.685Z",
-      "vendorId": "vendor_gurgaon_094"
+      "md5": "85a950a9cf4dfe1874b3f87295f6a549",
+      "sizeBytes": 99374,
+      "updatedAt": "2026-06-07T06:35:38.588Z",
+      "vendorId": "vendor_gurgaon_094",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_095.json",
-      "type": "products",
-      "md5": "1f79cdc022692250633f3f72c511dbad",
-      "sizeBytes": 94457,
-      "updatedAt": "2026-06-06T13:41:50.687Z",
-      "vendorId": "vendor_gurgaon_095"
+      "md5": "56f6d229a8250311f6f15b5713eb57d1",
+      "sizeBytes": 99757,
+      "updatedAt": "2026-06-07T06:35:38.590Z",
+      "vendorId": "vendor_gurgaon_095",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_096.json",
-      "type": "products",
-      "md5": "dd98145c7cc8741190be112412f7bb4a",
-      "sizeBytes": 94561,
-      "updatedAt": "2026-06-06T13:41:50.688Z",
-      "vendorId": "vendor_gurgaon_096"
+      "md5": "6a70ada42f3c4a0ad83554138dab4d4b",
+      "sizeBytes": 99861,
+      "updatedAt": "2026-06-07T06:35:38.593Z",
+      "vendorId": "vendor_gurgaon_096",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_097.json",
-      "type": "products",
-      "md5": "cd8bb06bcb1f4c7587991213c87e0d9c",
-      "sizeBytes": 93134,
-      "updatedAt": "2026-06-06T13:41:50.690Z",
-      "vendorId": "vendor_gurgaon_097"
+      "md5": "1e6ec9835326b957e91342abb5c7c518",
+      "sizeBytes": 98434,
+      "updatedAt": "2026-06-07T06:35:38.595Z",
+      "vendorId": "vendor_gurgaon_097",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_098.json",
-      "type": "products",
-      "md5": "250428ac5cad03efcb999f84e6a46be0",
-      "sizeBytes": 94466,
-      "updatedAt": "2026-06-06T13:41:50.691Z",
-      "vendorId": "vendor_gurgaon_098"
+      "md5": "44ce70ec3379d8884efabd424e8f5211",
+      "sizeBytes": 99766,
+      "updatedAt": "2026-06-07T06:35:38.597Z",
+      "vendorId": "vendor_gurgaon_098",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_099.json",
-      "type": "products",
-      "md5": "2ebacb09c0c377a4c0fa6fc05d80b7a4",
-      "sizeBytes": 93769,
-      "updatedAt": "2026-06-06T13:41:50.693Z",
-      "vendorId": "vendor_gurgaon_099"
+      "md5": "12a16b1883a40b3834704b15e7ea68cb",
+      "sizeBytes": 99069,
+      "updatedAt": "2026-06-07T06:35:38.599Z",
+      "vendorId": "vendor_gurgaon_099",
+      "type": "products"
     },
     {
       "path": "products/vendor_gurgaon_100.json",
-      "type": "products",
-      "md5": "9a5c01a43cec29c2c14d64f6f1d1f570",
-      "sizeBytes": 94222,
-      "updatedAt": "2026-06-06T13:41:50.695Z",
-      "vendorId": "vendor_gurgaon_100"
+      "md5": "bc0663c29c0c1b525e47cbc972a8beb0",
+      "sizeBytes": 99522,
+      "updatedAt": "2026-06-07T06:35:38.601Z",
+      "vendorId": "vendor_gurgaon_100",
+      "type": "products"
     },
     {
       "path": "vendors/index.json",
-      "type": "vendors",
       "md5": "d774154d8df946d1b5f4e6fa3e467351",
       "sizeBytes": 88264,
-      "updatedAt": "2026-06-06T14:30:29.588Z"
+      "updatedAt": "2026-06-06T14:30:29.588Z",
+      "type": "vendors"
     }
-  ],
-  "entriesMd5": "bdc70b9d2ed24d158054331f87cea450"
+  ]
 }
