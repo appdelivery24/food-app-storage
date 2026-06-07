@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "batchId": "6ebc2a14-ab0b-43e2-8adb-0b3ae54bbb08",
+  "regions": {
+    "ncr": {
+      "name": "National Capital Region",
+      "cities": [
+        "delhi",
+        "noida",
+        "gurgaon"
+      ]
+    },
+    "west": {
+      "name": "West India",
+      "cities": [
+        "mumbai"
+      ]
+    },
+    "south": {
+      "name": "South India",
+      "cities": [
+        "bangalore"
+      ]
+    }
+  },
+  "cities": [
+    {
+      "id": "delhi",
+      "region": "ncr",
+      "vendors": 100,
+      "products": 10000,
+      "manifestVersion": "1547c52fe8751aadbefbb056881a90fc"
+    },
+    {
+      "id": "noida",
+      "region": "ncr",
+      "vendors": 100,
+      "products": 10000,
+      "manifestVersion": "a8512933911ce159d048a0fd98be9aa0"
+    },
+    {
+      "id": "gurgaon",
+      "region": "ncr",
+      "vendors": 100,
+      "products": 10000,
+      "manifestVersion": "63eebea3db711b5ecddb7f33050263de"
+    },
+    {
+      "id": "mumbai",
+      "region": "west",
+      "vendors": 100,
+      "products": 10000,
+      "manifestVersion": "e35a331ff21dc21975f08f832ccba8c4"
+    },
+    {
+      "id": "bangalore",
+      "region": "south",
+      "vendors": 100,
+      "products": 10000,
+      "manifestVersion": "6647b9f74d7d1f50e67bdd5141f9f7fa"
+    }
+  ],
+  "scale": {
+    "vendorsPerCity": 100,
+    "productsPerVendor": 100,
+    "restaurantsPerCity": 50,
+    "groceryPerCity": 50
+  },
+  "totalVendors": 500,
+  "totalProducts": 50000,
+  "generatedAt": "2026-06-06T13:41:50.170Z",
+  "manifestVersion": "d99f52e5e1327c91b229c8c9fca2d910",
+  "cityManifests": [
+    {
+      "id": "delhi",
+      "region": "ncr",
+      "manifestVersion": "1547c52fe8751aadbefbb056881a90fc",
+      "entryCount": 203
+    },
+    {
+      "id": "noida",
+      "region": "ncr",
+      "manifestVersion": "a8512933911ce159d048a0fd98be9aa0",
+      "entryCount": 203
+    },
+    {
+      "id": "gurgaon",
+      "region": "ncr",
+      "manifestVersion": "63eebea3db711b5ecddb7f33050263de",
+      "entryCount": 203
+    },
+    {
+      "id": "mumbai",
+      "region": "west",
+      "manifestVersion": "e35a331ff21dc21975f08f832ccba8c4",
+      "entryCount": 203
+    },
+    {
+      "id": "bangalore",
+      "region": "south",
+      "manifestVersion": "6647b9f74d7d1f50e67bdd5141f9f7fa",
+      "entryCount": 203
+    }
+  ],
+  "manifestUpdatedAt": "2026-06-06T16:38:19.952Z"
+}

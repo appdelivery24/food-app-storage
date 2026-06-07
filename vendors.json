@@ -1,0 +1,325 @@
+{
+  "version": 1,
+  "count": 10,
+  "updatedAt": "2026-06-06T13:26:33.634Z",
+  "items": [
+    {
+      "id": "vendor_delhi_001",
+      "type": "restaurant",
+      "name": "Kitchen Grill",
+      "city": "delhi",
+      "region": "ncr",
+      "latitude": 28.613249,
+      "longitude": 77.19859,
+      "rating": 4.1,
+      "categories": [
+        "street-food"
+      ],
+      "isPureVeg": false,
+      "searchTokens": [
+        "kitchen grill",
+        "kitchen",
+        "grill",
+        "street-food",
+        "street",
+        "food",
+        "restaurant",
+        "delivery",
+        "meals"
+      ],
+      "logoImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756188/food-grocery/vendors/vendor_delhi_001/logo.webp",
+      "bannerImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756186/food-grocery/vendors/vendor_delhi_001/banner.webp"
+    },
+    {
+      "id": "vendor_delhi_002",
+      "type": "grocery",
+      "name": "Zepto Grocer",
+      "city": "delhi",
+      "region": "ncr",
+      "latitude": 28.61546,
+      "longitude": 77.208185,
+      "rating": 3.6,
+      "categories": [
+        "baby-care",
+        "dairy-bread-eggs",
+        "personal-care"
+      ],
+      "isPureVeg": false,
+      "searchTokens": [
+        "zepto grocer",
+        "zepto",
+        "grocer",
+        "baby-care",
+        "baby",
+        "care",
+        "dairy-bread-eggs",
+        "dairy",
+        "bread",
+        "eggs",
+        "personal-care",
+        "personal",
+        "grocery",
+        "mart",
+        "quick commerce",
+        "quick",
+        "commerce",
+        "essentials"
+      ],
+      "logoImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756189/food-grocery/vendors/vendor_delhi_002/logo.webp",
+      "bannerImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756188/food-grocery/vendors/vendor_delhi_002/banner.webp"
+    },
+    {
+      "id": "vendor_noida_001",
+      "type": "restaurant",
+      "name": "Cafe Flavors",
+      "city": "noida",
+      "region": "ncr",
+      "latitude": 28.536965,
+      "longitude": 77.373731,
+      "rating": 3.7,
+      "categories": [
+        "south-indian"
+      ],
+      "isPureVeg": false,
+      "searchTokens": [
+        "cafe flavors",
+        "cafe",
+        "flavors",
+        "south-indian",
+        "south",
+        "indian",
+        "food",
+        "restaurant",
+        "delivery",
+        "meals"
+      ],
+      "logoImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756195/food-grocery/vendors/vendor_noida_001/logo.webp",
+      "bannerImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756194/food-grocery/vendors/vendor_noida_001/banner.webp"
+    },
+    {
+      "id": "vendor_noida_002",
+      "type": "grocery",
+      "name": "Zepto Hub",
+      "city": "noida",
+      "region": "ncr",
+      "latitude": 28.539775,
+      "longitude": 77.384963,
+      "rating": 3.9,
+      "categories": [
+        "baby-care",
+        "dairy-bread-eggs",
+        "household",
+        "snacks-beverages"
+      ],
+      "isPureVeg": false,
+      "searchTokens": [
+        "zepto hub",
+        "zepto",
+        "hub",
+        "baby-care",
+        "baby",
+        "care",
+        "dairy-bread-eggs",
+        "dairy",
+        "bread",
+        "eggs",
+        "household",
+        "snacks-beverages",
+        "snacks",
+        "beverages",
+        "grocery",
+        "mart",
+        "quick commerce",
+        "quick",
+        "commerce",
+        "essentials"
+      ],
+      "logoImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756196/food-grocery/vendors/vendor_noida_002/logo.webp",
+      "bannerImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756195/food-grocery/vendors/vendor_noida_002/banner.webp"
+    },
+    {
+      "id": "vendor_gurgaon_001",
+      "type": "restaurant",
+      "name": "Golden Kitchen",
+      "city": "gurgaon",
+      "region": "ncr",
+      "latitude": 28.463156,
+      "longitude": 77.043183,
+      "rating": 3.9,
+      "categories": [
+        "biryani",
+        "north-indian",
+        "street-food"
+      ],
+      "isPureVeg": false,
+      "searchTokens": [
+        "golden kitchen",
+        "golden",
+        "kitchen",
+        "biryani",
+        "north-indian",
+        "north",
+        "indian",
+        "street-food",
+        "street",
+        "food",
+        "restaurant",
+        "delivery",
+        "meals"
+      ],
+      "logoImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756190/food-grocery/vendors/vendor_gurgaon_001/logo.webp",
+      "bannerImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756189/food-grocery/vendors/vendor_gurgaon_001/banner.webp"
+    },
+    {
+      "id": "vendor_gurgaon_002",
+      "type": "grocery",
+      "name": "Express Daily",
+      "city": "gurgaon",
+      "region": "ncr",
+      "latitude": 28.460801,
+      "longitude": 77.026542,
+      "rating": 3.7,
+      "categories": [
+        "fruits-vegetables",
+        "household",
+        "staples"
+      ],
+      "isPureVeg": false,
+      "searchTokens": [
+        "express daily",
+        "express",
+        "daily",
+        "fruits-vegetables",
+        "fruits",
+        "vegetables",
+        "household",
+        "staples",
+        "grocery",
+        "mart",
+        "quick commerce",
+        "quick",
+        "commerce",
+        "essentials"
+      ],
+      "logoImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756191/food-grocery/vendors/vendor_gurgaon_002/logo.webp",
+      "bannerImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756190/food-grocery/vendors/vendor_gurgaon_002/banner.webp"
+    },
+    {
+      "id": "vendor_mumbai_001",
+      "type": "restaurant",
+      "name": "Desi Spot",
+      "city": "mumbai",
+      "region": "west",
+      "latitude": 19.106718,
+      "longitude": 72.858455,
+      "rating": 4.1,
+      "categories": [
+        "healthy"
+      ],
+      "isPureVeg": false,
+      "searchTokens": [
+        "desi spot",
+        "desi",
+        "spot",
+        "healthy",
+        "food",
+        "restaurant",
+        "delivery",
+        "meals"
+      ],
+      "logoImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756193/food-grocery/vendors/vendor_mumbai_001/logo.webp",
+      "bannerImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756191/food-grocery/vendors/vendor_mumbai_001/banner.webp"
+    },
+    {
+      "id": "vendor_mumbai_002",
+      "type": "grocery",
+      "name": "Metro Grocer",
+      "city": "mumbai",
+      "region": "west",
+      "latitude": 19.071505,
+      "longitude": 72.86651,
+      "rating": 3.7,
+      "categories": [
+        "frozen",
+        "staples"
+      ],
+      "isPureVeg": false,
+      "searchTokens": [
+        "metro grocer",
+        "metro",
+        "grocer",
+        "frozen",
+        "staples",
+        "grocery",
+        "mart",
+        "quick commerce",
+        "quick",
+        "commerce",
+        "essentials"
+      ],
+      "logoImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756194/food-grocery/vendors/vendor_mumbai_002/logo.webp",
+      "bannerImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756193/food-grocery/vendors/vendor_mumbai_002/banner.webp"
+    },
+    {
+      "id": "vendor_bangalore_001",
+      "type": "restaurant",
+      "name": "Hungry Corner",
+      "city": "bangalore",
+      "region": "south",
+      "latitude": 12.971256,
+      "longitude": 77.604962,
+      "rating": 4.2,
+      "categories": [
+        "continental",
+        "healthy",
+        "street-food"
+      ],
+      "isPureVeg": true,
+      "searchTokens": [
+        "hungry corner",
+        "hungry",
+        "corner",
+        "continental",
+        "healthy",
+        "street-food",
+        "street",
+        "food",
+        "restaurant",
+        "delivery",
+        "meals"
+      ],
+      "logoImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756185/food-grocery/vendors/vendor_bangalore_001/logo.webp",
+      "bannerImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756184/food-grocery/vendors/vendor_bangalore_001/banner.webp"
+    },
+    {
+      "id": "vendor_bangalore_002",
+      "type": "grocery",
+      "name": "Smart Grocer",
+      "city": "bangalore",
+      "region": "south",
+      "latitude": 12.969849,
+      "longitude": 77.597063,
+      "rating": 3.8,
+      "categories": [
+        "frozen",
+        "household"
+      ],
+      "isPureVeg": false,
+      "searchTokens": [
+        "smart grocer",
+        "smart",
+        "grocer",
+        "frozen",
+        "household",
+        "grocery",
+        "mart",
+        "quick commerce",
+        "quick",
+        "commerce",
+        "essentials"
+      ],
+      "logoImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756186/food-grocery/vendors/vendor_bangalore_002/logo.webp",
+      "bannerImage": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756185/food-grocery/vendors/vendor_bangalore_002/banner.webp"
+    }
+  ]
+}

@@ -1,0 +1,1106 @@
+{
+  "vendors": [
+    {
+      "id": "vendor_delhi_001",
+      "name": "Kitchen Grill",
+      "city": "delhi",
+      "type": "restaurant",
+      "rating": 4.1,
+      "tokens": [
+        "kitchen grill",
+        "kitchen",
+        "grill",
+        "street-food",
+        "street",
+        "food",
+        "restaurant",
+        "delivery",
+        "meals"
+      ]
+    },
+    {
+      "id": "vendor_delhi_002",
+      "name": "Zepto Grocer",
+      "city": "delhi",
+      "type": "grocery",
+      "rating": 3.6,
+      "tokens": [
+        "zepto grocer",
+        "zepto",
+        "grocer",
+        "baby-care",
+        "baby",
+        "care",
+        "dairy-bread-eggs",
+        "dairy",
+        "bread",
+        "eggs",
+        "personal-care",
+        "personal",
+        "grocery",
+        "mart",
+        "quick commerce",
+        "quick",
+        "commerce",
+        "essentials"
+      ]
+    },
+    {
+      "id": "vendor_noida_001",
+      "name": "Cafe Flavors",
+      "city": "noida",
+      "type": "restaurant",
+      "rating": 3.7,
+      "tokens": [
+        "cafe flavors",
+        "cafe",
+        "flavors",
+        "south-indian",
+        "south",
+        "indian",
+        "food",
+        "restaurant",
+        "delivery",
+        "meals"
+      ]
+    },
+    {
+      "id": "vendor_noida_002",
+      "name": "Zepto Hub",
+      "city": "noida",
+      "type": "grocery",
+      "rating": 3.9,
+      "tokens": [
+        "zepto hub",
+        "zepto",
+        "hub",
+        "baby-care",
+        "baby",
+        "care",
+        "dairy-bread-eggs",
+        "dairy",
+        "bread",
+        "eggs",
+        "household",
+        "snacks-beverages",
+        "snacks",
+        "beverages",
+        "grocery",
+        "mart",
+        "quick commerce",
+        "quick",
+        "commerce",
+        "essentials"
+      ]
+    },
+    {
+      "id": "vendor_gurgaon_001",
+      "name": "Golden Kitchen",
+      "city": "gurgaon",
+      "type": "restaurant",
+      "rating": 3.9,
+      "tokens": [
+        "golden kitchen",
+        "golden",
+        "kitchen",
+        "biryani",
+        "north-indian",
+        "north",
+        "indian",
+        "street-food",
+        "street",
+        "food",
+        "restaurant",
+        "delivery",
+        "meals"
+      ]
+    },
+    {
+      "id": "vendor_gurgaon_002",
+      "name": "Express Daily",
+      "city": "gurgaon",
+      "type": "grocery",
+      "rating": 3.7,
+      "tokens": [
+        "express daily",
+        "express",
+        "daily",
+        "fruits-vegetables",
+        "fruits",
+        "vegetables",
+        "household",
+        "staples",
+        "grocery",
+        "mart",
+        "quick commerce",
+        "quick",
+        "commerce",
+        "essentials"
+      ]
+    },
+    {
+      "id": "vendor_mumbai_001",
+      "name": "Desi Spot",
+      "city": "mumbai",
+      "type": "restaurant",
+      "rating": 4.1,
+      "tokens": [
+        "desi spot",
+        "desi",
+        "spot",
+        "healthy",
+        "food",
+        "restaurant",
+        "delivery",
+        "meals"
+      ]
+    },
+    {
+      "id": "vendor_mumbai_002",
+      "name": "Metro Grocer",
+      "city": "mumbai",
+      "type": "grocery",
+      "rating": 3.7,
+      "tokens": [
+        "metro grocer",
+        "metro",
+        "grocer",
+        "frozen",
+        "staples",
+        "grocery",
+        "mart",
+        "quick commerce",
+        "quick",
+        "commerce",
+        "essentials"
+      ]
+    },
+    {
+      "id": "vendor_bangalore_001",
+      "name": "Hungry Corner",
+      "city": "bangalore",
+      "type": "restaurant",
+      "rating": 4.2,
+      "tokens": [
+        "hungry corner",
+        "hungry",
+        "corner",
+        "continental",
+        "healthy",
+        "street-food",
+        "street",
+        "food",
+        "restaurant",
+        "delivery",
+        "meals"
+      ]
+    },
+    {
+      "id": "vendor_bangalore_002",
+      "name": "Smart Grocer",
+      "city": "bangalore",
+      "type": "grocery",
+      "rating": 3.8,
+      "tokens": [
+        "smart grocer",
+        "smart",
+        "grocer",
+        "frozen",
+        "household",
+        "grocery",
+        "mart",
+        "quick commerce",
+        "quick",
+        "commerce",
+        "essentials"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "product_vendor_delhi_001_001",
+      "vendorId": "vendor_delhi_001",
+      "name": "Aloo Tikki Chaat",
+      "city": "delhi",
+      "category": "street-food",
+      "price": 205,
+      "tokens": [
+        "aloo tikki chaat",
+        "aloo",
+        "tikki",
+        "chaat",
+        "street-food",
+        "street",
+        "food",
+        "vada-pav",
+        "vada",
+        "pav",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_delhi_001_002",
+      "vendorId": "vendor_delhi_001",
+      "name": "Vada Pav",
+      "city": "delhi",
+      "category": "street-food",
+      "price": 394,
+      "tokens": [
+        "vada pav",
+        "vada",
+        "pav",
+        "street-food",
+        "street",
+        "food",
+        "pav-bhaji",
+        "bhaji",
+        "non-veg",
+        "non",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_delhi_001_003",
+      "vendorId": "vendor_delhi_001",
+      "name": "Veg Momos",
+      "city": "delhi",
+      "category": "street-food",
+      "price": 463,
+      "tokens": [
+        "veg momos",
+        "veg",
+        "momos",
+        "street-food",
+        "street",
+        "food",
+        "pav-bhaji",
+        "pav",
+        "bhaji"
+      ]
+    },
+    {
+      "id": "product_vendor_delhi_001_004",
+      "vendorId": "vendor_delhi_001",
+      "name": "Pav Bhaji",
+      "city": "delhi",
+      "category": "street-food",
+      "price": 296,
+      "tokens": [
+        "pav bhaji",
+        "pav",
+        "bhaji",
+        "street-food",
+        "street",
+        "food",
+        "chaat",
+        "non-veg",
+        "non",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_delhi_001_005",
+      "vendorId": "vendor_delhi_001",
+      "name": "Veg Momos",
+      "city": "delhi",
+      "category": "street-food",
+      "price": 738,
+      "tokens": [
+        "veg momos",
+        "veg",
+        "momos",
+        "street-food",
+        "street",
+        "food",
+        "rolls",
+        "non-veg",
+        "non"
+      ]
+    },
+    {
+      "id": "product_vendor_delhi_002_001",
+      "vendorId": "vendor_delhi_002",
+      "name": "Pampers Diapers M",
+      "city": "delhi",
+      "category": "baby-care",
+      "price": 79,
+      "tokens": [
+        "pampers diapers m",
+        "pampers",
+        "diapers",
+        "baby-care",
+        "baby",
+        "care",
+        "baby-food",
+        "food",
+        "m"
+      ]
+    },
+    {
+      "id": "product_vendor_delhi_002_002",
+      "vendorId": "vendor_delhi_002",
+      "name": "Himalaya Baby Wipes",
+      "city": "delhi",
+      "category": "baby-care",
+      "price": 858,
+      "tokens": [
+        "himalaya baby wipes",
+        "himalaya",
+        "baby",
+        "wipes",
+        "baby-care",
+        "care"
+      ]
+    },
+    {
+      "id": "product_vendor_delhi_002_003",
+      "vendorId": "vendor_delhi_002",
+      "name": "Johnson Baby Powder",
+      "city": "delhi",
+      "category": "baby-care",
+      "price": 348,
+      "tokens": [
+        "johnson baby powder",
+        "johnson",
+        "baby",
+        "powder",
+        "baby-care",
+        "care",
+        "diapers"
+      ]
+    },
+    {
+      "id": "product_vendor_delhi_002_004",
+      "vendorId": "vendor_delhi_002",
+      "name": "Nivea Moisturizer",
+      "city": "delhi",
+      "category": "personal-care",
+      "price": 418,
+      "tokens": [
+        "nivea moisturizer",
+        "nivea",
+        "moisturizer",
+        "personal-care",
+        "personal",
+        "care",
+        "toothpaste"
+      ]
+    },
+    {
+      "id": "product_vendor_delhi_002_005",
+      "vendorId": "vendor_delhi_002",
+      "name": "Pampers Diapers M",
+      "city": "delhi",
+      "category": "baby-care",
+      "price": 222,
+      "tokens": [
+        "pampers diapers m",
+        "pampers",
+        "diapers",
+        "baby-care",
+        "baby",
+        "care",
+        "wipes",
+        "m"
+      ]
+    },
+    {
+      "id": "product_vendor_noida_001_001",
+      "vendorId": "vendor_noida_001",
+      "name": "Idli Sambar",
+      "city": "noida",
+      "category": "south-indian",
+      "price": 451,
+      "tokens": [
+        "idli sambar",
+        "idli",
+        "sambar",
+        "south-indian",
+        "south",
+        "indian",
+        "rasam",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_noida_001_002",
+      "vendorId": "vendor_noida_001",
+      "name": "Hyderabadi Biryani",
+      "city": "noida",
+      "category": "south-indian",
+      "price": 131,
+      "tokens": [
+        "hyderabadi biryani",
+        "hyderabadi",
+        "biryani",
+        "south-indian",
+        "south",
+        "indian",
+        "vada",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_noida_001_003",
+      "vendorId": "vendor_noida_001",
+      "name": "Masala Dosa",
+      "city": "noida",
+      "category": "south-indian",
+      "price": 201,
+      "tokens": [
+        "masala dosa",
+        "masala",
+        "dosa",
+        "south-indian",
+        "south",
+        "indian",
+        "vada",
+        "non-veg",
+        "non",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_noida_001_004",
+      "vendorId": "vendor_noida_001",
+      "name": "Hyderabadi Biryani",
+      "city": "noida",
+      "category": "south-indian",
+      "price": 330,
+      "tokens": [
+        "hyderabadi biryani",
+        "hyderabadi",
+        "biryani",
+        "south-indian",
+        "south",
+        "indian",
+        "rasam",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_noida_001_005",
+      "vendorId": "vendor_noida_001",
+      "name": "Curd Rice",
+      "city": "noida",
+      "category": "south-indian",
+      "price": 130,
+      "tokens": [
+        "curd rice",
+        "curd",
+        "rice",
+        "south-indian",
+        "south",
+        "indian",
+        "sambar",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_noida_002_001",
+      "vendorId": "vendor_noida_002",
+      "name": "Amul Taaza Milk 1L",
+      "city": "noida",
+      "category": "dairy-bread-eggs",
+      "price": 371,
+      "tokens": [
+        "amul taaza milk 1l",
+        "amul",
+        "taaza",
+        "milk",
+        "1l",
+        "dairy-bread-eggs",
+        "dairy",
+        "bread",
+        "eggs"
+      ]
+    },
+    {
+      "id": "product_vendor_noida_002_002",
+      "vendorId": "vendor_noida_002",
+      "name": "Amul Butter 100g",
+      "city": "noida",
+      "category": "dairy-bread-eggs",
+      "price": 654,
+      "tokens": [
+        "amul butter 100g",
+        "amul",
+        "butter",
+        "100g",
+        "dairy-bread-eggs",
+        "dairy",
+        "bread",
+        "eggs"
+      ]
+    },
+    {
+      "id": "product_vendor_noida_002_003",
+      "vendorId": "vendor_noida_002",
+      "name": "Real Fruit Juice 1L",
+      "city": "noida",
+      "category": "snacks-beverages",
+      "price": 811,
+      "tokens": [
+        "real fruit juice 1l",
+        "real",
+        "fruit",
+        "juice",
+        "1l",
+        "snacks-beverages",
+        "snacks",
+        "beverages"
+      ]
+    },
+    {
+      "id": "product_vendor_noida_002_004",
+      "vendorId": "vendor_noida_002",
+      "name": "Britannia Cheese Slices",
+      "city": "noida",
+      "category": "dairy-bread-eggs",
+      "price": 550,
+      "tokens": [
+        "britannia cheese slices",
+        "britannia",
+        "cheese",
+        "slices",
+        "dairy-bread-eggs",
+        "dairy",
+        "bread",
+        "eggs",
+        "butter"
+      ]
+    },
+    {
+      "id": "product_vendor_noida_002_005",
+      "vendorId": "vendor_noida_002",
+      "name": "Lays Classic Salted",
+      "city": "noida",
+      "category": "snacks-beverages",
+      "price": 799,
+      "tokens": [
+        "lays classic salted",
+        "lays",
+        "classic",
+        "salted",
+        "snacks-beverages",
+        "snacks",
+        "beverages",
+        "chips"
+      ]
+    },
+    {
+      "id": "product_vendor_gurgaon_001_001",
+      "vendorId": "vendor_gurgaon_001",
+      "name": "Kathi Roll",
+      "city": "gurgaon",
+      "category": "street-food",
+      "price": 351,
+      "tokens": [
+        "kathi roll",
+        "kathi",
+        "roll",
+        "street-food",
+        "street",
+        "food",
+        "pav-bhaji",
+        "pav",
+        "bhaji",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_gurgaon_001_002",
+      "vendorId": "vendor_gurgaon_001",
+      "name": "Veg Biryani",
+      "city": "gurgaon",
+      "category": "biryani",
+      "price": 219,
+      "tokens": [
+        "veg biryani",
+        "veg",
+        "biryani",
+        "mutton-biryani",
+        "mutton"
+      ]
+    },
+    {
+      "id": "product_vendor_gurgaon_001_003",
+      "vendorId": "vendor_gurgaon_001",
+      "name": "Palak Paneer",
+      "city": "gurgaon",
+      "category": "north-indian",
+      "price": 262,
+      "tokens": [
+        "palak paneer",
+        "palak",
+        "paneer",
+        "north-indian",
+        "north",
+        "indian",
+        "dal",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_gurgaon_001_004",
+      "vendorId": "vendor_gurgaon_001",
+      "name": "Chicken Biryani",
+      "city": "gurgaon",
+      "category": "biryani",
+      "price": 440,
+      "tokens": [
+        "chicken biryani",
+        "chicken",
+        "biryani",
+        "veg-biryani",
+        "veg",
+        "non-veg",
+        "non"
+      ]
+    },
+    {
+      "id": "product_vendor_gurgaon_001_005",
+      "vendorId": "vendor_gurgaon_001",
+      "name": "Vada Pav",
+      "city": "gurgaon",
+      "category": "street-food",
+      "price": 337,
+      "tokens": [
+        "vada pav",
+        "vada",
+        "pav",
+        "street-food",
+        "street",
+        "food",
+        "vada-pav",
+        "non-veg",
+        "non",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_gurgaon_002_001",
+      "vendorId": "vendor_gurgaon_002",
+      "name": "Sugar 1kg",
+      "city": "gurgaon",
+      "category": "staples",
+      "price": 369,
+      "tokens": [
+        "sugar 1kg",
+        "sugar",
+        "1kg",
+        "staples",
+        "rice"
+      ]
+    },
+    {
+      "id": "product_vendor_gurgaon_002_002",
+      "vendorId": "vendor_gurgaon_002",
+      "name": "Green Capsicum 250g",
+      "city": "gurgaon",
+      "category": "fruits-vegetables",
+      "price": 667,
+      "tokens": [
+        "green capsicum 250g",
+        "green",
+        "capsicum",
+        "250g",
+        "fruits-vegetables",
+        "fruits",
+        "vegetables",
+        "organic"
+      ]
+    },
+    {
+      "id": "product_vendor_gurgaon_002_003",
+      "vendorId": "vendor_gurgaon_002",
+      "name": "Kleenex Tissues",
+      "city": "gurgaon",
+      "category": "household",
+      "price": 495,
+      "tokens": [
+        "kleenex tissues",
+        "kleenex",
+        "tissues",
+        "household",
+        "detergent"
+      ]
+    },
+    {
+      "id": "product_vendor_gurgaon_002_004",
+      "vendorId": "vendor_gurgaon_002",
+      "name": "Green Capsicum 250g",
+      "city": "gurgaon",
+      "category": "fruits-vegetables",
+      "price": 386,
+      "tokens": [
+        "green capsicum 250g",
+        "green",
+        "capsicum",
+        "250g",
+        "fruits-vegetables",
+        "fruits",
+        "vegetables",
+        "organic"
+      ]
+    },
+    {
+      "id": "product_vendor_gurgaon_002_005",
+      "vendorId": "vendor_gurgaon_002",
+      "name": "Toor Dal 1kg",
+      "city": "gurgaon",
+      "category": "staples",
+      "price": 148,
+      "tokens": [
+        "toor dal 1kg",
+        "toor",
+        "dal",
+        "1kg",
+        "staples",
+        "salt"
+      ]
+    },
+    {
+      "id": "product_vendor_mumbai_001_001",
+      "vendorId": "vendor_mumbai_001",
+      "name": "Greek Salad",
+      "city": "mumbai",
+      "category": "healthy",
+      "price": 642,
+      "tokens": [
+        "greek salad",
+        "greek",
+        "salad",
+        "healthy",
+        "smoothie",
+        "non-veg",
+        "non",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_mumbai_001_002",
+      "vendorId": "vendor_mumbai_001",
+      "name": "Protein Smoothie",
+      "city": "mumbai",
+      "category": "healthy",
+      "price": 441,
+      "tokens": [
+        "protein smoothie",
+        "protein",
+        "smoothie",
+        "healthy",
+        "bowl",
+        "non-veg",
+        "non",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_mumbai_001_003",
+      "vendorId": "vendor_mumbai_001",
+      "name": "Greek Salad",
+      "city": "mumbai",
+      "category": "healthy",
+      "price": 423,
+      "tokens": [
+        "greek salad",
+        "greek",
+        "salad",
+        "healthy",
+        "protein-meal",
+        "protein",
+        "meal",
+        "non-veg",
+        "non",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_mumbai_001_004",
+      "vendorId": "vendor_mumbai_001",
+      "name": "Grilled Chicken Salad",
+      "city": "mumbai",
+      "category": "healthy",
+      "price": 520,
+      "tokens": [
+        "grilled chicken salad",
+        "grilled",
+        "chicken",
+        "salad",
+        "healthy",
+        "bowl",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_mumbai_001_005",
+      "vendorId": "vendor_mumbai_001",
+      "name": "Quinoa Bowl",
+      "city": "mumbai",
+      "category": "healthy",
+      "price": 374,
+      "tokens": [
+        "quinoa bowl",
+        "quinoa",
+        "bowl",
+        "healthy",
+        "smoothie",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_mumbai_002_001",
+      "vendorId": "vendor_mumbai_002",
+      "name": "Sugar 1kg",
+      "city": "mumbai",
+      "category": "staples",
+      "price": 249,
+      "tokens": [
+        "sugar 1kg",
+        "sugar",
+        "1kg",
+        "staples",
+        "dal"
+      ]
+    },
+    {
+      "id": "product_vendor_mumbai_002_002",
+      "vendorId": "vendor_mumbai_002",
+      "name": "Frozen Paratha Pack",
+      "city": "mumbai",
+      "category": "frozen",
+      "price": 436,
+      "tokens": [
+        "frozen paratha pack",
+        "frozen",
+        "paratha",
+        "pack",
+        "frozen-snacks",
+        "snacks"
+      ]
+    },
+    {
+      "id": "product_vendor_mumbai_002_003",
+      "vendorId": "vendor_mumbai_002",
+      "name": "Frozen Paratha Pack",
+      "city": "mumbai",
+      "category": "frozen",
+      "price": 484,
+      "tokens": [
+        "frozen paratha pack",
+        "frozen",
+        "paratha",
+        "pack",
+        "frozen-veg",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_mumbai_002_004",
+      "vendorId": "vendor_mumbai_002",
+      "name": "Basmati Rice 5kg",
+      "city": "mumbai",
+      "category": "staples",
+      "price": 671,
+      "tokens": [
+        "basmati rice 5kg",
+        "basmati",
+        "rice",
+        "5kg",
+        "staples"
+      ]
+    },
+    {
+      "id": "product_vendor_mumbai_002_005",
+      "vendorId": "vendor_mumbai_002",
+      "name": "Toor Dal 1kg",
+      "city": "mumbai",
+      "category": "staples",
+      "price": 777,
+      "tokens": [
+        "toor dal 1kg",
+        "toor",
+        "dal",
+        "1kg",
+        "staples",
+        "atta"
+      ]
+    },
+    {
+      "id": "product_vendor_bangalore_001_001",
+      "vendorId": "vendor_bangalore_001",
+      "name": "Alfredo Pasta",
+      "city": "bangalore",
+      "category": "continental",
+      "price": 69,
+      "tokens": [
+        "alfredo pasta",
+        "alfredo",
+        "pasta",
+        "continental",
+        "risotto",
+        "non-veg",
+        "non",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_bangalore_001_002",
+      "vendorId": "vendor_bangalore_001",
+      "name": "Tomato Soup",
+      "city": "bangalore",
+      "category": "continental",
+      "price": 365,
+      "tokens": [
+        "tomato soup",
+        "tomato",
+        "soup",
+        "continental",
+        "pasta",
+        "non-veg",
+        "non",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_bangalore_001_003",
+      "vendorId": "vendor_bangalore_001",
+      "name": "Greek Salad",
+      "city": "bangalore",
+      "category": "healthy",
+      "price": 425,
+      "tokens": [
+        "greek salad",
+        "greek",
+        "salad",
+        "healthy",
+        "protein-meal",
+        "protein",
+        "meal",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_bangalore_001_004",
+      "vendorId": "vendor_bangalore_001",
+      "name": "Pav Bhaji",
+      "city": "bangalore",
+      "category": "street-food",
+      "price": 392,
+      "tokens": [
+        "pav bhaji",
+        "pav",
+        "bhaji",
+        "street-food",
+        "street",
+        "food",
+        "vada-pav",
+        "vada",
+        "non-veg",
+        "non",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_bangalore_001_005",
+      "vendorId": "vendor_bangalore_001",
+      "name": "Pani Puri",
+      "city": "bangalore",
+      "category": "street-food",
+      "price": 287,
+      "tokens": [
+        "pani puri",
+        "pani",
+        "puri",
+        "street-food",
+        "street",
+        "food",
+        "chaat",
+        "non-veg",
+        "non",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_bangalore_002_001",
+      "vendorId": "vendor_bangalore_002",
+      "name": "Frozen Paratha Pack",
+      "city": "bangalore",
+      "category": "frozen",
+      "price": 391,
+      "tokens": [
+        "frozen paratha pack",
+        "frozen",
+        "paratha",
+        "pack",
+        "ice-cream",
+        "ice",
+        "cream"
+      ]
+    },
+    {
+      "id": "product_vendor_bangalore_002_002",
+      "vendorId": "vendor_bangalore_002",
+      "name": "Kleenex Tissues",
+      "city": "bangalore",
+      "category": "household",
+      "price": 229,
+      "tokens": [
+        "kleenex tissues",
+        "kleenex",
+        "tissues",
+        "household",
+        "cleaning"
+      ]
+    },
+    {
+      "id": "product_vendor_bangalore_002_003",
+      "vendorId": "vendor_bangalore_002",
+      "name": "Frozen Green Peas 500g",
+      "city": "bangalore",
+      "category": "frozen",
+      "price": 447,
+      "tokens": [
+        "frozen green peas 500g",
+        "frozen",
+        "green",
+        "peas",
+        "500g",
+        "frozen-veg",
+        "veg"
+      ]
+    },
+    {
+      "id": "product_vendor_bangalore_002_004",
+      "vendorId": "vendor_bangalore_002",
+      "name": "Kleenex Tissues",
+      "city": "bangalore",
+      "category": "household",
+      "price": 621,
+      "tokens": [
+        "kleenex tissues",
+        "kleenex",
+        "tissues",
+        "household",
+        "cleaning"
+      ]
+    },
+    {
+      "id": "product_vendor_bangalore_002_005",
+      "vendorId": "vendor_bangalore_002",
+      "name": "Frozen Paratha Pack",
+      "city": "bangalore",
+      "category": "frozen",
+      "price": 207,
+      "tokens": [
+        "frozen paratha pack",
+        "frozen",
+        "paratha",
+        "pack",
+        "frozen-snacks",
+        "snacks"
+      ]
+    }
+  ]
+}
