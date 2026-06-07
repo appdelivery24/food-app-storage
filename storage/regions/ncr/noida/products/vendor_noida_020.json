@@ -1,0 +1,3632 @@
+[
+  {
+    "id": "product_vendor_noida_020_001",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 686,
+    "discountPercent": 6,
+    "finalPrice": 645,
+    "rating": 3.7,
+    "totalRatings": 3179,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_020_001.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-17T22:10:08.080Z"
+  },
+  {
+    "id": "product_vendor_noida_020_002",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Delicious hot & sour soup prepared fresh with authentic spices.",
+    "price": 115,
+    "discountPercent": 35,
+    "finalPrice": 75,
+    "rating": 4.5,
+    "totalRatings": 2772,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_noida_020_002.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "noodles",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-07T21:22:36.521Z"
+  },
+  {
+    "id": "product_vendor_noida_020_003",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Delicious kung pao chicken prepared fresh with authentic spices.",
+    "price": 388,
+    "discountPercent": 15,
+    "finalPrice": 330,
+    "rating": 4.4,
+    "totalRatings": 71,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_noida_020_003.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "fried-rice",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-04T07:31:54.489Z"
+  },
+  {
+    "id": "product_vendor_noida_020_004",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 95,
+    "discountPercent": 12,
+    "finalPrice": 84,
+    "rating": 4,
+    "totalRatings": 125,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_020_004.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-06T22:27:52.007Z"
+  },
+  {
+    "id": "product_vendor_noida_020_005",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 388,
+    "discountPercent": 31,
+    "finalPrice": 268,
+    "rating": 4.7,
+    "totalRatings": 1834,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_020_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-09T12:03:38.590Z"
+  },
+  {
+    "id": "product_vendor_noida_020_006",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 451,
+    "discountPercent": 36,
+    "finalPrice": 289,
+    "rating": 4.8,
+    "totalRatings": 947,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_noida_020_006.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "fried-rice",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-18T14:43:27.611Z"
+  },
+  {
+    "id": "product_vendor_noida_020_007",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Popular choice: Schezwan Fried Rice made with premium ingredients.",
+    "price": 139,
+    "discountPercent": 21,
+    "finalPrice": 110,
+    "rating": 4.7,
+    "totalRatings": 1474,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_noida_020_007.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "noodles",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-29T15:15:24.144Z"
+  },
+  {
+    "id": "product_vendor_noida_020_008",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Popular choice: Kung Pao Chicken made with premium ingredients.",
+    "price": 179,
+    "discountPercent": 10,
+    "finalPrice": 161,
+    "rating": 3.9,
+    "totalRatings": 1879,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_noida_020_008.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "soup",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-02T02:18:53.053Z"
+  },
+  {
+    "id": "product_vendor_noida_020_009",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Popular choice: Spring Rolls made with premium ingredients.",
+    "price": 189,
+    "discountPercent": 25,
+    "finalPrice": 142,
+    "rating": 4.8,
+    "totalRatings": 479,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_noida_020_009.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "fried-rice",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-03T15:54:54.890Z"
+  },
+  {
+    "id": "product_vendor_noida_020_010",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 790,
+    "discountPercent": 35,
+    "finalPrice": 514,
+    "rating": 4.9,
+    "totalRatings": 3405,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_020_010.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-26T21:50:58.655Z"
+  },
+  {
+    "id": "product_vendor_noida_020_011",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 87,
+    "discountPercent": 25,
+    "finalPrice": 65,
+    "rating": 3.6,
+    "totalRatings": 4126,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_020_011.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-31T01:48:30.310Z"
+  },
+  {
+    "id": "product_vendor_noida_020_012",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 393,
+    "discountPercent": 0,
+    "finalPrice": 393,
+    "rating": 4.2,
+    "totalRatings": 4532,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_noida_020_012.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "fried-rice",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-22T16:12:23.572Z"
+  },
+  {
+    "id": "product_vendor_noida_020_013",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Classic hot & sour soup served hot and fresh.",
+    "price": 664,
+    "discountPercent": 34,
+    "finalPrice": 438,
+    "rating": 4.9,
+    "totalRatings": 3701,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_noida_020_013.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-17T03:27:36.339Z"
+  },
+  {
+    "id": "product_vendor_noida_020_014",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 863,
+    "discountPercent": 38,
+    "finalPrice": 535,
+    "rating": 4.4,
+    "totalRatings": 1497,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_020_014.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-01T22:05:46.889Z"
+  },
+  {
+    "id": "product_vendor_noida_020_015",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 791,
+    "discountPercent": 29,
+    "finalPrice": 562,
+    "rating": 4.8,
+    "totalRatings": 700,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_noida_020_015.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "manchurian",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-02T10:14:40.329Z"
+  },
+  {
+    "id": "product_vendor_noida_020_016",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 408,
+    "discountPercent": 14,
+    "finalPrice": 351,
+    "rating": 3.9,
+    "totalRatings": 2084,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_020_016.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-30T22:01:14.947Z"
+  },
+  {
+    "id": "product_vendor_noida_020_017",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 630,
+    "discountPercent": 27,
+    "finalPrice": 460,
+    "rating": 3.8,
+    "totalRatings": 2620,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_020_017.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-27T02:43:20.987Z"
+  },
+  {
+    "id": "product_vendor_noida_020_018",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Classic chilli paneer served hot and fresh.",
+    "price": 780,
+    "discountPercent": 30,
+    "finalPrice": 546,
+    "rating": 4.8,
+    "totalRatings": 2917,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_noida_020_018.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "dim-sum",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-24T16:14:38.177Z"
+  },
+  {
+    "id": "product_vendor_noida_020_019",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Chef's special chilli paneer — perfect for a satisfying meal.",
+    "price": 728,
+    "discountPercent": 17,
+    "finalPrice": 604,
+    "rating": 3.7,
+    "totalRatings": 4762,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_noida_020_019.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "noodles",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-14T03:14:37.321Z"
+  },
+  {
+    "id": "product_vendor_noida_020_020",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Delicious spring rolls prepared fresh with authentic spices.",
+    "price": 117,
+    "discountPercent": 14,
+    "finalPrice": 101,
+    "rating": 4.5,
+    "totalRatings": 3394,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_noida_020_020.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "fried-rice",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-28T08:32:35.312Z"
+  },
+  {
+    "id": "product_vendor_noida_020_021",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 580,
+    "discountPercent": 10,
+    "finalPrice": 522,
+    "rating": 4.8,
+    "totalRatings": 989,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_020_021.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-17T18:30:20.897Z"
+  },
+  {
+    "id": "product_vendor_noida_020_022",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Classic schezwan fried rice served hot and fresh.",
+    "price": 528,
+    "discountPercent": 11,
+    "finalPrice": 470,
+    "rating": 4.3,
+    "totalRatings": 1199,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_noida_020_022.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "soup",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-11T10:36:49.314Z"
+  },
+  {
+    "id": "product_vendor_noida_020_023",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 137,
+    "discountPercent": 8,
+    "finalPrice": 126,
+    "rating": 3.8,
+    "totalRatings": 3221,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_020_023.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-28T03:19:26.545Z"
+  },
+  {
+    "id": "product_vendor_noida_020_024",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 129,
+    "discountPercent": 3,
+    "finalPrice": 125,
+    "rating": 4,
+    "totalRatings": 4011,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_020_024.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-09T10:49:50.115Z"
+  },
+  {
+    "id": "product_vendor_noida_020_025",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Classic hot & sour soup served hot and fresh.",
+    "price": 250,
+    "discountPercent": 39,
+    "finalPrice": 153,
+    "rating": 4.1,
+    "totalRatings": 4874,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_noida_020_025.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "dim-sum",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-29T02:23:09.488Z"
+  },
+  {
+    "id": "product_vendor_noida_020_026",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Delicious kung pao chicken prepared fresh with authentic spices.",
+    "price": 597,
+    "discountPercent": 18,
+    "finalPrice": 490,
+    "rating": 4.4,
+    "totalRatings": 2930,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_noida_020_026.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "fried-rice",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-18T03:20:37.413Z"
+  },
+  {
+    "id": "product_vendor_noida_020_027",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 895,
+    "discountPercent": 34,
+    "finalPrice": 591,
+    "rating": 4.5,
+    "totalRatings": 672,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_020_027.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-21T18:48:20.815Z"
+  },
+  {
+    "id": "product_vendor_noida_020_028",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 317,
+    "discountPercent": 40,
+    "finalPrice": 190,
+    "rating": 4.5,
+    "totalRatings": 2633,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_020_028.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-15T15:07:27.104Z"
+  },
+  {
+    "id": "product_vendor_noida_020_029",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 557,
+    "discountPercent": 38,
+    "finalPrice": 345,
+    "rating": 4.6,
+    "totalRatings": 4958,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_020_029.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-26T20:19:03.389Z"
+  },
+  {
+    "id": "product_vendor_noida_020_030",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 668,
+    "discountPercent": 32,
+    "finalPrice": 454,
+    "rating": 3.6,
+    "totalRatings": 1871,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_020_030.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-21T05:48:55.029Z"
+  },
+  {
+    "id": "product_vendor_noida_020_031",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 768,
+    "discountPercent": 2,
+    "finalPrice": 753,
+    "rating": 4.3,
+    "totalRatings": 2557,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_020_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-19T00:22:05.534Z"
+  },
+  {
+    "id": "product_vendor_noida_020_032",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Delicious veg manchurian prepared fresh with authentic spices.",
+    "price": 395,
+    "discountPercent": 15,
+    "finalPrice": 336,
+    "rating": 4.9,
+    "totalRatings": 1548,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_noida_020_032.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "dim-sum",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-17T07:41:48.138Z"
+  },
+  {
+    "id": "product_vendor_noida_020_033",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Popular choice: Grilled Chicken Salad made with premium ingredients.",
+    "price": 329,
+    "discountPercent": 34,
+    "finalPrice": 217,
+    "rating": 4.7,
+    "totalRatings": 34,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_020_033.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-20T02:52:43.548Z"
+  },
+  {
+    "id": "product_vendor_noida_020_034",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Popular choice: Hot & Sour Soup made with premium ingredients.",
+    "price": 557,
+    "discountPercent": 23,
+    "finalPrice": 429,
+    "rating": 3.9,
+    "totalRatings": 2260,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_noida_020_034.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "fried-rice",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-23T08:33:11.409Z"
+  },
+  {
+    "id": "product_vendor_noida_020_035",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 184,
+    "discountPercent": 23,
+    "finalPrice": 142,
+    "rating": 4.2,
+    "totalRatings": 3454,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_020_035.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-02T17:38:40.553Z"
+  },
+  {
+    "id": "product_vendor_noida_020_036",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 688,
+    "discountPercent": 6,
+    "finalPrice": 647,
+    "rating": 4.1,
+    "totalRatings": 2792,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_020_036.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-13T15:32:08.804Z"
+  },
+  {
+    "id": "product_vendor_noida_020_037",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Popular choice: Chilli Paneer made with premium ingredients.",
+    "price": 477,
+    "discountPercent": 25,
+    "finalPrice": 358,
+    "rating": 4.7,
+    "totalRatings": 4135,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_noida_020_037.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "dim-sum",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-08T18:05:37.821Z"
+  },
+  {
+    "id": "product_vendor_noida_020_038",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 613,
+    "discountPercent": 37,
+    "finalPrice": 386,
+    "rating": 4.3,
+    "totalRatings": 3555,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_020_038.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-28T04:16:12.713Z"
+  },
+  {
+    "id": "product_vendor_noida_020_039",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 390,
+    "discountPercent": 10,
+    "finalPrice": 351,
+    "rating": 3.8,
+    "totalRatings": 1423,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_noida_020_039.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-08T13:55:22.123Z"
+  },
+  {
+    "id": "product_vendor_noida_020_040",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 387,
+    "discountPercent": 4,
+    "finalPrice": 372,
+    "rating": 4.4,
+    "totalRatings": 3981,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_noida_020_040.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "soup",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-01T03:58:12.644Z"
+  },
+  {
+    "id": "product_vendor_noida_020_041",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Classic chilli paneer served hot and fresh.",
+    "price": 674,
+    "discountPercent": 24,
+    "finalPrice": 512,
+    "rating": 4.7,
+    "totalRatings": 3489,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_noida_020_041.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "fried-rice",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-28T19:02:21.114Z"
+  },
+  {
+    "id": "product_vendor_noida_020_042",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 772,
+    "discountPercent": 26,
+    "finalPrice": 571,
+    "rating": 4.1,
+    "totalRatings": 607,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_020_042.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-14T06:43:27.537Z"
+  },
+  {
+    "id": "product_vendor_noida_020_043",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Classic schezwan fried rice served hot and fresh.",
+    "price": 849,
+    "discountPercent": 22,
+    "finalPrice": 662,
+    "rating": 4,
+    "totalRatings": 1226,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_noida_020_043.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "dim-sum",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-19T22:47:47.051Z"
+  },
+  {
+    "id": "product_vendor_noida_020_044",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Chef's special hakka noodles — perfect for a satisfying meal.",
+    "price": 293,
+    "discountPercent": 33,
+    "finalPrice": 196,
+    "rating": 4.5,
+    "totalRatings": 2889,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_noida_020_044.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "soup",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-20T00:05:42.672Z"
+  },
+  {
+    "id": "product_vendor_noida_020_045",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Classic veg manchurian served hot and fresh.",
+    "price": 515,
+    "discountPercent": 39,
+    "finalPrice": 314,
+    "rating": 4.9,
+    "totalRatings": 3325,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_noida_020_045.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "soup",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-27T18:03:05.289Z"
+  },
+  {
+    "id": "product_vendor_noida_020_046",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Popular choice: Grilled Chicken Salad made with premium ingredients.",
+    "price": 258,
+    "discountPercent": 0,
+    "finalPrice": 258,
+    "rating": 4.1,
+    "totalRatings": 3032,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_020_046.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-21T13:10:16.074Z"
+  },
+  {
+    "id": "product_vendor_noida_020_047",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Chef's special spring rolls — perfect for a satisfying meal.",
+    "price": 438,
+    "discountPercent": 23,
+    "finalPrice": 337,
+    "rating": 4.6,
+    "totalRatings": 666,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_noida_020_047.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "noodles",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-08T10:33:26.012Z"
+  },
+  {
+    "id": "product_vendor_noida_020_048",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Popular choice: Chilli Paneer made with premium ingredients.",
+    "price": 693,
+    "discountPercent": 30,
+    "finalPrice": 485,
+    "rating": 4.9,
+    "totalRatings": 3561,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_noida_020_048.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "fried-rice",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-02T05:09:12.574Z"
+  },
+  {
+    "id": "product_vendor_noida_020_049",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 339,
+    "discountPercent": 34,
+    "finalPrice": 224,
+    "rating": 4.1,
+    "totalRatings": 229,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_020_049.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-02T17:58:28.611Z"
+  },
+  {
+    "id": "product_vendor_noida_020_050",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 646,
+    "discountPercent": 11,
+    "finalPrice": 575,
+    "rating": 4.1,
+    "totalRatings": 3224,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_020_050.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-25T19:02:27.509Z"
+  },
+  {
+    "id": "product_vendor_noida_020_051",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 208,
+    "discountPercent": 16,
+    "finalPrice": 175,
+    "rating": 4.7,
+    "totalRatings": 4913,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_020_051.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-12T07:08:31.068Z"
+  },
+  {
+    "id": "product_vendor_noida_020_052",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 159,
+    "discountPercent": 29,
+    "finalPrice": 113,
+    "rating": 4.2,
+    "totalRatings": 4592,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_020_052.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-04T07:47:50.822Z"
+  },
+  {
+    "id": "product_vendor_noida_020_053",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Chef's special hakka noodles — perfect for a satisfying meal.",
+    "price": 145,
+    "discountPercent": 37,
+    "finalPrice": 91,
+    "rating": 4.8,
+    "totalRatings": 1744,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_noida_020_053.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "hakka"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-27T14:08:44.706Z"
+  },
+  {
+    "id": "product_vendor_noida_020_054",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 760,
+    "discountPercent": 8,
+    "finalPrice": 699,
+    "rating": 4,
+    "totalRatings": 3436,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_020_054.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-29T11:15:03.464Z"
+  },
+  {
+    "id": "product_vendor_noida_020_055",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Delicious spring rolls prepared fresh with authentic spices.",
+    "price": 751,
+    "discountPercent": 30,
+    "finalPrice": 526,
+    "rating": 3.6,
+    "totalRatings": 588,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_noida_020_055.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "fried-rice",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-17T13:38:42.947Z"
+  },
+  {
+    "id": "product_vendor_noida_020_056",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Delicious schezwan fried rice prepared fresh with authentic spices.",
+    "price": 758,
+    "discountPercent": 22,
+    "finalPrice": 591,
+    "rating": 4.5,
+    "totalRatings": 4044,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_noida_020_056.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "fried-rice",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-11T01:56:46.110Z"
+  },
+  {
+    "id": "product_vendor_noida_020_057",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 134,
+    "discountPercent": 30,
+    "finalPrice": 94,
+    "rating": 4.1,
+    "totalRatings": 2521,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_020_057.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-27T11:22:59.551Z"
+  },
+  {
+    "id": "product_vendor_noida_020_058",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 424,
+    "discountPercent": 31,
+    "finalPrice": 293,
+    "rating": 3.5,
+    "totalRatings": 4983,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_020_058.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-20T22:14:29.282Z"
+  },
+  {
+    "id": "product_vendor_noida_020_059",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 406,
+    "discountPercent": 3,
+    "finalPrice": 394,
+    "rating": 3.7,
+    "totalRatings": 2228,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_020_059.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-17T09:55:59.988Z"
+  },
+  {
+    "id": "product_vendor_noida_020_060",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 857,
+    "discountPercent": 2,
+    "finalPrice": 840,
+    "rating": 4.6,
+    "totalRatings": 2348,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_020_060.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-18T18:59:17.874Z"
+  },
+  {
+    "id": "product_vendor_noida_020_061",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Classic chilli paneer served hot and fresh.",
+    "price": 325,
+    "discountPercent": 11,
+    "finalPrice": 289,
+    "rating": 4.1,
+    "totalRatings": 1151,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_noida_020_061.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "manchurian",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-15T20:49:10.486Z"
+  },
+  {
+    "id": "product_vendor_noida_020_062",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Classic chilli paneer served hot and fresh.",
+    "price": 778,
+    "discountPercent": 5,
+    "finalPrice": 739,
+    "rating": 4.9,
+    "totalRatings": 2823,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_noida_020_062.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "noodles",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-02T03:59:49.973Z"
+  },
+  {
+    "id": "product_vendor_noida_020_063",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 534,
+    "discountPercent": 4,
+    "finalPrice": 513,
+    "rating": 4.2,
+    "totalRatings": 2078,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_020_063.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-03T20:50:36.715Z"
+  },
+  {
+    "id": "product_vendor_noida_020_064",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 451,
+    "discountPercent": 31,
+    "finalPrice": 311,
+    "rating": 3.7,
+    "totalRatings": 4585,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_noida_020_064.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-11T19:28:00.026Z"
+  },
+  {
+    "id": "product_vendor_noida_020_065",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Popular choice: Hakka Noodles made with premium ingredients.",
+    "price": 493,
+    "discountPercent": 24,
+    "finalPrice": 375,
+    "rating": 4.3,
+    "totalRatings": 736,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_noida_020_065.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "fried-rice",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-25T01:35:37.895Z"
+  },
+  {
+    "id": "product_vendor_noida_020_066",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Popular choice: Veg Manchurian made with premium ingredients.",
+    "price": 144,
+    "discountPercent": 16,
+    "finalPrice": 121,
+    "rating": 4.6,
+    "totalRatings": 4777,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_noida_020_066.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-11T21:08:57.248Z"
+  },
+  {
+    "id": "product_vendor_noida_020_067",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 399,
+    "discountPercent": 22,
+    "finalPrice": 311,
+    "rating": 4.3,
+    "totalRatings": 2553,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_020_067.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-06T07:42:43.663Z"
+  },
+  {
+    "id": "product_vendor_noida_020_068",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 566,
+    "discountPercent": 4,
+    "finalPrice": 543,
+    "rating": 4.1,
+    "totalRatings": 3260,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_noida_020_068.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "soup",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-20T17:18:38.649Z"
+  },
+  {
+    "id": "product_vendor_noida_020_069",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 571,
+    "discountPercent": 3,
+    "finalPrice": 554,
+    "rating": 4,
+    "totalRatings": 4396,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_020_069.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-01T05:54:13.419Z"
+  },
+  {
+    "id": "product_vendor_noida_020_070",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 563,
+    "discountPercent": 38,
+    "finalPrice": 349,
+    "rating": 4.7,
+    "totalRatings": 1766,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_noida_020_070.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "fried-rice",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-20T07:42:33.643Z"
+  },
+  {
+    "id": "product_vendor_noida_020_071",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Delicious kung pao chicken prepared fresh with authentic spices.",
+    "price": 526,
+    "discountPercent": 4,
+    "finalPrice": 505,
+    "rating": 4.1,
+    "totalRatings": 620,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_noida_020_071.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "noodles",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-14T07:30:03.591Z"
+  },
+  {
+    "id": "product_vendor_noida_020_072",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Classic veg manchurian served hot and fresh.",
+    "price": 137,
+    "discountPercent": 36,
+    "finalPrice": 88,
+    "rating": 3.8,
+    "totalRatings": 4229,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_noida_020_072.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "soup",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-26T22:41:53.425Z"
+  },
+  {
+    "id": "product_vendor_noida_020_073",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 520,
+    "discountPercent": 31,
+    "finalPrice": 359,
+    "rating": 3.8,
+    "totalRatings": 1707,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_020_073.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-10T09:44:33.001Z"
+  },
+  {
+    "id": "product_vendor_noida_020_074",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 640,
+    "discountPercent": 2,
+    "finalPrice": 627,
+    "rating": 4.8,
+    "totalRatings": 1021,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_020_074.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-05T08:17:15.093Z"
+  },
+  {
+    "id": "product_vendor_noida_020_075",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Delicious veg manchurian prepared fresh with authentic spices.",
+    "price": 608,
+    "discountPercent": 2,
+    "finalPrice": 596,
+    "rating": 4.4,
+    "totalRatings": 3325,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_noida_020_075.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-02T01:23:30.646Z"
+  },
+  {
+    "id": "product_vendor_noida_020_076",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Popular choice: Kung Pao Chicken made with premium ingredients.",
+    "price": 422,
+    "discountPercent": 35,
+    "finalPrice": 274,
+    "rating": 4.1,
+    "totalRatings": 4445,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_noida_020_076.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "fried-rice",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-25T13:39:26.281Z"
+  },
+  {
+    "id": "product_vendor_noida_020_077",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 599,
+    "discountPercent": 35,
+    "finalPrice": 389,
+    "rating": 4,
+    "totalRatings": 2481,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_020_077.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-03T13:05:56.405Z"
+  },
+  {
+    "id": "product_vendor_noida_020_078",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 181,
+    "discountPercent": 11,
+    "finalPrice": 161,
+    "rating": 3.7,
+    "totalRatings": 4740,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_020_078.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-20T17:45:40.717Z"
+  },
+  {
+    "id": "product_vendor_noida_020_079",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 885,
+    "discountPercent": 26,
+    "finalPrice": 655,
+    "rating": 3.9,
+    "totalRatings": 649,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_020_079.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-28T22:38:51.888Z"
+  },
+  {
+    "id": "product_vendor_noida_020_080",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 219,
+    "discountPercent": 9,
+    "finalPrice": 199,
+    "rating": 4.8,
+    "totalRatings": 4532,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_noida_020_080.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "manchurian",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-06T02:16:00.316Z"
+  },
+  {
+    "id": "product_vendor_noida_020_081",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Popular choice: Avocado Toast made with premium ingredients.",
+    "price": 327,
+    "discountPercent": 8,
+    "finalPrice": 301,
+    "rating": 4,
+    "totalRatings": 240,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_020_081.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-08T01:20:53.223Z"
+  },
+  {
+    "id": "product_vendor_noida_020_082",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Popular choice: Schezwan Fried Rice made with premium ingredients.",
+    "price": 697,
+    "discountPercent": 1,
+    "finalPrice": 690,
+    "rating": 3.6,
+    "totalRatings": 1146,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_noida_020_082.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "noodles",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-11T13:39:41.464Z"
+  },
+  {
+    "id": "product_vendor_noida_020_083",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 276,
+    "discountPercent": 20,
+    "finalPrice": 221,
+    "rating": 3.8,
+    "totalRatings": 1139,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_020_083.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-18T21:17:12.688Z"
+  },
+  {
+    "id": "product_vendor_noida_020_084",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 228,
+    "discountPercent": 25,
+    "finalPrice": 171,
+    "rating": 4.1,
+    "totalRatings": 1262,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_020_084.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-02T05:34:26.407Z"
+  },
+  {
+    "id": "product_vendor_noida_020_085",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Chef's special hakka noodles — perfect for a satisfying meal.",
+    "price": 620,
+    "discountPercent": 10,
+    "finalPrice": 558,
+    "rating": 4.7,
+    "totalRatings": 1003,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_noida_020_085.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "soup",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-03T05:36:41.775Z"
+  },
+  {
+    "id": "product_vendor_noida_020_086",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 833,
+    "discountPercent": 36,
+    "finalPrice": 533,
+    "rating": 3.7,
+    "totalRatings": 2576,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_020_086.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-10T03:07:11.925Z"
+  },
+  {
+    "id": "product_vendor_noida_020_087",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 435,
+    "discountPercent": 11,
+    "finalPrice": 387,
+    "rating": 4.1,
+    "totalRatings": 4425,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_020_087.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-25T22:41:31.726Z"
+  },
+  {
+    "id": "product_vendor_noida_020_088",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 855,
+    "discountPercent": 5,
+    "finalPrice": 812,
+    "rating": 4.2,
+    "totalRatings": 3058,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_020_088.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-06T16:04:56.506Z"
+  },
+  {
+    "id": "product_vendor_noida_020_089",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Classic hakka noodles served hot and fresh.",
+    "price": 749,
+    "discountPercent": 40,
+    "finalPrice": 449,
+    "rating": 4.6,
+    "totalRatings": 937,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_noida_020_089.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "manchurian",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-02T03:02:25.003Z"
+  },
+  {
+    "id": "product_vendor_noida_020_090",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Classic spring rolls served hot and fresh.",
+    "price": 98,
+    "discountPercent": 34,
+    "finalPrice": 65,
+    "rating": 3.6,
+    "totalRatings": 4931,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_noida_020_090.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "soup",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-21T02:20:35.142Z"
+  },
+  {
+    "id": "product_vendor_noida_020_091",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Chef's special chilli paneer — perfect for a satisfying meal.",
+    "price": 429,
+    "discountPercent": 8,
+    "finalPrice": 395,
+    "rating": 4.1,
+    "totalRatings": 2269,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_noida_020_091.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "noodles",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-05T21:59:32.629Z"
+  },
+  {
+    "id": "product_vendor_noida_020_092",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Chef's special schezwan fried rice — perfect for a satisfying meal.",
+    "price": 533,
+    "discountPercent": 36,
+    "finalPrice": 341,
+    "rating": 4.8,
+    "totalRatings": 1606,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_noida_020_092.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "soup",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-27T10:47:00.458Z"
+  },
+  {
+    "id": "product_vendor_noida_020_093",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Delicious schezwan fried rice prepared fresh with authentic spices.",
+    "price": 853,
+    "discountPercent": 12,
+    "finalPrice": 751,
+    "rating": 4.6,
+    "totalRatings": 1741,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_noida_020_093.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "manchurian",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-04T20:50:08.938Z"
+  },
+  {
+    "id": "product_vendor_noida_020_094",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 354,
+    "discountPercent": 32,
+    "finalPrice": 241,
+    "rating": 4.4,
+    "totalRatings": 2445,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_020_094.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-15T14:41:50.403Z"
+  },
+  {
+    "id": "product_vendor_noida_020_095",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 503,
+    "discountPercent": 2,
+    "finalPrice": 493,
+    "rating": 3.9,
+    "totalRatings": 3815,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_noida_020_095.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "manchurian",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-17T17:17:43.186Z"
+  },
+  {
+    "id": "product_vendor_noida_020_096",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Classic schezwan fried rice served hot and fresh.",
+    "price": 540,
+    "discountPercent": 23,
+    "finalPrice": 416,
+    "rating": 4.2,
+    "totalRatings": 4937,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_noida_020_096.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "manchurian",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-06-04T04:08:42.977Z"
+  },
+  {
+    "id": "product_vendor_noida_020_097",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Classic veg manchurian served hot and fresh.",
+    "price": 315,
+    "discountPercent": 28,
+    "finalPrice": 227,
+    "rating": 3.9,
+    "totalRatings": 454,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_noida_020_097.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "dim-sum",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-30T21:43:35.335Z"
+  },
+  {
+    "id": "product_vendor_noida_020_098",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 578,
+    "discountPercent": 5,
+    "finalPrice": 549,
+    "rating": 3.8,
+    "totalRatings": 630,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_020_098.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-11T18:34:47.657Z"
+  },
+  {
+    "id": "product_vendor_noida_020_099",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 352,
+    "discountPercent": 36,
+    "finalPrice": 225,
+    "rating": 3.6,
+    "totalRatings": 2319,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_020_099.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-05T18:03:07.899Z"
+  },
+  {
+    "id": "product_vendor_noida_020_100",
+    "vendorId": "vendor_noida_020",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 560,
+    "discountPercent": 36,
+    "finalPrice": 358,
+    "rating": 3.8,
+    "totalRatings": 2632,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_020_100.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-31T07:10:29.710Z"
+  }
+]

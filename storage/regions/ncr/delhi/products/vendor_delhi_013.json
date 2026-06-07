@@ -1,0 +1,3542 @@
+[
+  {
+    "id": "product_vendor_delhi_013_001",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Chef's special rava dosa — perfect for a satisfying meal.",
+    "price": 81,
+    "discountPercent": 16,
+    "finalPrice": 68,
+    "rating": 4.1,
+    "totalRatings": 782,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_delhi_013_001.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "rava"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-05T03:08:28.645Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_002",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Delicious veg sandwich prepared fresh with authentic spices.",
+    "price": 700,
+    "discountPercent": 36,
+    "finalPrice": 448,
+    "rating": 4.3,
+    "totalRatings": 1094,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_013_002.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-20T12:33:09.477Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_003",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Delicious lucknowi biryani prepared fresh with authentic spices.",
+    "price": 148,
+    "discountPercent": 20,
+    "finalPrice": 118,
+    "rating": 3.5,
+    "totalRatings": 1168,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_delhi_013_003.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-22T21:03:12.619Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_004",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Delicious medu vada prepared fresh with authentic spices.",
+    "price": 370,
+    "discountPercent": 27,
+    "finalPrice": 270,
+    "rating": 4,
+    "totalRatings": 2454,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_delhi_013_004.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "sambar",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-03T07:04:03.166Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_005",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 835,
+    "discountPercent": 5,
+    "finalPrice": 793,
+    "rating": 4.1,
+    "totalRatings": 2293,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_delhi_013_005.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "pizza",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-23T23:30:15.547Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_006",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 303,
+    "discountPercent": 39,
+    "finalPrice": 185,
+    "rating": 3.5,
+    "totalRatings": 1961,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_013_006.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-17T12:15:02.909Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_007",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 657,
+    "discountPercent": 22,
+    "finalPrice": 512,
+    "rating": 3.8,
+    "totalRatings": 272,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_delhi_013_007.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "vada",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-03T18:05:42.475Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_008",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 392,
+    "discountPercent": 23,
+    "finalPrice": 302,
+    "rating": 4.6,
+    "totalRatings": 2367,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_delhi_013_008.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "uttapam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-29T08:00:28.323Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_009",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 475,
+    "discountPercent": 5,
+    "finalPrice": 451,
+    "rating": 4.2,
+    "totalRatings": 3153,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_delhi_013_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "pizza",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-04T00:08:32.160Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_010",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 379,
+    "discountPercent": 5,
+    "finalPrice": 360,
+    "rating": 4,
+    "totalRatings": 1116,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_delhi_013_010.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "egg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-24T01:03:11.691Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_011",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 337,
+    "discountPercent": 26,
+    "finalPrice": 249,
+    "rating": 4.3,
+    "totalRatings": 1321,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_delhi_013_011.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "burger",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-20T14:03:55.039Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_012",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Popular choice: Cheese Burger made with premium ingredients.",
+    "price": 208,
+    "discountPercent": 24,
+    "finalPrice": 158,
+    "rating": 3.8,
+    "totalRatings": 652,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_delhi_013_012.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "sandwich",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-14T02:15:06.713Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_013",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Chef's special mutton biryani — perfect for a satisfying meal.",
+    "price": 527,
+    "discountPercent": 17,
+    "finalPrice": 437,
+    "rating": 4.9,
+    "totalRatings": 3544,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_delhi_013_013.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "veg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-30T16:31:20.600Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_014",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 509,
+    "discountPercent": 38,
+    "finalPrice": 316,
+    "rating": 4.1,
+    "totalRatings": 3667,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_delhi_013_014.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "sandwich",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-28T23:16:25.078Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_015",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Popular choice: Curd Rice made with premium ingredients.",
+    "price": 453,
+    "discountPercent": 20,
+    "finalPrice": 362,
+    "rating": 3.7,
+    "totalRatings": 1066,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_delhi_013_015.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "sambar",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-27T07:50:46.327Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_016",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 730,
+    "discountPercent": 1,
+    "finalPrice": 723,
+    "rating": 3.8,
+    "totalRatings": 3608,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_delhi_013_016.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "egg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-29T07:54:16.101Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_017",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Chef's special idli sambar — perfect for a satisfying meal.",
+    "price": 227,
+    "discountPercent": 39,
+    "finalPrice": 138,
+    "rating": 4.2,
+    "totalRatings": 523,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_delhi_013_017.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "rasam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-05T18:02:25.180Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_018",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Chef's special egg biryani — perfect for a satisfying meal.",
+    "price": 322,
+    "discountPercent": 25,
+    "finalPrice": 242,
+    "rating": 4.1,
+    "totalRatings": 18,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_delhi_013_018.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "egg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-27T16:15:23.864Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_019",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 841,
+    "discountPercent": 4,
+    "finalPrice": 807,
+    "rating": 3.6,
+    "totalRatings": 3533,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_delhi_013_019.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "burger",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-01T18:32:14.246Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_020",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 801,
+    "discountPercent": 30,
+    "finalPrice": 561,
+    "rating": 4.3,
+    "totalRatings": 3560,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_013_020.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-18T03:35:07.605Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_021",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Delicious chicken biryani prepared fresh with authentic spices.",
+    "price": 222,
+    "discountPercent": 11,
+    "finalPrice": 198,
+    "rating": 3.7,
+    "totalRatings": 484,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_delhi_013_021.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-24T12:21:04.954Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_022",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Popular choice: Margherita Pizza made with premium ingredients.",
+    "price": 541,
+    "discountPercent": 9,
+    "finalPrice": 492,
+    "rating": 4.8,
+    "totalRatings": 3098,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_delhi_013_022.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-07T15:36:14.943Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_023",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Delicious idli sambar prepared fresh with authentic spices.",
+    "price": 378,
+    "discountPercent": 28,
+    "finalPrice": 272,
+    "rating": 4,
+    "totalRatings": 3557,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_delhi_013_023.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-30T08:47:21.286Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_024",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 502,
+    "discountPercent": 23,
+    "finalPrice": 387,
+    "rating": 4.7,
+    "totalRatings": 4928,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_delhi_013_024.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "mutton-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-07T10:31:18.384Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_025",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Popular choice: Lucknowi Biryani made with premium ingredients.",
+    "price": 254,
+    "discountPercent": 22,
+    "finalPrice": 198,
+    "rating": 4.3,
+    "totalRatings": 4717,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_delhi_013_025.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "mutton-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-19T14:34:02.983Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_026",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Classic medu vada served hot and fresh.",
+    "price": 428,
+    "discountPercent": 1,
+    "finalPrice": 424,
+    "rating": 3.6,
+    "totalRatings": 671,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_delhi_013_026.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "rasam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-18T09:24:10.628Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_027",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Classic masala dosa served hot and fresh.",
+    "price": 86,
+    "discountPercent": 7,
+    "finalPrice": 80,
+    "rating": 3.6,
+    "totalRatings": 4295,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_delhi_013_027.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "vada",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-14T15:53:51.640Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_028",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 416,
+    "discountPercent": 23,
+    "finalPrice": 320,
+    "rating": 4.5,
+    "totalRatings": 3386,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_delhi_013_028.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "sandwich",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-12T18:05:40.745Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_029",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 800,
+    "discountPercent": 34,
+    "finalPrice": 528,
+    "rating": 3.7,
+    "totalRatings": 3737,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_delhi_013_029.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "fries",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-17T10:09:24.166Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_030",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Chef's special idli sambar — perfect for a satisfying meal.",
+    "price": 318,
+    "discountPercent": 24,
+    "finalPrice": 242,
+    "rating": 4,
+    "totalRatings": 4544,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_delhi_013_030.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-25T05:46:35.138Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_031",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 709,
+    "discountPercent": 8,
+    "finalPrice": 652,
+    "rating": 3.8,
+    "totalRatings": 683,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_delhi_013_031.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-04T00:17:40.947Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_032",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Popular choice: Garlic Bread made with premium ingredients.",
+    "price": 693,
+    "discountPercent": 0,
+    "finalPrice": 693,
+    "rating": 3.9,
+    "totalRatings": 2530,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_delhi_013_032.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "burger",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-21T21:12:56.443Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_033",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 501,
+    "discountPercent": 8,
+    "finalPrice": 461,
+    "rating": 4.1,
+    "totalRatings": 2885,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_013_033.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-19T05:40:33.212Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_034",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Chef's special idli sambar — perfect for a satisfying meal.",
+    "price": 879,
+    "discountPercent": 6,
+    "finalPrice": 826,
+    "rating": 4.3,
+    "totalRatings": 2644,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_delhi_013_034.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "rasam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-03T23:18:45.204Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_035",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 512,
+    "discountPercent": 38,
+    "finalPrice": 317,
+    "rating": 4.3,
+    "totalRatings": 3744,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_delhi_013_035.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "cheese"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-23T10:39:57.799Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_036",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 197,
+    "discountPercent": 24,
+    "finalPrice": 150,
+    "rating": 4.7,
+    "totalRatings": 4937,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_delhi_013_036.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-18T05:56:39.417Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_037",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 879,
+    "discountPercent": 21,
+    "finalPrice": 694,
+    "rating": 4.8,
+    "totalRatings": 460,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_delhi_013_037.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "rava"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-05T16:26:05.708Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_038",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 866,
+    "discountPercent": 23,
+    "finalPrice": 667,
+    "rating": 3.6,
+    "totalRatings": 4513,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_013_038.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-09T16:41:04.624Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_039",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Popular choice: Hyderabadi Dum Biryani made with premium ingredients.",
+    "price": 123,
+    "discountPercent": 14,
+    "finalPrice": 106,
+    "rating": 4.5,
+    "totalRatings": 1132,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_delhi_013_039.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "veg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-09T22:47:04.041Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_040",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 714,
+    "discountPercent": 36,
+    "finalPrice": 457,
+    "rating": 4.1,
+    "totalRatings": 1607,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_013_040.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-07T05:06:55.259Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_041",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 819,
+    "discountPercent": 25,
+    "finalPrice": 614,
+    "rating": 3.7,
+    "totalRatings": 1855,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_delhi_013_041.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "mutton-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-09T22:30:29.127Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_042",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Popular choice: Egg Biryani made with premium ingredients.",
+    "price": 866,
+    "discountPercent": 22,
+    "finalPrice": 675,
+    "rating": 4.1,
+    "totalRatings": 86,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_delhi_013_042.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "egg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-06T20:48:12.089Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_043",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 405,
+    "discountPercent": 3,
+    "finalPrice": 393,
+    "rating": 4.1,
+    "totalRatings": 2879,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_delhi_013_043.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-07T16:31:35.211Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_044",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 132,
+    "discountPercent": 31,
+    "finalPrice": 91,
+    "rating": 4.6,
+    "totalRatings": 2371,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_delhi_013_044.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-01T00:42:32.180Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_045",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Popular choice: Egg Biryani made with premium ingredients.",
+    "price": 332,
+    "discountPercent": 22,
+    "finalPrice": 259,
+    "rating": 4.4,
+    "totalRatings": 1284,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_delhi_013_045.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "egg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-13T16:30:14.697Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_046",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Popular choice: Garlic Bread made with premium ingredients.",
+    "price": 221,
+    "discountPercent": 29,
+    "finalPrice": 157,
+    "rating": 4.5,
+    "totalRatings": 1619,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_delhi_013_046.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "pizza",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-12T14:12:15.300Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_047",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Popular choice: Cheese Burger made with premium ingredients.",
+    "price": 694,
+    "discountPercent": 30,
+    "finalPrice": 486,
+    "rating": 4.2,
+    "totalRatings": 279,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_delhi_013_047.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-30T09:16:31.542Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_048",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 169,
+    "discountPercent": 19,
+    "finalPrice": 137,
+    "rating": 3.8,
+    "totalRatings": 2871,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_delhi_013_048.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-23T04:35:02.125Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_049",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Classic mutton biryani served hot and fresh.",
+    "price": 152,
+    "discountPercent": 30,
+    "finalPrice": 106,
+    "rating": 4.9,
+    "totalRatings": 1738,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_delhi_013_049.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "chicken-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-20T17:33:41.070Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_050",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Chef's special uttapam — perfect for a satisfying meal.",
+    "price": 510,
+    "discountPercent": 35,
+    "finalPrice": 332,
+    "rating": 4.2,
+    "totalRatings": 1516,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_delhi_013_050.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-24T00:25:59.772Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_051",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Popular choice: Egg Biryani made with premium ingredients.",
+    "price": 758,
+    "discountPercent": 15,
+    "finalPrice": 644,
+    "rating": 4.8,
+    "totalRatings": 2312,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_delhi_013_051.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "egg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-15T09:40:00.481Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_052",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 282,
+    "discountPercent": 12,
+    "finalPrice": 248,
+    "rating": 4.2,
+    "totalRatings": 4358,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_delhi_013_052.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "rava"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-09T19:55:09.014Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_053",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 713,
+    "discountPercent": 21,
+    "finalPrice": 563,
+    "rating": 4.2,
+    "totalRatings": 505,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_delhi_013_053.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-13T02:21:40.577Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_054",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 545,
+    "discountPercent": 34,
+    "finalPrice": 360,
+    "rating": 4.6,
+    "totalRatings": 4376,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_delhi_013_054.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "cheese"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-04T20:31:40.848Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_055",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 851,
+    "discountPercent": 10,
+    "finalPrice": 766,
+    "rating": 4,
+    "totalRatings": 634,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_delhi_013_055.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-15T05:11:31.325Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_056",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 475,
+    "discountPercent": 37,
+    "finalPrice": 299,
+    "rating": 4.3,
+    "totalRatings": 1993,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_delhi_013_056.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "rasam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-12T08:09:51.950Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_057",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 570,
+    "discountPercent": 35,
+    "finalPrice": 371,
+    "rating": 3.5,
+    "totalRatings": 1122,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_delhi_013_057.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "fries",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-08T05:14:36.409Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_058",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Delicious curd rice prepared fresh with authentic spices.",
+    "price": 263,
+    "discountPercent": 27,
+    "finalPrice": 192,
+    "rating": 4.8,
+    "totalRatings": 3103,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_delhi_013_058.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "sambar",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-23T06:36:53.824Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_059",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Chef's special rava dosa — perfect for a satisfying meal.",
+    "price": 527,
+    "discountPercent": 32,
+    "finalPrice": 358,
+    "rating": 4.1,
+    "totalRatings": 3936,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_delhi_013_059.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-10T18:24:05.363Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_060",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Classic mutton biryani served hot and fresh.",
+    "price": 373,
+    "discountPercent": 25,
+    "finalPrice": 280,
+    "rating": 4.7,
+    "totalRatings": 3922,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_delhi_013_060.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "mutton-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-18T18:56:47.952Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_061",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Delicious french fries prepared fresh with authentic spices.",
+    "price": 732,
+    "discountPercent": 11,
+    "finalPrice": 651,
+    "rating": 4.1,
+    "totalRatings": 3864,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_delhi_013_061.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-09T21:40:34.287Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_062",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Delicious egg biryani prepared fresh with authentic spices.",
+    "price": 396,
+    "discountPercent": 40,
+    "finalPrice": 238,
+    "rating": 3.7,
+    "totalRatings": 3545,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_delhi_013_062.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "egg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-16T21:13:08.411Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_063",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 284,
+    "discountPercent": 31,
+    "finalPrice": 196,
+    "rating": 4,
+    "totalRatings": 208,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_013_063.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-01T10:58:53.248Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_064",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 242,
+    "discountPercent": 20,
+    "finalPrice": 194,
+    "rating": 4.7,
+    "totalRatings": 1068,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_013_064.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-27T18:49:08.920Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_065",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Chef's special masala dosa — perfect for a satisfying meal.",
+    "price": 505,
+    "discountPercent": 25,
+    "finalPrice": 379,
+    "rating": 4.3,
+    "totalRatings": 38,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_delhi_013_065.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-22T07:56:34.408Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_066",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Delicious veg sandwich prepared fresh with authentic spices.",
+    "price": 573,
+    "discountPercent": 3,
+    "finalPrice": 556,
+    "rating": 4.6,
+    "totalRatings": 2592,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_013_066.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-24T17:20:57.148Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_067",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Chef's special uttapam — perfect for a satisfying meal.",
+    "price": 282,
+    "discountPercent": 3,
+    "finalPrice": 274,
+    "rating": 3.6,
+    "totalRatings": 4945,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_delhi_013_067.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-20T22:36:13.417Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_068",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Delicious mutton biryani prepared fresh with authentic spices.",
+    "price": 462,
+    "discountPercent": 12,
+    "finalPrice": 407,
+    "rating": 3.5,
+    "totalRatings": 3583,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_delhi_013_068.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "veg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-01T06:36:13.961Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_069",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 660,
+    "discountPercent": 33,
+    "finalPrice": 442,
+    "rating": 3.8,
+    "totalRatings": 1278,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_delhi_013_069.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "egg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-26T15:53:18.845Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_070",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 866,
+    "discountPercent": 30,
+    "finalPrice": 606,
+    "rating": 4.6,
+    "totalRatings": 4216,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_delhi_013_070.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "idli",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-06T21:04:27.970Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_071",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 172,
+    "discountPercent": 14,
+    "finalPrice": 148,
+    "rating": 3.8,
+    "totalRatings": 4274,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_delhi_013_071.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-24T23:35:54.973Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_072",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Delicious veg sandwich prepared fresh with authentic spices.",
+    "price": 824,
+    "discountPercent": 3,
+    "finalPrice": 799,
+    "rating": 3.6,
+    "totalRatings": 2280,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_013_072.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-09T11:50:03.210Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_073",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Delicious french fries prepared fresh with authentic spices.",
+    "price": 82,
+    "discountPercent": 7,
+    "finalPrice": 76,
+    "rating": 3.7,
+    "totalRatings": 3058,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_delhi_013_073.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "pizza",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-12T22:36:34.126Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_074",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Classic masala dosa served hot and fresh.",
+    "price": 281,
+    "discountPercent": 29,
+    "finalPrice": 200,
+    "rating": 3.9,
+    "totalRatings": 3758,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_delhi_013_074.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-05T02:55:52.378Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_075",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Delicious curd rice prepared fresh with authentic spices.",
+    "price": 622,
+    "discountPercent": 40,
+    "finalPrice": 373,
+    "rating": 3.8,
+    "totalRatings": 1815,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_delhi_013_075.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "vada",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-15T07:39:41.907Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_076",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Popular choice: Margherita Pizza made with premium ingredients.",
+    "price": 766,
+    "discountPercent": 33,
+    "finalPrice": 513,
+    "rating": 3.5,
+    "totalRatings": 4450,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_delhi_013_076.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-06T11:58:48.875Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_077",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Chef's special idli sambar — perfect for a satisfying meal.",
+    "price": 383,
+    "discountPercent": 19,
+    "finalPrice": 310,
+    "rating": 4.4,
+    "totalRatings": 4069,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_delhi_013_077.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "rasam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-31T19:50:13.163Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_078",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 327,
+    "discountPercent": 31,
+    "finalPrice": 226,
+    "rating": 4,
+    "totalRatings": 3713,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_013_078.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-19T19:17:57.250Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_079",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Classic hyderabadi biryani served hot and fresh.",
+    "price": 351,
+    "discountPercent": 37,
+    "finalPrice": 221,
+    "rating": 4.7,
+    "totalRatings": 3832,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_delhi_013_079.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "dosa",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-27T11:49:46.486Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_080",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Classic veg biryani served hot and fresh.",
+    "price": 657,
+    "discountPercent": 6,
+    "finalPrice": 618,
+    "rating": 4.1,
+    "totalRatings": 3236,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_delhi_013_080.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "mutton-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-04T21:12:21.773Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_081",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Chef's special rava dosa — perfect for a satisfying meal.",
+    "price": 146,
+    "discountPercent": 12,
+    "finalPrice": 128,
+    "rating": 4.7,
+    "totalRatings": 2237,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_delhi_013_081.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "rava"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-04T12:46:51.554Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_082",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 129,
+    "discountPercent": 24,
+    "finalPrice": 98,
+    "rating": 4.5,
+    "totalRatings": 4001,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_013_082.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-19T17:18:06.329Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_083",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 264,
+    "discountPercent": 31,
+    "finalPrice": 182,
+    "rating": 4.1,
+    "totalRatings": 3446,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_013_083.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-29T22:10:17.905Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_084",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 128,
+    "discountPercent": 24,
+    "finalPrice": 97,
+    "rating": 4.9,
+    "totalRatings": 1931,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_013_084.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-03T07:22:39.933Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_085",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Chef's special uttapam — perfect for a satisfying meal.",
+    "price": 523,
+    "discountPercent": 24,
+    "finalPrice": 397,
+    "rating": 3.7,
+    "totalRatings": 2379,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_delhi_013_085.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "idli"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-24T14:50:01.175Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_086",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Chef's special filter coffee — perfect for a satisfying meal.",
+    "price": 495,
+    "discountPercent": 8,
+    "finalPrice": 455,
+    "rating": 4.8,
+    "totalRatings": 3785,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_delhi_013_086.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "dosa",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-28T23:28:58.777Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_087",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 620,
+    "discountPercent": 22,
+    "finalPrice": 484,
+    "rating": 3.8,
+    "totalRatings": 2203,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_delhi_013_087.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "egg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-12T10:24:50.950Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_088",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 164,
+    "discountPercent": 3,
+    "finalPrice": 159,
+    "rating": 4.9,
+    "totalRatings": 3592,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_delhi_013_088.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-27T18:35:34.499Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_089",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 477,
+    "discountPercent": 21,
+    "finalPrice": 377,
+    "rating": 4.2,
+    "totalRatings": 1968,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_013_089.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-30T14:54:22.981Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_090",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Chef's special idli sambar — perfect for a satisfying meal.",
+    "price": 311,
+    "discountPercent": 18,
+    "finalPrice": 255,
+    "rating": 4.8,
+    "totalRatings": 2053,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_delhi_013_090.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "idli"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-06-02T20:11:49.572Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_091",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Popular choice: Garlic Bread made with premium ingredients.",
+    "price": 90,
+    "discountPercent": 29,
+    "finalPrice": 64,
+    "rating": 4.5,
+    "totalRatings": 4756,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_delhi_013_091.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "sandwich",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-24T14:36:51.497Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_092",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Delicious hyderabadi biryani prepared fresh with authentic spices.",
+    "price": 345,
+    "discountPercent": 31,
+    "finalPrice": 238,
+    "rating": 4.8,
+    "totalRatings": 2523,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_delhi_013_092.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "vada",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-30T05:27:53.484Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_093",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Classic hyderabadi biryani served hot and fresh.",
+    "price": 510,
+    "discountPercent": 26,
+    "finalPrice": 377,
+    "rating": 3.8,
+    "totalRatings": 4789,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_delhi_013_093.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "dosa",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-30T13:33:28.002Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_094",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Chef's special masala dosa — perfect for a satisfying meal.",
+    "price": 87,
+    "discountPercent": 37,
+    "finalPrice": 55,
+    "rating": 4.4,
+    "totalRatings": 2376,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_delhi_013_094.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-17T11:11:39.431Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_095",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Chef's special idli sambar — perfect for a satisfying meal.",
+    "price": 584,
+    "discountPercent": 1,
+    "finalPrice": 578,
+    "rating": 4.4,
+    "totalRatings": 1162,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_delhi_013_095.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "rasam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-27T06:59:03.905Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_096",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 328,
+    "discountPercent": 33,
+    "finalPrice": 220,
+    "rating": 4.8,
+    "totalRatings": 1456,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_delhi_013_096.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-15T05:50:46.593Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_097",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 379,
+    "discountPercent": 22,
+    "finalPrice": 296,
+    "rating": 3.9,
+    "totalRatings": 1520,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_delhi_013_097.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "pizza",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-14T16:22:27.602Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_098",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Delicious curd rice prepared fresh with authentic spices.",
+    "price": 128,
+    "discountPercent": 2,
+    "finalPrice": 125,
+    "rating": 3.8,
+    "totalRatings": 738,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_delhi_013_098.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "dosa",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-19T18:04:51.655Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_099",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Delicious french fries prepared fresh with authentic spices.",
+    "price": 688,
+    "discountPercent": 20,
+    "finalPrice": 550,
+    "rating": 4.7,
+    "totalRatings": 776,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_delhi_013_099.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-16T06:29:17.551Z"
+  },
+  {
+    "id": "product_vendor_delhi_013_100",
+    "vendorId": "vendor_delhi_013",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Popular choice: Masala Dosa made with premium ingredients.",
+    "price": 118,
+    "discountPercent": 28,
+    "finalPrice": 85,
+    "rating": 4.7,
+    "totalRatings": 4237,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_delhi_013_100.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-12T07:10:32.337Z"
+  }
+]

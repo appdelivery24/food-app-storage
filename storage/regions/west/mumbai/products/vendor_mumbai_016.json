@@ -1,0 +1,3530 @@
+[
+  {
+    "id": "product_vendor_mumbai_016_001",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Delicious french fries prepared fresh with authentic spices.",
+    "price": 675,
+    "discountPercent": 29,
+    "finalPrice": 479,
+    "rating": 4.7,
+    "totalRatings": 4021,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_016_001.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "pizza",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-10T23:23:31.439Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_002",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Classic hyderabadi dum biryani served hot and fresh.",
+    "price": 463,
+    "discountPercent": 15,
+    "finalPrice": 394,
+    "rating": 3.5,
+    "totalRatings": 32,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_mumbai_016_002.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "egg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-24T11:52:25.027Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_003",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 676,
+    "discountPercent": 5,
+    "finalPrice": 642,
+    "rating": 4.5,
+    "totalRatings": 4488,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_016_003.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-22T08:57:49.625Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_004",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Classic chicken wrap served hot and fresh.",
+    "price": 676,
+    "discountPercent": 40,
+    "finalPrice": 406,
+    "rating": 4.7,
+    "totalRatings": 3175,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_016_004.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-06T03:00:40.335Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_005",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 542,
+    "discountPercent": 11,
+    "finalPrice": 482,
+    "rating": 4.2,
+    "totalRatings": 225,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_mumbai_016_005.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "rava"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-18T23:41:53.276Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_006",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Delicious veg biryani prepared fresh with authentic spices.",
+    "price": 844,
+    "discountPercent": 38,
+    "finalPrice": 523,
+    "rating": 4.6,
+    "totalRatings": 3436,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_mumbai_016_006.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "chicken-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-18T22:31:27.539Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_007",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Classic hyderabadi dum biryani served hot and fresh.",
+    "price": 95,
+    "discountPercent": 31,
+    "finalPrice": 66,
+    "rating": 4.5,
+    "totalRatings": 3156,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_mumbai_016_007.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "veg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-03T10:50:25.122Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_008",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Popular choice: Rava Dosa made with premium ingredients.",
+    "price": 147,
+    "discountPercent": 37,
+    "finalPrice": 93,
+    "rating": 4.5,
+    "totalRatings": 816,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_mumbai_016_008.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "rava"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-26T20:58:37.739Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_009",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 785,
+    "discountPercent": 34,
+    "finalPrice": 518,
+    "rating": 4.8,
+    "totalRatings": 2302,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_016_009.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-15T20:01:02.618Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_010",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Delicious hyderabadi dum biryani prepared fresh with authentic spices.",
+    "price": 666,
+    "discountPercent": 19,
+    "finalPrice": 539,
+    "rating": 4.2,
+    "totalRatings": 1270,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_mumbai_016_010.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "egg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-21T12:54:34.193Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_011",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 895,
+    "discountPercent": 16,
+    "finalPrice": 752,
+    "rating": 4.5,
+    "totalRatings": 3801,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_mumbai_016_011.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-13T05:29:43.698Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_012",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 479,
+    "discountPercent": 3,
+    "finalPrice": 465,
+    "rating": 4.6,
+    "totalRatings": 4384,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_mumbai_016_012.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-17T03:02:08.516Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_013",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 788,
+    "discountPercent": 17,
+    "finalPrice": 654,
+    "rating": 4.9,
+    "totalRatings": 1172,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_mumbai_016_013.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-27T12:32:42.696Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_014",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Popular choice: Masala Dosa made with premium ingredients.",
+    "price": 568,
+    "discountPercent": 33,
+    "finalPrice": 381,
+    "rating": 4.3,
+    "totalRatings": 3473,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_mumbai_016_014.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-29T13:02:05.143Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_015",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Classic idli sambar served hot and fresh.",
+    "price": 457,
+    "discountPercent": 37,
+    "finalPrice": 288,
+    "rating": 4.9,
+    "totalRatings": 4937,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_mumbai_016_015.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "idli"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-10T20:14:18.132Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_016",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Classic hyderabadi dum biryani served hot and fresh.",
+    "price": 293,
+    "discountPercent": 28,
+    "finalPrice": 211,
+    "rating": 3.9,
+    "totalRatings": 3129,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_mumbai_016_016.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "chicken-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-13T17:51:03.301Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_017",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Popular choice: Idli Sambar made with premium ingredients.",
+    "price": 398,
+    "discountPercent": 12,
+    "finalPrice": 350,
+    "rating": 3.7,
+    "totalRatings": 4592,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_mumbai_016_017.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "vada",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-25T17:00:31.839Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_018",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Popular choice: Idli Sambar made with premium ingredients.",
+    "price": 830,
+    "discountPercent": 27,
+    "finalPrice": 606,
+    "rating": 4.5,
+    "totalRatings": 1480,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_mumbai_016_018.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "uttapam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-09T06:34:05.067Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_019",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Popular choice: Mutton Biryani made with premium ingredients.",
+    "price": 462,
+    "discountPercent": 10,
+    "finalPrice": 416,
+    "rating": 4.8,
+    "totalRatings": 4090,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_mumbai_016_019.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "mutton-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-06T12:31:23.201Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_020",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Popular choice: Veg Biryani made with premium ingredients.",
+    "price": 580,
+    "discountPercent": 6,
+    "finalPrice": 545,
+    "rating": 3.6,
+    "totalRatings": 923,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_mumbai_016_020.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "veg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-04T09:45:46.750Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_021",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 796,
+    "discountPercent": 0,
+    "finalPrice": 796,
+    "rating": 4.9,
+    "totalRatings": 3112,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_016_021.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "burger",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-29T02:24:37.178Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_022",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 323,
+    "discountPercent": 0,
+    "finalPrice": 323,
+    "rating": 4.1,
+    "totalRatings": 2886,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_016_022.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "sandwich",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-11T07:25:22.507Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_023",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 398,
+    "discountPercent": 11,
+    "finalPrice": 354,
+    "rating": 4.8,
+    "totalRatings": 3601,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_mumbai_016_023.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-10T10:05:50.807Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_024",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 417,
+    "discountPercent": 1,
+    "finalPrice": 413,
+    "rating": 4.8,
+    "totalRatings": 4953,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_mumbai_016_024.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "egg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-25T10:07:54.292Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_025",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 352,
+    "discountPercent": 3,
+    "finalPrice": 341,
+    "rating": 4.3,
+    "totalRatings": 1506,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_016_025.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-21T11:28:42.370Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_026",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 685,
+    "discountPercent": 10,
+    "finalPrice": 617,
+    "rating": 4.3,
+    "totalRatings": 4897,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_016_026.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-31T04:33:16.666Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_027",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Chef's special veg biryani — perfect for a satisfying meal.",
+    "price": 206,
+    "discountPercent": 16,
+    "finalPrice": 173,
+    "rating": 3.8,
+    "totalRatings": 2763,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_mumbai_016_027.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "veg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-02T12:09:02.506Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_028",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Classic veg biryani served hot and fresh.",
+    "price": 793,
+    "discountPercent": 0,
+    "finalPrice": 793,
+    "rating": 3.9,
+    "totalRatings": 2860,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_mumbai_016_028.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "egg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-08T11:54:02.140Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_029",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 266,
+    "discountPercent": 32,
+    "finalPrice": 181,
+    "rating": 4.5,
+    "totalRatings": 1767,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_mumbai_016_029.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-30T04:27:13.346Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_030",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 512,
+    "discountPercent": 25,
+    "finalPrice": 384,
+    "rating": 4.1,
+    "totalRatings": 4640,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_mumbai_016_030.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-14T13:58:30.637Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_031",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 505,
+    "discountPercent": 38,
+    "finalPrice": 313,
+    "rating": 4.1,
+    "totalRatings": 1546,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_016_031.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "pizza",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-14T11:45:43.579Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_032",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 331,
+    "discountPercent": 35,
+    "finalPrice": 215,
+    "rating": 4.6,
+    "totalRatings": 54,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_mumbai_016_032.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "uttapam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-31T12:51:55.970Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_033",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 164,
+    "discountPercent": 33,
+    "finalPrice": 110,
+    "rating": 4.3,
+    "totalRatings": 337,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_016_033.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-16T20:16:27.001Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_034",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 408,
+    "discountPercent": 37,
+    "finalPrice": 257,
+    "rating": 3.5,
+    "totalRatings": 1012,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_016_034.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "wrap",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-19T07:33:01.645Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_035",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Delicious egg biryani prepared fresh with authentic spices.",
+    "price": 860,
+    "discountPercent": 13,
+    "finalPrice": 748,
+    "rating": 3.7,
+    "totalRatings": 3813,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_mumbai_016_035.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "veg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-01T12:23:58.095Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_036",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Popular choice: Lucknowi Biryani made with premium ingredients.",
+    "price": 705,
+    "discountPercent": 14,
+    "finalPrice": 606,
+    "rating": 4.1,
+    "totalRatings": 1944,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_mumbai_016_036.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "egg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-16T16:19:18.711Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_037",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Classic hyderabadi biryani served hot and fresh.",
+    "price": 544,
+    "discountPercent": 39,
+    "finalPrice": 332,
+    "rating": 4.8,
+    "totalRatings": 564,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_mumbai_016_037.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "dosa",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-18T07:35:41.202Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_038",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 317,
+    "discountPercent": 32,
+    "finalPrice": 216,
+    "rating": 4.7,
+    "totalRatings": 908,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_016_038.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "burger",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-21T16:59:42.226Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_039",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Chef's special filter coffee — perfect for a satisfying meal.",
+    "price": 173,
+    "discountPercent": 25,
+    "finalPrice": 130,
+    "rating": 3.6,
+    "totalRatings": 426,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_mumbai_016_039.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "sambar",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-31T00:24:54.968Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_040",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 337,
+    "discountPercent": 8,
+    "finalPrice": 310,
+    "rating": 3.9,
+    "totalRatings": 1471,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_016_040.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "french"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-07T07:42:37.141Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_041",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Classic masala dosa served hot and fresh.",
+    "price": 139,
+    "discountPercent": 15,
+    "finalPrice": 118,
+    "rating": 4.8,
+    "totalRatings": 4161,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_mumbai_016_041.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "idli",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-24T20:11:41.251Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_042",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 345,
+    "discountPercent": 33,
+    "finalPrice": 231,
+    "rating": 3.7,
+    "totalRatings": 3462,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_016_042.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "sandwich",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-08T17:11:11.715Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_043",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Popular choice: Masala Dosa made with premium ingredients.",
+    "price": 509,
+    "discountPercent": 13,
+    "finalPrice": 443,
+    "rating": 4,
+    "totalRatings": 1022,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_mumbai_016_043.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-14T04:10:40.927Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_044",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 599,
+    "discountPercent": 22,
+    "finalPrice": 467,
+    "rating": 4.6,
+    "totalRatings": 4451,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_016_044.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-08T17:09:27.897Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_045",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Delicious curd rice prepared fresh with authentic spices.",
+    "price": 615,
+    "discountPercent": 1,
+    "finalPrice": 609,
+    "rating": 4.4,
+    "totalRatings": 3801,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_mumbai_016_045.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "dosa",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-21T08:46:41.972Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_046",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Classic uttapam served hot and fresh.",
+    "price": 622,
+    "discountPercent": 8,
+    "finalPrice": 572,
+    "rating": 4.6,
+    "totalRatings": 1365,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_mumbai_016_046.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-27T14:44:55.079Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_047",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Popular choice: Cheese Burger made with premium ingredients.",
+    "price": 745,
+    "discountPercent": 14,
+    "finalPrice": 641,
+    "rating": 4.2,
+    "totalRatings": 882,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_016_047.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "cheese"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-09T09:40:50.275Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_048",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 240,
+    "discountPercent": 29,
+    "finalPrice": 170,
+    "rating": 4.3,
+    "totalRatings": 1634,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_mumbai_016_048.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "sambar",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-17T14:04:43.004Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_049",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Classic chicken biryani served hot and fresh.",
+    "price": 268,
+    "discountPercent": 23,
+    "finalPrice": 206,
+    "rating": 4.1,
+    "totalRatings": 2455,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_mumbai_016_049.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "mutton-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-18T17:57:21.173Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_050",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Delicious mutton biryani prepared fresh with authentic spices.",
+    "price": 291,
+    "discountPercent": 1,
+    "finalPrice": 288,
+    "rating": 4.5,
+    "totalRatings": 2295,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_mumbai_016_050.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "egg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-04T23:02:11.566Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_051",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 743,
+    "discountPercent": 21,
+    "finalPrice": 587,
+    "rating": 4.8,
+    "totalRatings": 4290,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_016_051.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-19T02:36:54.472Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_052",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Popular choice: Idli Sambar made with premium ingredients.",
+    "price": 711,
+    "discountPercent": 33,
+    "finalPrice": 476,
+    "rating": 3.8,
+    "totalRatings": 521,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_mumbai_016_052.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "rasam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-23T04:51:25.460Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_053",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Delicious hyderabadi dum biryani prepared fresh with authentic spices.",
+    "price": 643,
+    "discountPercent": 27,
+    "finalPrice": 469,
+    "rating": 4.1,
+    "totalRatings": 1281,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_mumbai_016_053.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "mutton-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-01T04:31:41.809Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_054",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Popular choice: Egg Biryani made with premium ingredients.",
+    "price": 622,
+    "discountPercent": 26,
+    "finalPrice": 460,
+    "rating": 4,
+    "totalRatings": 4536,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_mumbai_016_054.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "veg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-10T17:15:59.847Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_055",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 357,
+    "discountPercent": 3,
+    "finalPrice": 346,
+    "rating": 4.7,
+    "totalRatings": 4026,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_016_055.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-27T20:56:10.998Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_056",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 238,
+    "discountPercent": 22,
+    "finalPrice": 186,
+    "rating": 4.6,
+    "totalRatings": 1206,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_mumbai_016_056.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "sambar",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-22T18:18:07.737Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_057",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Chef's special hyderabadi biryani — perfect for a satisfying meal.",
+    "price": 862,
+    "discountPercent": 18,
+    "finalPrice": 707,
+    "rating": 3.7,
+    "totalRatings": 2843,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_mumbai_016_057.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "idli",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-16T12:48:14.460Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_058",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Chef's special margherita pizza — perfect for a satisfying meal.",
+    "price": 282,
+    "discountPercent": 21,
+    "finalPrice": 223,
+    "rating": 4.4,
+    "totalRatings": 1173,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_016_058.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-29T04:43:13.443Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_059",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Chef's special egg biryani — perfect for a satisfying meal.",
+    "price": 324,
+    "discountPercent": 3,
+    "finalPrice": 314,
+    "rating": 4.6,
+    "totalRatings": 4132,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_mumbai_016_059.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "egg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-24T20:55:51.671Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_060",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Popular choice: Hyderabadi Dum Biryani made with premium ingredients.",
+    "price": 243,
+    "discountPercent": 22,
+    "finalPrice": 190,
+    "rating": 4.1,
+    "totalRatings": 4654,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_mumbai_016_060.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "mutton-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-11T12:10:35.451Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_061",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Classic cheese burger served hot and fresh.",
+    "price": 770,
+    "discountPercent": 13,
+    "finalPrice": 670,
+    "rating": 3.7,
+    "totalRatings": 2882,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_016_061.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-06-01T23:37:43.534Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_062",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Classic hyderabadi dum biryani served hot and fresh.",
+    "price": 578,
+    "discountPercent": 39,
+    "finalPrice": 353,
+    "rating": 4.6,
+    "totalRatings": 1106,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_mumbai_016_062.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "chicken-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-22T15:28:17.616Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_063",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Delicious french fries prepared fresh with authentic spices.",
+    "price": 570,
+    "discountPercent": 4,
+    "finalPrice": 547,
+    "rating": 4.3,
+    "totalRatings": 3781,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_016_063.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "sandwich",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-19T22:04:58.824Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_064",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Popular choice: Margherita Pizza made with premium ingredients.",
+    "price": 876,
+    "discountPercent": 2,
+    "finalPrice": 858,
+    "rating": 3.9,
+    "totalRatings": 154,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_016_064.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-17T03:33:03.018Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_065",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Chef's special rava dosa — perfect for a satisfying meal.",
+    "price": 516,
+    "discountPercent": 29,
+    "finalPrice": 366,
+    "rating": 4.3,
+    "totalRatings": 4332,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_mumbai_016_065.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-16T04:17:22.854Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_066",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 391,
+    "discountPercent": 38,
+    "finalPrice": 242,
+    "rating": 4.4,
+    "totalRatings": 905,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_mumbai_016_066.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-12T14:54:28.138Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_067",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 414,
+    "discountPercent": 19,
+    "finalPrice": 335,
+    "rating": 4.4,
+    "totalRatings": 4058,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_mumbai_016_067.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-03T05:51:25.567Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_068",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 531,
+    "discountPercent": 33,
+    "finalPrice": 356,
+    "rating": 4.3,
+    "totalRatings": 4702,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_016_068.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-02T22:06:47.040Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_069",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Popular choice: Uttapam made with premium ingredients.",
+    "price": 504,
+    "discountPercent": 12,
+    "finalPrice": 444,
+    "rating": 4,
+    "totalRatings": 3539,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_mumbai_016_069.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-13T04:43:01.109Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_070",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 585,
+    "discountPercent": 9,
+    "finalPrice": 532,
+    "rating": 4.5,
+    "totalRatings": 483,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_016_070.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-25T19:40:12.725Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_071",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 585,
+    "discountPercent": 22,
+    "finalPrice": 456,
+    "rating": 4.8,
+    "totalRatings": 4637,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_016_071.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "sandwich",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-18T00:42:17.823Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_072",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 351,
+    "discountPercent": 16,
+    "finalPrice": 295,
+    "rating": 4,
+    "totalRatings": 1434,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_016_072.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-26T01:33:30.876Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_073",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 695,
+    "discountPercent": 20,
+    "finalPrice": 556,
+    "rating": 4.2,
+    "totalRatings": 4056,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_mumbai_016_073.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "dosa",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-06T06:54:39.750Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_074",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 861,
+    "discountPercent": 0,
+    "finalPrice": 861,
+    "rating": 4.7,
+    "totalRatings": 3119,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_016_074.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "sandwich",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-06-05T10:02:14.829Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_075",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Delicious veg biryani prepared fresh with authentic spices.",
+    "price": 124,
+    "discountPercent": 31,
+    "finalPrice": 86,
+    "rating": 4.2,
+    "totalRatings": 4840,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_mumbai_016_075.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "mutton-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-21T05:37:38.367Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_076",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Classic chicken biryani served hot and fresh.",
+    "price": 537,
+    "discountPercent": 11,
+    "finalPrice": 478,
+    "rating": 4.2,
+    "totalRatings": 3349,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_mumbai_016_076.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-28T12:51:01.388Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_077",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Popular choice: Filter Coffee made with premium ingredients.",
+    "price": 864,
+    "discountPercent": 31,
+    "finalPrice": 596,
+    "rating": 4.4,
+    "totalRatings": 3027,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_mumbai_016_077.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "uttapam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-28T04:18:56.449Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_078",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 540,
+    "discountPercent": 13,
+    "finalPrice": 470,
+    "rating": 4.2,
+    "totalRatings": 3957,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_mumbai_016_078.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "idli",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-19T01:25:09.672Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_079",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Popular choice: Rava Dosa made with premium ingredients.",
+    "price": 670,
+    "discountPercent": 33,
+    "finalPrice": 449,
+    "rating": 4.1,
+    "totalRatings": 1161,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_mumbai_016_079.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "idli",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-14T06:48:53.807Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_080",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 806,
+    "discountPercent": 32,
+    "finalPrice": 548,
+    "rating": 3.8,
+    "totalRatings": 389,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_mumbai_016_080.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "pizza",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-04T04:57:37.360Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_081",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 875,
+    "discountPercent": 7,
+    "finalPrice": 814,
+    "rating": 4.1,
+    "totalRatings": 2043,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_016_081.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "margherita"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-03T19:03:11.430Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_082",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Chef's special idli sambar — perfect for a satisfying meal.",
+    "price": 192,
+    "discountPercent": 17,
+    "finalPrice": 159,
+    "rating": 4.7,
+    "totalRatings": 1642,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_mumbai_016_082.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "idli"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-02T14:43:45.269Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_083",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Classic idli sambar served hot and fresh.",
+    "price": 741,
+    "discountPercent": 25,
+    "finalPrice": 556,
+    "rating": 4.4,
+    "totalRatings": 1201,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_mumbai_016_083.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "rasam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-21T02:31:39.854Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_084",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 696,
+    "discountPercent": 8,
+    "finalPrice": 640,
+    "rating": 3.8,
+    "totalRatings": 4187,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_016_084.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-28T22:44:46.280Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_085",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Chef's special veg biryani — perfect for a satisfying meal.",
+    "price": 441,
+    "discountPercent": 3,
+    "finalPrice": 428,
+    "rating": 3.7,
+    "totalRatings": 2066,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_mumbai_016_085.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "veg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-07T09:52:36.984Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_086",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Chef's special masala dosa — perfect for a satisfying meal.",
+    "price": 147,
+    "discountPercent": 25,
+    "finalPrice": 110,
+    "rating": 3.7,
+    "totalRatings": 722,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_mumbai_016_086.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-30T15:12:44.389Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_087",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Classic egg biryani served hot and fresh.",
+    "price": 581,
+    "discountPercent": 16,
+    "finalPrice": 488,
+    "rating": 4.6,
+    "totalRatings": 4208,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_mumbai_016_087.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "chicken-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-22T05:21:36.258Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_088",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Chef's special filter coffee — perfect for a satisfying meal.",
+    "price": 780,
+    "discountPercent": 19,
+    "finalPrice": 632,
+    "rating": 4.3,
+    "totalRatings": 3544,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_mumbai_016_088.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "dosa",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-24T02:50:52.102Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_089",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 593,
+    "discountPercent": 36,
+    "finalPrice": 380,
+    "rating": 4.6,
+    "totalRatings": 435,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_016_089.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "pizza",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-08T22:33:55.377Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_090",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Delicious french fries prepared fresh with authentic spices.",
+    "price": 580,
+    "discountPercent": 4,
+    "finalPrice": 557,
+    "rating": 4.5,
+    "totalRatings": 4619,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_016_090.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "french"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-30T17:10:02.918Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_091",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Chef's special egg biryani — perfect for a satisfying meal.",
+    "price": 435,
+    "discountPercent": 34,
+    "finalPrice": 287,
+    "rating": 4.3,
+    "totalRatings": 599,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_mumbai_016_091.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "chicken-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-10T22:19:45.203Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_092",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Delicious veg sandwich prepared fresh with authentic spices.",
+    "price": 757,
+    "discountPercent": 24,
+    "finalPrice": 575,
+    "rating": 4.3,
+    "totalRatings": 4010,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_mumbai_016_092.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "pizza",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-24T02:39:28.249Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_093",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 150,
+    "discountPercent": 36,
+    "finalPrice": 96,
+    "rating": 3.6,
+    "totalRatings": 4344,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_016_093.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-01T12:50:44.803Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_094",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 501,
+    "discountPercent": 33,
+    "finalPrice": 336,
+    "rating": 4.1,
+    "totalRatings": 3238,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_mumbai_016_094.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "vada",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-17T22:24:09.827Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_095",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Popular choice: Medu Vada made with premium ingredients.",
+    "price": 761,
+    "discountPercent": 40,
+    "finalPrice": 457,
+    "rating": 4.6,
+    "totalRatings": 686,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_mumbai_016_095.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "dosa",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-02T02:01:57.321Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_096",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 460,
+    "discountPercent": 26,
+    "finalPrice": 340,
+    "rating": 4.5,
+    "totalRatings": 2511,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_mumbai_016_096.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-28T22:38:25.641Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_097",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Delicious french fries prepared fresh with authentic spices.",
+    "price": 321,
+    "discountPercent": 10,
+    "finalPrice": 289,
+    "rating": 4,
+    "totalRatings": 261,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_016_097.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "french"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-30T12:23:32.630Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_098",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 311,
+    "discountPercent": 25,
+    "finalPrice": 233,
+    "rating": 3.7,
+    "totalRatings": 2812,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_mumbai_016_098.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "idli",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-07T01:10:13.365Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_099",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 638,
+    "discountPercent": 8,
+    "finalPrice": 587,
+    "rating": 4.5,
+    "totalRatings": 3763,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_mumbai_016_099.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-02T21:45:29.269Z"
+  },
+  {
+    "id": "product_vendor_mumbai_016_100",
+    "vendorId": "vendor_mumbai_016",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Classic veg biryani served hot and fresh.",
+    "price": 763,
+    "discountPercent": 26,
+    "finalPrice": 565,
+    "rating": 4.5,
+    "totalRatings": 540,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_mumbai_016_100.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "egg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-15T23:01:32.027Z"
+  }
+]

@@ -1,0 +1,3633 @@
+[
+  {
+    "id": "product_vendor_bangalore_030_001",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 286,
+    "discountPercent": 0,
+    "finalPrice": 286,
+    "rating": 4.7,
+    "totalRatings": 2214,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_030_001.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "manchurian",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-20T15:10:08.535Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_002",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Delicious red velvet cake prepared fresh with authentic spices.",
+    "price": 823,
+    "discountPercent": 33,
+    "finalPrice": 551,
+    "rating": 3.8,
+    "totalRatings": 953,
+    "category": "desserts",
+    "subCategory": "brownie",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_bangalore_030_002.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "brownie",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "brownie",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-18T21:34:35.119Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_003",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Kulfi Falooda",
+    "description": "Popular choice: Kulfi Falooda made with premium ingredients.",
+    "price": 694,
+    "discountPercent": 18,
+    "finalPrice": 569,
+    "rating": 3.9,
+    "totalRatings": 4486,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/kulfi-falooda/product_vendor_bangalore_030_003.webp",
+    "imageSlug": "kulfi-falooda",
+    "tags": [
+      "desserts",
+      "pastry",
+      "veg",
+      "kulfi",
+      "falooda"
+    ],
+    "searchKeywords": [
+      "kulfi",
+      "falooda",
+      "desserts",
+      "pastry",
+      "kulfi falooda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-15T07:35:57.666Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_004",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Popular choice: Veg Manchurian made with premium ingredients.",
+    "price": 469,
+    "discountPercent": 17,
+    "finalPrice": 389,
+    "rating": 4.6,
+    "totalRatings": 2759,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_030_004.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-01T10:59:59.419Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_005",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Classic red velvet cake served hot and fresh.",
+    "price": 415,
+    "discountPercent": 4,
+    "finalPrice": 398,
+    "rating": 4.4,
+    "totalRatings": 3642,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_bangalore_030_005.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "ice-cream",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-06-03T12:23:21.778Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_006",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Chef's special schezwan fried rice — perfect for a satisfying meal.",
+    "price": 474,
+    "discountPercent": 36,
+    "finalPrice": 303,
+    "rating": 3.7,
+    "totalRatings": 4593,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_030_006.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "soup",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-20T19:13:09.341Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_007",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Chef's special chilli paneer — perfect for a satisfying meal.",
+    "price": 321,
+    "discountPercent": 33,
+    "finalPrice": 215,
+    "rating": 4.3,
+    "totalRatings": 2136,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_030_007.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "fried-rice",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-03T14:52:30.399Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_008",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Classic mango shake served hot and fresh.",
+    "price": 528,
+    "discountPercent": 30,
+    "finalPrice": 370,
+    "rating": 4,
+    "totalRatings": 739,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_030_008.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "mango"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-03T11:00:45.418Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_009",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Classic veg manchurian served hot and fresh.",
+    "price": 163,
+    "discountPercent": 34,
+    "finalPrice": 108,
+    "rating": 4.4,
+    "totalRatings": 3514,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_030_009.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-07T04:27:23.192Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_010",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Chef's special gulab jamun — perfect for a satisfying meal.",
+    "price": 779,
+    "discountPercent": 33,
+    "finalPrice": 522,
+    "rating": 3.6,
+    "totalRatings": 1461,
+    "category": "desserts",
+    "subCategory": "brownie",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_bangalore_030_010.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "brownie",
+      "non-veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "brownie",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-18T03:00:48.500Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_011",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Classic mango shake served hot and fresh.",
+    "price": 746,
+    "discountPercent": 19,
+    "finalPrice": 604,
+    "rating": 4.2,
+    "totalRatings": 1168,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_030_011.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "tea",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-01T14:02:48.294Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_012",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Vanilla Ice Cream",
+    "description": "Popular choice: Vanilla Ice Cream made with premium ingredients.",
+    "price": 879,
+    "discountPercent": 18,
+    "finalPrice": 721,
+    "rating": 4.2,
+    "totalRatings": 1786,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/vanilla-ice-cream/product_vendor_bangalore_030_012.webp",
+    "imageSlug": "vanilla-ice-cream",
+    "tags": [
+      "desserts",
+      "cake",
+      "veg",
+      "vanilla",
+      "ice",
+      "cream"
+    ],
+    "searchKeywords": [
+      "vanilla",
+      "ice",
+      "cream",
+      "desserts",
+      "cake",
+      "vanilla ice cream"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-06-02T19:12:50.938Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_013",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Delicious schezwan fried rice prepared fresh with authentic spices.",
+    "price": 216,
+    "discountPercent": 28,
+    "finalPrice": 156,
+    "rating": 3.6,
+    "totalRatings": 4300,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_030_013.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "dim-sum",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-17T12:00:25.459Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_014",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Popular choice: Masala Chai made with premium ingredients.",
+    "price": 112,
+    "discountPercent": 31,
+    "finalPrice": 77,
+    "rating": 4.4,
+    "totalRatings": 2821,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_030_014.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "juice",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-26T13:22:52.122Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_015",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Classic mango shake served hot and fresh.",
+    "price": 490,
+    "discountPercent": 12,
+    "finalPrice": 431,
+    "rating": 3.8,
+    "totalRatings": 1125,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_030_015.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "juice",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-08T05:05:00.959Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_016",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Chef's special strawberry smoothie — perfect for a satisfying meal.",
+    "price": 539,
+    "discountPercent": 6,
+    "finalPrice": 507,
+    "rating": 3.7,
+    "totalRatings": 4839,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_030_016.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "juice",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-02T06:29:05.772Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_017",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Chef's special buttermilk — perfect for a satisfying meal.",
+    "price": 661,
+    "discountPercent": 27,
+    "finalPrice": 483,
+    "rating": 4.4,
+    "totalRatings": 3074,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_030_017.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "juice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-04T15:17:08.907Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_018",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Vanilla Ice Cream",
+    "description": "Classic vanilla ice cream served hot and fresh.",
+    "price": 89,
+    "discountPercent": 31,
+    "finalPrice": 61,
+    "rating": 3.7,
+    "totalRatings": 711,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/vanilla-ice-cream/product_vendor_bangalore_030_018.webp",
+    "imageSlug": "vanilla-ice-cream",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "vanilla",
+      "ice",
+      "cream"
+    ],
+    "searchKeywords": [
+      "vanilla",
+      "ice",
+      "cream",
+      "desserts",
+      "ice-cream",
+      "vanilla ice cream"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-20T17:07:50.529Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_019",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Chef's special fresh lime soda — perfect for a satisfying meal.",
+    "price": 809,
+    "discountPercent": 15,
+    "finalPrice": 688,
+    "rating": 4.2,
+    "totalRatings": 4811,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_030_019.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "lassi",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-10T04:24:58.226Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_020",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Classic cold coffee served hot and fresh.",
+    "price": 577,
+    "discountPercent": 8,
+    "finalPrice": 531,
+    "rating": 4.7,
+    "totalRatings": 3377,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_030_020.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "cold"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-14T11:17:26.787Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_021",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Delicious gulab jamun prepared fresh with authentic spices.",
+    "price": 354,
+    "discountPercent": 8,
+    "finalPrice": 326,
+    "rating": 4.2,
+    "totalRatings": 3318,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_bangalore_030_021.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "cake",
+      "non-veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "cake",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-10T01:36:19.320Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_022",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Classic red velvet cake served hot and fresh.",
+    "price": 472,
+    "discountPercent": 3,
+    "finalPrice": 458,
+    "rating": 3.6,
+    "totalRatings": 4507,
+    "category": "desserts",
+    "subCategory": "brownie",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_bangalore_030_022.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "brownie",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "brownie",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-08T15:47:29.127Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_023",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Classic cold coffee served hot and fresh.",
+    "price": 370,
+    "discountPercent": 20,
+    "finalPrice": 296,
+    "rating": 4.1,
+    "totalRatings": 747,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_030_023.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "juice",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-25T07:30:19.772Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_024",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Delicious masala chai prepared fresh with authentic spices.",
+    "price": 768,
+    "discountPercent": 10,
+    "finalPrice": 691,
+    "rating": 4.6,
+    "totalRatings": 1642,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_030_024.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "juice",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-08T08:14:10.446Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_025",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Delicious gulab jamun prepared fresh with authentic spices.",
+    "price": 439,
+    "discountPercent": 19,
+    "finalPrice": 356,
+    "rating": 3.9,
+    "totalRatings": 3648,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_bangalore_030_025.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "cake",
+      "veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "cake",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-01T06:50:32.197Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_026",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Classic hot & sour soup served hot and fresh.",
+    "price": 508,
+    "discountPercent": 21,
+    "finalPrice": 401,
+    "rating": 4.7,
+    "totalRatings": 4340,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_030_026.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "fried-rice",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-17T17:41:42.639Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_027",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Delicious buttermilk prepared fresh with authentic spices.",
+    "price": 317,
+    "discountPercent": 37,
+    "finalPrice": 200,
+    "rating": 4,
+    "totalRatings": 1091,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_030_027.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-21T01:45:10.952Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_028",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 498,
+    "discountPercent": 24,
+    "finalPrice": 378,
+    "rating": 4.8,
+    "totalRatings": 2174,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_030_028.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "noodles",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-31T20:55:30.741Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_029",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Delicious red velvet cake prepared fresh with authentic spices.",
+    "price": 279,
+    "discountPercent": 5,
+    "finalPrice": 265,
+    "rating": 3.8,
+    "totalRatings": 4204,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_bangalore_030_029.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "ice-cream",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-21T21:44:49.441Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_030",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Delicious spring rolls prepared fresh with authentic spices.",
+    "price": 401,
+    "discountPercent": 14,
+    "finalPrice": 345,
+    "rating": 4.2,
+    "totalRatings": 2168,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_030_030.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "soup",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-16T05:32:18.710Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_031",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Chef's special strawberry smoothie — perfect for a satisfying meal.",
+    "price": 606,
+    "discountPercent": 37,
+    "finalPrice": 382,
+    "rating": 3.8,
+    "totalRatings": 146,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_030_031.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "juice",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-10T06:33:10.820Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_032",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Chef's special buttermilk — perfect for a satisfying meal.",
+    "price": 337,
+    "discountPercent": 6,
+    "finalPrice": 317,
+    "rating": 3.6,
+    "totalRatings": 566,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_030_032.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "lassi"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-08T08:57:29.517Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_033",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 518,
+    "discountPercent": 9,
+    "finalPrice": 471,
+    "rating": 4.8,
+    "totalRatings": 3907,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_030_033.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "fried-rice",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-27T19:49:22.599Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_034",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Delicious strawberry smoothie prepared fresh with authentic spices.",
+    "price": 771,
+    "discountPercent": 36,
+    "finalPrice": 493,
+    "rating": 4,
+    "totalRatings": 1654,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_030_034.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "lassi",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-13T14:44:53.478Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_035",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Chef's special mango shake — perfect for a satisfying meal.",
+    "price": 518,
+    "discountPercent": 17,
+    "finalPrice": 430,
+    "rating": 4.5,
+    "totalRatings": 3739,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_030_035.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "coffee",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-12T19:12:48.551Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_036",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Delicious gulab jamun prepared fresh with authentic spices.",
+    "price": 672,
+    "discountPercent": 5,
+    "finalPrice": 638,
+    "rating": 4.6,
+    "totalRatings": 1103,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_bangalore_030_036.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "pastry",
+      "veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "pastry",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-15T01:12:51.516Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_037",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Popular choice: Buttermilk made with premium ingredients.",
+    "price": 870,
+    "discountPercent": 1,
+    "finalPrice": 861,
+    "rating": 4.1,
+    "totalRatings": 4187,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_030_037.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "juice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-09T04:23:00.116Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_038",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Classic hot & sour soup served hot and fresh.",
+    "price": 816,
+    "discountPercent": 3,
+    "finalPrice": 792,
+    "rating": 4.2,
+    "totalRatings": 4014,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_030_038.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "dim-sum",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-13T15:00:37.185Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_039",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Chef's special masala chai — perfect for a satisfying meal.",
+    "price": 619,
+    "discountPercent": 11,
+    "finalPrice": 551,
+    "rating": 3.8,
+    "totalRatings": 2386,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_030_039.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "juice",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-22T22:34:58.035Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_040",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Popular choice: Masala Chai made with premium ingredients.",
+    "price": 746,
+    "discountPercent": 17,
+    "finalPrice": 619,
+    "rating": 4.8,
+    "totalRatings": 3340,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_030_040.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "tea",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-16T08:01:55.142Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_041",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Popular choice: Schezwan Fried Rice made with premium ingredients.",
+    "price": 472,
+    "discountPercent": 11,
+    "finalPrice": 420,
+    "rating": 4,
+    "totalRatings": 763,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_030_041.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "manchurian",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-04T14:10:50.135Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_042",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Classic rasmalai served hot and fresh.",
+    "price": 405,
+    "discountPercent": 34,
+    "finalPrice": 267,
+    "rating": 4.3,
+    "totalRatings": 3235,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_bangalore_030_042.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "cake",
+      "veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-22T19:32:33.802Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_043",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Popular choice: Buttermilk made with premium ingredients.",
+    "price": 514,
+    "discountPercent": 4,
+    "finalPrice": 493,
+    "rating": 3.9,
+    "totalRatings": 1074,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_030_043.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "juice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-30T14:45:51.362Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_044",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Delicious hot & sour soup prepared fresh with authentic spices.",
+    "price": 820,
+    "discountPercent": 31,
+    "finalPrice": 566,
+    "rating": 4.7,
+    "totalRatings": 1500,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_030_044.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "fried-rice",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-10T22:46:26.105Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_045",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 198,
+    "discountPercent": 37,
+    "finalPrice": 125,
+    "rating": 4.4,
+    "totalRatings": 4735,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_030_045.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "fried-rice",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-13T07:32:27.224Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_046",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 695,
+    "discountPercent": 36,
+    "finalPrice": 445,
+    "rating": 4.1,
+    "totalRatings": 2930,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_030_046.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "shake",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-14T16:02:30.987Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_047",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Chef's special cold coffee — perfect for a satisfying meal.",
+    "price": 125,
+    "discountPercent": 21,
+    "finalPrice": 99,
+    "rating": 4.8,
+    "totalRatings": 2935,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_030_047.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "cold"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-16T01:11:03.446Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_048",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Classic gulab jamun served hot and fresh.",
+    "price": 117,
+    "discountPercent": 14,
+    "finalPrice": 101,
+    "rating": 4.6,
+    "totalRatings": 1892,
+    "category": "desserts",
+    "subCategory": "brownie",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_bangalore_030_048.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "brownie",
+      "veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "brownie",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-06-01T15:44:32.668Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_049",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Chef's special schezwan fried rice — perfect for a satisfying meal.",
+    "price": 747,
+    "discountPercent": 28,
+    "finalPrice": 538,
+    "rating": 4.5,
+    "totalRatings": 2652,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_030_049.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "manchurian",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-23T22:53:57.396Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_050",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Popular choice: Schezwan Fried Rice made with premium ingredients.",
+    "price": 331,
+    "discountPercent": 25,
+    "finalPrice": 248,
+    "rating": 4.6,
+    "totalRatings": 1963,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_030_050.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "manchurian",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-16T16:50:19.011Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_051",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 394,
+    "discountPercent": 32,
+    "finalPrice": 268,
+    "rating": 4.4,
+    "totalRatings": 418,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_030_051.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "dim-sum",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-15T00:11:04.477Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_052",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Classic hot & sour soup served hot and fresh.",
+    "price": 446,
+    "discountPercent": 11,
+    "finalPrice": 397,
+    "rating": 4.6,
+    "totalRatings": 250,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_030_052.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-23T08:15:31.525Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_053",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Chef's special hot & sour soup — perfect for a satisfying meal.",
+    "price": 664,
+    "discountPercent": 24,
+    "finalPrice": 505,
+    "rating": 3.6,
+    "totalRatings": 1736,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_030_053.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "manchurian",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-13T14:38:35.091Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_054",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Chef's special strawberry smoothie — perfect for a satisfying meal.",
+    "price": 89,
+    "discountPercent": 12,
+    "finalPrice": 78,
+    "rating": 3.9,
+    "totalRatings": 4602,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_030_054.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "shake",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-15T04:59:33.114Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_055",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Popular choice: Rasmalai made with premium ingredients.",
+    "price": 727,
+    "discountPercent": 40,
+    "finalPrice": 436,
+    "rating": 4.9,
+    "totalRatings": 355,
+    "category": "desserts",
+    "subCategory": "brownie",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_bangalore_030_055.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "brownie",
+      "non-veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "brownie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-15T04:09:19.718Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_056",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Delicious hot & sour soup prepared fresh with authentic spices.",
+    "price": 809,
+    "discountPercent": 13,
+    "finalPrice": 704,
+    "rating": 3.7,
+    "totalRatings": 133,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_030_056.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "dim-sum",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-20T20:34:59.848Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_057",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Classic rasmalai served hot and fresh.",
+    "price": 689,
+    "discountPercent": 16,
+    "finalPrice": 579,
+    "rating": 4.9,
+    "totalRatings": 1032,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_bangalore_030_057.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "pastry",
+      "veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "pastry"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-18T14:23:47.597Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_058",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Classic fresh lime soda served hot and fresh.",
+    "price": 388,
+    "discountPercent": 34,
+    "finalPrice": 256,
+    "rating": 3.6,
+    "totalRatings": 2374,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_030_058.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "coffee",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-20T09:17:42.295Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_059",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Chef's special mango shake — perfect for a satisfying meal.",
+    "price": 700,
+    "discountPercent": 17,
+    "finalPrice": 581,
+    "rating": 3.8,
+    "totalRatings": 1432,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_030_059.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "juice",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-24T13:14:27.077Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_060",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 807,
+    "discountPercent": 27,
+    "finalPrice": 589,
+    "rating": 4.8,
+    "totalRatings": 3089,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_030_060.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "juice",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-22T15:40:53.172Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_061",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 529,
+    "discountPercent": 24,
+    "finalPrice": 402,
+    "rating": 4.7,
+    "totalRatings": 3475,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_030_061.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "noodles",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-24T05:43:05.866Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_062",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Classic schezwan fried rice served hot and fresh.",
+    "price": 749,
+    "discountPercent": 28,
+    "finalPrice": 539,
+    "rating": 3.6,
+    "totalRatings": 3316,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_030_062.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "soup",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-11T18:08:51.835Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_063",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Delicious spring rolls prepared fresh with authentic spices.",
+    "price": 762,
+    "discountPercent": 3,
+    "finalPrice": 739,
+    "rating": 3.9,
+    "totalRatings": 34,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_030_063.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "noodles",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-16T15:52:44.615Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_064",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Kulfi Falooda",
+    "description": "Delicious kulfi falooda prepared fresh with authentic spices.",
+    "price": 706,
+    "discountPercent": 27,
+    "finalPrice": 515,
+    "rating": 3.7,
+    "totalRatings": 1095,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/kulfi-falooda/product_vendor_bangalore_030_064.webp",
+    "imageSlug": "kulfi-falooda",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "non-veg",
+      "falooda"
+    ],
+    "searchKeywords": [
+      "kulfi",
+      "falooda",
+      "desserts",
+      "kulfi falooda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-15T05:34:18.326Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_065",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Classic fresh lime soda served hot and fresh.",
+    "price": 409,
+    "discountPercent": 1,
+    "finalPrice": 405,
+    "rating": 4.8,
+    "totalRatings": 1972,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_030_065.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "shake",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-18T05:10:59.376Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_066",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Chocolate Brownie",
+    "description": "Popular choice: Chocolate Brownie made with premium ingredients.",
+    "price": 362,
+    "discountPercent": 38,
+    "finalPrice": 224,
+    "rating": 4.4,
+    "totalRatings": 3058,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/chocolate-brownie/product_vendor_bangalore_030_066.webp",
+    "imageSlug": "chocolate-brownie",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "non-veg",
+      "chocolate",
+      "brownie"
+    ],
+    "searchKeywords": [
+      "chocolate",
+      "brownie",
+      "desserts",
+      "ice-cream",
+      "chocolate brownie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-07T15:26:13.264Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_067",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Chef's special red velvet cake — perfect for a satisfying meal.",
+    "price": 346,
+    "discountPercent": 6,
+    "finalPrice": 325,
+    "rating": 4.1,
+    "totalRatings": 741,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_bangalore_030_067.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "ice-cream",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-03T14:38:10.700Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_068",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 796,
+    "discountPercent": 33,
+    "finalPrice": 533,
+    "rating": 4.2,
+    "totalRatings": 3533,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_030_068.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "manchurian",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-24T10:42:47.027Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_069",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Chef's special mango shake — perfect for a satisfying meal.",
+    "price": 303,
+    "discountPercent": 1,
+    "finalPrice": 300,
+    "rating": 4.2,
+    "totalRatings": 1535,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_030_069.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "coffee",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-14T07:05:51.564Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_070",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Kulfi Falooda",
+    "description": "Delicious kulfi falooda prepared fresh with authentic spices.",
+    "price": 822,
+    "discountPercent": 4,
+    "finalPrice": 789,
+    "rating": 4.6,
+    "totalRatings": 4413,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/kulfi-falooda/product_vendor_bangalore_030_070.webp",
+    "imageSlug": "kulfi-falooda",
+    "tags": [
+      "desserts",
+      "cake",
+      "non-veg",
+      "kulfi",
+      "falooda"
+    ],
+    "searchKeywords": [
+      "kulfi",
+      "falooda",
+      "desserts",
+      "cake",
+      "kulfi falooda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-03T12:33:23.950Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_071",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Popular choice: Strawberry Smoothie made with premium ingredients.",
+    "price": 223,
+    "discountPercent": 23,
+    "finalPrice": 172,
+    "rating": 3.6,
+    "totalRatings": 4009,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_030_071.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "shake",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-09T13:59:51.133Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_072",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Classic strawberry smoothie served hot and fresh.",
+    "price": 193,
+    "discountPercent": 23,
+    "finalPrice": 149,
+    "rating": 4.8,
+    "totalRatings": 1165,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_030_072.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "shake",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-13T23:08:17.734Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_073",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Classic mango shake served hot and fresh.",
+    "price": 468,
+    "discountPercent": 1,
+    "finalPrice": 463,
+    "rating": 4.4,
+    "totalRatings": 3259,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_030_073.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "mango"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-18T23:45:20.091Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_074",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Popular choice: Red Velvet Cake made with premium ingredients.",
+    "price": 876,
+    "discountPercent": 16,
+    "finalPrice": 736,
+    "rating": 4.2,
+    "totalRatings": 1617,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_bangalore_030_074.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "pastry",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "pastry",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-25T10:09:09.089Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_075",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Classic rasmalai served hot and fresh.",
+    "price": 634,
+    "discountPercent": 13,
+    "finalPrice": 552,
+    "rating": 4.3,
+    "totalRatings": 2923,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_bangalore_030_075.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "non-veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "ice-cream"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-15T17:01:38.657Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_076",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Delicious kung pao chicken prepared fresh with authentic spices.",
+    "price": 861,
+    "discountPercent": 34,
+    "finalPrice": 568,
+    "rating": 4.2,
+    "totalRatings": 1973,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_030_076.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "fried-rice",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-30T22:25:40.232Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_077",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Classic red velvet cake served hot and fresh.",
+    "price": 394,
+    "discountPercent": 33,
+    "finalPrice": 264,
+    "rating": 3.8,
+    "totalRatings": 1921,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_bangalore_030_077.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "kulfi",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-15T09:05:30.318Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_078",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Vanilla Ice Cream",
+    "description": "Popular choice: Vanilla Ice Cream made with premium ingredients.",
+    "price": 788,
+    "discountPercent": 33,
+    "finalPrice": 528,
+    "rating": 3.7,
+    "totalRatings": 3887,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/vanilla-ice-cream/product_vendor_bangalore_030_078.webp",
+    "imageSlug": "vanilla-ice-cream",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "non-veg",
+      "vanilla",
+      "ice",
+      "cream"
+    ],
+    "searchKeywords": [
+      "vanilla",
+      "ice",
+      "cream",
+      "desserts",
+      "ice-cream",
+      "vanilla ice cream"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-14T22:23:41.144Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_079",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Delicious spring rolls prepared fresh with authentic spices.",
+    "price": 175,
+    "discountPercent": 24,
+    "finalPrice": 133,
+    "rating": 4.2,
+    "totalRatings": 1602,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_030_079.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "noodles",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-25T22:17:58.256Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_080",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Popular choice: Gulab Jamun made with premium ingredients.",
+    "price": 746,
+    "discountPercent": 16,
+    "finalPrice": 627,
+    "rating": 4.8,
+    "totalRatings": 1418,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_bangalore_030_080.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "cake",
+      "veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "cake",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-08T19:55:18.648Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_081",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Delicious rasmalai prepared fresh with authentic spices.",
+    "price": 422,
+    "discountPercent": 18,
+    "finalPrice": 346,
+    "rating": 4.5,
+    "totalRatings": 3496,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_bangalore_030_081.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "cake",
+      "veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-06-01T18:45:07.807Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_082",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Chef's special red velvet cake — perfect for a satisfying meal.",
+    "price": 325,
+    "discountPercent": 23,
+    "finalPrice": 250,
+    "rating": 4.3,
+    "totalRatings": 2086,
+    "category": "desserts",
+    "subCategory": "brownie",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_bangalore_030_082.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "brownie",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "brownie",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-04T07:50:10.628Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_083",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Delicious spring rolls prepared fresh with authentic spices.",
+    "price": 397,
+    "discountPercent": 13,
+    "finalPrice": 345,
+    "rating": 3.7,
+    "totalRatings": 3371,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_030_083.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "manchurian",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-08T04:19:54.011Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_084",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Classic hakka noodles served hot and fresh.",
+    "price": 709,
+    "discountPercent": 17,
+    "finalPrice": 588,
+    "rating": 4.6,
+    "totalRatings": 4812,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_030_084.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "fried-rice",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-26T08:40:51.428Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_085",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Delicious schezwan fried rice prepared fresh with authentic spices.",
+    "price": 200,
+    "discountPercent": 13,
+    "finalPrice": 174,
+    "rating": 3.8,
+    "totalRatings": 2340,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_030_085.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "noodles",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-15T15:24:18.834Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_086",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Popular choice: Veg Manchurian made with premium ingredients.",
+    "price": 617,
+    "discountPercent": 17,
+    "finalPrice": 512,
+    "rating": 4.4,
+    "totalRatings": 403,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_030_086.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "dim-sum",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-20T15:18:11.452Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_087",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Popular choice: Hakka Noodles made with premium ingredients.",
+    "price": 634,
+    "discountPercent": 28,
+    "finalPrice": 456,
+    "rating": 3.7,
+    "totalRatings": 1415,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_030_087.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "hakka"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-29T14:30:02.676Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_088",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Chocolate Brownie",
+    "description": "Popular choice: Chocolate Brownie made with premium ingredients.",
+    "price": 473,
+    "discountPercent": 25,
+    "finalPrice": 355,
+    "rating": 4.1,
+    "totalRatings": 1848,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/chocolate-brownie/product_vendor_bangalore_030_088.webp",
+    "imageSlug": "chocolate-brownie",
+    "tags": [
+      "desserts",
+      "cake",
+      "non-veg",
+      "chocolate",
+      "brownie"
+    ],
+    "searchKeywords": [
+      "chocolate",
+      "brownie",
+      "desserts",
+      "cake",
+      "chocolate brownie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-21T06:43:04.162Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_089",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Chef's special spring rolls — perfect for a satisfying meal.",
+    "price": 305,
+    "discountPercent": 27,
+    "finalPrice": 223,
+    "rating": 4.6,
+    "totalRatings": 2371,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_030_089.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "soup",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-30T23:17:49.161Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_090",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Delicious masala chai prepared fresh with authentic spices.",
+    "price": 364,
+    "discountPercent": 0,
+    "finalPrice": 364,
+    "rating": 4.5,
+    "totalRatings": 4296,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_030_090.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "shake",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-16T23:40:13.789Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_091",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Chef's special chilli paneer — perfect for a satisfying meal.",
+    "price": 345,
+    "discountPercent": 20,
+    "finalPrice": 276,
+    "rating": 4.5,
+    "totalRatings": 4829,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_030_091.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "noodles",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-23T22:35:50.680Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_092",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Vanilla Ice Cream",
+    "description": "Chef's special vanilla ice cream — perfect for a satisfying meal.",
+    "price": 487,
+    "discountPercent": 26,
+    "finalPrice": 360,
+    "rating": 3.8,
+    "totalRatings": 789,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/vanilla-ice-cream/product_vendor_bangalore_030_092.webp",
+    "imageSlug": "vanilla-ice-cream",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "vanilla",
+      "ice",
+      "cream"
+    ],
+    "searchKeywords": [
+      "vanilla",
+      "ice",
+      "cream",
+      "desserts",
+      "ice-cream",
+      "vanilla ice cream"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-14T08:16:54.920Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_093",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Delicious hot & sour soup prepared fresh with authentic spices.",
+    "price": 435,
+    "discountPercent": 22,
+    "finalPrice": 339,
+    "rating": 4.3,
+    "totalRatings": 1040,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_030_093.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-12T23:42:35.990Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_094",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 552,
+    "discountPercent": 22,
+    "finalPrice": 431,
+    "rating": 3.9,
+    "totalRatings": 3234,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_030_094.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "dim-sum",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-20T19:41:36.488Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_095",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Chef's special hakka noodles — perfect for a satisfying meal.",
+    "price": 443,
+    "discountPercent": 26,
+    "finalPrice": 328,
+    "rating": 4.5,
+    "totalRatings": 4679,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_030_095.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "fried-rice",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-11T10:51:56.283Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_096",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Chef's special hot & sour soup — perfect for a satisfying meal.",
+    "price": 778,
+    "discountPercent": 20,
+    "finalPrice": 622,
+    "rating": 4.7,
+    "totalRatings": 3449,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_030_096.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "noodles",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-30T07:47:06.598Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_097",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Chef's special red velvet cake — perfect for a satisfying meal.",
+    "price": 243,
+    "discountPercent": 28,
+    "finalPrice": 175,
+    "rating": 3.5,
+    "totalRatings": 2730,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_bangalore_030_097.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "cake",
+      "veg",
+      "red",
+      "velvet"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-11T20:27:02.573Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_098",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Classic buttermilk served hot and fresh.",
+    "price": 828,
+    "discountPercent": 25,
+    "finalPrice": 621,
+    "rating": 4.7,
+    "totalRatings": 1081,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_030_098.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "lassi"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-11T15:32:58.379Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_099",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Classic red velvet cake served hot and fresh.",
+    "price": 333,
+    "discountPercent": 6,
+    "finalPrice": 313,
+    "rating": 4.6,
+    "totalRatings": 1732,
+    "category": "desserts",
+    "subCategory": "brownie",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_bangalore_030_099.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "brownie",
+      "non-veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "brownie",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-28T04:08:30.466Z"
+  },
+  {
+    "id": "product_vendor_bangalore_030_100",
+    "vendorId": "vendor_bangalore_030",
+    "type": "food",
+    "name": "Kulfi Falooda",
+    "description": "Classic kulfi falooda served hot and fresh.",
+    "price": 728,
+    "discountPercent": 16,
+    "finalPrice": 612,
+    "rating": 3.7,
+    "totalRatings": 579,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/kulfi-falooda/product_vendor_bangalore_030_100.webp",
+    "imageSlug": "kulfi-falooda",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "veg",
+      "falooda"
+    ],
+    "searchKeywords": [
+      "kulfi",
+      "falooda",
+      "desserts",
+      "kulfi falooda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-02T05:36:23.067Z"
+  }
+]

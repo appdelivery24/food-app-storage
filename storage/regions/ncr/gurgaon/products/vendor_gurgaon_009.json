@@ -1,0 +1,3578 @@
+[
+  {
+    "id": "product_vendor_gurgaon_009_001",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Classic chole bhature served hot and fresh.",
+    "price": 321,
+    "discountPercent": 8,
+    "finalPrice": 295,
+    "rating": 4.4,
+    "totalRatings": 4029,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_gurgaon_009_001.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "roti",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-29T03:21:24.895Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_002",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Popular choice: Uttapam made with premium ingredients.",
+    "price": 539,
+    "discountPercent": 1,
+    "finalPrice": 534,
+    "rating": 4.8,
+    "totalRatings": 2697,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_gurgaon_009_002.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-13T15:43:39.863Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_003",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Chef's special palak paneer — perfect for a satisfying meal.",
+    "price": 98,
+    "discountPercent": 23,
+    "finalPrice": 75,
+    "rating": 4.4,
+    "totalRatings": 3951,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_gurgaon_009_003.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "palak",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "roti",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-17T13:15:08.058Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_004",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Chef's special uttapam — perfect for a satisfying meal.",
+    "price": 493,
+    "discountPercent": 28,
+    "finalPrice": 355,
+    "rating": 4.2,
+    "totalRatings": 4818,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_gurgaon_009_004.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "rasam"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-24T08:52:33.764Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_005",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 112,
+    "discountPercent": 9,
+    "finalPrice": 102,
+    "rating": 4.1,
+    "totalRatings": 3213,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_gurgaon_009_005.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "idli",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-10T11:07:45.362Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_006",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Classic uttapam served hot and fresh.",
+    "price": 737,
+    "discountPercent": 4,
+    "finalPrice": 708,
+    "rating": 4.5,
+    "totalRatings": 1684,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_gurgaon_009_006.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "idli"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-03T09:04:29.664Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_007",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 830,
+    "discountPercent": 32,
+    "finalPrice": 564,
+    "rating": 3.6,
+    "totalRatings": 599,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_gurgaon_009_007.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "vada",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-03T10:57:32.835Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_008",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Popular choice: Chole Bhature made with premium ingredients.",
+    "price": 440,
+    "discountPercent": 10,
+    "finalPrice": 396,
+    "rating": 4,
+    "totalRatings": 1995,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_gurgaon_009_008.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "thali",
+      "veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "thali",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-08T06:44:13.478Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_009",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Popular choice: Filter Coffee made with premium ingredients.",
+    "price": 779,
+    "discountPercent": 30,
+    "finalPrice": 545,
+    "rating": 4.4,
+    "totalRatings": 821,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_gurgaon_009_009.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-09T10:13:24.785Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_010",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Delicious rajma chawal prepared fresh with authentic spices.",
+    "price": 285,
+    "discountPercent": 19,
+    "finalPrice": 231,
+    "rating": 4.7,
+    "totalRatings": 1554,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_gurgaon_009_010.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "biryani",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-16T01:10:11.219Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_011",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Chef's special paneer butter masala — perfect for a satisfying meal.",
+    "price": 468,
+    "discountPercent": 22,
+    "finalPrice": 365,
+    "rating": 3.7,
+    "totalRatings": 1789,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_gurgaon_009_011.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "thali",
+      "veg",
+      "paneer",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "thali",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-05T12:51:19.778Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_012",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 588,
+    "discountPercent": 17,
+    "finalPrice": 488,
+    "rating": 4,
+    "totalRatings": 2622,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_gurgaon_009_012.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-26T18:41:24.013Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_013",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Popular choice: Malai Kofta made with premium ingredients.",
+    "price": 615,
+    "discountPercent": 37,
+    "finalPrice": 387,
+    "rating": 4.2,
+    "totalRatings": 3171,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_gurgaon_009_013.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "roti",
+      "non-veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "roti",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-15T21:56:48.986Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_014",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Popular choice: Curd Rice made with premium ingredients.",
+    "price": 735,
+    "discountPercent": 15,
+    "finalPrice": 625,
+    "rating": 4.1,
+    "totalRatings": 3133,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_gurgaon_009_014.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "sambar",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-29T10:47:48.308Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_015",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 238,
+    "discountPercent": 16,
+    "finalPrice": 200,
+    "rating": 3.7,
+    "totalRatings": 2275,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_gurgaon_009_015.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "masala"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-12T17:32:12.963Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_016",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Popular choice: Chole Bhature made with premium ingredients.",
+    "price": 482,
+    "discountPercent": 40,
+    "finalPrice": 289,
+    "rating": 3.8,
+    "totalRatings": 2080,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_gurgaon_009_016.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "thali",
+      "non-veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "thali",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-11T13:20:25.397Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_017",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Classic rajma chawal served hot and fresh.",
+    "price": 411,
+    "discountPercent": 0,
+    "finalPrice": 411,
+    "rating": 4.2,
+    "totalRatings": 3449,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_gurgaon_009_017.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "biryani",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-12T22:18:24.545Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_018",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 96,
+    "discountPercent": 5,
+    "finalPrice": 91,
+    "rating": 4.6,
+    "totalRatings": 1439,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_gurgaon_009_018.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "rava"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-06T11:26:20.987Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_019",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Delicious paneer butter masala prepared fresh with authentic spices.",
+    "price": 449,
+    "discountPercent": 2,
+    "finalPrice": 440,
+    "rating": 4.4,
+    "totalRatings": 3923,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_gurgaon_009_019.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "veg",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-18T02:18:24.874Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_020",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Popular choice: Curd Rice made with premium ingredients.",
+    "price": 255,
+    "discountPercent": 10,
+    "finalPrice": 230,
+    "rating": 4.3,
+    "totalRatings": 4545,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_gurgaon_009_020.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "dosa",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-12T10:46:50.841Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_021",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Classic paneer butter masala served hot and fresh.",
+    "price": 416,
+    "discountPercent": 7,
+    "finalPrice": 387,
+    "rating": 4,
+    "totalRatings": 3535,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_gurgaon_009_021.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "paneer",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "biryani",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-03T01:56:40.365Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_022",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Popular choice: Palak Paneer made with premium ingredients.",
+    "price": 116,
+    "discountPercent": 35,
+    "finalPrice": 75,
+    "rating": 3.6,
+    "totalRatings": 3748,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_gurgaon_009_022.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "roti",
+      "non-veg",
+      "palak",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "roti",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-29T01:49:31.961Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_023",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Popular choice: Idli Sambar made with premium ingredients.",
+    "price": 826,
+    "discountPercent": 5,
+    "finalPrice": 785,
+    "rating": 4.2,
+    "totalRatings": 3433,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_gurgaon_009_023.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "idli"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-13T13:51:28.897Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_024",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Delicious rajma chawal prepared fresh with authentic spices.",
+    "price": 423,
+    "discountPercent": 29,
+    "finalPrice": 300,
+    "rating": 3.5,
+    "totalRatings": 4654,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_gurgaon_009_024.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "roti",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-02T09:49:38.611Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_025",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Popular choice: Rajma Chawal made with premium ingredients.",
+    "price": 431,
+    "discountPercent": 3,
+    "finalPrice": 418,
+    "rating": 4.3,
+    "totalRatings": 3620,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_gurgaon_009_025.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "thali",
+      "non-veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "thali",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-19T09:30:49.867Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_026",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Classic butter chicken served hot and fresh.",
+    "price": 498,
+    "discountPercent": 25,
+    "finalPrice": 374,
+    "rating": 4.5,
+    "totalRatings": 1040,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_gurgaon_009_026.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "biryani",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-12T10:42:54.818Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_027",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 746,
+    "discountPercent": 4,
+    "finalPrice": 716,
+    "rating": 3.8,
+    "totalRatings": 4165,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_gurgaon_009_027.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-31T09:17:53.013Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_028",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Popular choice: Rajma Chawal made with premium ingredients.",
+    "price": 724,
+    "discountPercent": 16,
+    "finalPrice": 608,
+    "rating": 3.6,
+    "totalRatings": 4409,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_gurgaon_009_028.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "roti",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-10T11:16:50.596Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_029",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 709,
+    "discountPercent": 31,
+    "finalPrice": 489,
+    "rating": 3.5,
+    "totalRatings": 4194,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_gurgaon_009_029.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "rasam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-23T07:32:14.691Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_030",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Chef's special rajma chawal — perfect for a satisfying meal.",
+    "price": 262,
+    "discountPercent": 37,
+    "finalPrice": 165,
+    "rating": 3.8,
+    "totalRatings": 2716,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_gurgaon_009_030.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "thali",
+      "veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "thali",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-08T22:03:13.395Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_031",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Popular choice: Dal Makhani made with premium ingredients.",
+    "price": 809,
+    "discountPercent": 35,
+    "finalPrice": 526,
+    "rating": 4.2,
+    "totalRatings": 4146,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_gurgaon_009_031.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "thali",
+      "veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "thali",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-02T04:21:09.271Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_032",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Popular choice: Butter Chicken made with premium ingredients.",
+    "price": 790,
+    "discountPercent": 11,
+    "finalPrice": 703,
+    "rating": 3.7,
+    "totalRatings": 3878,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_gurgaon_009_032.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "roti",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-17T23:03:10.510Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_033",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Popular choice: Dal Makhani made with premium ingredients.",
+    "price": 149,
+    "discountPercent": 26,
+    "finalPrice": 110,
+    "rating": 4.7,
+    "totalRatings": 3847,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_gurgaon_009_033.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "roti",
+      "non-veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "roti",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-21T22:58:16.352Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_034",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Classic rajma chawal served hot and fresh.",
+    "price": 408,
+    "discountPercent": 34,
+    "finalPrice": 269,
+    "rating": 3.9,
+    "totalRatings": 803,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_gurgaon_009_034.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "biryani",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-22T10:23:38.623Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_035",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 579,
+    "discountPercent": 5,
+    "finalPrice": 550,
+    "rating": 4.7,
+    "totalRatings": 2396,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_gurgaon_009_035.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-31T00:58:00.474Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_036",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Chef's special masala dosa — perfect for a satisfying meal.",
+    "price": 707,
+    "discountPercent": 2,
+    "finalPrice": 693,
+    "rating": 3.6,
+    "totalRatings": 558,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_gurgaon_009_036.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-07T00:32:05.982Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_037",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Popular choice: Butter Chicken made with premium ingredients.",
+    "price": 170,
+    "discountPercent": 26,
+    "finalPrice": 126,
+    "rating": 4,
+    "totalRatings": 2015,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_gurgaon_009_037.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "thali",
+      "non-veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "thali",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-23T06:46:38.439Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_038",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Kadai Paneer",
+    "description": "Chef's special kadai paneer — perfect for a satisfying meal.",
+    "price": 293,
+    "discountPercent": 0,
+    "finalPrice": 293,
+    "rating": 3.9,
+    "totalRatings": 326,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/kadai-paneer/product_vendor_gurgaon_009_038.webp",
+    "imageSlug": "kadai-paneer",
+    "tags": [
+      "north-indian",
+      "dal",
+      "veg",
+      "kadai",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "kadai",
+      "paneer",
+      "north-indian",
+      "dal",
+      "kadai paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-27T16:50:35.276Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_039",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Delicious medu vada prepared fresh with authentic spices.",
+    "price": 398,
+    "discountPercent": 35,
+    "finalPrice": 259,
+    "rating": 4.2,
+    "totalRatings": 2088,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_gurgaon_009_039.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "dosa",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-06-01T17:06:00.933Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_040",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Classic rajma chawal served hot and fresh.",
+    "price": 427,
+    "discountPercent": 3,
+    "finalPrice": 414,
+    "rating": 3.9,
+    "totalRatings": 2639,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_gurgaon_009_040.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "roti",
+      "non-veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "roti",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-19T04:34:39.922Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_041",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Popular choice: Malai Kofta made with premium ingredients.",
+    "price": 512,
+    "discountPercent": 8,
+    "finalPrice": 471,
+    "rating": 4.7,
+    "totalRatings": 3804,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_gurgaon_009_041.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "roti",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-22T15:05:00.503Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_042",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Chef's special chole bhature — perfect for a satisfying meal.",
+    "price": 891,
+    "discountPercent": 10,
+    "finalPrice": 802,
+    "rating": 4.1,
+    "totalRatings": 1644,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_gurgaon_009_042.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "dal",
+      "non-veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "dal",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-12T05:01:07.968Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_043",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Chef's special masala dosa — perfect for a satisfying meal.",
+    "price": 261,
+    "discountPercent": 20,
+    "finalPrice": 209,
+    "rating": 4.3,
+    "totalRatings": 3174,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_gurgaon_009_043.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "vada",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-09T11:58:50.935Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_044",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Delicious idli sambar prepared fresh with authentic spices.",
+    "price": 800,
+    "discountPercent": 14,
+    "finalPrice": 688,
+    "rating": 4.5,
+    "totalRatings": 2085,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_gurgaon_009_044.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "rasam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-23T10:08:18.731Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_045",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Classic butter chicken served hot and fresh.",
+    "price": 260,
+    "discountPercent": 27,
+    "finalPrice": 190,
+    "rating": 4.4,
+    "totalRatings": 798,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_gurgaon_009_045.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "paneer",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-17T07:42:20.718Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_046",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Delicious paneer butter masala prepared fresh with authentic spices.",
+    "price": 669,
+    "discountPercent": 12,
+    "finalPrice": 589,
+    "rating": 4,
+    "totalRatings": 4787,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_gurgaon_009_046.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "dal",
+      "veg",
+      "paneer",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "dal",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-23T02:15:12.117Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_047",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 847,
+    "discountPercent": 14,
+    "finalPrice": 728,
+    "rating": 4,
+    "totalRatings": 1057,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_gurgaon_009_047.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "rava"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-06-02T12:30:03.580Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_048",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Popular choice: Curd Rice made with premium ingredients.",
+    "price": 128,
+    "discountPercent": 33,
+    "finalPrice": 86,
+    "rating": 3.7,
+    "totalRatings": 3893,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_gurgaon_009_048.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "dosa",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-01T01:50:01.999Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_049",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Kadai Paneer",
+    "description": "Classic kadai paneer served hot and fresh.",
+    "price": 371,
+    "discountPercent": 32,
+    "finalPrice": 252,
+    "rating": 3.6,
+    "totalRatings": 3051,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/kadai-paneer/product_vendor_gurgaon_009_049.webp",
+    "imageSlug": "kadai-paneer",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "kadai",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "kadai",
+      "paneer",
+      "north-indian",
+      "roti",
+      "kadai paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-12T06:31:09.586Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_050",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 233,
+    "discountPercent": 9,
+    "finalPrice": 212,
+    "rating": 4.3,
+    "totalRatings": 3756,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_gurgaon_009_050.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "idli",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-19T11:21:32.299Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_051",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Chef's special hyderabadi biryani — perfect for a satisfying meal.",
+    "price": 785,
+    "discountPercent": 39,
+    "finalPrice": 479,
+    "rating": 4.8,
+    "totalRatings": 4999,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_gurgaon_009_051.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "dosa",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-30T04:17:20.544Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_052",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 841,
+    "discountPercent": 13,
+    "finalPrice": 732,
+    "rating": 4.1,
+    "totalRatings": 2043,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_gurgaon_009_052.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "uttapam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-26T19:50:13.495Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_053",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Kadai Paneer",
+    "description": "Popular choice: Kadai Paneer made with premium ingredients.",
+    "price": 100,
+    "discountPercent": 31,
+    "finalPrice": 69,
+    "rating": 3.9,
+    "totalRatings": 112,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/kadai-paneer/product_vendor_gurgaon_009_053.webp",
+    "imageSlug": "kadai-paneer",
+    "tags": [
+      "north-indian",
+      "thali",
+      "veg",
+      "kadai",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "kadai",
+      "paneer",
+      "north-indian",
+      "thali",
+      "kadai paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-22T13:43:42.367Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_054",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Classic malai kofta served hot and fresh.",
+    "price": 84,
+    "discountPercent": 29,
+    "finalPrice": 60,
+    "rating": 3.9,
+    "totalRatings": 4305,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_gurgaon_009_054.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "paneer",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-26T16:25:47.718Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_055",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Delicious idli sambar prepared fresh with authentic spices.",
+    "price": 704,
+    "discountPercent": 39,
+    "finalPrice": 429,
+    "rating": 4.5,
+    "totalRatings": 426,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_gurgaon_009_055.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "vada",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-02T13:31:42.957Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_056",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Chef's special dal makhani — perfect for a satisfying meal.",
+    "price": 846,
+    "discountPercent": 24,
+    "finalPrice": 643,
+    "rating": 3.9,
+    "totalRatings": 873,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_gurgaon_009_056.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "biryani",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-06-06T12:48:13.949Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_057",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Chef's special malai kofta — perfect for a satisfying meal.",
+    "price": 253,
+    "discountPercent": 38,
+    "finalPrice": 157,
+    "rating": 4.2,
+    "totalRatings": 4185,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_gurgaon_009_057.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "paneer",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-07T16:06:43.307Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_058",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Delicious malai kofta prepared fresh with authentic spices.",
+    "price": 464,
+    "discountPercent": 29,
+    "finalPrice": 329,
+    "rating": 4.8,
+    "totalRatings": 1520,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_gurgaon_009_058.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "paneer",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-11T19:33:49.720Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_059",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Popular choice: Chole Bhature made with premium ingredients.",
+    "price": 442,
+    "discountPercent": 19,
+    "finalPrice": 358,
+    "rating": 4.5,
+    "totalRatings": 1693,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_gurgaon_009_059.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "dal",
+      "non-veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "dal",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-10T13:59:43.353Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_060",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Classic rajma chawal served hot and fresh.",
+    "price": 296,
+    "discountPercent": 10,
+    "finalPrice": 266,
+    "rating": 4.5,
+    "totalRatings": 3526,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_gurgaon_009_060.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "roti",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-05T06:53:15.592Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_061",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Popular choice: Malai Kofta made with premium ingredients.",
+    "price": 595,
+    "discountPercent": 16,
+    "finalPrice": 500,
+    "rating": 4.7,
+    "totalRatings": 262,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_gurgaon_009_061.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "paneer",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-27T08:46:37.995Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_062",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Popular choice: Palak Paneer made with premium ingredients.",
+    "price": 732,
+    "discountPercent": 5,
+    "finalPrice": 695,
+    "rating": 3.7,
+    "totalRatings": 4050,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_gurgaon_009_062.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "palak",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "roti",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-08T06:12:29.265Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_063",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Chef's special palak paneer — perfect for a satisfying meal.",
+    "price": 597,
+    "discountPercent": 0,
+    "finalPrice": 597,
+    "rating": 4.4,
+    "totalRatings": 2002,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_gurgaon_009_063.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "veg",
+      "palak",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "kebab",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-28T13:35:34.216Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_064",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Chef's special chole bhature — perfect for a satisfying meal.",
+    "price": 486,
+    "discountPercent": 25,
+    "finalPrice": 365,
+    "rating": 4.4,
+    "totalRatings": 1653,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_gurgaon_009_064.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "roti",
+      "non-veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "roti",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-15T18:05:50.747Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_065",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Popular choice: Rava Dosa made with premium ingredients.",
+    "price": 260,
+    "discountPercent": 8,
+    "finalPrice": 239,
+    "rating": 3.8,
+    "totalRatings": 2671,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_gurgaon_009_065.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-04T10:31:07.676Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_066",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 717,
+    "discountPercent": 5,
+    "finalPrice": 681,
+    "rating": 4.9,
+    "totalRatings": 1197,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_gurgaon_009_066.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "vada",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-25T14:18:46.716Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_067",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Classic paneer butter masala served hot and fresh.",
+    "price": 516,
+    "discountPercent": 4,
+    "finalPrice": 495,
+    "rating": 4.1,
+    "totalRatings": 2787,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_gurgaon_009_067.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-06T07:02:37.648Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_068",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Popular choice: Curd Rice made with premium ingredients.",
+    "price": 380,
+    "discountPercent": 2,
+    "finalPrice": 372,
+    "rating": 3.8,
+    "totalRatings": 4668,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_gurgaon_009_068.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "idli",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-28T15:15:31.968Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_069",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Classic malai kofta served hot and fresh.",
+    "price": 371,
+    "discountPercent": 23,
+    "finalPrice": 286,
+    "rating": 4.5,
+    "totalRatings": 1003,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_gurgaon_009_069.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "kebab",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-10T04:00:32.675Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_070",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Delicious curd rice prepared fresh with authentic spices.",
+    "price": 178,
+    "discountPercent": 37,
+    "finalPrice": 112,
+    "rating": 3.8,
+    "totalRatings": 1897,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_gurgaon_009_070.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "dosa",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-16T16:42:14.947Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_071",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 808,
+    "discountPercent": 25,
+    "finalPrice": 606,
+    "rating": 3.5,
+    "totalRatings": 4476,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_gurgaon_009_071.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "uttapam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-27T01:53:13.703Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_072",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Popular choice: Curd Rice made with premium ingredients.",
+    "price": 179,
+    "discountPercent": 9,
+    "finalPrice": 163,
+    "rating": 4.5,
+    "totalRatings": 2005,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_gurgaon_009_072.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "idli",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-31T21:53:09.785Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_073",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Chef's special dal makhani — perfect for a satisfying meal.",
+    "price": 863,
+    "discountPercent": 9,
+    "finalPrice": 785,
+    "rating": 4.5,
+    "totalRatings": 120,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_gurgaon_009_073.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "biryani",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-11T08:36:48.905Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_074",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Kadai Paneer",
+    "description": "Delicious kadai paneer prepared fresh with authentic spices.",
+    "price": 607,
+    "discountPercent": 3,
+    "finalPrice": 589,
+    "rating": 4,
+    "totalRatings": 2198,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/kadai-paneer/product_vendor_gurgaon_009_074.webp",
+    "imageSlug": "kadai-paneer",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "veg",
+      "kadai",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "kadai",
+      "paneer",
+      "north-indian",
+      "kebab",
+      "kadai paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-03T20:43:12.900Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_075",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Popular choice: Idli Sambar made with premium ingredients.",
+    "price": 467,
+    "discountPercent": 33,
+    "finalPrice": 313,
+    "rating": 4.6,
+    "totalRatings": 51,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_gurgaon_009_075.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "vada",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-19T13:02:30.696Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_076",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 589,
+    "discountPercent": 35,
+    "finalPrice": 383,
+    "rating": 4.9,
+    "totalRatings": 1254,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_gurgaon_009_076.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "uttapam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-30T23:06:39.769Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_077",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Delicious malai kofta prepared fresh with authentic spices.",
+    "price": 631,
+    "discountPercent": 9,
+    "finalPrice": 574,
+    "rating": 4.1,
+    "totalRatings": 3789,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_gurgaon_009_077.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "kebab",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-10T13:39:44.743Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_078",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Popular choice: Idli Sambar made with premium ingredients.",
+    "price": 677,
+    "discountPercent": 16,
+    "finalPrice": 569,
+    "rating": 4.4,
+    "totalRatings": 2658,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_gurgaon_009_078.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "uttapam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-28T01:01:34.757Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_079",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Kadai Paneer",
+    "description": "Chef's special kadai paneer — perfect for a satisfying meal.",
+    "price": 80,
+    "discountPercent": 11,
+    "finalPrice": 71,
+    "rating": 4.6,
+    "totalRatings": 3517,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/kadai-paneer/product_vendor_gurgaon_009_079.webp",
+    "imageSlug": "kadai-paneer",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "veg",
+      "kadai",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "kadai",
+      "paneer",
+      "north-indian",
+      "biryani",
+      "kadai paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-31T14:53:17.709Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_080",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Chef's special paneer butter masala — perfect for a satisfying meal.",
+    "price": 677,
+    "discountPercent": 34,
+    "finalPrice": 447,
+    "rating": 4.5,
+    "totalRatings": 1053,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_gurgaon_009_080.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-06T16:15:59.334Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_081",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Classic dal makhani served hot and fresh.",
+    "price": 317,
+    "discountPercent": 33,
+    "finalPrice": 212,
+    "rating": 4.6,
+    "totalRatings": 1328,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_gurgaon_009_081.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "biryani",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-06T06:01:09.657Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_082",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Popular choice: Paneer Butter Masala made with premium ingredients.",
+    "price": 640,
+    "discountPercent": 5,
+    "finalPrice": 608,
+    "rating": 4.7,
+    "totalRatings": 2962,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_gurgaon_009_082.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-19T02:17:45.799Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_083",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Delicious idli sambar prepared fresh with authentic spices.",
+    "price": 759,
+    "discountPercent": 29,
+    "finalPrice": 539,
+    "rating": 3.8,
+    "totalRatings": 534,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_gurgaon_009_083.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "idli"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-14T19:17:51.282Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_084",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Delicious paneer butter masala prepared fresh with authentic spices.",
+    "price": 788,
+    "discountPercent": 32,
+    "finalPrice": 536,
+    "rating": 4.6,
+    "totalRatings": 4687,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_gurgaon_009_084.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "paneer",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "biryani",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-02T22:08:35.288Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_085",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Delicious dal makhani prepared fresh with authentic spices.",
+    "price": 526,
+    "discountPercent": 10,
+    "finalPrice": 473,
+    "rating": 4.7,
+    "totalRatings": 2552,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_gurgaon_009_085.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "dal",
+      "non-veg",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-07T02:17:41.880Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_086",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 585,
+    "discountPercent": 31,
+    "finalPrice": 404,
+    "rating": 4,
+    "totalRatings": 4159,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_gurgaon_009_086.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "vada",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-08T23:13:10.070Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_087",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Chef's special uttapam — perfect for a satisfying meal.",
+    "price": 675,
+    "discountPercent": 10,
+    "finalPrice": 608,
+    "rating": 4,
+    "totalRatings": 2403,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_gurgaon_009_087.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "idli"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-26T21:08:13.708Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_088",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Chef's special masala dosa — perfect for a satisfying meal.",
+    "price": 201,
+    "discountPercent": 34,
+    "finalPrice": 133,
+    "rating": 3.7,
+    "totalRatings": 3024,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_gurgaon_009_088.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-31T14:16:38.728Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_089",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Chef's special paneer butter masala — perfect for a satisfying meal.",
+    "price": 793,
+    "discountPercent": 2,
+    "finalPrice": 777,
+    "rating": 4.8,
+    "totalRatings": 4522,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_gurgaon_009_089.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-13T15:12:54.515Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_090",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Chef's special filter coffee — perfect for a satisfying meal.",
+    "price": 526,
+    "discountPercent": 29,
+    "finalPrice": 373,
+    "rating": 3.9,
+    "totalRatings": 3746,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_gurgaon_009_090.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-06T00:19:38.214Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_091",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Chef's special malai kofta — perfect for a satisfying meal.",
+    "price": 95,
+    "discountPercent": 13,
+    "finalPrice": 83,
+    "rating": 3.7,
+    "totalRatings": 2387,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_gurgaon_009_091.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "dal",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "dal",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-10T22:35:49.882Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_092",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Popular choice: Butter Chicken made with premium ingredients.",
+    "price": 623,
+    "discountPercent": 28,
+    "finalPrice": 449,
+    "rating": 4.5,
+    "totalRatings": 1609,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_gurgaon_009_092.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "kebab",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-31T19:08:59.295Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_093",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 685,
+    "discountPercent": 39,
+    "finalPrice": 418,
+    "rating": 4,
+    "totalRatings": 2908,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_gurgaon_009_093.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "sambar",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-08T18:17:39.016Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_094",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Kadai Paneer",
+    "description": "Delicious kadai paneer prepared fresh with authentic spices.",
+    "price": 112,
+    "discountPercent": 29,
+    "finalPrice": 80,
+    "rating": 3.8,
+    "totalRatings": 4089,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/kadai-paneer/product_vendor_gurgaon_009_094.webp",
+    "imageSlug": "kadai-paneer",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "kadai",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "kadai",
+      "paneer",
+      "north-indian",
+      "biryani",
+      "kadai paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-09T00:20:59.816Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_095",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Classic uttapam served hot and fresh.",
+    "price": 759,
+    "discountPercent": 32,
+    "finalPrice": 516,
+    "rating": 4.2,
+    "totalRatings": 1483,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_gurgaon_009_095.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-26T18:22:27.981Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_096",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Popular choice: Dal Makhani made with premium ingredients.",
+    "price": 553,
+    "discountPercent": 17,
+    "finalPrice": 459,
+    "rating": 4.8,
+    "totalRatings": 890,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_gurgaon_009_096.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "biryani",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-26T04:33:16.968Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_097",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Classic butter chicken served hot and fresh.",
+    "price": 329,
+    "discountPercent": 9,
+    "finalPrice": 299,
+    "rating": 3.8,
+    "totalRatings": 625,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_gurgaon_009_097.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "roti",
+      "non-veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "roti",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-28T10:35:19.071Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_098",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Chef's special filter coffee — perfect for a satisfying meal.",
+    "price": 257,
+    "discountPercent": 16,
+    "finalPrice": 216,
+    "rating": 4.3,
+    "totalRatings": 1420,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_gurgaon_009_098.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-20T23:24:50.848Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_099",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Delicious paneer butter masala prepared fresh with authentic spices.",
+    "price": 349,
+    "discountPercent": 35,
+    "finalPrice": 227,
+    "rating": 3.9,
+    "totalRatings": 3126,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_gurgaon_009_099.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "veg",
+      "paneer",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "kebab",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-05T07:03:18.335Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_009_100",
+    "vendorId": "vendor_gurgaon_009",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 239,
+    "discountPercent": 26,
+    "finalPrice": 177,
+    "rating": 4.9,
+    "totalRatings": 4478,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_gurgaon_009_100.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "rasam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-06-05T00:44:25.023Z"
+  }
+]

@@ -1,0 +1,3590 @@
+[
+  {
+    "id": "product_vendor_delhi_008_001",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Popular choice: Avocado Toast made with premium ingredients.",
+    "price": 342,
+    "discountPercent": 19,
+    "finalPrice": 277,
+    "rating": 4.1,
+    "totalRatings": 1562,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_008_001.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-06-04T00:43:51.786Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_002",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 172,
+    "discountPercent": 27,
+    "finalPrice": 126,
+    "rating": 4.4,
+    "totalRatings": 3620,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_002.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-28T06:50:29.143Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_003",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 123,
+    "discountPercent": 37,
+    "finalPrice": 77,
+    "rating": 4.5,
+    "totalRatings": 1487,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_003.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-12T18:57:55.025Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_004",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 324,
+    "discountPercent": 18,
+    "finalPrice": 266,
+    "rating": 4.5,
+    "totalRatings": 1847,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_004.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-21T20:45:54.066Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_005",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 768,
+    "discountPercent": 32,
+    "finalPrice": 522,
+    "rating": 3.6,
+    "totalRatings": 4179,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-08T05:43:36.651Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_006",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 749,
+    "discountPercent": 16,
+    "finalPrice": 629,
+    "rating": 3.6,
+    "totalRatings": 2405,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_006.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-28T21:24:32.229Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_007",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 879,
+    "discountPercent": 35,
+    "finalPrice": 571,
+    "rating": 4.7,
+    "totalRatings": 1565,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_007.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-09T20:14:06.800Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_008",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 514,
+    "discountPercent": 31,
+    "finalPrice": 355,
+    "rating": 4.4,
+    "totalRatings": 3389,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_008_008.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-10T06:06:24.726Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_009",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 430,
+    "discountPercent": 5,
+    "finalPrice": 409,
+    "rating": 3.9,
+    "totalRatings": 1980,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_009.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-13T13:12:31.562Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_010",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 648,
+    "discountPercent": 36,
+    "finalPrice": 415,
+    "rating": 4,
+    "totalRatings": 4224,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_008_010.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-24T10:46:24.420Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_011",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 681,
+    "discountPercent": 25,
+    "finalPrice": 511,
+    "rating": 4.7,
+    "totalRatings": 784,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_008_011.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-07T20:22:03.356Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_012",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 624,
+    "discountPercent": 36,
+    "finalPrice": 399,
+    "rating": 4.7,
+    "totalRatings": 4729,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_012.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-24T03:33:14.497Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_013",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 631,
+    "discountPercent": 33,
+    "finalPrice": 423,
+    "rating": 4.1,
+    "totalRatings": 2890,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_013.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-08T21:38:59.943Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_014",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Popular choice: Avocado Toast made with premium ingredients.",
+    "price": 330,
+    "discountPercent": 25,
+    "finalPrice": 248,
+    "rating": 3.8,
+    "totalRatings": 3174,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_008_014.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-22T21:43:18.784Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_015",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 250,
+    "discountPercent": 21,
+    "finalPrice": 198,
+    "rating": 4.6,
+    "totalRatings": 560,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_008_015.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-17T02:36:42.952Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_016",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 493,
+    "discountPercent": 28,
+    "finalPrice": 355,
+    "rating": 4.8,
+    "totalRatings": 143,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_016.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-04T14:20:36.078Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_017",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 648,
+    "discountPercent": 26,
+    "finalPrice": 480,
+    "rating": 4.1,
+    "totalRatings": 662,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_017.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-19T01:18:08.371Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_018",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 620,
+    "discountPercent": 25,
+    "finalPrice": 465,
+    "rating": 3.8,
+    "totalRatings": 2539,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_018.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-24T11:33:23.197Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_019",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 824,
+    "discountPercent": 16,
+    "finalPrice": 692,
+    "rating": 3.8,
+    "totalRatings": 1769,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_019.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-23T01:47:08.589Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_020",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 625,
+    "discountPercent": 1,
+    "finalPrice": 619,
+    "rating": 4,
+    "totalRatings": 4789,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_020.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-31T06:58:57.466Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_021",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Popular choice: Grilled Chicken Salad made with premium ingredients.",
+    "price": 750,
+    "discountPercent": 30,
+    "finalPrice": 525,
+    "rating": 4.6,
+    "totalRatings": 2254,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_021.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-31T01:35:16.093Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_022",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 855,
+    "discountPercent": 35,
+    "finalPrice": 556,
+    "rating": 4.3,
+    "totalRatings": 4058,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_022.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-18T18:47:40.657Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_023",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 406,
+    "discountPercent": 10,
+    "finalPrice": 365,
+    "rating": 4.8,
+    "totalRatings": 3871,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_023.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-13T23:44:51.152Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_024",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 504,
+    "discountPercent": 35,
+    "finalPrice": 328,
+    "rating": 4.3,
+    "totalRatings": 604,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_024.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-15T18:29:25.856Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_025",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 594,
+    "discountPercent": 23,
+    "finalPrice": 457,
+    "rating": 4.7,
+    "totalRatings": 2662,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_008_025.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-20T00:15:27.527Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_026",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 777,
+    "discountPercent": 21,
+    "finalPrice": 614,
+    "rating": 4.3,
+    "totalRatings": 3001,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_008_026.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-11T23:11:16.144Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_027",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 791,
+    "discountPercent": 24,
+    "finalPrice": 601,
+    "rating": 4.3,
+    "totalRatings": 1595,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_027.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-05T13:20:16.998Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_028",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 416,
+    "discountPercent": 3,
+    "finalPrice": 404,
+    "rating": 3.9,
+    "totalRatings": 2371,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_028.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-12T04:05:32.399Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_029",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 698,
+    "discountPercent": 1,
+    "finalPrice": 691,
+    "rating": 4.7,
+    "totalRatings": 2351,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_008_029.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-20T13:33:23.888Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_030",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 318,
+    "discountPercent": 17,
+    "finalPrice": 264,
+    "rating": 3.6,
+    "totalRatings": 2506,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_030.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-27T22:06:39.038Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_031",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 432,
+    "discountPercent": 13,
+    "finalPrice": 376,
+    "rating": 4.7,
+    "totalRatings": 2489,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_031.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-03T18:50:15.003Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_032",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 87,
+    "discountPercent": 33,
+    "finalPrice": 58,
+    "rating": 3.7,
+    "totalRatings": 456,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_032.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-30T19:40:12.972Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_033",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 786,
+    "discountPercent": 36,
+    "finalPrice": 503,
+    "rating": 4.3,
+    "totalRatings": 3130,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_008_033.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-26T03:39:21.217Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_034",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 281,
+    "discountPercent": 11,
+    "finalPrice": 250,
+    "rating": 4.7,
+    "totalRatings": 4437,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_034.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-16T23:08:53.583Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_035",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Classic greek salad served hot and fresh.",
+    "price": 619,
+    "discountPercent": 27,
+    "finalPrice": 452,
+    "rating": 3.8,
+    "totalRatings": 2608,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_008_035.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-02T02:07:39.388Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_036",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 383,
+    "discountPercent": 36,
+    "finalPrice": 245,
+    "rating": 4.5,
+    "totalRatings": 4737,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_036.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-02T06:06:15.026Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_037",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 895,
+    "discountPercent": 34,
+    "finalPrice": 591,
+    "rating": 4.1,
+    "totalRatings": 1873,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_037.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-27T17:34:05.897Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_038",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 880,
+    "discountPercent": 28,
+    "finalPrice": 634,
+    "rating": 3.8,
+    "totalRatings": 3443,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_038.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-26T08:56:55.436Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_039",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 678,
+    "discountPercent": 4,
+    "finalPrice": 651,
+    "rating": 4.4,
+    "totalRatings": 1497,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_039.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-01T11:02:43.263Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_040",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 200,
+    "discountPercent": 6,
+    "finalPrice": 188,
+    "rating": 4.3,
+    "totalRatings": 2451,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_040.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-11T21:25:38.676Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_041",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 359,
+    "discountPercent": 27,
+    "finalPrice": 262,
+    "rating": 4.3,
+    "totalRatings": 1824,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_041.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-15T00:30:19.448Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_042",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 457,
+    "discountPercent": 35,
+    "finalPrice": 297,
+    "rating": 4.8,
+    "totalRatings": 805,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_042.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-07T13:13:02.611Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_043",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 746,
+    "discountPercent": 29,
+    "finalPrice": 530,
+    "rating": 4.2,
+    "totalRatings": 1242,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_008_043.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-07T06:55:36.162Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_044",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 821,
+    "discountPercent": 36,
+    "finalPrice": 525,
+    "rating": 4.2,
+    "totalRatings": 3961,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_044.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-02T12:50:49.118Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_045",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 237,
+    "discountPercent": 16,
+    "finalPrice": 199,
+    "rating": 3.6,
+    "totalRatings": 3840,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_008_045.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-16T00:49:06.303Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_046",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 300,
+    "discountPercent": 23,
+    "finalPrice": 231,
+    "rating": 3.8,
+    "totalRatings": 1250,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_046.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-11T14:08:36.632Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_047",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 430,
+    "discountPercent": 35,
+    "finalPrice": 280,
+    "rating": 4.3,
+    "totalRatings": 1429,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_047.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-01T02:13:26.581Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_048",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 185,
+    "discountPercent": 4,
+    "finalPrice": 178,
+    "rating": 4.7,
+    "totalRatings": 877,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_008_048.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-07T07:21:38.337Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_049",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 678,
+    "discountPercent": 22,
+    "finalPrice": 529,
+    "rating": 4.2,
+    "totalRatings": 2924,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_049.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-21T08:39:07.336Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_050",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 621,
+    "discountPercent": 18,
+    "finalPrice": 509,
+    "rating": 4,
+    "totalRatings": 2932,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_050.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-05T08:33:44.772Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_051",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 322,
+    "discountPercent": 14,
+    "finalPrice": 277,
+    "rating": 3.7,
+    "totalRatings": 4471,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_051.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-28T05:05:46.407Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_052",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 194,
+    "discountPercent": 14,
+    "finalPrice": 167,
+    "rating": 4.6,
+    "totalRatings": 1745,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_052.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-17T14:35:31.835Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_053",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 336,
+    "discountPercent": 37,
+    "finalPrice": 212,
+    "rating": 3.7,
+    "totalRatings": 57,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_008_053.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-01T21:17:38.852Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_054",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 446,
+    "discountPercent": 11,
+    "finalPrice": 397,
+    "rating": 3.7,
+    "totalRatings": 4981,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_054.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-02T15:16:15.431Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_055",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 776,
+    "discountPercent": 12,
+    "finalPrice": 683,
+    "rating": 3.8,
+    "totalRatings": 3663,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_055.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-04T17:21:49.118Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_056",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 710,
+    "discountPercent": 30,
+    "finalPrice": 497,
+    "rating": 4.2,
+    "totalRatings": 81,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_056.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-12T08:37:50.174Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_057",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 627,
+    "discountPercent": 33,
+    "finalPrice": 420,
+    "rating": 4.8,
+    "totalRatings": 937,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_057.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-25T10:35:06.691Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_058",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 787,
+    "discountPercent": 29,
+    "finalPrice": 559,
+    "rating": 4.4,
+    "totalRatings": 3472,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_058.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-27T18:48:42.586Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_059",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 246,
+    "discountPercent": 26,
+    "finalPrice": 182,
+    "rating": 4.3,
+    "totalRatings": 4722,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_008_059.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-12T01:01:54.132Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_060",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 541,
+    "discountPercent": 16,
+    "finalPrice": 454,
+    "rating": 4,
+    "totalRatings": 4669,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_060.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-06T17:04:08.569Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_061",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 368,
+    "discountPercent": 19,
+    "finalPrice": 298,
+    "rating": 4.9,
+    "totalRatings": 4048,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_008_061.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-21T23:41:06.976Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_062",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 316,
+    "discountPercent": 33,
+    "finalPrice": 212,
+    "rating": 4.3,
+    "totalRatings": 2013,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_062.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-13T13:15:07.985Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_063",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 618,
+    "discountPercent": 1,
+    "finalPrice": 612,
+    "rating": 3.6,
+    "totalRatings": 3870,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_008_063.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-08T01:28:29.506Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_064",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 408,
+    "discountPercent": 15,
+    "finalPrice": 347,
+    "rating": 4.4,
+    "totalRatings": 4912,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_064.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-27T09:43:03.086Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_065",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 592,
+    "discountPercent": 40,
+    "finalPrice": 355,
+    "rating": 4.9,
+    "totalRatings": 3152,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_065.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-23T16:15:42.614Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_066",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 735,
+    "discountPercent": 20,
+    "finalPrice": 588,
+    "rating": 4.9,
+    "totalRatings": 577,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_008_066.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-13T12:49:56.256Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_067",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 802,
+    "discountPercent": 9,
+    "finalPrice": 730,
+    "rating": 3.7,
+    "totalRatings": 4714,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_008_067.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-09T19:18:29.922Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_068",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 469,
+    "discountPercent": 11,
+    "finalPrice": 417,
+    "rating": 4.2,
+    "totalRatings": 4280,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_068.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-30T11:39:19.263Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_069",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 86,
+    "discountPercent": 14,
+    "finalPrice": 74,
+    "rating": 4,
+    "totalRatings": 3843,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_008_069.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-28T08:06:50.422Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_070",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Popular choice: Grilled Chicken Salad made with premium ingredients.",
+    "price": 298,
+    "discountPercent": 21,
+    "finalPrice": 235,
+    "rating": 4,
+    "totalRatings": 1897,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_070.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-24T07:28:45.062Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_071",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 166,
+    "discountPercent": 31,
+    "finalPrice": 115,
+    "rating": 4.5,
+    "totalRatings": 4332,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_008_071.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-15T01:01:06.778Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_072",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 347,
+    "discountPercent": 9,
+    "finalPrice": 316,
+    "rating": 4.5,
+    "totalRatings": 2457,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_072.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-13T22:13:43.355Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_073",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 778,
+    "discountPercent": 40,
+    "finalPrice": 467,
+    "rating": 4.8,
+    "totalRatings": 2107,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_073.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-12T18:16:39.237Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_074",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 856,
+    "discountPercent": 2,
+    "finalPrice": 839,
+    "rating": 4.4,
+    "totalRatings": 3806,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_074.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-24T14:23:08.260Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_075",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 95,
+    "discountPercent": 37,
+    "finalPrice": 60,
+    "rating": 4,
+    "totalRatings": 972,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_075.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-17T09:16:24.281Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_076",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 820,
+    "discountPercent": 33,
+    "finalPrice": 549,
+    "rating": 4.6,
+    "totalRatings": 3704,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_008_076.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-04T21:03:36.380Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_077",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 364,
+    "discountPercent": 36,
+    "finalPrice": 233,
+    "rating": 3.8,
+    "totalRatings": 2218,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_077.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-07T09:44:22.730Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_078",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 623,
+    "discountPercent": 16,
+    "finalPrice": 523,
+    "rating": 3.8,
+    "totalRatings": 4863,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_078.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-26T02:57:59.708Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_079",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 682,
+    "discountPercent": 25,
+    "finalPrice": 512,
+    "rating": 3.9,
+    "totalRatings": 2462,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_079.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-08T10:16:51.415Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_080",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 303,
+    "discountPercent": 8,
+    "finalPrice": 279,
+    "rating": 4.8,
+    "totalRatings": 2179,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_080.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-25T22:17:54.823Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_081",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 511,
+    "discountPercent": 26,
+    "finalPrice": 378,
+    "rating": 4.9,
+    "totalRatings": 4759,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_008_081.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-02T17:46:15.685Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_082",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 567,
+    "discountPercent": 39,
+    "finalPrice": 346,
+    "rating": 4,
+    "totalRatings": 3161,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_082.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-01T14:23:32.853Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_083",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Classic greek salad served hot and fresh.",
+    "price": 245,
+    "discountPercent": 26,
+    "finalPrice": 181,
+    "rating": 4.9,
+    "totalRatings": 31,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_008_083.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-06T04:10:17.829Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_084",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 451,
+    "discountPercent": 7,
+    "finalPrice": 419,
+    "rating": 4.3,
+    "totalRatings": 4056,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_084.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-22T12:40:40.953Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_085",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 610,
+    "discountPercent": 12,
+    "finalPrice": 537,
+    "rating": 4.7,
+    "totalRatings": 404,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_085.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-04T10:02:59.115Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_086",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 303,
+    "discountPercent": 32,
+    "finalPrice": 206,
+    "rating": 4.8,
+    "totalRatings": 488,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_008_086.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-26T23:22:54.955Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_087",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 564,
+    "discountPercent": 28,
+    "finalPrice": 406,
+    "rating": 4.8,
+    "totalRatings": 2237,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_008_087.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-09T12:03:54.829Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_088",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 446,
+    "discountPercent": 33,
+    "finalPrice": 299,
+    "rating": 3.9,
+    "totalRatings": 3502,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_088.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-19T00:19:08.523Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_089",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 672,
+    "discountPercent": 18,
+    "finalPrice": 551,
+    "rating": 4.2,
+    "totalRatings": 363,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_089.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-20T08:28:17.786Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_090",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 346,
+    "discountPercent": 37,
+    "finalPrice": 218,
+    "rating": 4.1,
+    "totalRatings": 1861,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_090.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-07T01:07:20.287Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_091",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 145,
+    "discountPercent": 1,
+    "finalPrice": 144,
+    "rating": 4.8,
+    "totalRatings": 1358,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_091.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-30T01:54:15.262Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_092",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 794,
+    "discountPercent": 24,
+    "finalPrice": 603,
+    "rating": 4.2,
+    "totalRatings": 2017,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_008_092.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-18T22:31:50.183Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_093",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 392,
+    "discountPercent": 14,
+    "finalPrice": 337,
+    "rating": 4.7,
+    "totalRatings": 527,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_093.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-07T17:36:41.475Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_094",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 428,
+    "discountPercent": 12,
+    "finalPrice": 377,
+    "rating": 4.4,
+    "totalRatings": 3386,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_008_094.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-06T17:02:23.847Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_095",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 833,
+    "discountPercent": 27,
+    "finalPrice": 608,
+    "rating": 3.9,
+    "totalRatings": 1327,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_008_095.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-04T00:23:18.424Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_096",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 510,
+    "discountPercent": 17,
+    "finalPrice": 423,
+    "rating": 3.7,
+    "totalRatings": 2872,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_008_096.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-11T05:42:06.161Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_097",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 360,
+    "discountPercent": 40,
+    "finalPrice": 216,
+    "rating": 4.2,
+    "totalRatings": 4280,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_008_097.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-02T04:21:37.840Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_098",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 320,
+    "discountPercent": 24,
+    "finalPrice": 243,
+    "rating": 4.5,
+    "totalRatings": 2741,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_008_098.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-09T07:17:01.958Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_099",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 298,
+    "discountPercent": 10,
+    "finalPrice": 268,
+    "rating": 3.8,
+    "totalRatings": 763,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_008_099.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-21T20:42:30.419Z"
+  },
+  {
+    "id": "product_vendor_delhi_008_100",
+    "vendorId": "vendor_delhi_008",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Classic greek salad served hot and fresh.",
+    "price": 857,
+    "discountPercent": 40,
+    "finalPrice": 514,
+    "rating": 3.7,
+    "totalRatings": 4762,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_008_100.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-31T13:25:10.988Z"
+  }
+]

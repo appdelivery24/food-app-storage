@@ -1,0 +1,3580 @@
+[
+  {
+    "id": "product_vendor_bangalore_008_001",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Delicious dahi bhalla prepared fresh with authentic spices.",
+    "price": 734,
+    "discountPercent": 23,
+    "finalPrice": 565,
+    "rating": 3.5,
+    "totalRatings": 676,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_008_001.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "pav-bhaji",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-27T01:48:10.302Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_002",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Delicious kathi roll prepared fresh with authentic spices.",
+    "price": 327,
+    "discountPercent": 27,
+    "finalPrice": 239,
+    "rating": 3.5,
+    "totalRatings": 2282,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_bangalore_008_002.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "rolls",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-29T04:35:28.874Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_003",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Classic veg momos served hot and fresh.",
+    "price": 596,
+    "discountPercent": 38,
+    "finalPrice": 370,
+    "rating": 3.8,
+    "totalRatings": 1945,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_bangalore_008_003.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "rolls",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-21T14:07:49.149Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_004",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Chef's special strawberry smoothie — perfect for a satisfying meal.",
+    "price": 723,
+    "discountPercent": 4,
+    "finalPrice": 694,
+    "rating": 4.2,
+    "totalRatings": 4581,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_008_004.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "shake",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-29T02:14:18.935Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_005",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 887,
+    "discountPercent": 32,
+    "finalPrice": 603,
+    "rating": 4.7,
+    "totalRatings": 3896,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_bangalore_008_005.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-17T13:07:13.849Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_006",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Chef's special masala chai — perfect for a satisfying meal.",
+    "price": 316,
+    "discountPercent": 2,
+    "finalPrice": 310,
+    "rating": 3.5,
+    "totalRatings": 3607,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_008_006.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "coffee",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-19T20:12:39.626Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_007",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Popular choice: Pav Bhaji made with premium ingredients.",
+    "price": 403,
+    "discountPercent": 30,
+    "finalPrice": 282,
+    "rating": 3.9,
+    "totalRatings": 2425,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_bangalore_008_007.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "pav-bhaji",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-31T19:52:43.409Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_008",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Delicious pani puri prepared fresh with authentic spices.",
+    "price": 461,
+    "discountPercent": 12,
+    "finalPrice": 406,
+    "rating": 4.5,
+    "totalRatings": 3588,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_bangalore_008_008.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "momos",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-30T10:04:35.319Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_009",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 796,
+    "discountPercent": 28,
+    "finalPrice": 573,
+    "rating": 4.8,
+    "totalRatings": 1318,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_bangalore_008_009.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "pasta",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-03T23:29:28.610Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_010",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Delicious mango shake prepared fresh with authentic spices.",
+    "price": 205,
+    "discountPercent": 36,
+    "finalPrice": 131,
+    "rating": 4.4,
+    "totalRatings": 2567,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_008_010.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "mango"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-07T21:39:05.033Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_011",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Chef's special veg momos — perfect for a satisfying meal.",
+    "price": 302,
+    "discountPercent": 38,
+    "finalPrice": 187,
+    "rating": 4.3,
+    "totalRatings": 3864,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_bangalore_008_011.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "chaat",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-20T01:04:52.731Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_012",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 567,
+    "discountPercent": 36,
+    "finalPrice": 363,
+    "rating": 4.6,
+    "totalRatings": 13,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_008_012.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "chaat",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-19T12:34:39.983Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_013",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 499,
+    "discountPercent": 1,
+    "finalPrice": 494,
+    "rating": 4.7,
+    "totalRatings": 4723,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_bangalore_008_013.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-06T01:10:32.877Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_014",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 599,
+    "discountPercent": 31,
+    "finalPrice": 413,
+    "rating": 3.8,
+    "totalRatings": 4969,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_bangalore_008_014.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-08T11:01:34.348Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_015",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 142,
+    "discountPercent": 29,
+    "finalPrice": 101,
+    "rating": 3.8,
+    "totalRatings": 2270,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_bangalore_008_015.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "mushroom"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-15T10:39:36.871Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_016",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 348,
+    "discountPercent": 39,
+    "finalPrice": 212,
+    "rating": 4.7,
+    "totalRatings": 3798,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_008_016.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "pav-bhaji",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-20T13:04:00.824Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_017",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 357,
+    "discountPercent": 1,
+    "finalPrice": 353,
+    "rating": 4,
+    "totalRatings": 2509,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_bangalore_008_017.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-25T22:25:32.220Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_018",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Classic mango shake served hot and fresh.",
+    "price": 561,
+    "discountPercent": 21,
+    "finalPrice": 443,
+    "rating": 3.6,
+    "totalRatings": 130,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_008_018.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "juice",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-11T02:25:35.259Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_019",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 669,
+    "discountPercent": 10,
+    "finalPrice": 602,
+    "rating": 4,
+    "totalRatings": 2387,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_bangalore_008_019.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-15T20:22:48.829Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_020",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 755,
+    "discountPercent": 0,
+    "finalPrice": 755,
+    "rating": 3.6,
+    "totalRatings": 4447,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_bangalore_008_020.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-11T06:58:22.825Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_021",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 457,
+    "discountPercent": 11,
+    "finalPrice": 407,
+    "rating": 4.6,
+    "totalRatings": 573,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_bangalore_008_021.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "risotto",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-11T16:34:48.894Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_022",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Popular choice: Buttermilk made with premium ingredients.",
+    "price": 308,
+    "discountPercent": 0,
+    "finalPrice": 308,
+    "rating": 4.7,
+    "totalRatings": 4176,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_008_022.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-12T20:53:56.099Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_023",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Chef's special kathi roll — perfect for a satisfying meal.",
+    "price": 346,
+    "discountPercent": 39,
+    "finalPrice": 211,
+    "rating": 4.6,
+    "totalRatings": 316,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_bangalore_008_023.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "rolls",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-28T06:58:34.786Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_024",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Chef's special pani puri — perfect for a satisfying meal.",
+    "price": 243,
+    "discountPercent": 35,
+    "finalPrice": 158,
+    "rating": 4.2,
+    "totalRatings": 550,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_bangalore_008_024.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "rolls",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-17T08:16:10.962Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_025",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 249,
+    "discountPercent": 25,
+    "finalPrice": 187,
+    "rating": 3.8,
+    "totalRatings": 4279,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_bangalore_008_025.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-07T13:15:20.546Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_026",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Popular choice: Caesar Salad made with premium ingredients.",
+    "price": 259,
+    "discountPercent": 6,
+    "finalPrice": 243,
+    "rating": 4.7,
+    "totalRatings": 3983,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_bangalore_008_026.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "risotto",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-05T12:29:34.018Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_027",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Delicious veg momos prepared fresh with authentic spices.",
+    "price": 368,
+    "discountPercent": 38,
+    "finalPrice": 228,
+    "rating": 4.3,
+    "totalRatings": 4084,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_bangalore_008_027.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "chaat",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-03T18:38:35.000Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_028",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Popular choice: Veg Momos made with premium ingredients.",
+    "price": 469,
+    "discountPercent": 16,
+    "finalPrice": 394,
+    "rating": 4.4,
+    "totalRatings": 4928,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_bangalore_008_028.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "rolls",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-24T09:29:14.097Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_029",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 677,
+    "discountPercent": 22,
+    "finalPrice": 528,
+    "rating": 3.8,
+    "totalRatings": 258,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_bangalore_008_029.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-30T04:03:46.265Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_030",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Popular choice: Buttermilk made with premium ingredients.",
+    "price": 528,
+    "discountPercent": 26,
+    "finalPrice": 391,
+    "rating": 3.9,
+    "totalRatings": 2583,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_008_030.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-22T14:27:35.436Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_031",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Popular choice: Buttermilk made with premium ingredients.",
+    "price": 382,
+    "discountPercent": 24,
+    "finalPrice": 290,
+    "rating": 4.3,
+    "totalRatings": 3661,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_008_031.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "juice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-14T21:31:52.274Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_032",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Chef's special aloo tikki chaat — perfect for a satisfying meal.",
+    "price": 427,
+    "discountPercent": 18,
+    "finalPrice": 350,
+    "rating": 4.9,
+    "totalRatings": 4201,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_008_032.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "pav-bhaji",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-26T22:33:33.304Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_033",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Classic fresh lime soda served hot and fresh.",
+    "price": 84,
+    "discountPercent": 18,
+    "finalPrice": 69,
+    "rating": 3.8,
+    "totalRatings": 3137,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_008_033.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "coffee",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-04T07:03:58.934Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_034",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Classic strawberry smoothie served hot and fresh.",
+    "price": 271,
+    "discountPercent": 32,
+    "finalPrice": 184,
+    "rating": 4,
+    "totalRatings": 504,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_008_034.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "juice",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-24T13:23:54.144Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_035",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 687,
+    "discountPercent": 34,
+    "finalPrice": 453,
+    "rating": 4,
+    "totalRatings": 1286,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_bangalore_008_035.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "tomato"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-07T02:30:24.850Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_036",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Classic fresh lime soda served hot and fresh.",
+    "price": 727,
+    "discountPercent": 20,
+    "finalPrice": 582,
+    "rating": 4.5,
+    "totalRatings": 1295,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_008_036.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "tea",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-22T08:13:42.950Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_037",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Popular choice: Caesar Salad made with premium ingredients.",
+    "price": 383,
+    "discountPercent": 27,
+    "finalPrice": 280,
+    "rating": 4.3,
+    "totalRatings": 77,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_bangalore_008_037.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "steak",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-07T16:58:22.375Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_038",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Delicious buttermilk prepared fresh with authentic spices.",
+    "price": 359,
+    "discountPercent": 34,
+    "finalPrice": 237,
+    "rating": 3.7,
+    "totalRatings": 3138,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_008_038.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-17T16:59:29.137Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_039",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 585,
+    "discountPercent": 28,
+    "finalPrice": 421,
+    "rating": 4.8,
+    "totalRatings": 4829,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_bangalore_008_039.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-06T21:03:50.362Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_040",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Classic vada pav served hot and fresh.",
+    "price": 389,
+    "discountPercent": 15,
+    "finalPrice": 331,
+    "rating": 4.6,
+    "totalRatings": 4777,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_bangalore_008_040.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "rolls",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-20T12:38:24.929Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_041",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Delicious mushroom risotto prepared fresh with authentic spices.",
+    "price": 561,
+    "discountPercent": 20,
+    "finalPrice": 449,
+    "rating": 4.7,
+    "totalRatings": 2643,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_bangalore_008_041.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-29T18:54:32.595Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_042",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 364,
+    "discountPercent": 35,
+    "finalPrice": 237,
+    "rating": 4.5,
+    "totalRatings": 1310,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_bangalore_008_042.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-11T05:29:08.603Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_043",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Classic pani puri served hot and fresh.",
+    "price": 800,
+    "discountPercent": 24,
+    "finalPrice": 608,
+    "rating": 4.7,
+    "totalRatings": 3551,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_bangalore_008_043.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "momos",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-23T18:25:14.688Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_044",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Classic caesar salad served hot and fresh.",
+    "price": 809,
+    "discountPercent": 25,
+    "finalPrice": 607,
+    "rating": 4.8,
+    "totalRatings": 2807,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_bangalore_008_044.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-29T07:16:02.587Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_045",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 848,
+    "discountPercent": 0,
+    "finalPrice": 848,
+    "rating": 4.7,
+    "totalRatings": 1339,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_bangalore_008_045.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-19T06:10:50.123Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_046",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Popular choice: Masala Chai made with premium ingredients.",
+    "price": 121,
+    "discountPercent": 6,
+    "finalPrice": 114,
+    "rating": 4.5,
+    "totalRatings": 3423,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_008_046.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "coffee",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-21T11:37:59.029Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_047",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Popular choice: Aloo Tikki Chaat made with premium ingredients.",
+    "price": 145,
+    "discountPercent": 22,
+    "finalPrice": 113,
+    "rating": 4,
+    "totalRatings": 4509,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_008_047.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "pav-bhaji",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-12T04:34:01.970Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_048",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 766,
+    "discountPercent": 17,
+    "finalPrice": 636,
+    "rating": 4.6,
+    "totalRatings": 2626,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_008_048.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "momos",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-31T06:12:41.250Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_049",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Popular choice: Masala Chai made with premium ingredients.",
+    "price": 500,
+    "discountPercent": 24,
+    "finalPrice": 380,
+    "rating": 4.8,
+    "totalRatings": 1467,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_008_049.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "lassi",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-23T09:56:02.428Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_050",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 747,
+    "discountPercent": 2,
+    "finalPrice": 732,
+    "rating": 3.9,
+    "totalRatings": 1872,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_bangalore_008_050.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-17T09:13:50.399Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_051",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 279,
+    "discountPercent": 0,
+    "finalPrice": 279,
+    "rating": 3.9,
+    "totalRatings": 4201,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_bangalore_008_051.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-16T05:10:37.857Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_052",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Popular choice: Pav Bhaji made with premium ingredients.",
+    "price": 627,
+    "discountPercent": 33,
+    "finalPrice": 420,
+    "rating": 4.6,
+    "totalRatings": 626,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_bangalore_008_052.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "chaat",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-22T10:04:00.986Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_053",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 359,
+    "discountPercent": 36,
+    "finalPrice": 230,
+    "rating": 3.8,
+    "totalRatings": 2835,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_008_053.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "juice",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-22T09:22:15.710Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_054",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 883,
+    "discountPercent": 2,
+    "finalPrice": 865,
+    "rating": 4.6,
+    "totalRatings": 1587,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_bangalore_008_054.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "soup",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-20T17:00:50.553Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_055",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 115,
+    "discountPercent": 0,
+    "finalPrice": 115,
+    "rating": 4.7,
+    "totalRatings": 2892,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_bangalore_008_055.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-14T03:04:47.002Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_056",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Popular choice: Aloo Tikki Chaat made with premium ingredients.",
+    "price": 613,
+    "discountPercent": 31,
+    "finalPrice": 423,
+    "rating": 4.5,
+    "totalRatings": 2744,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_008_056.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "vada-pav",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-03T20:38:52.749Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_057",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Popular choice: Aloo Tikki Chaat made with premium ingredients.",
+    "price": 107,
+    "discountPercent": 14,
+    "finalPrice": 92,
+    "rating": 4.4,
+    "totalRatings": 4836,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_008_057.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "pav-bhaji",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-14T19:29:36.433Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_058",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Delicious dahi bhalla prepared fresh with authentic spices.",
+    "price": 312,
+    "discountPercent": 14,
+    "finalPrice": 268,
+    "rating": 4,
+    "totalRatings": 1657,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_008_058.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "rolls",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-14T23:54:18.346Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_059",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Popular choice: Caesar Salad made with premium ingredients.",
+    "price": 232,
+    "discountPercent": 14,
+    "finalPrice": 200,
+    "rating": 4.3,
+    "totalRatings": 2167,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_bangalore_008_059.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-23T04:17:12.734Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_060",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Popular choice: Veg Momos made with premium ingredients.",
+    "price": 508,
+    "discountPercent": 4,
+    "finalPrice": 488,
+    "rating": 3.7,
+    "totalRatings": 3456,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_bangalore_008_060.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-16T12:19:59.896Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_061",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 140,
+    "discountPercent": 21,
+    "finalPrice": 111,
+    "rating": 4.5,
+    "totalRatings": 2403,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_bangalore_008_061.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-03T01:51:56.632Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_062",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Classic kathi roll served hot and fresh.",
+    "price": 703,
+    "discountPercent": 5,
+    "finalPrice": 668,
+    "rating": 4.6,
+    "totalRatings": 3467,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_bangalore_008_062.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "vada-pav",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-19T22:43:48.179Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_063",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Delicious fresh lime soda prepared fresh with authentic spices.",
+    "price": 124,
+    "discountPercent": 4,
+    "finalPrice": 119,
+    "rating": 3.5,
+    "totalRatings": 3076,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_008_063.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "lassi",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-27T10:26:33.505Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_064",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 636,
+    "discountPercent": 4,
+    "finalPrice": 611,
+    "rating": 4.3,
+    "totalRatings": 4702,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_bangalore_008_064.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-13T20:42:00.884Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_065",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 593,
+    "discountPercent": 21,
+    "finalPrice": 468,
+    "rating": 4.4,
+    "totalRatings": 1827,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_008_065.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "tea",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-22T08:26:13.622Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_066",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Classic strawberry smoothie served hot and fresh.",
+    "price": 884,
+    "discountPercent": 35,
+    "finalPrice": 575,
+    "rating": 4.3,
+    "totalRatings": 344,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_008_066.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "tea",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-10T20:52:33.619Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_067",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 232,
+    "discountPercent": 1,
+    "finalPrice": 230,
+    "rating": 4.7,
+    "totalRatings": 2381,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_bangalore_008_067.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-03T23:52:20.656Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_068",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Delicious veg momos prepared fresh with authentic spices.",
+    "price": 291,
+    "discountPercent": 24,
+    "finalPrice": 221,
+    "rating": 4.3,
+    "totalRatings": 753,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_bangalore_008_068.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "pav-bhaji",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-01T08:15:18.664Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_069",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Popular choice: Kathi Roll made with premium ingredients.",
+    "price": 301,
+    "discountPercent": 4,
+    "finalPrice": 289,
+    "rating": 3.8,
+    "totalRatings": 1935,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_bangalore_008_069.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "pav-bhaji",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-31T21:42:01.273Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_070",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 597,
+    "discountPercent": 13,
+    "finalPrice": 519,
+    "rating": 4.5,
+    "totalRatings": 4613,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_bangalore_008_070.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "alfredo"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-16T05:17:01.996Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_071",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Delicious masala chai prepared fresh with authentic spices.",
+    "price": 350,
+    "discountPercent": 3,
+    "finalPrice": 340,
+    "rating": 4.2,
+    "totalRatings": 3330,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_008_071.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "shake",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-19T18:43:21.280Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_072",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 761,
+    "discountPercent": 16,
+    "finalPrice": 639,
+    "rating": 3.5,
+    "totalRatings": 3371,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_bangalore_008_072.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-07T07:08:51.872Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_073",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Chef's special masala chai — perfect for a satisfying meal.",
+    "price": 303,
+    "discountPercent": 7,
+    "finalPrice": 282,
+    "rating": 4.8,
+    "totalRatings": 1863,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_008_073.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "lassi",
+      "non-veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "lassi",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-19T05:41:20.651Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_074",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 514,
+    "discountPercent": 20,
+    "finalPrice": 411,
+    "rating": 4.9,
+    "totalRatings": 3835,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_bangalore_008_074.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "mushroom"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-23T02:55:55.655Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_075",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Delicious kathi roll prepared fresh with authentic spices.",
+    "price": 470,
+    "discountPercent": 6,
+    "finalPrice": 442,
+    "rating": 4.9,
+    "totalRatings": 4112,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_bangalore_008_075.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "vada-pav",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-25T07:53:13.886Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_076",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 571,
+    "discountPercent": 24,
+    "finalPrice": 434,
+    "rating": 3.6,
+    "totalRatings": 4889,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_008_076.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "tea",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-09T22:46:59.340Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_077",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 891,
+    "discountPercent": 15,
+    "finalPrice": 757,
+    "rating": 4.8,
+    "totalRatings": 1223,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_bangalore_008_077.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "risotto",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-29T11:57:27.026Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_078",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 725,
+    "discountPercent": 18,
+    "finalPrice": 595,
+    "rating": 4.6,
+    "totalRatings": 3664,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_bangalore_008_078.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-24T08:34:43.824Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_079",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Popular choice: Dahi Bhalla made with premium ingredients.",
+    "price": 726,
+    "discountPercent": 35,
+    "finalPrice": 472,
+    "rating": 4.1,
+    "totalRatings": 2791,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_008_079.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "rolls",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-23T22:56:20.173Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_080",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 560,
+    "discountPercent": 16,
+    "finalPrice": 470,
+    "rating": 4.4,
+    "totalRatings": 1077,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_bangalore_008_080.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "tomato"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-04T00:36:27.429Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_081",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Chef's special pav bhaji — perfect for a satisfying meal.",
+    "price": 102,
+    "discountPercent": 19,
+    "finalPrice": 83,
+    "rating": 3.7,
+    "totalRatings": 2389,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_bangalore_008_081.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "rolls",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-19T20:20:28.662Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_082",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 717,
+    "discountPercent": 10,
+    "finalPrice": 645,
+    "rating": 3.7,
+    "totalRatings": 4282,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_bangalore_008_082.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-09T23:13:47.329Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_083",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Classic aloo tikki chaat served hot and fresh.",
+    "price": 594,
+    "discountPercent": 11,
+    "finalPrice": 529,
+    "rating": 3.6,
+    "totalRatings": 405,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_008_083.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "rolls",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-13T07:48:23.781Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_084",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Chef's special pani puri — perfect for a satisfying meal.",
+    "price": 415,
+    "discountPercent": 19,
+    "finalPrice": 336,
+    "rating": 4.8,
+    "totalRatings": 1238,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_bangalore_008_084.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "chaat",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-14T05:51:46.492Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_085",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Popular choice: Fresh Lime Soda made with premium ingredients.",
+    "price": 381,
+    "discountPercent": 2,
+    "finalPrice": 373,
+    "rating": 4.3,
+    "totalRatings": 242,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_008_085.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "shake",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-08T23:22:33.838Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_086",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 251,
+    "discountPercent": 25,
+    "finalPrice": 188,
+    "rating": 4.8,
+    "totalRatings": 4911,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_bangalore_008_086.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "risotto",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-30T22:42:52.026Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_087",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Delicious dahi bhalla prepared fresh with authentic spices.",
+    "price": 92,
+    "discountPercent": 20,
+    "finalPrice": 74,
+    "rating": 4.2,
+    "totalRatings": 4073,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_008_087.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "momos",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-16T11:35:46.943Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_088",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Classic masala chai served hot and fresh.",
+    "price": 266,
+    "discountPercent": 12,
+    "finalPrice": 234,
+    "rating": 3.8,
+    "totalRatings": 3574,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_008_088.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "tea",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-25T04:30:57.266Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_089",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 875,
+    "discountPercent": 4,
+    "finalPrice": 840,
+    "rating": 4.7,
+    "totalRatings": 3225,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_bangalore_008_089.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "risotto",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-03T04:23:04.322Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_090",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Classic pani puri served hot and fresh.",
+    "price": 221,
+    "discountPercent": 1,
+    "finalPrice": 219,
+    "rating": 4.9,
+    "totalRatings": 1681,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_bangalore_008_090.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "rolls",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-29T09:07:04.760Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_091",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Delicious mango shake prepared fresh with authentic spices.",
+    "price": 323,
+    "discountPercent": 8,
+    "finalPrice": 297,
+    "rating": 4.2,
+    "totalRatings": 2346,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_008_091.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "tea",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-29T03:43:30.671Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_092",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 529,
+    "discountPercent": 20,
+    "finalPrice": 423,
+    "rating": 4.6,
+    "totalRatings": 355,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_bangalore_008_092.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-19T03:59:45.459Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_093",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Popular choice: Buttermilk made with premium ingredients.",
+    "price": 895,
+    "discountPercent": 20,
+    "finalPrice": 716,
+    "rating": 4.6,
+    "totalRatings": 4900,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_008_093.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "lassi",
+      "non-veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "lassi"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-24T16:57:38.058Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_094",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 374,
+    "discountPercent": 4,
+    "finalPrice": 359,
+    "rating": 4.1,
+    "totalRatings": 2846,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_bangalore_008_094.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-03T00:00:15.998Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_095",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 689,
+    "discountPercent": 34,
+    "finalPrice": 455,
+    "rating": 3.6,
+    "totalRatings": 966,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_bangalore_008_095.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-28T09:23:45.673Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_096",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Delicious aloo tikki chaat prepared fresh with authentic spices.",
+    "price": 506,
+    "discountPercent": 24,
+    "finalPrice": 385,
+    "rating": 4.3,
+    "totalRatings": 4677,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_008_096.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "aloo",
+      "tikki"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-30T12:35:14.906Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_097",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Chef's special masala chai — perfect for a satisfying meal.",
+    "price": 521,
+    "discountPercent": 3,
+    "finalPrice": 505,
+    "rating": 3.8,
+    "totalRatings": 4853,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_008_097.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "tea",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-04T00:47:47.278Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_098",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Delicious dahi bhalla prepared fresh with authentic spices.",
+    "price": 329,
+    "discountPercent": 11,
+    "finalPrice": 293,
+    "rating": 3.6,
+    "totalRatings": 3477,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_008_098.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "chaat",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-19T15:46:13.345Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_099",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 776,
+    "discountPercent": 25,
+    "finalPrice": 582,
+    "rating": 3.7,
+    "totalRatings": 124,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_bangalore_008_099.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "alfredo"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-18T14:58:40.025Z"
+  },
+  {
+    "id": "product_vendor_bangalore_008_100",
+    "vendorId": "vendor_bangalore_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 894,
+    "discountPercent": 29,
+    "finalPrice": 635,
+    "rating": 4.8,
+    "totalRatings": 1148,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_bangalore_008_100.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-28T06:06:56.595Z"
+  }
+]

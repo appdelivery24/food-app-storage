@@ -1,0 +1,3556 @@
+[
+  {
+    "id": "product_vendor_noida_041_001",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Classic medu vada served hot and fresh.",
+    "price": 736,
+    "discountPercent": 17,
+    "finalPrice": 611,
+    "rating": 4.2,
+    "totalRatings": 3646,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_041_001.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "dosa",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-21T11:20:24.043Z"
+  },
+  {
+    "id": "product_vendor_noida_041_002",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 399,
+    "discountPercent": 1,
+    "finalPrice": 395,
+    "rating": 4.1,
+    "totalRatings": 375,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_041_002.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "dosa",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-03T00:49:04.505Z"
+  },
+  {
+    "id": "product_vendor_noida_041_003",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Chef's special idli sambar — perfect for a satisfying meal.",
+    "price": 244,
+    "discountPercent": 20,
+    "finalPrice": 195,
+    "rating": 3.8,
+    "totalRatings": 3671,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_041_003.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "rasam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-03T14:35:34.050Z"
+  },
+  {
+    "id": "product_vendor_noida_041_004",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 589,
+    "discountPercent": 21,
+    "finalPrice": 465,
+    "rating": 3.7,
+    "totalRatings": 4559,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_041_004.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-18T11:32:56.895Z"
+  },
+  {
+    "id": "product_vendor_noida_041_005",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 607,
+    "discountPercent": 29,
+    "finalPrice": 431,
+    "rating": 3.6,
+    "totalRatings": 4763,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_041_005.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "idli",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-10T20:16:41.372Z"
+  },
+  {
+    "id": "product_vendor_noida_041_006",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Popular choice: Filter Coffee made with premium ingredients.",
+    "price": 525,
+    "discountPercent": 40,
+    "finalPrice": 315,
+    "rating": 3.6,
+    "totalRatings": 2517,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_041_006.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "vada",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-19T16:32:29.305Z"
+  },
+  {
+    "id": "product_vendor_noida_041_007",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Delicious curd rice prepared fresh with authentic spices.",
+    "price": 212,
+    "discountPercent": 33,
+    "finalPrice": 142,
+    "rating": 4.9,
+    "totalRatings": 880,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_noida_041_007.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "idli",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-29T15:50:51.544Z"
+  },
+  {
+    "id": "product_vendor_noida_041_008",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 453,
+    "discountPercent": 2,
+    "finalPrice": 444,
+    "rating": 3.6,
+    "totalRatings": 2935,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_041_008.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-17T11:16:16.443Z"
+  },
+  {
+    "id": "product_vendor_noida_041_009",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Popular choice: Filter Coffee made with premium ingredients.",
+    "price": 192,
+    "discountPercent": 1,
+    "finalPrice": 190,
+    "rating": 4,
+    "totalRatings": 3989,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_041_009.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-12T09:48:36.264Z"
+  },
+  {
+    "id": "product_vendor_noida_041_010",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Chef's special filter coffee — perfect for a satisfying meal.",
+    "price": 710,
+    "discountPercent": 15,
+    "finalPrice": 604,
+    "rating": 4.4,
+    "totalRatings": 1632,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_041_010.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "rasam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-04T20:02:45.788Z"
+  },
+  {
+    "id": "product_vendor_noida_041_011",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Classic idli sambar served hot and fresh.",
+    "price": 694,
+    "discountPercent": 3,
+    "finalPrice": 673,
+    "rating": 4.4,
+    "totalRatings": 19,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_041_011.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "dosa",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-02T10:42:50.403Z"
+  },
+  {
+    "id": "product_vendor_noida_041_012",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Popular choice: Uttapam made with premium ingredients.",
+    "price": 673,
+    "discountPercent": 19,
+    "finalPrice": 545,
+    "rating": 3.8,
+    "totalRatings": 3837,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_noida_041_012.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "rasam"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-06T04:48:00.519Z"
+  },
+  {
+    "id": "product_vendor_noida_041_013",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Chef's special hyderabadi biryani — perfect for a satisfying meal.",
+    "price": 110,
+    "discountPercent": 5,
+    "finalPrice": 105,
+    "rating": 4.3,
+    "totalRatings": 4689,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_041_013.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "sambar",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-21T16:01:57.695Z"
+  },
+  {
+    "id": "product_vendor_noida_041_014",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 711,
+    "discountPercent": 22,
+    "finalPrice": 555,
+    "rating": 4.1,
+    "totalRatings": 748,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_041_014.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "uttapam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-27T07:10:18.228Z"
+  },
+  {
+    "id": "product_vendor_noida_041_015",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 845,
+    "discountPercent": 35,
+    "finalPrice": 549,
+    "rating": 4.5,
+    "totalRatings": 2699,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_041_015.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "rasam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-12T01:39:01.135Z"
+  },
+  {
+    "id": "product_vendor_noida_041_016",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 891,
+    "discountPercent": 5,
+    "finalPrice": 846,
+    "rating": 4.1,
+    "totalRatings": 3428,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_041_016.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "dosa",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-28T04:09:37.336Z"
+  },
+  {
+    "id": "product_vendor_noida_041_017",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Delicious idli sambar prepared fresh with authentic spices.",
+    "price": 352,
+    "discountPercent": 3,
+    "finalPrice": 341,
+    "rating": 4,
+    "totalRatings": 1251,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_041_017.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "idli"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-29T22:20:35.833Z"
+  },
+  {
+    "id": "product_vendor_noida_041_018",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Delicious idli sambar prepared fresh with authentic spices.",
+    "price": 860,
+    "discountPercent": 19,
+    "finalPrice": 697,
+    "rating": 3.6,
+    "totalRatings": 1857,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_041_018.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "vada",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-21T23:57:28.053Z"
+  },
+  {
+    "id": "product_vendor_noida_041_019",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 115,
+    "discountPercent": 19,
+    "finalPrice": 93,
+    "rating": 4.1,
+    "totalRatings": 4985,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_041_019.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "dosa",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-01T19:30:10.029Z"
+  },
+  {
+    "id": "product_vendor_noida_041_020",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Popular choice: Masala Dosa made with premium ingredients.",
+    "price": 784,
+    "discountPercent": 37,
+    "finalPrice": 494,
+    "rating": 4.4,
+    "totalRatings": 2800,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_noida_041_020.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-11T12:43:24.091Z"
+  },
+  {
+    "id": "product_vendor_noida_041_021",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 324,
+    "discountPercent": 7,
+    "finalPrice": 301,
+    "rating": 4.2,
+    "totalRatings": 1255,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_041_021.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "idli",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-07T13:52:40.068Z"
+  },
+  {
+    "id": "product_vendor_noida_041_022",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Popular choice: Medu Vada made with premium ingredients.",
+    "price": 224,
+    "discountPercent": 6,
+    "finalPrice": 211,
+    "rating": 4.5,
+    "totalRatings": 1442,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_041_022.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "sambar",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-06T16:32:19.172Z"
+  },
+  {
+    "id": "product_vendor_noida_041_023",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 103,
+    "discountPercent": 32,
+    "finalPrice": 70,
+    "rating": 3.9,
+    "totalRatings": 1623,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_noida_041_023.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-20T01:37:41.223Z"
+  },
+  {
+    "id": "product_vendor_noida_041_024",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Chef's special hyderabadi biryani — perfect for a satisfying meal.",
+    "price": 864,
+    "discountPercent": 24,
+    "finalPrice": 657,
+    "rating": 4.1,
+    "totalRatings": 275,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_041_024.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "idli",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-30T20:02:23.854Z"
+  },
+  {
+    "id": "product_vendor_noida_041_025",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 380,
+    "discountPercent": 28,
+    "finalPrice": 274,
+    "rating": 4,
+    "totalRatings": 1794,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_noida_041_025.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "idli"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-19T18:50:26.187Z"
+  },
+  {
+    "id": "product_vendor_noida_041_026",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 460,
+    "discountPercent": 3,
+    "finalPrice": 446,
+    "rating": 4,
+    "totalRatings": 4783,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_041_026.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "rasam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-25T02:08:24.267Z"
+  },
+  {
+    "id": "product_vendor_noida_041_027",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 889,
+    "discountPercent": 21,
+    "finalPrice": 702,
+    "rating": 4,
+    "totalRatings": 3134,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_041_027.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "idli",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-22T19:25:17.261Z"
+  },
+  {
+    "id": "product_vendor_noida_041_028",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 576,
+    "discountPercent": 34,
+    "finalPrice": 380,
+    "rating": 3.8,
+    "totalRatings": 3380,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_041_028.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "rasam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-01T01:19:52.184Z"
+  },
+  {
+    "id": "product_vendor_noida_041_029",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Chef's special masala dosa — perfect for a satisfying meal.",
+    "price": 171,
+    "discountPercent": 10,
+    "finalPrice": 154,
+    "rating": 4.5,
+    "totalRatings": 720,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_noida_041_029.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-14T11:23:06.530Z"
+  },
+  {
+    "id": "product_vendor_noida_041_030",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Popular choice: Idli Sambar made with premium ingredients.",
+    "price": 235,
+    "discountPercent": 38,
+    "finalPrice": 146,
+    "rating": 4.9,
+    "totalRatings": 1888,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_041_030.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "dosa",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-17T06:51:35.963Z"
+  },
+  {
+    "id": "product_vendor_noida_041_031",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 521,
+    "discountPercent": 13,
+    "finalPrice": 453,
+    "rating": 3.6,
+    "totalRatings": 567,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_noida_041_031.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "sambar",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-07T02:36:29.312Z"
+  },
+  {
+    "id": "product_vendor_noida_041_032",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 620,
+    "discountPercent": 8,
+    "finalPrice": 570,
+    "rating": 4,
+    "totalRatings": 1501,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_041_032.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "dosa",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-05T04:23:13.422Z"
+  },
+  {
+    "id": "product_vendor_noida_041_033",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 120,
+    "discountPercent": 24,
+    "finalPrice": 91,
+    "rating": 3.8,
+    "totalRatings": 4587,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_noida_041_033.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-28T16:51:29.502Z"
+  },
+  {
+    "id": "product_vendor_noida_041_034",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 624,
+    "discountPercent": 16,
+    "finalPrice": 524,
+    "rating": 3.6,
+    "totalRatings": 4589,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_noida_041_034.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-24T23:25:59.057Z"
+  },
+  {
+    "id": "product_vendor_noida_041_035",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Chef's special uttapam — perfect for a satisfying meal.",
+    "price": 340,
+    "discountPercent": 8,
+    "finalPrice": 313,
+    "rating": 4.1,
+    "totalRatings": 1970,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_noida_041_035.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-09T13:52:30.374Z"
+  },
+  {
+    "id": "product_vendor_noida_041_036",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Classic idli sambar served hot and fresh.",
+    "price": 327,
+    "discountPercent": 37,
+    "finalPrice": 206,
+    "rating": 4.2,
+    "totalRatings": 971,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_041_036.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "vada",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-01T22:23:08.164Z"
+  },
+  {
+    "id": "product_vendor_noida_041_037",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Classic medu vada served hot and fresh.",
+    "price": 769,
+    "discountPercent": 1,
+    "finalPrice": 761,
+    "rating": 4.1,
+    "totalRatings": 2315,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_041_037.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "medu"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-20T01:24:45.121Z"
+  },
+  {
+    "id": "product_vendor_noida_041_038",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Popular choice: Idli Sambar made with premium ingredients.",
+    "price": 87,
+    "discountPercent": 36,
+    "finalPrice": 56,
+    "rating": 4.6,
+    "totalRatings": 250,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_041_038.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "dosa",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-22T00:54:02.235Z"
+  },
+  {
+    "id": "product_vendor_noida_041_039",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 119,
+    "discountPercent": 12,
+    "finalPrice": 105,
+    "rating": 3.6,
+    "totalRatings": 508,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_041_039.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "rasam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-13T18:44:01.805Z"
+  },
+  {
+    "id": "product_vendor_noida_041_040",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 862,
+    "discountPercent": 2,
+    "finalPrice": 845,
+    "rating": 4.3,
+    "totalRatings": 4654,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_noida_041_040.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-19T16:50:22.290Z"
+  },
+  {
+    "id": "product_vendor_noida_041_041",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 720,
+    "discountPercent": 4,
+    "finalPrice": 691,
+    "rating": 4.5,
+    "totalRatings": 4602,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_041_041.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "sambar",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-30T15:48:33.000Z"
+  },
+  {
+    "id": "product_vendor_noida_041_042",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Chef's special masala dosa — perfect for a satisfying meal.",
+    "price": 339,
+    "discountPercent": 23,
+    "finalPrice": 261,
+    "rating": 4,
+    "totalRatings": 3221,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_noida_041_042.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "masala"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-17T07:39:51.207Z"
+  },
+  {
+    "id": "product_vendor_noida_041_043",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 606,
+    "discountPercent": 22,
+    "finalPrice": 473,
+    "rating": 3.9,
+    "totalRatings": 3229,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_041_043.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-18T08:25:58.734Z"
+  },
+  {
+    "id": "product_vendor_noida_041_044",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Popular choice: Medu Vada made with premium ingredients.",
+    "price": 588,
+    "discountPercent": 34,
+    "finalPrice": 388,
+    "rating": 3.8,
+    "totalRatings": 2283,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_041_044.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "uttapam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-25T06:34:33.975Z"
+  },
+  {
+    "id": "product_vendor_noida_041_045",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Chef's special idli sambar — perfect for a satisfying meal.",
+    "price": 295,
+    "discountPercent": 7,
+    "finalPrice": 274,
+    "rating": 4,
+    "totalRatings": 1938,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_041_045.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "dosa",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-24T16:10:32.088Z"
+  },
+  {
+    "id": "product_vendor_noida_041_046",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Popular choice: Masala Dosa made with premium ingredients.",
+    "price": 130,
+    "discountPercent": 9,
+    "finalPrice": 118,
+    "rating": 3.6,
+    "totalRatings": 3054,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_noida_041_046.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-21T18:08:07.786Z"
+  },
+  {
+    "id": "product_vendor_noida_041_047",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Classic masala dosa served hot and fresh.",
+    "price": 865,
+    "discountPercent": 39,
+    "finalPrice": 528,
+    "rating": 3.9,
+    "totalRatings": 1994,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_noida_041_047.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-08T08:20:41.243Z"
+  },
+  {
+    "id": "product_vendor_noida_041_048",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 493,
+    "discountPercent": 30,
+    "finalPrice": 345,
+    "rating": 4.5,
+    "totalRatings": 2222,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_041_048.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "vada",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-13T12:50:25.320Z"
+  },
+  {
+    "id": "product_vendor_noida_041_049",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Popular choice: Medu Vada made with premium ingredients.",
+    "price": 707,
+    "discountPercent": 17,
+    "finalPrice": 587,
+    "rating": 3.8,
+    "totalRatings": 3968,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_041_049.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "uttapam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-29T23:38:14.772Z"
+  },
+  {
+    "id": "product_vendor_noida_041_050",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Classic masala dosa served hot and fresh.",
+    "price": 326,
+    "discountPercent": 40,
+    "finalPrice": 196,
+    "rating": 4.8,
+    "totalRatings": 3137,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_noida_041_050.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "vada",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-16T15:00:36.545Z"
+  },
+  {
+    "id": "product_vendor_noida_041_051",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Popular choice: Filter Coffee made with premium ingredients.",
+    "price": 81,
+    "discountPercent": 15,
+    "finalPrice": 69,
+    "rating": 4,
+    "totalRatings": 69,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_041_051.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "sambar",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-27T14:33:54.105Z"
+  },
+  {
+    "id": "product_vendor_noida_041_052",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Chef's special idli sambar — perfect for a satisfying meal.",
+    "price": 661,
+    "discountPercent": 23,
+    "finalPrice": 509,
+    "rating": 4.9,
+    "totalRatings": 1125,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_041_052.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-10T12:44:32.286Z"
+  },
+  {
+    "id": "product_vendor_noida_041_053",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Classic curd rice served hot and fresh.",
+    "price": 527,
+    "discountPercent": 21,
+    "finalPrice": 416,
+    "rating": 4.5,
+    "totalRatings": 917,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_noida_041_053.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "vada",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-04T05:55:05.647Z"
+  },
+  {
+    "id": "product_vendor_noida_041_054",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 623,
+    "discountPercent": 13,
+    "finalPrice": 542,
+    "rating": 3.8,
+    "totalRatings": 1995,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_noida_041_054.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "vada",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-22T15:42:06.718Z"
+  },
+  {
+    "id": "product_vendor_noida_041_055",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Delicious medu vada prepared fresh with authentic spices.",
+    "price": 670,
+    "discountPercent": 39,
+    "finalPrice": 409,
+    "rating": 4,
+    "totalRatings": 3451,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_041_055.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "sambar",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-25T16:29:33.308Z"
+  },
+  {
+    "id": "product_vendor_noida_041_056",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Popular choice: Curd Rice made with premium ingredients.",
+    "price": 294,
+    "discountPercent": 15,
+    "finalPrice": 250,
+    "rating": 4,
+    "totalRatings": 498,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_noida_041_056.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "sambar",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-01T03:31:57.414Z"
+  },
+  {
+    "id": "product_vendor_noida_041_057",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 487,
+    "discountPercent": 6,
+    "finalPrice": 458,
+    "rating": 4.2,
+    "totalRatings": 3065,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_041_057.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "dosa",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-06-01T10:29:55.907Z"
+  },
+  {
+    "id": "product_vendor_noida_041_058",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 226,
+    "discountPercent": 5,
+    "finalPrice": 215,
+    "rating": 4.2,
+    "totalRatings": 2965,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_noida_041_058.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-24T07:57:09.844Z"
+  },
+  {
+    "id": "product_vendor_noida_041_059",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 773,
+    "discountPercent": 3,
+    "finalPrice": 750,
+    "rating": 3.7,
+    "totalRatings": 2462,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_041_059.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "dosa",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-15T12:59:28.600Z"
+  },
+  {
+    "id": "product_vendor_noida_041_060",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 723,
+    "discountPercent": 12,
+    "finalPrice": 636,
+    "rating": 4,
+    "totalRatings": 1640,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_041_060.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "uttapam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-10T06:42:34.048Z"
+  },
+  {
+    "id": "product_vendor_noida_041_061",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 350,
+    "discountPercent": 31,
+    "finalPrice": 241,
+    "rating": 4,
+    "totalRatings": 1797,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_041_061.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-03T01:32:10.414Z"
+  },
+  {
+    "id": "product_vendor_noida_041_062",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 890,
+    "discountPercent": 27,
+    "finalPrice": 650,
+    "rating": 4.7,
+    "totalRatings": 1482,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_noida_041_062.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "idli",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-06T12:14:04.553Z"
+  },
+  {
+    "id": "product_vendor_noida_041_063",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Delicious idli sambar prepared fresh with authentic spices.",
+    "price": 156,
+    "discountPercent": 18,
+    "finalPrice": 128,
+    "rating": 4.1,
+    "totalRatings": 2236,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_041_063.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "rasam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-14T06:51:26.739Z"
+  },
+  {
+    "id": "product_vendor_noida_041_064",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Popular choice: Idli Sambar made with premium ingredients.",
+    "price": 874,
+    "discountPercent": 21,
+    "finalPrice": 690,
+    "rating": 4.4,
+    "totalRatings": 1766,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_041_064.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "vada",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-26T01:26:31.073Z"
+  },
+  {
+    "id": "product_vendor_noida_041_065",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Delicious hyderabadi biryani prepared fresh with authentic spices.",
+    "price": 765,
+    "discountPercent": 14,
+    "finalPrice": 658,
+    "rating": 3.7,
+    "totalRatings": 3358,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_041_065.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "uttapam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-20T23:53:44.555Z"
+  },
+  {
+    "id": "product_vendor_noida_041_066",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Chef's special uttapam — perfect for a satisfying meal.",
+    "price": 409,
+    "discountPercent": 14,
+    "finalPrice": 352,
+    "rating": 4.4,
+    "totalRatings": 4210,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_noida_041_066.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-15T05:31:56.598Z"
+  },
+  {
+    "id": "product_vendor_noida_041_067",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 386,
+    "discountPercent": 22,
+    "finalPrice": 301,
+    "rating": 4.6,
+    "totalRatings": 1717,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_041_067.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "idli",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-13T04:21:57.039Z"
+  },
+  {
+    "id": "product_vendor_noida_041_068",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Chef's special filter coffee — perfect for a satisfying meal.",
+    "price": 690,
+    "discountPercent": 11,
+    "finalPrice": 614,
+    "rating": 4.9,
+    "totalRatings": 3873,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_041_068.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "rasam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-20T11:32:26.766Z"
+  },
+  {
+    "id": "product_vendor_noida_041_069",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Classic hyderabadi biryani served hot and fresh.",
+    "price": 495,
+    "discountPercent": 15,
+    "finalPrice": 421,
+    "rating": 4.4,
+    "totalRatings": 309,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_041_069.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "uttapam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-23T02:37:56.337Z"
+  },
+  {
+    "id": "product_vendor_noida_041_070",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 821,
+    "discountPercent": 39,
+    "finalPrice": 501,
+    "rating": 4.5,
+    "totalRatings": 4975,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_041_070.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "sambar",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-26T06:18:12.113Z"
+  },
+  {
+    "id": "product_vendor_noida_041_071",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Chef's special idli sambar — perfect for a satisfying meal.",
+    "price": 616,
+    "discountPercent": 6,
+    "finalPrice": 579,
+    "rating": 3.6,
+    "totalRatings": 4481,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_041_071.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "uttapam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-31T02:59:13.661Z"
+  },
+  {
+    "id": "product_vendor_noida_041_072",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 502,
+    "discountPercent": 9,
+    "finalPrice": 457,
+    "rating": 4.5,
+    "totalRatings": 1924,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_041_072.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "uttapam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-24T17:28:05.362Z"
+  },
+  {
+    "id": "product_vendor_noida_041_073",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 171,
+    "discountPercent": 24,
+    "finalPrice": 130,
+    "rating": 4.3,
+    "totalRatings": 2125,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_041_073.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-16T12:13:20.402Z"
+  },
+  {
+    "id": "product_vendor_noida_041_074",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 599,
+    "discountPercent": 4,
+    "finalPrice": 575,
+    "rating": 3.9,
+    "totalRatings": 2460,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_noida_041_074.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "idli"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-01T04:28:37.988Z"
+  },
+  {
+    "id": "product_vendor_noida_041_075",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Classic hyderabadi biryani served hot and fresh.",
+    "price": 895,
+    "discountPercent": 1,
+    "finalPrice": 886,
+    "rating": 4.1,
+    "totalRatings": 1628,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_041_075.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "dosa",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-20T09:49:59.562Z"
+  },
+  {
+    "id": "product_vendor_noida_041_076",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Delicious curd rice prepared fresh with authentic spices.",
+    "price": 821,
+    "discountPercent": 29,
+    "finalPrice": 583,
+    "rating": 4.5,
+    "totalRatings": 1433,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_noida_041_076.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "dosa",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-15T00:23:24.591Z"
+  },
+  {
+    "id": "product_vendor_noida_041_077",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Popular choice: Idli Sambar made with premium ingredients.",
+    "price": 692,
+    "discountPercent": 22,
+    "finalPrice": 540,
+    "rating": 3.8,
+    "totalRatings": 1469,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_041_077.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "rasam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-04T12:26:35.077Z"
+  },
+  {
+    "id": "product_vendor_noida_041_078",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 217,
+    "discountPercent": 9,
+    "finalPrice": 197,
+    "rating": 4.2,
+    "totalRatings": 482,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_041_078.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "rava"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-08T02:50:51.806Z"
+  },
+  {
+    "id": "product_vendor_noida_041_079",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Popular choice: Medu Vada made with premium ingredients.",
+    "price": 698,
+    "discountPercent": 39,
+    "finalPrice": 426,
+    "rating": 3.7,
+    "totalRatings": 4086,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_041_079.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "dosa",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-20T17:38:55.419Z"
+  },
+  {
+    "id": "product_vendor_noida_041_080",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Delicious idli sambar prepared fresh with authentic spices.",
+    "price": 689,
+    "discountPercent": 32,
+    "finalPrice": 469,
+    "rating": 4,
+    "totalRatings": 1436,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_041_080.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-18T12:42:43.224Z"
+  },
+  {
+    "id": "product_vendor_noida_041_081",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Chef's special idli sambar — perfect for a satisfying meal.",
+    "price": 675,
+    "discountPercent": 17,
+    "finalPrice": 560,
+    "rating": 3.5,
+    "totalRatings": 2877,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_041_081.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "rasam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-11T23:08:02.719Z"
+  },
+  {
+    "id": "product_vendor_noida_041_082",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Popular choice: Masala Dosa made with premium ingredients.",
+    "price": 182,
+    "discountPercent": 16,
+    "finalPrice": 153,
+    "rating": 4,
+    "totalRatings": 3953,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_noida_041_082.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-04T08:55:27.712Z"
+  },
+  {
+    "id": "product_vendor_noida_041_083",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Popular choice: Uttapam made with premium ingredients.",
+    "price": 731,
+    "discountPercent": 20,
+    "finalPrice": 585,
+    "rating": 3.7,
+    "totalRatings": 2042,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_noida_041_083.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "idli"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-17T07:26:21.491Z"
+  },
+  {
+    "id": "product_vendor_noida_041_084",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 882,
+    "discountPercent": 1,
+    "finalPrice": 873,
+    "rating": 4.5,
+    "totalRatings": 119,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_041_084.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "rasam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-25T15:07:53.843Z"
+  },
+  {
+    "id": "product_vendor_noida_041_085",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Delicious curd rice prepared fresh with authentic spices.",
+    "price": 797,
+    "discountPercent": 19,
+    "finalPrice": 646,
+    "rating": 4.5,
+    "totalRatings": 2949,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_noida_041_085.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "uttapam",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-19T07:40:03.097Z"
+  },
+  {
+    "id": "product_vendor_noida_041_086",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Classic curd rice served hot and fresh.",
+    "price": 883,
+    "discountPercent": 22,
+    "finalPrice": 689,
+    "rating": 3.6,
+    "totalRatings": 488,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_noida_041_086.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "rasam",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-26T04:44:51.296Z"
+  },
+  {
+    "id": "product_vendor_noida_041_087",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Delicious medu vada prepared fresh with authentic spices.",
+    "price": 239,
+    "discountPercent": 32,
+    "finalPrice": 163,
+    "rating": 4.1,
+    "totalRatings": 1213,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_041_087.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "medu"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-19T23:39:13.298Z"
+  },
+  {
+    "id": "product_vendor_noida_041_088",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Classic masala dosa served hot and fresh.",
+    "price": 432,
+    "discountPercent": 34,
+    "finalPrice": 285,
+    "rating": 4.5,
+    "totalRatings": 4060,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_noida_041_088.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-16T13:47:08.640Z"
+  },
+  {
+    "id": "product_vendor_noida_041_089",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 837,
+    "discountPercent": 6,
+    "finalPrice": 787,
+    "rating": 3.9,
+    "totalRatings": 1805,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_noida_041_089.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "rasam",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-14T22:14:13.582Z"
+  },
+  {
+    "id": "product_vendor_noida_041_090",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 713,
+    "discountPercent": 16,
+    "finalPrice": 599,
+    "rating": 3.8,
+    "totalRatings": 1100,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_noida_041_090.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "sambar",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-29T21:57:35.969Z"
+  },
+  {
+    "id": "product_vendor_noida_041_091",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 291,
+    "discountPercent": 35,
+    "finalPrice": 189,
+    "rating": 4.3,
+    "totalRatings": 1413,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_041_091.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-06T06:32:05.278Z"
+  },
+  {
+    "id": "product_vendor_noida_041_092",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Classic masala dosa served hot and fresh.",
+    "price": 518,
+    "discountPercent": 15,
+    "finalPrice": 440,
+    "rating": 3.9,
+    "totalRatings": 2550,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_noida_041_092.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-02T00:13:03.378Z"
+  },
+  {
+    "id": "product_vendor_noida_041_093",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 293,
+    "discountPercent": 6,
+    "finalPrice": 275,
+    "rating": 4.7,
+    "totalRatings": 3666,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_041_093.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-12T00:59:07.994Z"
+  },
+  {
+    "id": "product_vendor_noida_041_094",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 590,
+    "discountPercent": 24,
+    "finalPrice": 448,
+    "rating": 4.3,
+    "totalRatings": 2514,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_041_094.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-01T05:23:10.902Z"
+  },
+  {
+    "id": "product_vendor_noida_041_095",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Chef's special filter coffee — perfect for a satisfying meal.",
+    "price": 727,
+    "discountPercent": 10,
+    "finalPrice": 654,
+    "rating": 4.4,
+    "totalRatings": 3393,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_041_095.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "vada",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-01T19:59:33.239Z"
+  },
+  {
+    "id": "product_vendor_noida_041_096",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Popular choice: Rava Dosa made with premium ingredients.",
+    "price": 688,
+    "discountPercent": 29,
+    "finalPrice": 488,
+    "rating": 4.2,
+    "totalRatings": 1506,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_041_096.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "vada",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-16T08:58:22.853Z"
+  },
+  {
+    "id": "product_vendor_noida_041_097",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Chef's special hyderabadi biryani — perfect for a satisfying meal.",
+    "price": 344,
+    "discountPercent": 0,
+    "finalPrice": 344,
+    "rating": 4.4,
+    "totalRatings": 1649,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_041_097.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "uttapam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-08T16:09:56.749Z"
+  },
+  {
+    "id": "product_vendor_noida_041_098",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Popular choice: Medu Vada made with premium ingredients.",
+    "price": 721,
+    "discountPercent": 36,
+    "finalPrice": 461,
+    "rating": 4.6,
+    "totalRatings": 3421,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_041_098.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "sambar",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-18T00:19:29.843Z"
+  },
+  {
+    "id": "product_vendor_noida_041_099",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Chef's special filter coffee — perfect for a satisfying meal.",
+    "price": 477,
+    "discountPercent": 13,
+    "finalPrice": 415,
+    "rating": 3.7,
+    "totalRatings": 3408,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_041_099.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-27T17:10:52.707Z"
+  },
+  {
+    "id": "product_vendor_noida_041_100",
+    "vendorId": "vendor_noida_041",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 108,
+    "discountPercent": 32,
+    "finalPrice": 73,
+    "rating": 4,
+    "totalRatings": 2761,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_041_100.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "dosa",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-18T06:18:56.279Z"
+  }
+]

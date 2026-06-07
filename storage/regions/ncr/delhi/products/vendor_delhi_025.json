@@ -1,0 +1,3597 @@
+[
+  {
+    "id": "product_vendor_delhi_025_001",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 575,
+    "discountPercent": 33,
+    "finalPrice": 385,
+    "rating": 4.5,
+    "totalRatings": 1791,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_delhi_025_001.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-12T16:30:19.073Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_002",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Delicious veg sandwich prepared fresh with authentic spices.",
+    "price": 461,
+    "discountPercent": 9,
+    "finalPrice": 420,
+    "rating": 4.3,
+    "totalRatings": 2001,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_025_002.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "fries",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-11T06:38:32.094Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_003",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 237,
+    "discountPercent": 33,
+    "finalPrice": 159,
+    "rating": 4.8,
+    "totalRatings": 3524,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_025_003.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-09T06:30:36.461Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_004",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 178,
+    "discountPercent": 7,
+    "finalPrice": 166,
+    "rating": 4.4,
+    "totalRatings": 4440,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_025_004.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-09T18:41:42.991Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_005",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 95,
+    "discountPercent": 20,
+    "finalPrice": 76,
+    "rating": 4.5,
+    "totalRatings": 4145,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_delhi_025_005.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-10T01:25:59.306Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_006",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 705,
+    "discountPercent": 21,
+    "finalPrice": 557,
+    "rating": 3.9,
+    "totalRatings": 4891,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_025_006.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "alfredo"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-05T11:15:02.016Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_007",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 683,
+    "discountPercent": 14,
+    "finalPrice": 587,
+    "rating": 3.6,
+    "totalRatings": 1083,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_025_007.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-13T15:21:15.281Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_008",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 180,
+    "discountPercent": 40,
+    "finalPrice": 108,
+    "rating": 4.8,
+    "totalRatings": 2613,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_delhi_025_008.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "pizza",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-10T10:35:03.999Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_009",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Classic pani puri served hot and fresh.",
+    "price": 743,
+    "discountPercent": 11,
+    "finalPrice": 661,
+    "rating": 4,
+    "totalRatings": 1345,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_delhi_025_009.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "vada-pav",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-25T14:13:20.738Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_010",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Chef's special veg momos — perfect for a satisfying meal.",
+    "price": 707,
+    "discountPercent": 21,
+    "finalPrice": 559,
+    "rating": 4.2,
+    "totalRatings": 969,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_delhi_025_010.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "vada-pav",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-09T18:44:54.212Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_011",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 490,
+    "discountPercent": 14,
+    "finalPrice": 421,
+    "rating": 3.6,
+    "totalRatings": 4668,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_delhi_025_011.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-21T05:49:26.753Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_012",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 649,
+    "discountPercent": 38,
+    "finalPrice": 402,
+    "rating": 4.6,
+    "totalRatings": 263,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_delhi_025_012.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-04T13:56:21.690Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_013",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 849,
+    "discountPercent": 30,
+    "finalPrice": 594,
+    "rating": 3.7,
+    "totalRatings": 3668,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_025_013.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-29T16:57:47.779Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_014",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Chef's special pav bhaji — perfect for a satisfying meal.",
+    "price": 523,
+    "discountPercent": 32,
+    "finalPrice": 356,
+    "rating": 4.2,
+    "totalRatings": 732,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_delhi_025_014.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "vada-pav",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-03T02:09:37.553Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_015",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Popular choice: Kathi Roll made with premium ingredients.",
+    "price": 677,
+    "discountPercent": 36,
+    "finalPrice": 433,
+    "rating": 4.6,
+    "totalRatings": 4362,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_delhi_025_015.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "chaat",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-30T11:24:04.150Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_016",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 309,
+    "discountPercent": 15,
+    "finalPrice": 263,
+    "rating": 4.6,
+    "totalRatings": 3626,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_025_016.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "risotto",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-27T11:35:29.292Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_017",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 603,
+    "discountPercent": 24,
+    "finalPrice": 458,
+    "rating": 4.4,
+    "totalRatings": 2188,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_025_017.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-02T17:24:42.062Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_018",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 569,
+    "discountPercent": 3,
+    "finalPrice": 552,
+    "rating": 4.7,
+    "totalRatings": 2749,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_delhi_025_018.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-23T17:08:28.987Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_019",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 178,
+    "discountPercent": 11,
+    "finalPrice": 158,
+    "rating": 4.6,
+    "totalRatings": 4716,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_delhi_025_019.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-22T16:13:42.675Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_020",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Delicious veg sandwich prepared fresh with authentic spices.",
+    "price": 109,
+    "discountPercent": 28,
+    "finalPrice": 78,
+    "rating": 4,
+    "totalRatings": 2884,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_025_020.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-18T13:51:31.973Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_021",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Chef's special kathi roll — perfect for a satisfying meal.",
+    "price": 671,
+    "discountPercent": 4,
+    "finalPrice": 644,
+    "rating": 4.1,
+    "totalRatings": 4526,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_delhi_025_021.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "chaat",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-22T05:19:04.364Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_022",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Chef's special aloo tikki chaat — perfect for a satisfying meal.",
+    "price": 453,
+    "discountPercent": 1,
+    "finalPrice": 448,
+    "rating": 3.6,
+    "totalRatings": 1034,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_delhi_025_022.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "pav-bhaji",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-26T02:49:25.831Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_023",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 125,
+    "discountPercent": 4,
+    "finalPrice": 120,
+    "rating": 3.8,
+    "totalRatings": 4766,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_delhi_025_023.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "wrap",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-23T16:26:39.485Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_024",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 319,
+    "discountPercent": 20,
+    "finalPrice": 255,
+    "rating": 3.6,
+    "totalRatings": 2709,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_delhi_025_024.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-09T04:06:19.534Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_025",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Classic pav bhaji served hot and fresh.",
+    "price": 556,
+    "discountPercent": 24,
+    "finalPrice": 423,
+    "rating": 4.4,
+    "totalRatings": 74,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_delhi_025_025.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "rolls",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-27T11:47:25.006Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_026",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Chef's special pav bhaji — perfect for a satisfying meal.",
+    "price": 877,
+    "discountPercent": 13,
+    "finalPrice": 763,
+    "rating": 4.7,
+    "totalRatings": 4828,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_delhi_025_026.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "chaat",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-30T07:48:50.058Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_027",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Delicious veg momos prepared fresh with authentic spices.",
+    "price": 783,
+    "discountPercent": 16,
+    "finalPrice": 658,
+    "rating": 4.5,
+    "totalRatings": 222,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_delhi_025_027.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-17T06:46:45.766Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_028",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 848,
+    "discountPercent": 10,
+    "finalPrice": 763,
+    "rating": 3.7,
+    "totalRatings": 4414,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_delhi_025_028.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-27T07:44:06.995Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_029",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Popular choice: Margherita Pizza made with premium ingredients.",
+    "price": 326,
+    "discountPercent": 13,
+    "finalPrice": 284,
+    "rating": 4.6,
+    "totalRatings": 2203,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_delhi_025_029.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-14T13:17:38.656Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_030",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 645,
+    "discountPercent": 35,
+    "finalPrice": 419,
+    "rating": 3.5,
+    "totalRatings": 1881,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_025_030.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-06-04T02:52:16.326Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_031",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Popular choice: Margherita Pizza made with premium ingredients.",
+    "price": 293,
+    "discountPercent": 17,
+    "finalPrice": 243,
+    "rating": 4.4,
+    "totalRatings": 624,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_delhi_025_031.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-30T05:11:01.338Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_032",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 231,
+    "discountPercent": 4,
+    "finalPrice": 222,
+    "rating": 3.9,
+    "totalRatings": 4357,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_025_032.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-01T18:21:18.360Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_033",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Delicious aloo tikki chaat prepared fresh with authentic spices.",
+    "price": 880,
+    "discountPercent": 4,
+    "finalPrice": 845,
+    "rating": 4.5,
+    "totalRatings": 1996,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_delhi_025_033.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "aloo",
+      "tikki"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-31T09:04:59.716Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_034",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 811,
+    "discountPercent": 23,
+    "finalPrice": 624,
+    "rating": 4.4,
+    "totalRatings": 147,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_025_034.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-12T12:39:16.901Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_035",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Popular choice: Pani Puri made with premium ingredients.",
+    "price": 592,
+    "discountPercent": 2,
+    "finalPrice": 580,
+    "rating": 4,
+    "totalRatings": 1840,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_delhi_025_035.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "momos",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-23T07:01:01.228Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_036",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 289,
+    "discountPercent": 1,
+    "finalPrice": 286,
+    "rating": 3.6,
+    "totalRatings": 3590,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_delhi_025_036.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-31T12:23:57.092Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_037",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 373,
+    "discountPercent": 18,
+    "finalPrice": 306,
+    "rating": 4.3,
+    "totalRatings": 432,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_delhi_025_037.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-26T05:47:41.288Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_038",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 447,
+    "discountPercent": 16,
+    "finalPrice": 375,
+    "rating": 4.6,
+    "totalRatings": 3093,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_delhi_025_038.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "cheese"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-28T21:23:23.202Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_039",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 355,
+    "discountPercent": 22,
+    "finalPrice": 277,
+    "rating": 3.7,
+    "totalRatings": 2422,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_025_039.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-11T21:19:49.246Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_040",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 509,
+    "discountPercent": 0,
+    "finalPrice": 509,
+    "rating": 4.7,
+    "totalRatings": 2808,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_025_040.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-26T15:33:31.106Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_041",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 454,
+    "discountPercent": 18,
+    "finalPrice": 372,
+    "rating": 4.5,
+    "totalRatings": 1622,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_delhi_025_041.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-09T23:59:21.883Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_042",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 544,
+    "discountPercent": 28,
+    "finalPrice": 392,
+    "rating": 3.8,
+    "totalRatings": 1766,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_delhi_025_042.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "burger",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-15T07:13:41.155Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_043",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 214,
+    "discountPercent": 16,
+    "finalPrice": 180,
+    "rating": 4.6,
+    "totalRatings": 450,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_delhi_025_043.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-30T04:53:50.226Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_044",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 392,
+    "discountPercent": 4,
+    "finalPrice": 376,
+    "rating": 3.6,
+    "totalRatings": 2664,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_025_044.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-12T18:40:44.806Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_045",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Delicious veg momos prepared fresh with authentic spices.",
+    "price": 702,
+    "discountPercent": 38,
+    "finalPrice": 435,
+    "rating": 3.6,
+    "totalRatings": 324,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_delhi_025_045.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "vada-pav",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-10T01:52:35.604Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_046",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Chef's special margherita pizza — perfect for a satisfying meal.",
+    "price": 858,
+    "discountPercent": 32,
+    "finalPrice": 583,
+    "rating": 4.2,
+    "totalRatings": 1479,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_delhi_025_046.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "burger",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-08T11:57:24.869Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_047",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 708,
+    "discountPercent": 35,
+    "finalPrice": 460,
+    "rating": 4.4,
+    "totalRatings": 2317,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_delhi_025_047.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-25T23:56:38.009Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_048",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Chef's special pani puri — perfect for a satisfying meal.",
+    "price": 693,
+    "discountPercent": 5,
+    "finalPrice": 658,
+    "rating": 4.7,
+    "totalRatings": 550,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_delhi_025_048.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "chaat",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-04T22:46:23.302Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_049",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 589,
+    "discountPercent": 14,
+    "finalPrice": 507,
+    "rating": 4.1,
+    "totalRatings": 1540,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_delhi_025_049.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-10T18:58:46.199Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_050",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 561,
+    "discountPercent": 27,
+    "finalPrice": 410,
+    "rating": 3.7,
+    "totalRatings": 4231,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_delhi_025_050.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-02T22:58:40.339Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_051",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 852,
+    "discountPercent": 26,
+    "finalPrice": 630,
+    "rating": 4,
+    "totalRatings": 4475,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_delhi_025_051.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-26T05:59:15.234Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_052",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 317,
+    "discountPercent": 8,
+    "finalPrice": 292,
+    "rating": 4.5,
+    "totalRatings": 2655,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_025_052.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-20T06:16:05.802Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_053",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 232,
+    "discountPercent": 2,
+    "finalPrice": 227,
+    "rating": 3.7,
+    "totalRatings": 2118,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_delhi_025_053.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-29T03:47:25.451Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_054",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Chef's special veg momos — perfect for a satisfying meal.",
+    "price": 348,
+    "discountPercent": 10,
+    "finalPrice": 313,
+    "rating": 4.4,
+    "totalRatings": 1077,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_delhi_025_054.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "pav-bhaji",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-29T05:07:06.680Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_055",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 836,
+    "discountPercent": 2,
+    "finalPrice": 819,
+    "rating": 4.7,
+    "totalRatings": 1610,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_025_055.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-07T18:20:14.192Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_056",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 818,
+    "discountPercent": 21,
+    "finalPrice": 646,
+    "rating": 4.5,
+    "totalRatings": 3435,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_delhi_025_056.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-29T00:51:20.680Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_057",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Classic pani puri served hot and fresh.",
+    "price": 392,
+    "discountPercent": 22,
+    "finalPrice": 306,
+    "rating": 4.5,
+    "totalRatings": 3482,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_delhi_025_057.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "pav-bhaji",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-20T03:44:19.955Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_058",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Delicious dahi bhalla prepared fresh with authentic spices.",
+    "price": 775,
+    "discountPercent": 33,
+    "finalPrice": 519,
+    "rating": 4.2,
+    "totalRatings": 4757,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_delhi_025_058.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "pav-bhaji",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-18T15:57:16.184Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_059",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 541,
+    "discountPercent": 39,
+    "finalPrice": 330,
+    "rating": 4.8,
+    "totalRatings": 3100,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_delhi_025_059.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-19T08:32:27.308Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_060",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 331,
+    "discountPercent": 5,
+    "finalPrice": 314,
+    "rating": 4.8,
+    "totalRatings": 3434,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_delhi_025_060.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "wrap",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-25T06:15:15.129Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_061",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 561,
+    "discountPercent": 30,
+    "finalPrice": 393,
+    "rating": 4.1,
+    "totalRatings": 4510,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_delhi_025_061.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "sandwich",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-22T21:02:59.812Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_062",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 684,
+    "discountPercent": 36,
+    "finalPrice": 438,
+    "rating": 3.5,
+    "totalRatings": 2634,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_025_062.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-25T13:22:07.667Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_063",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 524,
+    "discountPercent": 31,
+    "finalPrice": 362,
+    "rating": 4.3,
+    "totalRatings": 1685,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_025_063.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-06-02T20:44:01.692Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_064",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 455,
+    "discountPercent": 10,
+    "finalPrice": 410,
+    "rating": 4.8,
+    "totalRatings": 3683,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_delhi_025_064.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-14T03:08:12.695Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_065",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 433,
+    "discountPercent": 10,
+    "finalPrice": 390,
+    "rating": 3.5,
+    "totalRatings": 1550,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_delhi_025_065.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "pizza",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-10T03:01:43.085Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_066",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 865,
+    "discountPercent": 40,
+    "finalPrice": 519,
+    "rating": 4.4,
+    "totalRatings": 789,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_delhi_025_066.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "tomato"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-27T10:47:56.594Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_067",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Popular choice: Aloo Tikki Chaat made with premium ingredients.",
+    "price": 294,
+    "discountPercent": 38,
+    "finalPrice": 182,
+    "rating": 4,
+    "totalRatings": 56,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_delhi_025_067.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "rolls",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-04T20:37:57.198Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_068",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 470,
+    "discountPercent": 25,
+    "finalPrice": 353,
+    "rating": 3.7,
+    "totalRatings": 328,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_delhi_025_068.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-14T07:52:34.214Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_069",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 705,
+    "discountPercent": 12,
+    "finalPrice": 620,
+    "rating": 3.5,
+    "totalRatings": 3083,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_delhi_025_069.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-08T01:59:50.480Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_070",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 778,
+    "discountPercent": 29,
+    "finalPrice": 552,
+    "rating": 3.9,
+    "totalRatings": 4692,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_025_070.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-14T16:08:53.359Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_071",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Delicious pani puri prepared fresh with authentic spices.",
+    "price": 179,
+    "discountPercent": 29,
+    "finalPrice": 127,
+    "rating": 3.6,
+    "totalRatings": 3091,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_delhi_025_071.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "pav-bhaji",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-07T18:36:55.795Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_072",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 538,
+    "discountPercent": 35,
+    "finalPrice": 350,
+    "rating": 3.8,
+    "totalRatings": 658,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_025_072.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-09T04:07:23.452Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_073",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Popular choice: Margherita Pizza made with premium ingredients.",
+    "price": 838,
+    "discountPercent": 2,
+    "finalPrice": 821,
+    "rating": 3.5,
+    "totalRatings": 2020,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_delhi_025_073.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-21T08:45:00.904Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_074",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Classic aloo tikki chaat served hot and fresh.",
+    "price": 368,
+    "discountPercent": 28,
+    "finalPrice": 265,
+    "rating": 4.1,
+    "totalRatings": 1322,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_delhi_025_074.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "pav-bhaji",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-30T08:59:32.499Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_075",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 810,
+    "discountPercent": 38,
+    "finalPrice": 502,
+    "rating": 4.2,
+    "totalRatings": 4384,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_025_075.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "fries",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-28T00:36:03.390Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_076",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Chef's special vada pav — perfect for a satisfying meal.",
+    "price": 613,
+    "discountPercent": 34,
+    "finalPrice": 405,
+    "rating": 4,
+    "totalRatings": 1779,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_delhi_025_076.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "chaat",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-14T11:28:46.379Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_077",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Classic kathi roll served hot and fresh.",
+    "price": 741,
+    "discountPercent": 26,
+    "finalPrice": 548,
+    "rating": 4.2,
+    "totalRatings": 3888,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_delhi_025_077.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "rolls",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-30T11:20:56.718Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_078",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 893,
+    "discountPercent": 0,
+    "finalPrice": 893,
+    "rating": 3.8,
+    "totalRatings": 4677,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_025_078.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-07T17:13:34.468Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_079",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 475,
+    "discountPercent": 15,
+    "finalPrice": 404,
+    "rating": 4.1,
+    "totalRatings": 2549,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_025_079.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-17T03:13:24.352Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_080",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Delicious veg sandwich prepared fresh with authentic spices.",
+    "price": 344,
+    "discountPercent": 30,
+    "finalPrice": 241,
+    "rating": 4.4,
+    "totalRatings": 924,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_025_080.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "pizza",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-30T15:04:50.186Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_081",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 664,
+    "discountPercent": 29,
+    "finalPrice": 471,
+    "rating": 4.5,
+    "totalRatings": 1184,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_delhi_025_081.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-15T04:27:15.839Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_082",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 462,
+    "discountPercent": 11,
+    "finalPrice": 411,
+    "rating": 3.5,
+    "totalRatings": 3787,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_delhi_025_082.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-27T14:48:01.452Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_083",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Delicious dahi bhalla prepared fresh with authentic spices.",
+    "price": 774,
+    "discountPercent": 26,
+    "finalPrice": 573,
+    "rating": 4.1,
+    "totalRatings": 4221,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_delhi_025_083.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "vada-pav",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-29T04:36:00.708Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_084",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 344,
+    "discountPercent": 38,
+    "finalPrice": 213,
+    "rating": 3.8,
+    "totalRatings": 928,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_025_084.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-14T09:07:08.080Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_085",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Popular choice: Veg Momos made with premium ingredients.",
+    "price": 293,
+    "discountPercent": 1,
+    "finalPrice": 290,
+    "rating": 4.1,
+    "totalRatings": 2955,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_delhi_025_085.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "rolls",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-27T01:56:59.163Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_086",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 615,
+    "discountPercent": 30,
+    "finalPrice": 431,
+    "rating": 4.8,
+    "totalRatings": 3645,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_delhi_025_086.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "chaat",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-08T19:01:15.664Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_087",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Popular choice: Kathi Roll made with premium ingredients.",
+    "price": 411,
+    "discountPercent": 5,
+    "finalPrice": 390,
+    "rating": 4.1,
+    "totalRatings": 1811,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_delhi_025_087.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "pav-bhaji",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-09T12:47:26.661Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_088",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 303,
+    "discountPercent": 3,
+    "finalPrice": 294,
+    "rating": 3.7,
+    "totalRatings": 4119,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_025_088.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-19T00:53:54.687Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_089",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 284,
+    "discountPercent": 39,
+    "finalPrice": 173,
+    "rating": 4.7,
+    "totalRatings": 2142,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_025_089.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-11T16:28:08.259Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_090",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 397,
+    "discountPercent": 1,
+    "finalPrice": 393,
+    "rating": 4.5,
+    "totalRatings": 632,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_025_090.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-01T23:26:50.384Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_091",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 191,
+    "discountPercent": 3,
+    "finalPrice": 185,
+    "rating": 4.7,
+    "totalRatings": 2026,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_025_091.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-18T12:22:01.631Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_092",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Classic chicken wrap served hot and fresh.",
+    "price": 606,
+    "discountPercent": 22,
+    "finalPrice": 473,
+    "rating": 3.5,
+    "totalRatings": 1020,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_delhi_025_092.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-05T06:13:52.253Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_093",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Delicious dahi bhalla prepared fresh with authentic spices.",
+    "price": 685,
+    "discountPercent": 37,
+    "finalPrice": 432,
+    "rating": 4.2,
+    "totalRatings": 4103,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_delhi_025_093.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "rolls",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-07T13:35:54.535Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_094",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Chef's special aloo tikki chaat — perfect for a satisfying meal.",
+    "price": 705,
+    "discountPercent": 2,
+    "finalPrice": 691,
+    "rating": 4.6,
+    "totalRatings": 1928,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_delhi_025_094.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "vada-pav",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-11T20:37:39.054Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_095",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 823,
+    "discountPercent": 10,
+    "finalPrice": 741,
+    "rating": 4.8,
+    "totalRatings": 1018,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_delhi_025_095.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "burger",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-28T05:23:20.568Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_096",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 188,
+    "discountPercent": 2,
+    "finalPrice": 184,
+    "rating": 4.3,
+    "totalRatings": 2200,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_025_096.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-05T09:13:12.894Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_097",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 861,
+    "discountPercent": 0,
+    "finalPrice": 861,
+    "rating": 4.4,
+    "totalRatings": 1803,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_delhi_025_097.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "tomato"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-16T03:02:15.336Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_098",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Delicious mushroom risotto prepared fresh with authentic spices.",
+    "price": 308,
+    "discountPercent": 40,
+    "finalPrice": 185,
+    "rating": 3.5,
+    "totalRatings": 3675,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_delhi_025_098.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-04T08:30:39.867Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_099",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 290,
+    "discountPercent": 29,
+    "finalPrice": 206,
+    "rating": 4.3,
+    "totalRatings": 4745,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_delhi_025_099.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-02T02:58:20.276Z"
+  },
+  {
+    "id": "product_vendor_delhi_025_100",
+    "vendorId": "vendor_delhi_025",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Delicious dahi bhalla prepared fresh with authentic spices.",
+    "price": 561,
+    "discountPercent": 1,
+    "finalPrice": 555,
+    "rating": 4.5,
+    "totalRatings": 736,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_delhi_025_100.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "pav-bhaji",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-25T20:07:41.128Z"
+  }
+]

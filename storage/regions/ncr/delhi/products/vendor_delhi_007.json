@@ -1,0 +1,3618 @@
+[
+  {
+    "id": "product_vendor_delhi_007_001",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Chef's special chilli paneer — perfect for a satisfying meal.",
+    "price": 650,
+    "discountPercent": 35,
+    "finalPrice": 423,
+    "rating": 4.9,
+    "totalRatings": 2412,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_delhi_007_001.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "soup",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-08T06:21:25.690Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_002",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Delicious schezwan fried rice prepared fresh with authentic spices.",
+    "price": 178,
+    "discountPercent": 2,
+    "finalPrice": 174,
+    "rating": 4.7,
+    "totalRatings": 2988,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_delhi_007_002.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "dim-sum",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-23T10:00:51.163Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_003",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 712,
+    "discountPercent": 26,
+    "finalPrice": 527,
+    "rating": 4.5,
+    "totalRatings": 2036,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_delhi_007_003.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "tomato"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-28T06:50:24.011Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_004",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Delicious veg manchurian prepared fresh with authentic spices.",
+    "price": 260,
+    "discountPercent": 5,
+    "finalPrice": 247,
+    "rating": 4.4,
+    "totalRatings": 2759,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_delhi_007_004.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "fried-rice",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-14T22:27:51.181Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_005",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Popular choice: Hot & Sour Soup made with premium ingredients.",
+    "price": 725,
+    "discountPercent": 23,
+    "finalPrice": 558,
+    "rating": 4,
+    "totalRatings": 811,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_delhi_007_005.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "manchurian",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-19T18:31:29.433Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_006",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 535,
+    "discountPercent": 3,
+    "finalPrice": 519,
+    "rating": 3.5,
+    "totalRatings": 256,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_007_006.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-11T17:14:01.516Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_007",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 474,
+    "discountPercent": 37,
+    "finalPrice": 299,
+    "rating": 3.9,
+    "totalRatings": 2950,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_delhi_007_007.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "risotto",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-04T20:35:30.510Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_008",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 103,
+    "discountPercent": 40,
+    "finalPrice": 62,
+    "rating": 4,
+    "totalRatings": 1920,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_008.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-02T13:39:59.739Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_009",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 633,
+    "discountPercent": 25,
+    "finalPrice": 475,
+    "rating": 3.9,
+    "totalRatings": 2680,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_007_009.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "alfredo"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-17T10:16:15.315Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_010",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Classic schezwan fried rice served hot and fresh.",
+    "price": 852,
+    "discountPercent": 3,
+    "finalPrice": 826,
+    "rating": 3.8,
+    "totalRatings": 2447,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_delhi_007_010.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "noodles",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-31T00:36:23.818Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_011",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Chef's special hot & sour soup — perfect for a satisfying meal.",
+    "price": 676,
+    "discountPercent": 16,
+    "finalPrice": 568,
+    "rating": 3.8,
+    "totalRatings": 3961,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_delhi_007_011.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "dim-sum",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-03T04:26:14.827Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_012",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Chef's special chilli paneer — perfect for a satisfying meal.",
+    "price": 452,
+    "discountPercent": 3,
+    "finalPrice": 438,
+    "rating": 4.5,
+    "totalRatings": 2854,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_delhi_007_012.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "noodles",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-02T10:39:13.740Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_013",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Popular choice: Chilli Paneer made with premium ingredients.",
+    "price": 365,
+    "discountPercent": 1,
+    "finalPrice": 361,
+    "rating": 4.2,
+    "totalRatings": 799,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_delhi_007_013.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "manchurian",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-19T12:47:51.376Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_014",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Delicious schezwan fried rice prepared fresh with authentic spices.",
+    "price": 541,
+    "discountPercent": 20,
+    "finalPrice": 433,
+    "rating": 4.8,
+    "totalRatings": 4882,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_delhi_007_014.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "soup",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-28T23:47:28.716Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_015",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 879,
+    "discountPercent": 39,
+    "finalPrice": 536,
+    "rating": 4.4,
+    "totalRatings": 644,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_delhi_007_015.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-29T21:04:31.654Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_016",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 710,
+    "discountPercent": 22,
+    "finalPrice": 554,
+    "rating": 4.2,
+    "totalRatings": 2157,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_007_016.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-19T04:20:50.306Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_017",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 437,
+    "discountPercent": 12,
+    "finalPrice": 385,
+    "rating": 4.5,
+    "totalRatings": 1824,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_delhi_007_017.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "risotto",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-08T01:15:43.297Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_018",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 315,
+    "discountPercent": 18,
+    "finalPrice": 258,
+    "rating": 3.7,
+    "totalRatings": 3171,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_007_018.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-29T23:39:17.885Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_019",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Delicious spring rolls prepared fresh with authentic spices.",
+    "price": 142,
+    "discountPercent": 2,
+    "finalPrice": 139,
+    "rating": 3.5,
+    "totalRatings": 3945,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_delhi_007_019.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "dim-sum",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-10T11:39:41.902Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_020",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 877,
+    "discountPercent": 27,
+    "finalPrice": 640,
+    "rating": 4.5,
+    "totalRatings": 2654,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_020.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-22T15:10:57.322Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_021",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 301,
+    "discountPercent": 13,
+    "finalPrice": 262,
+    "rating": 4.4,
+    "totalRatings": 232,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_007_021.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-10T19:42:51.377Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_022",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 548,
+    "discountPercent": 31,
+    "finalPrice": 378,
+    "rating": 3.5,
+    "totalRatings": 4971,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_delhi_007_022.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "manchurian",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-23T03:53:57.155Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_023",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Popular choice: Spring Rolls made with premium ingredients.",
+    "price": 415,
+    "discountPercent": 35,
+    "finalPrice": 270,
+    "rating": 3.8,
+    "totalRatings": 1931,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_delhi_007_023.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "soup",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-17T09:47:50.429Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_024",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 451,
+    "discountPercent": 27,
+    "finalPrice": 329,
+    "rating": 4.1,
+    "totalRatings": 3453,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_delhi_007_024.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-30T14:59:44.518Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_025",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 597,
+    "discountPercent": 38,
+    "finalPrice": 370,
+    "rating": 3.9,
+    "totalRatings": 1037,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_delhi_007_025.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-18T04:45:37.620Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_026",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 429,
+    "discountPercent": 22,
+    "finalPrice": 335,
+    "rating": 4,
+    "totalRatings": 34,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_026.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-17T03:44:36.040Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_027",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 871,
+    "discountPercent": 22,
+    "finalPrice": 679,
+    "rating": 4.6,
+    "totalRatings": 938,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_delhi_007_027.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-24T12:39:59.853Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_028",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 824,
+    "discountPercent": 17,
+    "finalPrice": 684,
+    "rating": 3.7,
+    "totalRatings": 4960,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_007_028.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-25T21:27:05.664Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_029",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 824,
+    "discountPercent": 18,
+    "finalPrice": 676,
+    "rating": 4.7,
+    "totalRatings": 371,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_delhi_007_029.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-04T04:58:36.751Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_030",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 402,
+    "discountPercent": 6,
+    "finalPrice": 378,
+    "rating": 4.1,
+    "totalRatings": 4413,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_030.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-03T22:36:57.665Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_031",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Chef's special chilli paneer — perfect for a satisfying meal.",
+    "price": 730,
+    "discountPercent": 15,
+    "finalPrice": 621,
+    "rating": 4.6,
+    "totalRatings": 364,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_delhi_007_031.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "fried-rice",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-11T12:33:44.299Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_032",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 786,
+    "discountPercent": 14,
+    "finalPrice": 676,
+    "rating": 3.7,
+    "totalRatings": 3937,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_032.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-14T12:41:33.828Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_033",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 344,
+    "discountPercent": 18,
+    "finalPrice": 282,
+    "rating": 3.7,
+    "totalRatings": 2363,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_033.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-28T06:51:38.293Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_034",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Classic spring rolls served hot and fresh.",
+    "price": 886,
+    "discountPercent": 37,
+    "finalPrice": 558,
+    "rating": 4.2,
+    "totalRatings": 4363,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_delhi_007_034.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "noodles",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-11T09:08:01.656Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_035",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Classic hakka noodles served hot and fresh.",
+    "price": 369,
+    "discountPercent": 39,
+    "finalPrice": 225,
+    "rating": 4.4,
+    "totalRatings": 104,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_delhi_007_035.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "hakka"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-19T11:32:05.011Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_036",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 293,
+    "discountPercent": 17,
+    "finalPrice": 243,
+    "rating": 4.7,
+    "totalRatings": 409,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_delhi_007_036.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "soup",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-06T08:50:44.312Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_037",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 318,
+    "discountPercent": 16,
+    "finalPrice": 267,
+    "rating": 4.1,
+    "totalRatings": 4147,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_037.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-26T23:58:15.125Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_038",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 625,
+    "discountPercent": 15,
+    "finalPrice": 531,
+    "rating": 4.3,
+    "totalRatings": 531,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_delhi_007_038.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-22T21:42:43.570Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_039",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Delicious spring rolls prepared fresh with authentic spices.",
+    "price": 209,
+    "discountPercent": 10,
+    "finalPrice": 188,
+    "rating": 3.8,
+    "totalRatings": 2283,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_delhi_007_039.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "fried-rice",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-14T21:39:09.610Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_040",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 225,
+    "discountPercent": 15,
+    "finalPrice": 191,
+    "rating": 4.7,
+    "totalRatings": 3864,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_007_040.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "risotto",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-20T03:45:38.032Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_041",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 483,
+    "discountPercent": 25,
+    "finalPrice": 362,
+    "rating": 4.2,
+    "totalRatings": 2187,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_delhi_007_041.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-16T01:27:48.170Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_042",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Delicious kung pao chicken prepared fresh with authentic spices.",
+    "price": 839,
+    "discountPercent": 38,
+    "finalPrice": 520,
+    "rating": 3.7,
+    "totalRatings": 2071,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_delhi_007_042.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "manchurian",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-16T14:57:29.027Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_043",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 241,
+    "discountPercent": 32,
+    "finalPrice": 164,
+    "rating": 4.7,
+    "totalRatings": 2473,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_delhi_007_043.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "manchurian",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-22T05:14:06.939Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_044",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 510,
+    "discountPercent": 31,
+    "finalPrice": 352,
+    "rating": 4.4,
+    "totalRatings": 1593,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_delhi_007_044.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "manchurian",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-30T01:20:53.228Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_045",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 343,
+    "discountPercent": 10,
+    "finalPrice": 309,
+    "rating": 4.7,
+    "totalRatings": 4548,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_delhi_007_045.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "tomato"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-18T18:49:50.694Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_046",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 815,
+    "discountPercent": 11,
+    "finalPrice": 725,
+    "rating": 3.9,
+    "totalRatings": 1990,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_delhi_007_046.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "steak",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-10T02:00:29.119Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_047",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 526,
+    "discountPercent": 34,
+    "finalPrice": 347,
+    "rating": 4.3,
+    "totalRatings": 2157,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_047.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-31T07:04:25.075Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_048",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Delicious hot & sour soup prepared fresh with authentic spices.",
+    "price": 741,
+    "discountPercent": 7,
+    "finalPrice": 689,
+    "rating": 4.1,
+    "totalRatings": 2116,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_delhi_007_048.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "fried-rice",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-03T11:30:22.911Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_049",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 493,
+    "discountPercent": 2,
+    "finalPrice": 483,
+    "rating": 4.1,
+    "totalRatings": 4007,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_049.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-19T08:14:47.633Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_050",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 877,
+    "discountPercent": 5,
+    "finalPrice": 833,
+    "rating": 4.2,
+    "totalRatings": 1743,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_delhi_007_050.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "fried-rice",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-30T15:46:07.615Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_051",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 813,
+    "discountPercent": 3,
+    "finalPrice": 789,
+    "rating": 3.5,
+    "totalRatings": 2139,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_051.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-12T19:58:13.057Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_052",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Classic spring rolls served hot and fresh.",
+    "price": 600,
+    "discountPercent": 30,
+    "finalPrice": 420,
+    "rating": 4.8,
+    "totalRatings": 886,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_delhi_007_052.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "dim-sum",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-02T16:03:56.681Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_053",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 226,
+    "discountPercent": 3,
+    "finalPrice": 219,
+    "rating": 3.9,
+    "totalRatings": 4691,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_007_053.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-05T10:53:13.136Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_054",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 804,
+    "discountPercent": 9,
+    "finalPrice": 732,
+    "rating": 4.3,
+    "totalRatings": 956,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_delhi_007_054.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-01T04:19:57.806Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_055",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Chef's special hakka noodles — perfect for a satisfying meal.",
+    "price": 860,
+    "discountPercent": 36,
+    "finalPrice": 550,
+    "rating": 4.2,
+    "totalRatings": 975,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_delhi_007_055.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "hakka"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-06T21:56:29.409Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_056",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Popular choice: Hot & Sour Soup made with premium ingredients.",
+    "price": 568,
+    "discountPercent": 39,
+    "finalPrice": 346,
+    "rating": 4.8,
+    "totalRatings": 4907,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_delhi_007_056.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "manchurian",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-17T13:42:11.201Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_057",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Delicious spring rolls prepared fresh with authentic spices.",
+    "price": 222,
+    "discountPercent": 8,
+    "finalPrice": 204,
+    "rating": 4,
+    "totalRatings": 3751,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_delhi_007_057.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "soup",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-10T21:47:40.670Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_058",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 663,
+    "discountPercent": 16,
+    "finalPrice": 557,
+    "rating": 3.8,
+    "totalRatings": 2255,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_058.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-24T07:22:53.093Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_059",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 565,
+    "discountPercent": 40,
+    "finalPrice": 339,
+    "rating": 3.9,
+    "totalRatings": 736,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_delhi_007_059.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "mushroom"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-17T14:33:23.312Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_060",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Classic hot & sour soup served hot and fresh.",
+    "price": 318,
+    "discountPercent": 20,
+    "finalPrice": 254,
+    "rating": 4,
+    "totalRatings": 4482,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_delhi_007_060.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "dim-sum",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-08T16:00:18.653Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_061",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 175,
+    "discountPercent": 39,
+    "finalPrice": 107,
+    "rating": 3.9,
+    "totalRatings": 1248,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_delhi_007_061.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-26T01:58:31.430Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_062",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Classic caesar salad served hot and fresh.",
+    "price": 700,
+    "discountPercent": 13,
+    "finalPrice": 609,
+    "rating": 4.2,
+    "totalRatings": 2955,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_delhi_007_062.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-24T07:32:24.356Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_063",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 437,
+    "discountPercent": 8,
+    "finalPrice": 402,
+    "rating": 3.9,
+    "totalRatings": 2351,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_063.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-20T05:41:26.573Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_064",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Chef's special hakka noodles — perfect for a satisfying meal.",
+    "price": 546,
+    "discountPercent": 27,
+    "finalPrice": 399,
+    "rating": 4.4,
+    "totalRatings": 3948,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_delhi_007_064.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "hakka"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-09T19:37:19.846Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_065",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 507,
+    "discountPercent": 18,
+    "finalPrice": 416,
+    "rating": 4.1,
+    "totalRatings": 3125,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_delhi_007_065.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "soup",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-24T05:26:55.593Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_066",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 635,
+    "discountPercent": 21,
+    "finalPrice": 502,
+    "rating": 4.4,
+    "totalRatings": 2157,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_066.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-22T12:37:27.680Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_067",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Popular choice: Chilli Paneer made with premium ingredients.",
+    "price": 506,
+    "discountPercent": 33,
+    "finalPrice": 339,
+    "rating": 3.6,
+    "totalRatings": 3620,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_delhi_007_067.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "dim-sum",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-01T03:13:39.006Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_068",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 321,
+    "discountPercent": 36,
+    "finalPrice": 205,
+    "rating": 3.8,
+    "totalRatings": 686,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_delhi_007_068.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-20T13:19:05.408Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_069",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 178,
+    "discountPercent": 2,
+    "finalPrice": 174,
+    "rating": 4,
+    "totalRatings": 3524,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_delhi_007_069.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-15T11:42:43.439Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_070",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 262,
+    "discountPercent": 6,
+    "finalPrice": 246,
+    "rating": 4.8,
+    "totalRatings": 1078,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_delhi_007_070.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "mushroom"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-11T20:28:13.041Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_071",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Popular choice: Kung Pao Chicken made with premium ingredients.",
+    "price": 725,
+    "discountPercent": 19,
+    "finalPrice": 587,
+    "rating": 4.2,
+    "totalRatings": 1091,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_delhi_007_071.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "noodles",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-08T05:56:47.938Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_072",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Popular choice: Caesar Salad made with premium ingredients.",
+    "price": 254,
+    "discountPercent": 32,
+    "finalPrice": 173,
+    "rating": 4.8,
+    "totalRatings": 4212,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_delhi_007_072.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "soup",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-02T21:25:11.595Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_073",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 751,
+    "discountPercent": 10,
+    "finalPrice": 676,
+    "rating": 3.9,
+    "totalRatings": 3683,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_delhi_007_073.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "dim-sum",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-01T06:23:06.559Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_074",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 881,
+    "discountPercent": 36,
+    "finalPrice": 564,
+    "rating": 4.7,
+    "totalRatings": 200,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_074.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-11T01:39:33.066Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_075",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 384,
+    "discountPercent": 39,
+    "finalPrice": 234,
+    "rating": 3.5,
+    "totalRatings": 3567,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_075.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-26T12:04:55.460Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_076",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Popular choice: Schezwan Fried Rice made with premium ingredients.",
+    "price": 322,
+    "discountPercent": 26,
+    "finalPrice": 238,
+    "rating": 4.6,
+    "totalRatings": 2749,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_delhi_007_076.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "dim-sum",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-13T20:55:26.049Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_077",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Classic schezwan fried rice served hot and fresh.",
+    "price": 638,
+    "discountPercent": 39,
+    "finalPrice": 389,
+    "rating": 4.4,
+    "totalRatings": 318,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_delhi_007_077.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "noodles",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-10T13:05:48.617Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_078",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 611,
+    "discountPercent": 5,
+    "finalPrice": 580,
+    "rating": 4.6,
+    "totalRatings": 4661,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_delhi_007_078.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "risotto",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-04T09:36:23.193Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_079",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Chef's special schezwan fried rice — perfect for a satisfying meal.",
+    "price": 818,
+    "discountPercent": 26,
+    "finalPrice": 605,
+    "rating": 4.2,
+    "totalRatings": 4034,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_delhi_007_079.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "noodles",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-10T22:07:34.964Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_080",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Popular choice: Caesar Salad made with premium ingredients.",
+    "price": 168,
+    "discountPercent": 23,
+    "finalPrice": 129,
+    "rating": 3.5,
+    "totalRatings": 970,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_delhi_007_080.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-17T22:23:31.443Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_081",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 302,
+    "discountPercent": 17,
+    "finalPrice": 251,
+    "rating": 4.4,
+    "totalRatings": 4591,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_081.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-11T03:14:34.262Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_082",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 308,
+    "discountPercent": 32,
+    "finalPrice": 209,
+    "rating": 4.5,
+    "totalRatings": 951,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_delhi_007_082.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-09T15:10:14.212Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_083",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Classic hot & sour soup served hot and fresh.",
+    "price": 830,
+    "discountPercent": 14,
+    "finalPrice": 714,
+    "rating": 3.6,
+    "totalRatings": 2853,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_delhi_007_083.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "fried-rice",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-13T03:37:23.537Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_084",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Popular choice: Veg Manchurian made with premium ingredients.",
+    "price": 535,
+    "discountPercent": 25,
+    "finalPrice": 401,
+    "rating": 4.5,
+    "totalRatings": 4191,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_delhi_007_084.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-29T14:14:00.482Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_085",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 628,
+    "discountPercent": 1,
+    "finalPrice": 622,
+    "rating": 4.7,
+    "totalRatings": 1461,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_007_085.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-12T18:11:37.165Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_086",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 786,
+    "discountPercent": 0,
+    "finalPrice": 786,
+    "rating": 3.7,
+    "totalRatings": 3219,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_delhi_007_086.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "soup",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-28T07:41:01.725Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_087",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Popular choice: Veg Manchurian made with premium ingredients.",
+    "price": 600,
+    "discountPercent": 36,
+    "finalPrice": 384,
+    "rating": 4.1,
+    "totalRatings": 1045,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_delhi_007_087.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "fried-rice",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-22T15:58:01.794Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_088",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Classic chilli paneer served hot and fresh.",
+    "price": 671,
+    "discountPercent": 25,
+    "finalPrice": 503,
+    "rating": 4,
+    "totalRatings": 2325,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_delhi_007_088.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "noodles",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-30T22:56:45.343Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_089",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 282,
+    "discountPercent": 35,
+    "finalPrice": 183,
+    "rating": 4.9,
+    "totalRatings": 2659,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_delhi_007_089.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-14T03:53:14.493Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_090",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 655,
+    "discountPercent": 38,
+    "finalPrice": 406,
+    "rating": 4.1,
+    "totalRatings": 835,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_delhi_007_090.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "dim-sum",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-07T22:33:12.711Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_091",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 276,
+    "discountPercent": 2,
+    "finalPrice": 270,
+    "rating": 4.6,
+    "totalRatings": 2532,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_delhi_007_091.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-29T12:06:33.349Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_092",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 504,
+    "discountPercent": 39,
+    "finalPrice": 307,
+    "rating": 4.7,
+    "totalRatings": 4879,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_delhi_007_092.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "tomato"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-08T14:03:03.903Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_093",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 896,
+    "discountPercent": 14,
+    "finalPrice": 771,
+    "rating": 3.7,
+    "totalRatings": 4167,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_delhi_007_093.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-27T09:31:02.308Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_094",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Classic hot & sour soup served hot and fresh.",
+    "price": 168,
+    "discountPercent": 6,
+    "finalPrice": 158,
+    "rating": 4.3,
+    "totalRatings": 2033,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_delhi_007_094.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "noodles",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-25T17:37:30.872Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_095",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 784,
+    "discountPercent": 16,
+    "finalPrice": 659,
+    "rating": 4.4,
+    "totalRatings": 2953,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_delhi_007_095.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-31T14:50:57.560Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_096",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 752,
+    "discountPercent": 21,
+    "finalPrice": 594,
+    "rating": 4.1,
+    "totalRatings": 3766,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_delhi_007_096.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "risotto",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-17T23:33:56.525Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_097",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Popular choice: Spring Rolls made with premium ingredients.",
+    "price": 359,
+    "discountPercent": 0,
+    "finalPrice": 359,
+    "rating": 3.5,
+    "totalRatings": 827,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_delhi_007_097.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "noodles",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-01T20:00:45.619Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_098",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Classic hakka noodles served hot and fresh.",
+    "price": 744,
+    "discountPercent": 8,
+    "finalPrice": 684,
+    "rating": 4.8,
+    "totalRatings": 2019,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_delhi_007_098.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "manchurian",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-16T00:49:35.320Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_099",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Popular choice: Spring Rolls made with premium ingredients.",
+    "price": 804,
+    "discountPercent": 1,
+    "finalPrice": 796,
+    "rating": 4.2,
+    "totalRatings": 3485,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_delhi_007_099.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "manchurian",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-17T09:35:55.285Z"
+  },
+  {
+    "id": "product_vendor_delhi_007_100",
+    "vendorId": "vendor_delhi_007",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 83,
+    "discountPercent": 24,
+    "finalPrice": 63,
+    "rating": 3.6,
+    "totalRatings": 2803,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_delhi_007_100.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-24T16:37:59.865Z"
+  }
+]

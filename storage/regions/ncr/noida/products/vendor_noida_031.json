@@ -1,0 +1,3549 @@
+[
+  {
+    "id": "product_vendor_noida_031_001",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 331,
+    "discountPercent": 22,
+    "finalPrice": 258,
+    "rating": 4.5,
+    "totalRatings": 942,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_031_001.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-17T05:55:06.327Z"
+  },
+  {
+    "id": "product_vendor_noida_031_002",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Classic hyderabadi dum biryani served hot and fresh.",
+    "price": 690,
+    "discountPercent": 26,
+    "finalPrice": 511,
+    "rating": 3.8,
+    "totalRatings": 4210,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_noida_031_002.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "chicken-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-05T05:43:25.504Z"
+  },
+  {
+    "id": "product_vendor_noida_031_003",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Chef's special egg biryani — perfect for a satisfying meal.",
+    "price": 408,
+    "discountPercent": 18,
+    "finalPrice": 335,
+    "rating": 4.2,
+    "totalRatings": 1347,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_noida_031_003.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "mutton-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-09T04:41:13.642Z"
+  },
+  {
+    "id": "product_vendor_noida_031_004",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 521,
+    "discountPercent": 25,
+    "finalPrice": 391,
+    "rating": 4.3,
+    "totalRatings": 3108,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_noida_031_004.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "veg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-02T06:50:30.813Z"
+  },
+  {
+    "id": "product_vendor_noida_031_005",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Delicious veg momos prepared fresh with authentic spices.",
+    "price": 650,
+    "discountPercent": 32,
+    "finalPrice": 442,
+    "rating": 4,
+    "totalRatings": 1881,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_noida_031_005.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-15T01:27:19.969Z"
+  },
+  {
+    "id": "product_vendor_noida_031_006",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Chef's special vada pav — perfect for a satisfying meal.",
+    "price": 542,
+    "discountPercent": 5,
+    "finalPrice": 515,
+    "rating": 4.6,
+    "totalRatings": 2723,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_noida_031_006.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "rolls",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-01T23:49:57.272Z"
+  },
+  {
+    "id": "product_vendor_noida_031_007",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Chef's special kathi roll — perfect for a satisfying meal.",
+    "price": 878,
+    "discountPercent": 30,
+    "finalPrice": 615,
+    "rating": 4,
+    "totalRatings": 4118,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_noida_031_007.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "pav-bhaji",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-08T21:29:09.174Z"
+  },
+  {
+    "id": "product_vendor_noida_031_008",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Popular choice: Hyderabadi Dum Biryani made with premium ingredients.",
+    "price": 244,
+    "discountPercent": 8,
+    "finalPrice": 224,
+    "rating": 4.5,
+    "totalRatings": 3497,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_noida_031_008.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "mutton-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-17T03:31:40.068Z"
+  },
+  {
+    "id": "product_vendor_noida_031_009",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 884,
+    "discountPercent": 0,
+    "finalPrice": 884,
+    "rating": 3.5,
+    "totalRatings": 54,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_031_009.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-06-01T06:42:32.090Z"
+  },
+  {
+    "id": "product_vendor_noida_031_010",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 278,
+    "discountPercent": 9,
+    "finalPrice": 253,
+    "rating": 3.8,
+    "totalRatings": 4559,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_031_010.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-07T23:24:19.304Z"
+  },
+  {
+    "id": "product_vendor_noida_031_011",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 354,
+    "discountPercent": 30,
+    "finalPrice": 248,
+    "rating": 4.2,
+    "totalRatings": 2463,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_031_011.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "risotto",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-21T12:40:42.364Z"
+  },
+  {
+    "id": "product_vendor_noida_031_012",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 809,
+    "discountPercent": 15,
+    "finalPrice": 688,
+    "rating": 4.1,
+    "totalRatings": 4021,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_031_012.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-04T02:58:42.118Z"
+  },
+  {
+    "id": "product_vendor_noida_031_013",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 838,
+    "discountPercent": 7,
+    "finalPrice": 779,
+    "rating": 4.7,
+    "totalRatings": 3131,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_031_013.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-28T11:35:21.158Z"
+  },
+  {
+    "id": "product_vendor_noida_031_014",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 286,
+    "discountPercent": 37,
+    "finalPrice": 180,
+    "rating": 4.5,
+    "totalRatings": 3802,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_031_014.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-12T04:45:55.310Z"
+  },
+  {
+    "id": "product_vendor_noida_031_015",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Classic pav bhaji served hot and fresh.",
+    "price": 466,
+    "discountPercent": 40,
+    "finalPrice": 280,
+    "rating": 4.3,
+    "totalRatings": 3062,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_noida_031_015.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "momos",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-16T05:11:33.022Z"
+  },
+  {
+    "id": "product_vendor_noida_031_016",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 281,
+    "discountPercent": 31,
+    "finalPrice": 194,
+    "rating": 3.9,
+    "totalRatings": 4945,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_noida_031_016.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "chaat",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-03T03:50:34.175Z"
+  },
+  {
+    "id": "product_vendor_noida_031_017",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Chef's special egg biryani — perfect for a satisfying meal.",
+    "price": 790,
+    "discountPercent": 7,
+    "finalPrice": 735,
+    "rating": 3.9,
+    "totalRatings": 2583,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_noida_031_017.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "veg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-11T02:59:28.068Z"
+  },
+  {
+    "id": "product_vendor_noida_031_018",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Popular choice: Hyderabadi Dum Biryani made with premium ingredients.",
+    "price": 728,
+    "discountPercent": 17,
+    "finalPrice": 604,
+    "rating": 3.9,
+    "totalRatings": 1368,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_noida_031_018.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "veg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-01T08:42:55.000Z"
+  },
+  {
+    "id": "product_vendor_noida_031_019",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Chef's special dahi bhalla — perfect for a satisfying meal.",
+    "price": 554,
+    "discountPercent": 36,
+    "finalPrice": 355,
+    "rating": 4.8,
+    "totalRatings": 839,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_noida_031_019.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "rolls",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-21T08:24:21.437Z"
+  },
+  {
+    "id": "product_vendor_noida_031_020",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Chef's special veg biryani — perfect for a satisfying meal.",
+    "price": 108,
+    "discountPercent": 23,
+    "finalPrice": 83,
+    "rating": 3.8,
+    "totalRatings": 4860,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_noida_031_020.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "mutton-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-29T04:38:53.933Z"
+  },
+  {
+    "id": "product_vendor_noida_031_021",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 609,
+    "discountPercent": 23,
+    "finalPrice": 469,
+    "rating": 4.3,
+    "totalRatings": 4826,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_031_021.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-03T19:31:36.649Z"
+  },
+  {
+    "id": "product_vendor_noida_031_022",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Classic pani puri served hot and fresh.",
+    "price": 631,
+    "discountPercent": 10,
+    "finalPrice": 568,
+    "rating": 4.8,
+    "totalRatings": 847,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_noida_031_022.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "vada-pav",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-06-04T04:54:43.422Z"
+  },
+  {
+    "id": "product_vendor_noida_031_023",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Chef's special veg momos — perfect for a satisfying meal.",
+    "price": 831,
+    "discountPercent": 8,
+    "finalPrice": 765,
+    "rating": 4.9,
+    "totalRatings": 4895,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_noida_031_023.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-11T13:03:09.736Z"
+  },
+  {
+    "id": "product_vendor_noida_031_024",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Chef's special vada pav — perfect for a satisfying meal.",
+    "price": 283,
+    "discountPercent": 29,
+    "finalPrice": 201,
+    "rating": 4.3,
+    "totalRatings": 2988,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_noida_031_024.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "pav-bhaji",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-25T10:44:26.165Z"
+  },
+  {
+    "id": "product_vendor_noida_031_025",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Popular choice: Veg Momos made with premium ingredients.",
+    "price": 476,
+    "discountPercent": 22,
+    "finalPrice": 371,
+    "rating": 4.6,
+    "totalRatings": 4096,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_noida_031_025.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "pav-bhaji",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-19T12:53:50.764Z"
+  },
+  {
+    "id": "product_vendor_noida_031_026",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Delicious pav bhaji prepared fresh with authentic spices.",
+    "price": 507,
+    "discountPercent": 14,
+    "finalPrice": 436,
+    "rating": 3.6,
+    "totalRatings": 202,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_noida_031_026.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "rolls",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-06T06:42:33.839Z"
+  },
+  {
+    "id": "product_vendor_noida_031_027",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 95,
+    "discountPercent": 11,
+    "finalPrice": 85,
+    "rating": 4.6,
+    "totalRatings": 3688,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_031_027.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-26T02:02:20.264Z"
+  },
+  {
+    "id": "product_vendor_noida_031_028",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 604,
+    "discountPercent": 8,
+    "finalPrice": 556,
+    "rating": 4.8,
+    "totalRatings": 1584,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_031_028.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "pasta",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-23T19:05:39.017Z"
+  },
+  {
+    "id": "product_vendor_noida_031_029",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Classic pav bhaji served hot and fresh.",
+    "price": 354,
+    "discountPercent": 32,
+    "finalPrice": 241,
+    "rating": 3.7,
+    "totalRatings": 1595,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_noida_031_029.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "pav-bhaji",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-18T13:25:38.980Z"
+  },
+  {
+    "id": "product_vendor_noida_031_030",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Popular choice: Dahi Bhalla made with premium ingredients.",
+    "price": 701,
+    "discountPercent": 14,
+    "finalPrice": 603,
+    "rating": 4.1,
+    "totalRatings": 3280,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_noida_031_030.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "momos",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-25T02:59:17.999Z"
+  },
+  {
+    "id": "product_vendor_noida_031_031",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Chef's special vada pav — perfect for a satisfying meal.",
+    "price": 672,
+    "discountPercent": 22,
+    "finalPrice": 524,
+    "rating": 4.2,
+    "totalRatings": 2082,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_noida_031_031.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "pav-bhaji",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-29T10:01:07.799Z"
+  },
+  {
+    "id": "product_vendor_noida_031_032",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Delicious veg biryani prepared fresh with authentic spices.",
+    "price": 816,
+    "discountPercent": 6,
+    "finalPrice": 767,
+    "rating": 4.7,
+    "totalRatings": 3082,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_noida_031_032.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "chicken-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-08T09:01:21.608Z"
+  },
+  {
+    "id": "product_vendor_noida_031_033",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Delicious veg biryani prepared fresh with authentic spices.",
+    "price": 337,
+    "discountPercent": 35,
+    "finalPrice": 219,
+    "rating": 4.8,
+    "totalRatings": 1925,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_noida_031_033.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "chicken-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-14T13:09:28.282Z"
+  },
+  {
+    "id": "product_vendor_noida_031_034",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 702,
+    "discountPercent": 36,
+    "finalPrice": 449,
+    "rating": 4.3,
+    "totalRatings": 3237,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_031_034.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-08T03:06:20.973Z"
+  },
+  {
+    "id": "product_vendor_noida_031_035",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 670,
+    "discountPercent": 20,
+    "finalPrice": 536,
+    "rating": 4.9,
+    "totalRatings": 139,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_031_035.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-09T08:17:01.824Z"
+  },
+  {
+    "id": "product_vendor_noida_031_036",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 222,
+    "discountPercent": 22,
+    "finalPrice": 173,
+    "rating": 4,
+    "totalRatings": 1176,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_031_036.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "pasta",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-02T16:50:58.703Z"
+  },
+  {
+    "id": "product_vendor_noida_031_037",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 664,
+    "discountPercent": 30,
+    "finalPrice": 465,
+    "rating": 4.8,
+    "totalRatings": 3289,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_031_037.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-12T08:12:59.166Z"
+  },
+  {
+    "id": "product_vendor_noida_031_038",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Delicious vada pav prepared fresh with authentic spices.",
+    "price": 825,
+    "discountPercent": 11,
+    "finalPrice": 734,
+    "rating": 3.7,
+    "totalRatings": 4188,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_noida_031_038.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "vada-pav",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-22T16:54:48.160Z"
+  },
+  {
+    "id": "product_vendor_noida_031_039",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Chef's special lucknowi biryani — perfect for a satisfying meal.",
+    "price": 252,
+    "discountPercent": 28,
+    "finalPrice": 181,
+    "rating": 3.7,
+    "totalRatings": 1156,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_noida_031_039.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "mutton-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-03T19:24:50.353Z"
+  },
+  {
+    "id": "product_vendor_noida_031_040",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Delicious mutton biryani prepared fresh with authentic spices.",
+    "price": 565,
+    "discountPercent": 35,
+    "finalPrice": 367,
+    "rating": 3.9,
+    "totalRatings": 3984,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_noida_031_040.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "egg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-04T14:40:18.589Z"
+  },
+  {
+    "id": "product_vendor_noida_031_041",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Chef's special aloo tikki chaat — perfect for a satisfying meal.",
+    "price": 109,
+    "discountPercent": 24,
+    "finalPrice": 83,
+    "rating": 3.7,
+    "totalRatings": 2551,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_noida_031_041.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "vada-pav",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-11T17:02:49.635Z"
+  },
+  {
+    "id": "product_vendor_noida_031_042",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 702,
+    "discountPercent": 34,
+    "finalPrice": 463,
+    "rating": 4.4,
+    "totalRatings": 2872,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_031_042.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-18T11:22:25.587Z"
+  },
+  {
+    "id": "product_vendor_noida_031_043",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 535,
+    "discountPercent": 6,
+    "finalPrice": 503,
+    "rating": 3.8,
+    "totalRatings": 1568,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_031_043.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "risotto",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-11T11:12:58.602Z"
+  },
+  {
+    "id": "product_vendor_noida_031_044",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 591,
+    "discountPercent": 9,
+    "finalPrice": 538,
+    "rating": 4,
+    "totalRatings": 2638,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_031_044.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "risotto",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-04T17:16:56.325Z"
+  },
+  {
+    "id": "product_vendor_noida_031_045",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Popular choice: Pav Bhaji made with premium ingredients.",
+    "price": 809,
+    "discountPercent": 38,
+    "finalPrice": 502,
+    "rating": 4.5,
+    "totalRatings": 329,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_noida_031_045.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "vada-pav",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-27T22:06:23.748Z"
+  },
+  {
+    "id": "product_vendor_noida_031_046",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Delicious aloo tikki chaat prepared fresh with authentic spices.",
+    "price": 331,
+    "discountPercent": 40,
+    "finalPrice": 199,
+    "rating": 4.5,
+    "totalRatings": 4921,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_noida_031_046.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "vada-pav",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-26T17:46:30.576Z"
+  },
+  {
+    "id": "product_vendor_noida_031_047",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Chef's special pani puri — perfect for a satisfying meal.",
+    "price": 895,
+    "discountPercent": 1,
+    "finalPrice": 886,
+    "rating": 3.6,
+    "totalRatings": 1591,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_noida_031_047.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "vada-pav",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-15T08:01:50.015Z"
+  },
+  {
+    "id": "product_vendor_noida_031_048",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Popular choice: Pav Bhaji made with premium ingredients.",
+    "price": 214,
+    "discountPercent": 32,
+    "finalPrice": 146,
+    "rating": 4.3,
+    "totalRatings": 2034,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_noida_031_048.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "rolls",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-29T05:09:28.779Z"
+  },
+  {
+    "id": "product_vendor_noida_031_049",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Delicious lucknowi biryani prepared fresh with authentic spices.",
+    "price": 205,
+    "discountPercent": 12,
+    "finalPrice": 180,
+    "rating": 4.5,
+    "totalRatings": 4942,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_noida_031_049.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-29T21:40:28.670Z"
+  },
+  {
+    "id": "product_vendor_noida_031_050",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Popular choice: Lucknowi Biryani made with premium ingredients.",
+    "price": 699,
+    "discountPercent": 34,
+    "finalPrice": 461,
+    "rating": 3.6,
+    "totalRatings": 1525,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_noida_031_050.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "egg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-20T13:07:47.687Z"
+  },
+  {
+    "id": "product_vendor_noida_031_051",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 884,
+    "discountPercent": 3,
+    "finalPrice": 857,
+    "rating": 3.6,
+    "totalRatings": 1359,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_031_051.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-05T08:19:36.217Z"
+  },
+  {
+    "id": "product_vendor_noida_031_052",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Classic veg biryani served hot and fresh.",
+    "price": 485,
+    "discountPercent": 33,
+    "finalPrice": 325,
+    "rating": 4,
+    "totalRatings": 2565,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_noida_031_052.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "veg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-13T22:03:34.003Z"
+  },
+  {
+    "id": "product_vendor_noida_031_053",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Classic caesar salad served hot and fresh.",
+    "price": 235,
+    "discountPercent": 16,
+    "finalPrice": 197,
+    "rating": 4.4,
+    "totalRatings": 3225,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_031_053.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "steak",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-14T16:19:42.706Z"
+  },
+  {
+    "id": "product_vendor_noida_031_054",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Classic caesar salad served hot and fresh.",
+    "price": 587,
+    "discountPercent": 19,
+    "finalPrice": 475,
+    "rating": 4.4,
+    "totalRatings": 4577,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_031_054.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "steak",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-12T16:03:00.751Z"
+  },
+  {
+    "id": "product_vendor_noida_031_055",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Delicious kathi roll prepared fresh with authentic spices.",
+    "price": 691,
+    "discountPercent": 13,
+    "finalPrice": 601,
+    "rating": 4.7,
+    "totalRatings": 3308,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_noida_031_055.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "chaat",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-12T15:51:38.079Z"
+  },
+  {
+    "id": "product_vendor_noida_031_056",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Delicious mushroom risotto prepared fresh with authentic spices.",
+    "price": 194,
+    "discountPercent": 26,
+    "finalPrice": 144,
+    "rating": 3.8,
+    "totalRatings": 3302,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_031_056.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-16T20:09:46.965Z"
+  },
+  {
+    "id": "product_vendor_noida_031_057",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Classic mutton biryani served hot and fresh.",
+    "price": 818,
+    "discountPercent": 15,
+    "finalPrice": 695,
+    "rating": 3.9,
+    "totalRatings": 1220,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_noida_031_057.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "egg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-18T00:14:36.346Z"
+  },
+  {
+    "id": "product_vendor_noida_031_058",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Classic hyderabadi dum biryani served hot and fresh.",
+    "price": 344,
+    "discountPercent": 38,
+    "finalPrice": 213,
+    "rating": 4.8,
+    "totalRatings": 1151,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_noida_031_058.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "veg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-06T01:59:08.741Z"
+  },
+  {
+    "id": "product_vendor_noida_031_059",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Delicious kathi roll prepared fresh with authentic spices.",
+    "price": 80,
+    "discountPercent": 8,
+    "finalPrice": 74,
+    "rating": 4.3,
+    "totalRatings": 4063,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_noida_031_059.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "pav-bhaji",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-18T06:47:50.255Z"
+  },
+  {
+    "id": "product_vendor_noida_031_060",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Popular choice: Kathi Roll made with premium ingredients.",
+    "price": 592,
+    "discountPercent": 27,
+    "finalPrice": 432,
+    "rating": 3.8,
+    "totalRatings": 1077,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_noida_031_060.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "vada-pav",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-11T05:42:39.500Z"
+  },
+  {
+    "id": "product_vendor_noida_031_061",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 694,
+    "discountPercent": 40,
+    "finalPrice": 416,
+    "rating": 4.8,
+    "totalRatings": 3220,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_031_061.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "risotto",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-19T22:53:04.931Z"
+  },
+  {
+    "id": "product_vendor_noida_031_062",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Popular choice: Kathi Roll made with premium ingredients.",
+    "price": 330,
+    "discountPercent": 6,
+    "finalPrice": 310,
+    "rating": 4.9,
+    "totalRatings": 1973,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_noida_031_062.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "vada-pav",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-01T10:32:21.632Z"
+  },
+  {
+    "id": "product_vendor_noida_031_063",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 873,
+    "discountPercent": 26,
+    "finalPrice": 646,
+    "rating": 4.6,
+    "totalRatings": 3812,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_031_063.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-07T19:39:12.195Z"
+  },
+  {
+    "id": "product_vendor_noida_031_064",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Popular choice: Vada Pav made with premium ingredients.",
+    "price": 256,
+    "discountPercent": 31,
+    "finalPrice": 177,
+    "rating": 4.1,
+    "totalRatings": 4179,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_noida_031_064.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "chaat",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-11T17:04:20.183Z"
+  },
+  {
+    "id": "product_vendor_noida_031_065",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 421,
+    "discountPercent": 0,
+    "finalPrice": 421,
+    "rating": 4.7,
+    "totalRatings": 2440,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_noida_031_065.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "pav-bhaji",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-25T09:31:16.193Z"
+  },
+  {
+    "id": "product_vendor_noida_031_066",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Classic mutton biryani served hot and fresh.",
+    "price": 360,
+    "discountPercent": 3,
+    "finalPrice": 349,
+    "rating": 4.6,
+    "totalRatings": 2632,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_noida_031_066.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "chicken-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-09T08:40:40.887Z"
+  },
+  {
+    "id": "product_vendor_noida_031_067",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 865,
+    "discountPercent": 7,
+    "finalPrice": 804,
+    "rating": 4.1,
+    "totalRatings": 3814,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_noida_031_067.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "egg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-31T16:12:02.967Z"
+  },
+  {
+    "id": "product_vendor_noida_031_068",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Popular choice: Kathi Roll made with premium ingredients.",
+    "price": 440,
+    "discountPercent": 19,
+    "finalPrice": 356,
+    "rating": 4.9,
+    "totalRatings": 4315,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_noida_031_068.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "vada-pav",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-13T09:56:36.897Z"
+  },
+  {
+    "id": "product_vendor_noida_031_069",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 81,
+    "discountPercent": 38,
+    "finalPrice": 50,
+    "rating": 4,
+    "totalRatings": 1668,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_031_069.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-20T05:12:16.930Z"
+  },
+  {
+    "id": "product_vendor_noida_031_070",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Popular choice: Hyderabadi Dum Biryani made with premium ingredients.",
+    "price": 826,
+    "discountPercent": 36,
+    "finalPrice": 529,
+    "rating": 4.2,
+    "totalRatings": 1227,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_noida_031_070.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "egg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-17T18:47:57.219Z"
+  },
+  {
+    "id": "product_vendor_noida_031_071",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Classic veg biryani served hot and fresh.",
+    "price": 572,
+    "discountPercent": 38,
+    "finalPrice": 355,
+    "rating": 3.6,
+    "totalRatings": 3302,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_noida_031_071.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "veg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-07T23:26:29.358Z"
+  },
+  {
+    "id": "product_vendor_noida_031_072",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 312,
+    "discountPercent": 2,
+    "finalPrice": 306,
+    "rating": 3.7,
+    "totalRatings": 2516,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_noida_031_072.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "egg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-18T03:27:24.681Z"
+  },
+  {
+    "id": "product_vendor_noida_031_073",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Delicious lucknowi biryani prepared fresh with authentic spices.",
+    "price": 109,
+    "discountPercent": 24,
+    "finalPrice": 83,
+    "rating": 3.6,
+    "totalRatings": 3290,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_noida_031_073.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "veg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-14T18:28:23.042Z"
+  },
+  {
+    "id": "product_vendor_noida_031_074",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 149,
+    "discountPercent": 19,
+    "finalPrice": 121,
+    "rating": 4.8,
+    "totalRatings": 2537,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_031_074.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-19T22:08:59.087Z"
+  },
+  {
+    "id": "product_vendor_noida_031_075",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Delicious aloo tikki chaat prepared fresh with authentic spices.",
+    "price": 756,
+    "discountPercent": 15,
+    "finalPrice": 643,
+    "rating": 4.9,
+    "totalRatings": 2933,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_noida_031_075.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "momos",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-06T02:24:08.570Z"
+  },
+  {
+    "id": "product_vendor_noida_031_076",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Classic veg momos served hot and fresh.",
+    "price": 786,
+    "discountPercent": 38,
+    "finalPrice": 487,
+    "rating": 4.7,
+    "totalRatings": 1268,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_noida_031_076.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "pav-bhaji",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-03T14:05:40.829Z"
+  },
+  {
+    "id": "product_vendor_noida_031_077",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 370,
+    "discountPercent": 20,
+    "finalPrice": 296,
+    "rating": 3.9,
+    "totalRatings": 3286,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_noida_031_077.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "veg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-06T18:14:29.058Z"
+  },
+  {
+    "id": "product_vendor_noida_031_078",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 353,
+    "discountPercent": 28,
+    "finalPrice": 254,
+    "rating": 3.8,
+    "totalRatings": 2419,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_031_078.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-06-04T04:53:59.552Z"
+  },
+  {
+    "id": "product_vendor_noida_031_079",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 883,
+    "discountPercent": 39,
+    "finalPrice": 539,
+    "rating": 4.1,
+    "totalRatings": 1386,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_031_079.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-25T09:01:52.191Z"
+  },
+  {
+    "id": "product_vendor_noida_031_080",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 691,
+    "discountPercent": 13,
+    "finalPrice": 601,
+    "rating": 4.5,
+    "totalRatings": 3532,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_noida_031_080.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "chaat",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-16T19:29:53.283Z"
+  },
+  {
+    "id": "product_vendor_noida_031_081",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Popular choice: Lucknowi Biryani made with premium ingredients.",
+    "price": 487,
+    "discountPercent": 31,
+    "finalPrice": 336,
+    "rating": 4.5,
+    "totalRatings": 2401,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_noida_031_081.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "egg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-29T22:38:17.569Z"
+  },
+  {
+    "id": "product_vendor_noida_031_082",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 768,
+    "discountPercent": 21,
+    "finalPrice": 607,
+    "rating": 4.2,
+    "totalRatings": 3972,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_031_082.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "alfredo"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-22T18:02:59.876Z"
+  },
+  {
+    "id": "product_vendor_noida_031_083",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 834,
+    "discountPercent": 6,
+    "finalPrice": 784,
+    "rating": 4,
+    "totalRatings": 3439,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_031_083.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-04T16:22:06.974Z"
+  },
+  {
+    "id": "product_vendor_noida_031_084",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Popular choice: Dahi Bhalla made with premium ingredients.",
+    "price": 450,
+    "discountPercent": 35,
+    "finalPrice": 293,
+    "rating": 4.1,
+    "totalRatings": 3457,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_noida_031_084.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "pav-bhaji",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-26T14:30:30.486Z"
+  },
+  {
+    "id": "product_vendor_noida_031_085",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Popular choice: Mutton Biryani made with premium ingredients.",
+    "price": 462,
+    "discountPercent": 1,
+    "finalPrice": 457,
+    "rating": 4.4,
+    "totalRatings": 2019,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_noida_031_085.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "mutton-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-11T14:19:59.671Z"
+  },
+  {
+    "id": "product_vendor_noida_031_086",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 871,
+    "discountPercent": 10,
+    "finalPrice": 784,
+    "rating": 3.8,
+    "totalRatings": 2240,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_031_086.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-19T03:37:29.066Z"
+  },
+  {
+    "id": "product_vendor_noida_031_087",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Delicious veg momos prepared fresh with authentic spices.",
+    "price": 898,
+    "discountPercent": 35,
+    "finalPrice": 584,
+    "rating": 3.5,
+    "totalRatings": 1173,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_noida_031_087.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "pav-bhaji",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-23T09:45:04.043Z"
+  },
+  {
+    "id": "product_vendor_noida_031_088",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Classic veg momos served hot and fresh.",
+    "price": 192,
+    "discountPercent": 15,
+    "finalPrice": 163,
+    "rating": 4.7,
+    "totalRatings": 3440,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_noida_031_088.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "pav-bhaji",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-06T09:48:25.707Z"
+  },
+  {
+    "id": "product_vendor_noida_031_089",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 716,
+    "discountPercent": 12,
+    "finalPrice": 630,
+    "rating": 3.8,
+    "totalRatings": 347,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_031_089.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "risotto",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-16T10:48:45.213Z"
+  },
+  {
+    "id": "product_vendor_noida_031_090",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 454,
+    "discountPercent": 12,
+    "finalPrice": 400,
+    "rating": 4.5,
+    "totalRatings": 2284,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_031_090.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-06-02T05:15:40.408Z"
+  },
+  {
+    "id": "product_vendor_noida_031_091",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Chef's special pav bhaji — perfect for a satisfying meal.",
+    "price": 528,
+    "discountPercent": 5,
+    "finalPrice": 502,
+    "rating": 3.7,
+    "totalRatings": 2371,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_noida_031_091.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "pav-bhaji",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-02T11:05:00.739Z"
+  },
+  {
+    "id": "product_vendor_noida_031_092",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 284,
+    "discountPercent": 13,
+    "finalPrice": 247,
+    "rating": 3.5,
+    "totalRatings": 1641,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_031_092.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-29T01:22:00.311Z"
+  },
+  {
+    "id": "product_vendor_noida_031_093",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Classic veg momos served hot and fresh.",
+    "price": 878,
+    "discountPercent": 21,
+    "finalPrice": 694,
+    "rating": 3.8,
+    "totalRatings": 3894,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_noida_031_093.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-02T12:23:42.058Z"
+  },
+  {
+    "id": "product_vendor_noida_031_094",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Classic hyderabadi dum biryani served hot and fresh.",
+    "price": 87,
+    "discountPercent": 18,
+    "finalPrice": 71,
+    "rating": 3.7,
+    "totalRatings": 4728,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_noida_031_094.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "egg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-06-04T12:12:46.890Z"
+  },
+  {
+    "id": "product_vendor_noida_031_095",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 164,
+    "discountPercent": 30,
+    "finalPrice": 115,
+    "rating": 4.2,
+    "totalRatings": 3457,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_031_095.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-08T00:25:10.025Z"
+  },
+  {
+    "id": "product_vendor_noida_031_096",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 697,
+    "discountPercent": 40,
+    "finalPrice": 418,
+    "rating": 3.6,
+    "totalRatings": 4915,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_031_096.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-15T21:01:27.460Z"
+  },
+  {
+    "id": "product_vendor_noida_031_097",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Delicious pav bhaji prepared fresh with authentic spices.",
+    "price": 151,
+    "discountPercent": 31,
+    "finalPrice": 104,
+    "rating": 4.8,
+    "totalRatings": 125,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_noida_031_097.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "rolls",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-08T23:48:34.253Z"
+  },
+  {
+    "id": "product_vendor_noida_031_098",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Popular choice: Caesar Salad made with premium ingredients.",
+    "price": 730,
+    "discountPercent": 26,
+    "finalPrice": 540,
+    "rating": 4.1,
+    "totalRatings": 4614,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_031_098.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-22T16:31:38.337Z"
+  },
+  {
+    "id": "product_vendor_noida_031_099",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Chef's special pav bhaji — perfect for a satisfying meal.",
+    "price": 127,
+    "discountPercent": 39,
+    "finalPrice": 77,
+    "rating": 3.7,
+    "totalRatings": 124,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_noida_031_099.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "chaat",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-18T16:40:56.205Z"
+  },
+  {
+    "id": "product_vendor_noida_031_100",
+    "vendorId": "vendor_noida_031",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 455,
+    "discountPercent": 20,
+    "finalPrice": 364,
+    "rating": 4.6,
+    "totalRatings": 2892,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_noida_031_100.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "veg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-07T19:59:34.878Z"
+  }
+]

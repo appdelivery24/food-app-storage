@@ -1,0 +1,3595 @@
+[
+  {
+    "id": "product_vendor_noida_013_001",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 553,
+    "discountPercent": 0,
+    "finalPrice": 553,
+    "rating": 3.6,
+    "totalRatings": 852,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_noida_013_001.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "pizza",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-11T10:19:20.474Z"
+  },
+  {
+    "id": "product_vendor_noida_013_002",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Delicious red velvet cake prepared fresh with authentic spices.",
+    "price": 287,
+    "discountPercent": 29,
+    "finalPrice": 204,
+    "rating": 4.8,
+    "totalRatings": 2288,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_noida_013_002.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "pastry",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "pastry",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-09T02:44:43.959Z"
+  },
+  {
+    "id": "product_vendor_noida_013_003",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 310,
+    "discountPercent": 11,
+    "finalPrice": 276,
+    "rating": 4,
+    "totalRatings": 2160,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_noida_013_003.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-07T19:54:42.156Z"
+  },
+  {
+    "id": "product_vendor_noida_013_004",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Chef's special rasmalai — perfect for a satisfying meal.",
+    "price": 645,
+    "discountPercent": 29,
+    "finalPrice": 458,
+    "rating": 4.2,
+    "totalRatings": 1910,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_noida_013_004.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "cake",
+      "veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-15T20:08:38.949Z"
+  },
+  {
+    "id": "product_vendor_noida_013_005",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Chocolate Brownie",
+    "description": "Popular choice: Chocolate Brownie made with premium ingredients.",
+    "price": 612,
+    "discountPercent": 14,
+    "finalPrice": 526,
+    "rating": 3.9,
+    "totalRatings": 873,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/chocolate-brownie/product_vendor_noida_013_005.webp",
+    "imageSlug": "chocolate-brownie",
+    "tags": [
+      "desserts",
+      "pastry",
+      "veg",
+      "chocolate",
+      "brownie"
+    ],
+    "searchKeywords": [
+      "chocolate",
+      "brownie",
+      "desserts",
+      "pastry",
+      "chocolate brownie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-24T05:44:58.210Z"
+  },
+  {
+    "id": "product_vendor_noida_013_006",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Delicious gulab jamun prepared fresh with authentic spices.",
+    "price": 738,
+    "discountPercent": 16,
+    "finalPrice": 620,
+    "rating": 4.2,
+    "totalRatings": 3577,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_noida_013_006.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "pastry",
+      "veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "pastry",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-31T05:40:26.855Z"
+  },
+  {
+    "id": "product_vendor_noida_013_007",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 195,
+    "discountPercent": 3,
+    "finalPrice": 189,
+    "rating": 3.6,
+    "totalRatings": 1934,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_noida_013_007.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-15T20:23:24.283Z"
+  },
+  {
+    "id": "product_vendor_noida_013_008",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Chef's special red velvet cake — perfect for a satisfying meal.",
+    "price": 679,
+    "discountPercent": 11,
+    "finalPrice": 604,
+    "rating": 4,
+    "totalRatings": 1572,
+    "category": "desserts",
+    "subCategory": "brownie",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_noida_013_008.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "brownie",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "brownie",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-19T01:50:36.552Z"
+  },
+  {
+    "id": "product_vendor_noida_013_009",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 600,
+    "discountPercent": 39,
+    "finalPrice": 366,
+    "rating": 4.8,
+    "totalRatings": 3448,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_013_009.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-04T15:36:00.655Z"
+  },
+  {
+    "id": "product_vendor_noida_013_010",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 659,
+    "discountPercent": 1,
+    "finalPrice": 652,
+    "rating": 3.6,
+    "totalRatings": 4590,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_013_010.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-12T13:30:18.892Z"
+  },
+  {
+    "id": "product_vendor_noida_013_011",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 462,
+    "discountPercent": 12,
+    "finalPrice": 407,
+    "rating": 4.8,
+    "totalRatings": 3106,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_013_011.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-25T23:20:11.954Z"
+  },
+  {
+    "id": "product_vendor_noida_013_012",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 491,
+    "discountPercent": 37,
+    "finalPrice": 309,
+    "rating": 3.9,
+    "totalRatings": 2647,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_noida_013_012.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-09T17:57:23.569Z"
+  },
+  {
+    "id": "product_vendor_noida_013_013",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Vanilla Ice Cream",
+    "description": "Popular choice: Vanilla Ice Cream made with premium ingredients.",
+    "price": 458,
+    "discountPercent": 30,
+    "finalPrice": 321,
+    "rating": 4.3,
+    "totalRatings": 169,
+    "category": "desserts",
+    "subCategory": "brownie",
+    "imageUrl": "https://cdn.myapp.com/products/vanilla-ice-cream/product_vendor_noida_013_013.webp",
+    "imageSlug": "vanilla-ice-cream",
+    "tags": [
+      "desserts",
+      "brownie",
+      "non-veg",
+      "vanilla",
+      "ice",
+      "cream"
+    ],
+    "searchKeywords": [
+      "vanilla",
+      "ice",
+      "cream",
+      "desserts",
+      "brownie",
+      "vanilla ice cream"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-15T07:26:16.116Z"
+  },
+  {
+    "id": "product_vendor_noida_013_014",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Classic red velvet cake served hot and fresh.",
+    "price": 311,
+    "discountPercent": 1,
+    "finalPrice": 308,
+    "rating": 3.9,
+    "totalRatings": 3451,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_noida_013_014.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "ice-cream",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-25T04:49:31.504Z"
+  },
+  {
+    "id": "product_vendor_noida_013_015",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 862,
+    "discountPercent": 4,
+    "finalPrice": 828,
+    "rating": 4.6,
+    "totalRatings": 4518,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_013_015.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "risotto",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-16T01:48:40.976Z"
+  },
+  {
+    "id": "product_vendor_noida_013_016",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 352,
+    "discountPercent": 7,
+    "finalPrice": 327,
+    "rating": 3.8,
+    "totalRatings": 4671,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_013_016.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-25T15:17:29.080Z"
+  },
+  {
+    "id": "product_vendor_noida_013_017",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 451,
+    "discountPercent": 13,
+    "finalPrice": 392,
+    "rating": 4.8,
+    "totalRatings": 1021,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_013_017.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-10T04:52:52.930Z"
+  },
+  {
+    "id": "product_vendor_noida_013_018",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Vanilla Ice Cream",
+    "description": "Classic vanilla ice cream served hot and fresh.",
+    "price": 262,
+    "discountPercent": 23,
+    "finalPrice": 202,
+    "rating": 4.2,
+    "totalRatings": 3346,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/vanilla-ice-cream/product_vendor_noida_013_018.webp",
+    "imageSlug": "vanilla-ice-cream",
+    "tags": [
+      "desserts",
+      "cake",
+      "non-veg",
+      "vanilla",
+      "ice",
+      "cream"
+    ],
+    "searchKeywords": [
+      "vanilla",
+      "ice",
+      "cream",
+      "desserts",
+      "cake",
+      "vanilla ice cream"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-28T22:35:07.855Z"
+  },
+  {
+    "id": "product_vendor_noida_013_019",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 442,
+    "discountPercent": 10,
+    "finalPrice": 398,
+    "rating": 4.1,
+    "totalRatings": 1438,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_013_019.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "alfredo"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-30T09:53:27.420Z"
+  },
+  {
+    "id": "product_vendor_noida_013_020",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Classic gulab jamun served hot and fresh.",
+    "price": 751,
+    "discountPercent": 36,
+    "finalPrice": 481,
+    "rating": 3.7,
+    "totalRatings": 4844,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_noida_013_020.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "ice-cream",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-21T22:45:40.896Z"
+  },
+  {
+    "id": "product_vendor_noida_013_021",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 512,
+    "discountPercent": 35,
+    "finalPrice": 333,
+    "rating": 4,
+    "totalRatings": 4931,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_013_021.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-14T15:31:57.677Z"
+  },
+  {
+    "id": "product_vendor_noida_013_022",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Popular choice: Garlic Bread made with premium ingredients.",
+    "price": 442,
+    "discountPercent": 17,
+    "finalPrice": 367,
+    "rating": 4,
+    "totalRatings": 978,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_noida_013_022.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "wrap",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-04T09:46:09.576Z"
+  },
+  {
+    "id": "product_vendor_noida_013_023",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Popular choice: Rasmalai made with premium ingredients.",
+    "price": 403,
+    "discountPercent": 26,
+    "finalPrice": 298,
+    "rating": 4.6,
+    "totalRatings": 4161,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_noida_013_023.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "cake",
+      "veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-04T16:15:34.055Z"
+  },
+  {
+    "id": "product_vendor_noida_013_024",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 431,
+    "discountPercent": 12,
+    "finalPrice": 379,
+    "rating": 4.4,
+    "totalRatings": 4153,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_013_024.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-24T02:38:24.624Z"
+  },
+  {
+    "id": "product_vendor_noida_013_025",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Popular choice: Cheese Burger made with premium ingredients.",
+    "price": 613,
+    "discountPercent": 9,
+    "finalPrice": 558,
+    "rating": 3.6,
+    "totalRatings": 3551,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_noida_013_025.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "pizza",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-19T05:47:40.633Z"
+  },
+  {
+    "id": "product_vendor_noida_013_026",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Popular choice: Cheese Burger made with premium ingredients.",
+    "price": 669,
+    "discountPercent": 35,
+    "finalPrice": 435,
+    "rating": 3.5,
+    "totalRatings": 407,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_noida_013_026.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-30T14:16:58.136Z"
+  },
+  {
+    "id": "product_vendor_noida_013_027",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 148,
+    "discountPercent": 18,
+    "finalPrice": 121,
+    "rating": 3.7,
+    "totalRatings": 4671,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_noida_013_027.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-15T12:45:56.086Z"
+  },
+  {
+    "id": "product_vendor_noida_013_028",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 767,
+    "discountPercent": 29,
+    "finalPrice": 545,
+    "rating": 4.1,
+    "totalRatings": 2161,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_013_028.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-24T07:49:13.626Z"
+  },
+  {
+    "id": "product_vendor_noida_013_029",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Kulfi Falooda",
+    "description": "Chef's special kulfi falooda — perfect for a satisfying meal.",
+    "price": 685,
+    "discountPercent": 28,
+    "finalPrice": 493,
+    "rating": 4.1,
+    "totalRatings": 4270,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/kulfi-falooda/product_vendor_noida_013_029.webp",
+    "imageSlug": "kulfi-falooda",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "veg",
+      "falooda"
+    ],
+    "searchKeywords": [
+      "kulfi",
+      "falooda",
+      "desserts",
+      "kulfi falooda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-01T16:57:46.563Z"
+  },
+  {
+    "id": "product_vendor_noida_013_030",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 352,
+    "discountPercent": 36,
+    "finalPrice": 225,
+    "rating": 3.5,
+    "totalRatings": 4696,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_013_030.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-17T21:40:48.720Z"
+  },
+  {
+    "id": "product_vendor_noida_013_031",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Classic caesar salad served hot and fresh.",
+    "price": 781,
+    "discountPercent": 3,
+    "finalPrice": 758,
+    "rating": 4.8,
+    "totalRatings": 92,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_013_031.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "soup",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-16T06:24:08.845Z"
+  },
+  {
+    "id": "product_vendor_noida_013_032",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 209,
+    "discountPercent": 38,
+    "finalPrice": 130,
+    "rating": 3.9,
+    "totalRatings": 3828,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_noida_013_032.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "burger",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-02T20:16:04.819Z"
+  },
+  {
+    "id": "product_vendor_noida_013_033",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 860,
+    "discountPercent": 13,
+    "finalPrice": 748,
+    "rating": 4.9,
+    "totalRatings": 3666,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_noida_013_033.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-08T13:25:52.852Z"
+  },
+  {
+    "id": "product_vendor_noida_013_034",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 477,
+    "discountPercent": 34,
+    "finalPrice": 315,
+    "rating": 4.2,
+    "totalRatings": 2934,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_noida_013_034.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "fries",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-23T12:30:01.262Z"
+  },
+  {
+    "id": "product_vendor_noida_013_035",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 424,
+    "discountPercent": 37,
+    "finalPrice": 267,
+    "rating": 4.8,
+    "totalRatings": 886,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_013_035.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-25T00:09:20.655Z"
+  },
+  {
+    "id": "product_vendor_noida_013_036",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 190,
+    "discountPercent": 4,
+    "finalPrice": 182,
+    "rating": 4.2,
+    "totalRatings": 1837,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_013_036.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "risotto",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-19T02:43:21.495Z"
+  },
+  {
+    "id": "product_vendor_noida_013_037",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Popular choice: Rasmalai made with premium ingredients.",
+    "price": 612,
+    "discountPercent": 37,
+    "finalPrice": 386,
+    "rating": 4,
+    "totalRatings": 4403,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_noida_013_037.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "cake",
+      "non-veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "cake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-01T16:32:25.993Z"
+  },
+  {
+    "id": "product_vendor_noida_013_038",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 97,
+    "discountPercent": 31,
+    "finalPrice": 67,
+    "rating": 3.7,
+    "totalRatings": 920,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_013_038.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "risotto",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-20T04:27:04.546Z"
+  },
+  {
+    "id": "product_vendor_noida_013_039",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 509,
+    "discountPercent": 26,
+    "finalPrice": 377,
+    "rating": 4.4,
+    "totalRatings": 2438,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_noida_013_039.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-29T09:32:03.748Z"
+  },
+  {
+    "id": "product_vendor_noida_013_040",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 182,
+    "discountPercent": 19,
+    "finalPrice": 147,
+    "rating": 4.1,
+    "totalRatings": 4890,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_noida_013_040.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-06T05:16:38.952Z"
+  },
+  {
+    "id": "product_vendor_noida_013_041",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 444,
+    "discountPercent": 26,
+    "finalPrice": 329,
+    "rating": 4.3,
+    "totalRatings": 2405,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_noida_013_041.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "pizza",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-05T19:52:09.979Z"
+  },
+  {
+    "id": "product_vendor_noida_013_042",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Delicious red velvet cake prepared fresh with authentic spices.",
+    "price": 639,
+    "discountPercent": 4,
+    "finalPrice": 613,
+    "rating": 3.9,
+    "totalRatings": 258,
+    "category": "desserts",
+    "subCategory": "brownie",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_noida_013_042.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "brownie",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "brownie",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-27T15:54:06.065Z"
+  },
+  {
+    "id": "product_vendor_noida_013_043",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 456,
+    "discountPercent": 32,
+    "finalPrice": 310,
+    "rating": 4.6,
+    "totalRatings": 3814,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_noida_013_043.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-04T17:37:18.681Z"
+  },
+  {
+    "id": "product_vendor_noida_013_044",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 310,
+    "discountPercent": 27,
+    "finalPrice": 226,
+    "rating": 4.6,
+    "totalRatings": 2186,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_noida_013_044.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "french"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-04T09:38:00.222Z"
+  },
+  {
+    "id": "product_vendor_noida_013_045",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Classic red velvet cake served hot and fresh.",
+    "price": 544,
+    "discountPercent": 34,
+    "finalPrice": 359,
+    "rating": 4.8,
+    "totalRatings": 4268,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_noida_013_045.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "non-veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "kulfi",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-11T04:32:02.740Z"
+  },
+  {
+    "id": "product_vendor_noida_013_046",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Delicious gulab jamun prepared fresh with authentic spices.",
+    "price": 806,
+    "discountPercent": 9,
+    "finalPrice": 733,
+    "rating": 4.2,
+    "totalRatings": 1759,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_noida_013_046.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "non-veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "ice-cream",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-18T02:49:01.807Z"
+  },
+  {
+    "id": "product_vendor_noida_013_047",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Popular choice: Rasmalai made with premium ingredients.",
+    "price": 606,
+    "discountPercent": 5,
+    "finalPrice": 576,
+    "rating": 4.9,
+    "totalRatings": 3295,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_noida_013_047.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "cake",
+      "non-veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "cake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-09T01:44:16.576Z"
+  },
+  {
+    "id": "product_vendor_noida_013_048",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 338,
+    "discountPercent": 37,
+    "finalPrice": 213,
+    "rating": 3.6,
+    "totalRatings": 4536,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_013_048.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-03T10:58:00.973Z"
+  },
+  {
+    "id": "product_vendor_noida_013_049",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 782,
+    "discountPercent": 13,
+    "finalPrice": 680,
+    "rating": 3.7,
+    "totalRatings": 884,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_noida_013_049.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "fries",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-21T12:44:42.698Z"
+  },
+  {
+    "id": "product_vendor_noida_013_050",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 336,
+    "discountPercent": 37,
+    "finalPrice": 212,
+    "rating": 4.9,
+    "totalRatings": 4041,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_noida_013_050.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "french"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-09T14:31:02.875Z"
+  },
+  {
+    "id": "product_vendor_noida_013_051",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 677,
+    "discountPercent": 22,
+    "finalPrice": 528,
+    "rating": 4,
+    "totalRatings": 221,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_noida_013_051.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "pizza",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-11T10:44:33.434Z"
+  },
+  {
+    "id": "product_vendor_noida_013_052",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Vanilla Ice Cream",
+    "description": "Popular choice: Vanilla Ice Cream made with premium ingredients.",
+    "price": 808,
+    "discountPercent": 28,
+    "finalPrice": 582,
+    "rating": 4,
+    "totalRatings": 1968,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/vanilla-ice-cream/product_vendor_noida_013_052.webp",
+    "imageSlug": "vanilla-ice-cream",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "non-veg",
+      "vanilla",
+      "ice",
+      "cream"
+    ],
+    "searchKeywords": [
+      "vanilla",
+      "ice",
+      "cream",
+      "desserts",
+      "kulfi",
+      "vanilla ice cream"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-10T05:42:49.350Z"
+  },
+  {
+    "id": "product_vendor_noida_013_053",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 544,
+    "discountPercent": 13,
+    "finalPrice": 473,
+    "rating": 4.6,
+    "totalRatings": 4230,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_noida_013_053.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "fries",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-26T01:46:47.266Z"
+  },
+  {
+    "id": "product_vendor_noida_013_054",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Popular choice: Rasmalai made with premium ingredients.",
+    "price": 826,
+    "discountPercent": 23,
+    "finalPrice": 636,
+    "rating": 4.4,
+    "totalRatings": 4169,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_noida_013_054.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "kulfi"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-01T16:42:45.472Z"
+  },
+  {
+    "id": "product_vendor_noida_013_055",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 505,
+    "discountPercent": 30,
+    "finalPrice": 354,
+    "rating": 4,
+    "totalRatings": 3677,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_013_055.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-25T12:37:06.812Z"
+  },
+  {
+    "id": "product_vendor_noida_013_056",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 879,
+    "discountPercent": 5,
+    "finalPrice": 835,
+    "rating": 4.1,
+    "totalRatings": 1412,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_noida_013_056.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "fries",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-06T02:40:11.570Z"
+  },
+  {
+    "id": "product_vendor_noida_013_057",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Popular choice: Red Velvet Cake made with premium ingredients.",
+    "price": 850,
+    "discountPercent": 24,
+    "finalPrice": 646,
+    "rating": 4.4,
+    "totalRatings": 1161,
+    "category": "desserts",
+    "subCategory": "brownie",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_noida_013_057.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "brownie",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "brownie",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-10T02:24:02.170Z"
+  },
+  {
+    "id": "product_vendor_noida_013_058",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 441,
+    "discountPercent": 28,
+    "finalPrice": 318,
+    "rating": 4.1,
+    "totalRatings": 3840,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_013_058.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "risotto",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-06T07:39:25.080Z"
+  },
+  {
+    "id": "product_vendor_noida_013_059",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Kulfi Falooda",
+    "description": "Popular choice: Kulfi Falooda made with premium ingredients.",
+    "price": 883,
+    "discountPercent": 23,
+    "finalPrice": 680,
+    "rating": 3.7,
+    "totalRatings": 2855,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/kulfi-falooda/product_vendor_noida_013_059.webp",
+    "imageSlug": "kulfi-falooda",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "kulfi",
+      "falooda"
+    ],
+    "searchKeywords": [
+      "kulfi",
+      "falooda",
+      "desserts",
+      "ice-cream",
+      "kulfi falooda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-11T12:56:18.376Z"
+  },
+  {
+    "id": "product_vendor_noida_013_060",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 867,
+    "discountPercent": 25,
+    "finalPrice": 650,
+    "rating": 4.6,
+    "totalRatings": 387,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_noida_013_060.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "sandwich",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-23T21:14:05.934Z"
+  },
+  {
+    "id": "product_vendor_noida_013_061",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Classic chicken wrap served hot and fresh.",
+    "price": 306,
+    "discountPercent": 6,
+    "finalPrice": 288,
+    "rating": 4,
+    "totalRatings": 2304,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_noida_013_061.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-08T15:19:28.109Z"
+  },
+  {
+    "id": "product_vendor_noida_013_062",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 174,
+    "discountPercent": 4,
+    "finalPrice": 167,
+    "rating": 4.6,
+    "totalRatings": 877,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_013_062.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-15T08:06:03.700Z"
+  },
+  {
+    "id": "product_vendor_noida_013_063",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Vanilla Ice Cream",
+    "description": "Chef's special vanilla ice cream — perfect for a satisfying meal.",
+    "price": 98,
+    "discountPercent": 8,
+    "finalPrice": 90,
+    "rating": 4.4,
+    "totalRatings": 1152,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/vanilla-ice-cream/product_vendor_noida_013_063.webp",
+    "imageSlug": "vanilla-ice-cream",
+    "tags": [
+      "desserts",
+      "cake",
+      "non-veg",
+      "vanilla",
+      "ice",
+      "cream"
+    ],
+    "searchKeywords": [
+      "vanilla",
+      "ice",
+      "cream",
+      "desserts",
+      "cake",
+      "vanilla ice cream"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-28T02:14:22.384Z"
+  },
+  {
+    "id": "product_vendor_noida_013_064",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Popular choice: Gulab Jamun made with premium ingredients.",
+    "price": 638,
+    "discountPercent": 19,
+    "finalPrice": 517,
+    "rating": 3.5,
+    "totalRatings": 2730,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_noida_013_064.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "cake",
+      "non-veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "cake",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-09T10:52:06.947Z"
+  },
+  {
+    "id": "product_vendor_noida_013_065",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Vanilla Ice Cream",
+    "description": "Popular choice: Vanilla Ice Cream made with premium ingredients.",
+    "price": 144,
+    "discountPercent": 5,
+    "finalPrice": 137,
+    "rating": 4.4,
+    "totalRatings": 673,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/vanilla-ice-cream/product_vendor_noida_013_065.webp",
+    "imageSlug": "vanilla-ice-cream",
+    "tags": [
+      "desserts",
+      "cake",
+      "veg",
+      "vanilla",
+      "ice",
+      "cream"
+    ],
+    "searchKeywords": [
+      "vanilla",
+      "ice",
+      "cream",
+      "desserts",
+      "cake",
+      "vanilla ice cream"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-12T02:44:48.285Z"
+  },
+  {
+    "id": "product_vendor_noida_013_066",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 212,
+    "discountPercent": 13,
+    "finalPrice": 184,
+    "rating": 4.6,
+    "totalRatings": 1958,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_noida_013_066.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "wrap",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-12T09:17:36.969Z"
+  },
+  {
+    "id": "product_vendor_noida_013_067",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 243,
+    "discountPercent": 10,
+    "finalPrice": 219,
+    "rating": 4.3,
+    "totalRatings": 3331,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_013_067.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "risotto",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-23T01:32:24.499Z"
+  },
+  {
+    "id": "product_vendor_noida_013_068",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Popular choice: Rasmalai made with premium ingredients.",
+    "price": 80,
+    "discountPercent": 26,
+    "finalPrice": 59,
+    "rating": 4.1,
+    "totalRatings": 2712,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_noida_013_068.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "ice-cream"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-04T11:19:26.055Z"
+  },
+  {
+    "id": "product_vendor_noida_013_069",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 410,
+    "discountPercent": 29,
+    "finalPrice": 291,
+    "rating": 4.8,
+    "totalRatings": 2468,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_013_069.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "risotto",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-13T05:42:40.846Z"
+  },
+  {
+    "id": "product_vendor_noida_013_070",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Delicious gulab jamun prepared fresh with authentic spices.",
+    "price": 877,
+    "discountPercent": 24,
+    "finalPrice": 667,
+    "rating": 3.9,
+    "totalRatings": 1868,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_noida_013_070.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "ice-cream",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-04T13:39:44.286Z"
+  },
+  {
+    "id": "product_vendor_noida_013_071",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 742,
+    "discountPercent": 23,
+    "finalPrice": 571,
+    "rating": 3.6,
+    "totalRatings": 3857,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_noida_013_071.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "sandwich",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-29T03:46:33.041Z"
+  },
+  {
+    "id": "product_vendor_noida_013_072",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Classic gulab jamun served hot and fresh.",
+    "price": 670,
+    "discountPercent": 29,
+    "finalPrice": 476,
+    "rating": 3.9,
+    "totalRatings": 1548,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_noida_013_072.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "ice-cream",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-26T02:13:52.087Z"
+  },
+  {
+    "id": "product_vendor_noida_013_073",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Classic red velvet cake served hot and fresh.",
+    "price": 302,
+    "discountPercent": 29,
+    "finalPrice": 214,
+    "rating": 4.6,
+    "totalRatings": 2603,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_noida_013_073.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "pastry",
+      "non-veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "pastry",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-10T19:31:45.097Z"
+  },
+  {
+    "id": "product_vendor_noida_013_074",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 143,
+    "discountPercent": 38,
+    "finalPrice": 89,
+    "rating": 4.1,
+    "totalRatings": 1213,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_noida_013_074.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "burger",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-07T12:19:40.827Z"
+  },
+  {
+    "id": "product_vendor_noida_013_075",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 608,
+    "discountPercent": 25,
+    "finalPrice": 456,
+    "rating": 4.6,
+    "totalRatings": 855,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_013_075.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-16T06:58:47.923Z"
+  },
+  {
+    "id": "product_vendor_noida_013_076",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Popular choice: Gulab Jamun made with premium ingredients.",
+    "price": 374,
+    "discountPercent": 38,
+    "finalPrice": 232,
+    "rating": 4,
+    "totalRatings": 472,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_noida_013_076.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "ice-cream",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-08T21:29:30.593Z"
+  },
+  {
+    "id": "product_vendor_noida_013_077",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Delicious red velvet cake prepared fresh with authentic spices.",
+    "price": 404,
+    "discountPercent": 40,
+    "finalPrice": 242,
+    "rating": 4.5,
+    "totalRatings": 3679,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_noida_013_077.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "kulfi",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-01T15:31:44.583Z"
+  },
+  {
+    "id": "product_vendor_noida_013_078",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Vanilla Ice Cream",
+    "description": "Chef's special vanilla ice cream — perfect for a satisfying meal.",
+    "price": 772,
+    "discountPercent": 13,
+    "finalPrice": 672,
+    "rating": 4.6,
+    "totalRatings": 1743,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/vanilla-ice-cream/product_vendor_noida_013_078.webp",
+    "imageSlug": "vanilla-ice-cream",
+    "tags": [
+      "desserts",
+      "pastry",
+      "non-veg",
+      "vanilla",
+      "ice",
+      "cream"
+    ],
+    "searchKeywords": [
+      "vanilla",
+      "ice",
+      "cream",
+      "desserts",
+      "pastry",
+      "vanilla ice cream"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-12T15:41:57.402Z"
+  },
+  {
+    "id": "product_vendor_noida_013_079",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 363,
+    "discountPercent": 9,
+    "finalPrice": 330,
+    "rating": 4.5,
+    "totalRatings": 98,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_noida_013_079.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "sandwich",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-12T11:27:45.710Z"
+  },
+  {
+    "id": "product_vendor_noida_013_080",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 372,
+    "discountPercent": 31,
+    "finalPrice": 257,
+    "rating": 4.7,
+    "totalRatings": 2423,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_noida_013_080.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "burger",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-30T00:20:20.805Z"
+  },
+  {
+    "id": "product_vendor_noida_013_081",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Classic gulab jamun served hot and fresh.",
+    "price": 621,
+    "discountPercent": 30,
+    "finalPrice": 435,
+    "rating": 4,
+    "totalRatings": 2757,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_noida_013_081.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "kulfi",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-05T01:46:10.883Z"
+  },
+  {
+    "id": "product_vendor_noida_013_082",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 201,
+    "discountPercent": 0,
+    "finalPrice": 201,
+    "rating": 4.7,
+    "totalRatings": 3001,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_013_082.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-22T07:01:03.286Z"
+  },
+  {
+    "id": "product_vendor_noida_013_083",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 824,
+    "discountPercent": 23,
+    "finalPrice": 634,
+    "rating": 4.4,
+    "totalRatings": 3798,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_013_083.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-04T07:27:30.145Z"
+  },
+  {
+    "id": "product_vendor_noida_013_084",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Classic cheese burger served hot and fresh.",
+    "price": 131,
+    "discountPercent": 7,
+    "finalPrice": 122,
+    "rating": 4.4,
+    "totalRatings": 4400,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_noida_013_084.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-21T10:20:38.492Z"
+  },
+  {
+    "id": "product_vendor_noida_013_085",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Delicious french fries prepared fresh with authentic spices.",
+    "price": 834,
+    "discountPercent": 11,
+    "finalPrice": 742,
+    "rating": 4.5,
+    "totalRatings": 743,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_noida_013_085.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "french"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-25T00:31:48.739Z"
+  },
+  {
+    "id": "product_vendor_noida_013_086",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 385,
+    "discountPercent": 0,
+    "finalPrice": 385,
+    "rating": 3.6,
+    "totalRatings": 3841,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_noida_013_086.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-31T10:09:51.969Z"
+  },
+  {
+    "id": "product_vendor_noida_013_087",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Chef's special gulab jamun — perfect for a satisfying meal.",
+    "price": 885,
+    "discountPercent": 3,
+    "finalPrice": 858,
+    "rating": 3.8,
+    "totalRatings": 2990,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_noida_013_087.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "ice-cream",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-11T11:41:06.130Z"
+  },
+  {
+    "id": "product_vendor_noida_013_088",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Chocolate Brownie",
+    "description": "Classic chocolate brownie served hot and fresh.",
+    "price": 550,
+    "discountPercent": 13,
+    "finalPrice": 479,
+    "rating": 4.7,
+    "totalRatings": 986,
+    "category": "desserts",
+    "subCategory": "brownie",
+    "imageUrl": "https://cdn.myapp.com/products/chocolate-brownie/product_vendor_noida_013_088.webp",
+    "imageSlug": "chocolate-brownie",
+    "tags": [
+      "desserts",
+      "brownie",
+      "non-veg",
+      "chocolate"
+    ],
+    "searchKeywords": [
+      "chocolate",
+      "brownie",
+      "desserts",
+      "chocolate brownie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-27T13:30:17.069Z"
+  },
+  {
+    "id": "product_vendor_noida_013_089",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 689,
+    "discountPercent": 0,
+    "finalPrice": 689,
+    "rating": 3.6,
+    "totalRatings": 2006,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_noida_013_089.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "pizza",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-22T01:46:03.388Z"
+  },
+  {
+    "id": "product_vendor_noida_013_090",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 182,
+    "discountPercent": 5,
+    "finalPrice": 173,
+    "rating": 4.2,
+    "totalRatings": 4270,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_013_090.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-29T13:34:14.295Z"
+  },
+  {
+    "id": "product_vendor_noida_013_091",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 699,
+    "discountPercent": 6,
+    "finalPrice": 657,
+    "rating": 4.5,
+    "totalRatings": 2775,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_013_091.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-07T15:31:05.349Z"
+  },
+  {
+    "id": "product_vendor_noida_013_092",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Popular choice: Margherita Pizza made with premium ingredients.",
+    "price": 400,
+    "discountPercent": 21,
+    "finalPrice": 316,
+    "rating": 3.8,
+    "totalRatings": 3488,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_noida_013_092.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "burger",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-30T10:03:09.585Z"
+  },
+  {
+    "id": "product_vendor_noida_013_093",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 194,
+    "discountPercent": 10,
+    "finalPrice": 175,
+    "rating": 4,
+    "totalRatings": 4837,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_noida_013_093.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "sandwich",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-18T23:00:19.746Z"
+  },
+  {
+    "id": "product_vendor_noida_013_094",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Popular choice: Gulab Jamun made with premium ingredients.",
+    "price": 750,
+    "discountPercent": 33,
+    "finalPrice": 502,
+    "rating": 4.9,
+    "totalRatings": 1599,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_noida_013_094.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "kulfi",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-10T17:52:09.595Z"
+  },
+  {
+    "id": "product_vendor_noida_013_095",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 899,
+    "discountPercent": 19,
+    "finalPrice": 728,
+    "rating": 4.7,
+    "totalRatings": 4278,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_noida_013_095.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "pizza",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-18T20:48:41.751Z"
+  },
+  {
+    "id": "product_vendor_noida_013_096",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 215,
+    "discountPercent": 19,
+    "finalPrice": 174,
+    "rating": 3.7,
+    "totalRatings": 4822,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_013_096.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-25T10:02:21.275Z"
+  },
+  {
+    "id": "product_vendor_noida_013_097",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 175,
+    "discountPercent": 10,
+    "finalPrice": 158,
+    "rating": 4.8,
+    "totalRatings": 3519,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_013_097.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-05T23:52:37.995Z"
+  },
+  {
+    "id": "product_vendor_noida_013_098",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 89,
+    "discountPercent": 18,
+    "finalPrice": 73,
+    "rating": 4.9,
+    "totalRatings": 3508,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_013_098.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-29T07:08:40.283Z"
+  },
+  {
+    "id": "product_vendor_noida_013_099",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 308,
+    "discountPercent": 27,
+    "finalPrice": 225,
+    "rating": 3.7,
+    "totalRatings": 419,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_noida_013_099.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "pizza",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-24T23:40:35.319Z"
+  },
+  {
+    "id": "product_vendor_noida_013_100",
+    "vendorId": "vendor_noida_013",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 229,
+    "discountPercent": 26,
+    "finalPrice": 169,
+    "rating": 4.2,
+    "totalRatings": 3068,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_013_100.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-24T16:18:24.769Z"
+  }
+]

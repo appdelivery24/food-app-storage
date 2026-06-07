@@ -1,0 +1,3578 @@
+[
+  {
+    "id": "product_vendor_noida_032_001",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Popular choice: Avocado Toast made with premium ingredients.",
+    "price": 299,
+    "discountPercent": 13,
+    "finalPrice": 260,
+    "rating": 4.6,
+    "totalRatings": 4229,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_032_001.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-19T10:57:16.984Z"
+  },
+  {
+    "id": "product_vendor_noida_032_002",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 361,
+    "discountPercent": 24,
+    "finalPrice": 274,
+    "rating": 4.8,
+    "totalRatings": 1633,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_032_002.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "risotto",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-28T10:08:52.975Z"
+  },
+  {
+    "id": "product_vendor_noida_032_003",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 297,
+    "discountPercent": 28,
+    "finalPrice": 214,
+    "rating": 4.5,
+    "totalRatings": 4829,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_032_003.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-12T09:23:42.103Z"
+  },
+  {
+    "id": "product_vendor_noida_032_004",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 218,
+    "discountPercent": 21,
+    "finalPrice": 172,
+    "rating": 4,
+    "totalRatings": 2932,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_032_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-19T19:40:16.588Z"
+  },
+  {
+    "id": "product_vendor_noida_032_005",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 95,
+    "discountPercent": 0,
+    "finalPrice": 95,
+    "rating": 3.7,
+    "totalRatings": 1392,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_032_005.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-01T22:19:09.759Z"
+  },
+  {
+    "id": "product_vendor_noida_032_006",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 888,
+    "discountPercent": 7,
+    "finalPrice": 826,
+    "rating": 4.5,
+    "totalRatings": 3515,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_032_006.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-09T18:38:24.270Z"
+  },
+  {
+    "id": "product_vendor_noida_032_007",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 602,
+    "discountPercent": 17,
+    "finalPrice": 500,
+    "rating": 4.7,
+    "totalRatings": 4777,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_032_007.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-13T09:00:12.897Z"
+  },
+  {
+    "id": "product_vendor_noida_032_008",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 290,
+    "discountPercent": 37,
+    "finalPrice": 183,
+    "rating": 4.5,
+    "totalRatings": 624,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_032_008.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-22T10:04:17.709Z"
+  },
+  {
+    "id": "product_vendor_noida_032_009",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 416,
+    "discountPercent": 12,
+    "finalPrice": 366,
+    "rating": 4.3,
+    "totalRatings": 989,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_032_009.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-13T15:26:07.624Z"
+  },
+  {
+    "id": "product_vendor_noida_032_010",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 785,
+    "discountPercent": 8,
+    "finalPrice": 722,
+    "rating": 3.5,
+    "totalRatings": 4883,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_032_010.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-19T09:47:20.308Z"
+  },
+  {
+    "id": "product_vendor_noida_032_011",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 824,
+    "discountPercent": 9,
+    "finalPrice": 750,
+    "rating": 4.8,
+    "totalRatings": 4927,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_032_011.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-13T18:29:49.448Z"
+  },
+  {
+    "id": "product_vendor_noida_032_012",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 484,
+    "discountPercent": 13,
+    "finalPrice": 421,
+    "rating": 4.1,
+    "totalRatings": 4028,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_032_012.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "risotto",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-04T04:12:36.743Z"
+  },
+  {
+    "id": "product_vendor_noida_032_013",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 394,
+    "discountPercent": 32,
+    "finalPrice": 268,
+    "rating": 4.9,
+    "totalRatings": 1043,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_032_013.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-10T08:19:25.789Z"
+  },
+  {
+    "id": "product_vendor_noida_032_014",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 408,
+    "discountPercent": 21,
+    "finalPrice": 322,
+    "rating": 4,
+    "totalRatings": 3668,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_032_014.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-25T08:40:41.695Z"
+  },
+  {
+    "id": "product_vendor_noida_032_015",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 488,
+    "discountPercent": 4,
+    "finalPrice": 468,
+    "rating": 4.4,
+    "totalRatings": 939,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_032_015.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-31T04:20:06.423Z"
+  },
+  {
+    "id": "product_vendor_noida_032_016",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 617,
+    "discountPercent": 31,
+    "finalPrice": 426,
+    "rating": 4.8,
+    "totalRatings": 3159,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_032_016.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-02T22:24:34.896Z"
+  },
+  {
+    "id": "product_vendor_noida_032_017",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 842,
+    "discountPercent": 16,
+    "finalPrice": 707,
+    "rating": 4.4,
+    "totalRatings": 679,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_032_017.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-18T11:03:14.981Z"
+  },
+  {
+    "id": "product_vendor_noida_032_018",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 614,
+    "discountPercent": 38,
+    "finalPrice": 381,
+    "rating": 3.8,
+    "totalRatings": 3956,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_032_018.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-10T20:17:11.501Z"
+  },
+  {
+    "id": "product_vendor_noida_032_019",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 498,
+    "discountPercent": 27,
+    "finalPrice": 364,
+    "rating": 4.6,
+    "totalRatings": 2580,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_032_019.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-13T22:53:53.573Z"
+  },
+  {
+    "id": "product_vendor_noida_032_020",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 156,
+    "discountPercent": 32,
+    "finalPrice": 106,
+    "rating": 4.4,
+    "totalRatings": 2692,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_032_020.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-25T11:23:28.899Z"
+  },
+  {
+    "id": "product_vendor_noida_032_021",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 584,
+    "discountPercent": 36,
+    "finalPrice": 374,
+    "rating": 3.7,
+    "totalRatings": 2369,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_032_021.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-19T15:44:44.684Z"
+  },
+  {
+    "id": "product_vendor_noida_032_022",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 655,
+    "discountPercent": 15,
+    "finalPrice": 557,
+    "rating": 3.7,
+    "totalRatings": 2691,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_032_022.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-14T18:57:14.495Z"
+  },
+  {
+    "id": "product_vendor_noida_032_023",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 310,
+    "discountPercent": 23,
+    "finalPrice": 239,
+    "rating": 4.4,
+    "totalRatings": 4202,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_032_023.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-26T01:30:58.405Z"
+  },
+  {
+    "id": "product_vendor_noida_032_024",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 421,
+    "discountPercent": 35,
+    "finalPrice": 274,
+    "rating": 3.9,
+    "totalRatings": 4599,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_032_024.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-08T05:05:48.358Z"
+  },
+  {
+    "id": "product_vendor_noida_032_025",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 717,
+    "discountPercent": 15,
+    "finalPrice": 609,
+    "rating": 3.5,
+    "totalRatings": 4690,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_032_025.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-07T15:41:15.801Z"
+  },
+  {
+    "id": "product_vendor_noida_032_026",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 254,
+    "discountPercent": 2,
+    "finalPrice": 249,
+    "rating": 3.6,
+    "totalRatings": 4030,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_032_026.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-13T18:40:44.497Z"
+  },
+  {
+    "id": "product_vendor_noida_032_027",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 501,
+    "discountPercent": 37,
+    "finalPrice": 316,
+    "rating": 4.7,
+    "totalRatings": 2341,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_032_027.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-19T03:22:22.223Z"
+  },
+  {
+    "id": "product_vendor_noida_032_028",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 505,
+    "discountPercent": 21,
+    "finalPrice": 399,
+    "rating": 3.9,
+    "totalRatings": 3214,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_032_028.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-20T00:49:04.326Z"
+  },
+  {
+    "id": "product_vendor_noida_032_029",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 184,
+    "discountPercent": 14,
+    "finalPrice": 158,
+    "rating": 4.8,
+    "totalRatings": 171,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_032_029.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-07T06:56:03.904Z"
+  },
+  {
+    "id": "product_vendor_noida_032_030",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 898,
+    "discountPercent": 40,
+    "finalPrice": 539,
+    "rating": 3.9,
+    "totalRatings": 2552,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_032_030.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-28T23:25:34.306Z"
+  },
+  {
+    "id": "product_vendor_noida_032_031",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 362,
+    "discountPercent": 24,
+    "finalPrice": 275,
+    "rating": 3.7,
+    "totalRatings": 1711,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_032_031.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-11T14:47:55.401Z"
+  },
+  {
+    "id": "product_vendor_noida_032_032",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 324,
+    "discountPercent": 21,
+    "finalPrice": 256,
+    "rating": 3.8,
+    "totalRatings": 2530,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_032_032.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-20T07:55:48.418Z"
+  },
+  {
+    "id": "product_vendor_noida_032_033",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 423,
+    "discountPercent": 38,
+    "finalPrice": 262,
+    "rating": 4.1,
+    "totalRatings": 4537,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_032_033.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-16T06:30:16.018Z"
+  },
+  {
+    "id": "product_vendor_noida_032_034",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 633,
+    "discountPercent": 39,
+    "finalPrice": 386,
+    "rating": 4.3,
+    "totalRatings": 4234,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_032_034.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-07T20:38:23.423Z"
+  },
+  {
+    "id": "product_vendor_noida_032_035",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 483,
+    "discountPercent": 20,
+    "finalPrice": 386,
+    "rating": 4.1,
+    "totalRatings": 4171,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_032_035.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-16T18:58:06.634Z"
+  },
+  {
+    "id": "product_vendor_noida_032_036",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 671,
+    "discountPercent": 1,
+    "finalPrice": 664,
+    "rating": 4.8,
+    "totalRatings": 2895,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_032_036.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-03T00:48:16.969Z"
+  },
+  {
+    "id": "product_vendor_noida_032_037",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 580,
+    "discountPercent": 0,
+    "finalPrice": 580,
+    "rating": 4.2,
+    "totalRatings": 2925,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_032_037.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-13T06:55:25.632Z"
+  },
+  {
+    "id": "product_vendor_noida_032_038",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 261,
+    "discountPercent": 38,
+    "finalPrice": 162,
+    "rating": 4.6,
+    "totalRatings": 4980,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_032_038.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-18T14:19:54.381Z"
+  },
+  {
+    "id": "product_vendor_noida_032_039",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 709,
+    "discountPercent": 38,
+    "finalPrice": 440,
+    "rating": 3.9,
+    "totalRatings": 3570,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_032_039.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-02T14:12:18.599Z"
+  },
+  {
+    "id": "product_vendor_noida_032_040",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 326,
+    "discountPercent": 8,
+    "finalPrice": 300,
+    "rating": 3.5,
+    "totalRatings": 2942,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_032_040.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-03T21:28:50.213Z"
+  },
+  {
+    "id": "product_vendor_noida_032_041",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 267,
+    "discountPercent": 13,
+    "finalPrice": 232,
+    "rating": 3.5,
+    "totalRatings": 661,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_032_041.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-08T00:13:42.406Z"
+  },
+  {
+    "id": "product_vendor_noida_032_042",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 864,
+    "discountPercent": 7,
+    "finalPrice": 804,
+    "rating": 4,
+    "totalRatings": 3411,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_032_042.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-03T21:10:00.622Z"
+  },
+  {
+    "id": "product_vendor_noida_032_043",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 707,
+    "discountPercent": 36,
+    "finalPrice": 452,
+    "rating": 4,
+    "totalRatings": 2767,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_032_043.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-21T05:34:21.743Z"
+  },
+  {
+    "id": "product_vendor_noida_032_044",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 422,
+    "discountPercent": 40,
+    "finalPrice": 253,
+    "rating": 4.3,
+    "totalRatings": 3195,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_032_044.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-13T12:09:46.718Z"
+  },
+  {
+    "id": "product_vendor_noida_032_045",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 790,
+    "discountPercent": 23,
+    "finalPrice": 608,
+    "rating": 4.6,
+    "totalRatings": 3114,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_032_045.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-17T16:15:50.494Z"
+  },
+  {
+    "id": "product_vendor_noida_032_046",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 440,
+    "discountPercent": 13,
+    "finalPrice": 383,
+    "rating": 3.5,
+    "totalRatings": 1693,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_032_046.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-25T01:51:55.229Z"
+  },
+  {
+    "id": "product_vendor_noida_032_047",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 836,
+    "discountPercent": 15,
+    "finalPrice": 711,
+    "rating": 4.3,
+    "totalRatings": 605,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_032_047.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-24T17:38:07.071Z"
+  },
+  {
+    "id": "product_vendor_noida_032_048",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 381,
+    "discountPercent": 9,
+    "finalPrice": 347,
+    "rating": 3.7,
+    "totalRatings": 1102,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_032_048.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-05T23:49:30.157Z"
+  },
+  {
+    "id": "product_vendor_noida_032_049",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 712,
+    "discountPercent": 24,
+    "finalPrice": 541,
+    "rating": 4.5,
+    "totalRatings": 410,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_032_049.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-20T23:12:00.539Z"
+  },
+  {
+    "id": "product_vendor_noida_032_050",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Popular choice: Caesar Salad made with premium ingredients.",
+    "price": 485,
+    "discountPercent": 16,
+    "finalPrice": 407,
+    "rating": 4.5,
+    "totalRatings": 1727,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_032_050.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "soup",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-17T08:06:21.865Z"
+  },
+  {
+    "id": "product_vendor_noida_032_051",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 79,
+    "discountPercent": 34,
+    "finalPrice": 52,
+    "rating": 3.6,
+    "totalRatings": 3861,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_032_051.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-23T03:49:01.313Z"
+  },
+  {
+    "id": "product_vendor_noida_032_052",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 372,
+    "discountPercent": 40,
+    "finalPrice": 223,
+    "rating": 4,
+    "totalRatings": 793,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_032_052.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-08T13:41:20.595Z"
+  },
+  {
+    "id": "product_vendor_noida_032_053",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 243,
+    "discountPercent": 25,
+    "finalPrice": 182,
+    "rating": 3.6,
+    "totalRatings": 413,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_032_053.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-12T10:41:41.568Z"
+  },
+  {
+    "id": "product_vendor_noida_032_054",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 857,
+    "discountPercent": 22,
+    "finalPrice": 668,
+    "rating": 4.4,
+    "totalRatings": 1848,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_032_054.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-27T01:03:52.899Z"
+  },
+  {
+    "id": "product_vendor_noida_032_055",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 403,
+    "discountPercent": 6,
+    "finalPrice": 379,
+    "rating": 4.9,
+    "totalRatings": 1100,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_032_055.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-06-01T12:37:17.612Z"
+  },
+  {
+    "id": "product_vendor_noida_032_056",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 468,
+    "discountPercent": 2,
+    "finalPrice": 459,
+    "rating": 4.2,
+    "totalRatings": 4855,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_032_056.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-24T01:27:53.362Z"
+  },
+  {
+    "id": "product_vendor_noida_032_057",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 447,
+    "discountPercent": 5,
+    "finalPrice": 425,
+    "rating": 4.3,
+    "totalRatings": 3727,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_032_057.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-29T20:00:32.213Z"
+  },
+  {
+    "id": "product_vendor_noida_032_058",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 836,
+    "discountPercent": 30,
+    "finalPrice": 585,
+    "rating": 3.6,
+    "totalRatings": 287,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_032_058.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-18T13:25:20.186Z"
+  },
+  {
+    "id": "product_vendor_noida_032_059",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Classic greek salad served hot and fresh.",
+    "price": 357,
+    "discountPercent": 3,
+    "finalPrice": 346,
+    "rating": 4.8,
+    "totalRatings": 3807,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_032_059.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-02T14:24:27.409Z"
+  },
+  {
+    "id": "product_vendor_noida_032_060",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 751,
+    "discountPercent": 36,
+    "finalPrice": 481,
+    "rating": 4.3,
+    "totalRatings": 1824,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_032_060.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-31T20:30:32.148Z"
+  },
+  {
+    "id": "product_vendor_noida_032_061",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 685,
+    "discountPercent": 1,
+    "finalPrice": 678,
+    "rating": 4.7,
+    "totalRatings": 1824,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_032_061.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-29T10:31:12.171Z"
+  },
+  {
+    "id": "product_vendor_noida_032_062",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 274,
+    "discountPercent": 20,
+    "finalPrice": 219,
+    "rating": 4.3,
+    "totalRatings": 1190,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_032_062.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-28T21:07:05.487Z"
+  },
+  {
+    "id": "product_vendor_noida_032_063",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 570,
+    "discountPercent": 39,
+    "finalPrice": 348,
+    "rating": 4.1,
+    "totalRatings": 2398,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_032_063.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "tomato"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-02T06:23:52.474Z"
+  },
+  {
+    "id": "product_vendor_noida_032_064",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 113,
+    "discountPercent": 24,
+    "finalPrice": 86,
+    "rating": 4.8,
+    "totalRatings": 4372,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_032_064.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-29T23:48:12.287Z"
+  },
+  {
+    "id": "product_vendor_noida_032_065",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 826,
+    "discountPercent": 0,
+    "finalPrice": 826,
+    "rating": 4.3,
+    "totalRatings": 4049,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_032_065.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-06T07:13:09.065Z"
+  },
+  {
+    "id": "product_vendor_noida_032_066",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 769,
+    "discountPercent": 18,
+    "finalPrice": 631,
+    "rating": 3.9,
+    "totalRatings": 2155,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_032_066.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-21T11:09:04.783Z"
+  },
+  {
+    "id": "product_vendor_noida_032_067",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Classic greek salad served hot and fresh.",
+    "price": 622,
+    "discountPercent": 3,
+    "finalPrice": 603,
+    "rating": 4,
+    "totalRatings": 467,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_032_067.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-16T13:57:19.721Z"
+  },
+  {
+    "id": "product_vendor_noida_032_068",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 618,
+    "discountPercent": 3,
+    "finalPrice": 599,
+    "rating": 3.9,
+    "totalRatings": 2563,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_032_068.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-30T12:38:33.938Z"
+  },
+  {
+    "id": "product_vendor_noida_032_069",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 466,
+    "discountPercent": 5,
+    "finalPrice": 443,
+    "rating": 4.4,
+    "totalRatings": 1532,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_032_069.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-21T11:38:29.253Z"
+  },
+  {
+    "id": "product_vendor_noida_032_070",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 182,
+    "discountPercent": 34,
+    "finalPrice": 120,
+    "rating": 4.7,
+    "totalRatings": 2112,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_032_070.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "tomato"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-24T13:25:50.930Z"
+  },
+  {
+    "id": "product_vendor_noida_032_071",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 359,
+    "discountPercent": 16,
+    "finalPrice": 302,
+    "rating": 4.4,
+    "totalRatings": 4445,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_032_071.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-29T02:02:24.872Z"
+  },
+  {
+    "id": "product_vendor_noida_032_072",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 403,
+    "discountPercent": 21,
+    "finalPrice": 318,
+    "rating": 4,
+    "totalRatings": 4437,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_032_072.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-14T22:49:03.043Z"
+  },
+  {
+    "id": "product_vendor_noida_032_073",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 286,
+    "discountPercent": 2,
+    "finalPrice": 280,
+    "rating": 3.8,
+    "totalRatings": 2927,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_032_073.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-12T06:23:33.833Z"
+  },
+  {
+    "id": "product_vendor_noida_032_074",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 461,
+    "discountPercent": 32,
+    "finalPrice": 313,
+    "rating": 3.9,
+    "totalRatings": 1302,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_032_074.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-16T17:49:43.048Z"
+  },
+  {
+    "id": "product_vendor_noida_032_075",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 238,
+    "discountPercent": 8,
+    "finalPrice": 219,
+    "rating": 3.6,
+    "totalRatings": 4930,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_032_075.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-17T17:54:42.027Z"
+  },
+  {
+    "id": "product_vendor_noida_032_076",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Delicious mushroom risotto prepared fresh with authentic spices.",
+    "price": 803,
+    "discountPercent": 36,
+    "finalPrice": 514,
+    "rating": 4.3,
+    "totalRatings": 808,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_032_076.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "pasta",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-02T21:00:07.303Z"
+  },
+  {
+    "id": "product_vendor_noida_032_077",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 328,
+    "discountPercent": 21,
+    "finalPrice": 259,
+    "rating": 4.8,
+    "totalRatings": 4230,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_032_077.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-09T11:09:17.336Z"
+  },
+  {
+    "id": "product_vendor_noida_032_078",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 472,
+    "discountPercent": 26,
+    "finalPrice": 349,
+    "rating": 4,
+    "totalRatings": 3701,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_032_078.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-30T03:08:59.103Z"
+  },
+  {
+    "id": "product_vendor_noida_032_079",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 590,
+    "discountPercent": 40,
+    "finalPrice": 354,
+    "rating": 3.5,
+    "totalRatings": 3045,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_032_079.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-22T12:07:45.465Z"
+  },
+  {
+    "id": "product_vendor_noida_032_080",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 879,
+    "discountPercent": 34,
+    "finalPrice": 580,
+    "rating": 4,
+    "totalRatings": 4272,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_032_080.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-11T13:11:46.756Z"
+  },
+  {
+    "id": "product_vendor_noida_032_081",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 555,
+    "discountPercent": 25,
+    "finalPrice": 416,
+    "rating": 4.8,
+    "totalRatings": 2742,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_032_081.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-09T05:46:58.394Z"
+  },
+  {
+    "id": "product_vendor_noida_032_082",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 816,
+    "discountPercent": 1,
+    "finalPrice": 808,
+    "rating": 4.3,
+    "totalRatings": 4803,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_032_082.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-19T22:22:26.819Z"
+  },
+  {
+    "id": "product_vendor_noida_032_083",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 268,
+    "discountPercent": 35,
+    "finalPrice": 174,
+    "rating": 4.8,
+    "totalRatings": 2103,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_032_083.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-07T21:56:51.605Z"
+  },
+  {
+    "id": "product_vendor_noida_032_084",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 545,
+    "discountPercent": 11,
+    "finalPrice": 485,
+    "rating": 4.3,
+    "totalRatings": 3159,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_032_084.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-21T10:42:07.996Z"
+  },
+  {
+    "id": "product_vendor_noida_032_085",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 596,
+    "discountPercent": 4,
+    "finalPrice": 572,
+    "rating": 4.4,
+    "totalRatings": 3466,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_032_085.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-03T14:37:48.646Z"
+  },
+  {
+    "id": "product_vendor_noida_032_086",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Delicious mushroom risotto prepared fresh with authentic spices.",
+    "price": 247,
+    "discountPercent": 23,
+    "finalPrice": 190,
+    "rating": 4.7,
+    "totalRatings": 2259,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_032_086.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "mushroom"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-30T19:44:44.992Z"
+  },
+  {
+    "id": "product_vendor_noida_032_087",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 894,
+    "discountPercent": 40,
+    "finalPrice": 536,
+    "rating": 4.9,
+    "totalRatings": 1960,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_032_087.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-13T06:22:53.671Z"
+  },
+  {
+    "id": "product_vendor_noida_032_088",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 865,
+    "discountPercent": 23,
+    "finalPrice": 666,
+    "rating": 3.6,
+    "totalRatings": 4908,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_032_088.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-17T06:34:17.653Z"
+  },
+  {
+    "id": "product_vendor_noida_032_089",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Classic greek salad served hot and fresh.",
+    "price": 760,
+    "discountPercent": 3,
+    "finalPrice": 737,
+    "rating": 3.5,
+    "totalRatings": 1289,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_032_089.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-23T02:27:47.720Z"
+  },
+  {
+    "id": "product_vendor_noida_032_090",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 296,
+    "discountPercent": 32,
+    "finalPrice": 201,
+    "rating": 3.7,
+    "totalRatings": 2149,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_032_090.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-20T12:34:31.947Z"
+  },
+  {
+    "id": "product_vendor_noida_032_091",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Delicious mushroom risotto prepared fresh with authentic spices.",
+    "price": 613,
+    "discountPercent": 8,
+    "finalPrice": 564,
+    "rating": 3.7,
+    "totalRatings": 4722,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_032_091.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-17T21:01:47.051Z"
+  },
+  {
+    "id": "product_vendor_noida_032_092",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 789,
+    "discountPercent": 20,
+    "finalPrice": 631,
+    "rating": 4.4,
+    "totalRatings": 2835,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_032_092.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-03T20:02:08.971Z"
+  },
+  {
+    "id": "product_vendor_noida_032_093",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 223,
+    "discountPercent": 18,
+    "finalPrice": 183,
+    "rating": 4.1,
+    "totalRatings": 1560,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_032_093.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-28T16:12:04.856Z"
+  },
+  {
+    "id": "product_vendor_noida_032_094",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 628,
+    "discountPercent": 3,
+    "finalPrice": 609,
+    "rating": 3.6,
+    "totalRatings": 3261,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_032_094.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-29T22:11:38.671Z"
+  },
+  {
+    "id": "product_vendor_noida_032_095",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 823,
+    "discountPercent": 26,
+    "finalPrice": 609,
+    "rating": 4.4,
+    "totalRatings": 2733,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_032_095.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-22T02:49:37.701Z"
+  },
+  {
+    "id": "product_vendor_noida_032_096",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 336,
+    "discountPercent": 37,
+    "finalPrice": 212,
+    "rating": 4.8,
+    "totalRatings": 1002,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_032_096.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-21T17:16:27.903Z"
+  },
+  {
+    "id": "product_vendor_noida_032_097",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 824,
+    "discountPercent": 12,
+    "finalPrice": 725,
+    "rating": 3.6,
+    "totalRatings": 1011,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_032_097.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-03T03:59:21.401Z"
+  },
+  {
+    "id": "product_vendor_noida_032_098",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 146,
+    "discountPercent": 27,
+    "finalPrice": 107,
+    "rating": 4.5,
+    "totalRatings": 3007,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_032_098.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "soup",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-01T09:10:38.122Z"
+  },
+  {
+    "id": "product_vendor_noida_032_099",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 664,
+    "discountPercent": 29,
+    "finalPrice": 471,
+    "rating": 4,
+    "totalRatings": 1002,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_032_099.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-28T06:42:06.194Z"
+  },
+  {
+    "id": "product_vendor_noida_032_100",
+    "vendorId": "vendor_noida_032",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 178,
+    "discountPercent": 13,
+    "finalPrice": 155,
+    "rating": 3.6,
+    "totalRatings": 1445,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_032_100.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-29T15:37:28.138Z"
+  }
+]

@@ -1,0 +1,3601 @@
+[
+  {
+    "id": "product_vendor_bangalore_022_001",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 608,
+    "discountPercent": 38,
+    "finalPrice": 377,
+    "rating": 4.6,
+    "totalRatings": 3669,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_bangalore_022_001.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-06T04:45:51.658Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_002",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 862,
+    "discountPercent": 13,
+    "finalPrice": 750,
+    "rating": 4.2,
+    "totalRatings": 592,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_bangalore_022_002.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-26T19:54:41.241Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_003",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 544,
+    "discountPercent": 37,
+    "finalPrice": 343,
+    "rating": 3.8,
+    "totalRatings": 4943,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_bangalore_022_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-07T02:43:41.215Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_004",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Delicious cold coffee prepared fresh with authentic spices.",
+    "price": 373,
+    "discountPercent": 33,
+    "finalPrice": 250,
+    "rating": 4.9,
+    "totalRatings": 239,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_022_004.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "tea",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-31T21:04:49.948Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_005",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 813,
+    "discountPercent": 1,
+    "finalPrice": 805,
+    "rating": 4.7,
+    "totalRatings": 4806,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_bangalore_022_005.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-26T04:11:56.843Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_006",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 687,
+    "discountPercent": 32,
+    "finalPrice": 467,
+    "rating": 4.7,
+    "totalRatings": 2492,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_bangalore_022_006.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-20T12:55:14.053Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_007",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 894,
+    "discountPercent": 26,
+    "finalPrice": 662,
+    "rating": 4.3,
+    "totalRatings": 2723,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_bangalore_022_007.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-08T09:26:00.869Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_008",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Chef's special fresh lime soda — perfect for a satisfying meal.",
+    "price": 649,
+    "discountPercent": 17,
+    "finalPrice": 539,
+    "rating": 4.5,
+    "totalRatings": 2887,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_022_008.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "lassi",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-11T13:32:49.955Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_009",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Popular choice: Fresh Lime Soda made with premium ingredients.",
+    "price": 251,
+    "discountPercent": 4,
+    "finalPrice": 241,
+    "rating": 3.9,
+    "totalRatings": 2285,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_022_009.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "lassi",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "lassi",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-25T08:20:51.133Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_010",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Chef's special strawberry smoothie — perfect for a satisfying meal.",
+    "price": 553,
+    "discountPercent": 2,
+    "finalPrice": 542,
+    "rating": 4.1,
+    "totalRatings": 3733,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_022_010.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "coffee",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-17T20:35:44.012Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_011",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Delicious strawberry smoothie prepared fresh with authentic spices.",
+    "price": 298,
+    "discountPercent": 11,
+    "finalPrice": 265,
+    "rating": 4.1,
+    "totalRatings": 1411,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_022_011.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "shake",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-08T23:45:09.323Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_012",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Classic masala chai served hot and fresh.",
+    "price": 494,
+    "discountPercent": 30,
+    "finalPrice": 346,
+    "rating": 4.7,
+    "totalRatings": 3896,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_022_012.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "tea",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-05T05:45:53.173Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_013",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 188,
+    "discountPercent": 27,
+    "finalPrice": 137,
+    "rating": 4.8,
+    "totalRatings": 4015,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_bangalore_022_013.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-15T00:18:48.633Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_014",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Delicious mango shake prepared fresh with authentic spices.",
+    "price": 382,
+    "discountPercent": 28,
+    "finalPrice": 275,
+    "rating": 4.6,
+    "totalRatings": 3730,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_022_014.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "lassi",
+      "non-veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "lassi",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-16T02:23:36.231Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_015",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 429,
+    "discountPercent": 9,
+    "finalPrice": 390,
+    "rating": 4.1,
+    "totalRatings": 3887,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_bangalore_022_015.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-05T21:23:02.776Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_016",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Delicious fresh lime soda prepared fresh with authentic spices.",
+    "price": 151,
+    "discountPercent": 33,
+    "finalPrice": 101,
+    "rating": 3.9,
+    "totalRatings": 2856,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_022_016.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "shake",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-31T06:30:14.492Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_017",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Delicious buttermilk prepared fresh with authentic spices.",
+    "price": 351,
+    "discountPercent": 12,
+    "finalPrice": 309,
+    "rating": 4.6,
+    "totalRatings": 297,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_022_017.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-01T03:31:38.811Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_018",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 893,
+    "discountPercent": 14,
+    "finalPrice": 768,
+    "rating": 3.8,
+    "totalRatings": 3248,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_bangalore_022_018.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-09T19:54:19.597Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_019",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 799,
+    "discountPercent": 39,
+    "finalPrice": 487,
+    "rating": 4.9,
+    "totalRatings": 4757,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_bangalore_022_019.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-26T22:48:11.319Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_020",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Classic strawberry smoothie served hot and fresh.",
+    "price": 665,
+    "discountPercent": 24,
+    "finalPrice": 505,
+    "rating": 3.9,
+    "totalRatings": 3706,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_022_020.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "tea",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-03T14:00:00.609Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_021",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Popular choice: Fresh Lime Soda made with premium ingredients.",
+    "price": 858,
+    "discountPercent": 11,
+    "finalPrice": 764,
+    "rating": 3.7,
+    "totalRatings": 4187,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_022_021.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "tea",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-06T20:36:41.050Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_022",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 150,
+    "discountPercent": 15,
+    "finalPrice": 128,
+    "rating": 3.6,
+    "totalRatings": 15,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_bangalore_022_022.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-23T16:30:45.901Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_023",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Chef's special buttermilk — perfect for a satisfying meal.",
+    "price": 205,
+    "discountPercent": 11,
+    "finalPrice": 182,
+    "rating": 4.4,
+    "totalRatings": 3221,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_022_023.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "tea"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-26T15:47:40.641Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_024",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 490,
+    "discountPercent": 12,
+    "finalPrice": 431,
+    "rating": 4.8,
+    "totalRatings": 3401,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_bangalore_022_024.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-30T07:45:03.396Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_025",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 360,
+    "discountPercent": 9,
+    "finalPrice": 328,
+    "rating": 4.6,
+    "totalRatings": 4892,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_022_025.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "lassi",
+      "non-veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "lassi",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-26T17:30:39.953Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_026",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Delicious buttermilk prepared fresh with authentic spices.",
+    "price": 592,
+    "discountPercent": 23,
+    "finalPrice": 456,
+    "rating": 3.5,
+    "totalRatings": 4952,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_022_026.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-05T02:55:56.232Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_027",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Popular choice: Grilled Chicken Salad made with premium ingredients.",
+    "price": 336,
+    "discountPercent": 28,
+    "finalPrice": 242,
+    "rating": 3.6,
+    "totalRatings": 1662,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_bangalore_022_027.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-24T08:29:18.879Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_028",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 682,
+    "discountPercent": 26,
+    "finalPrice": 505,
+    "rating": 4.2,
+    "totalRatings": 13,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_bangalore_022_028.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-30T03:27:44.517Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_029",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Delicious fresh lime soda prepared fresh with authentic spices.",
+    "price": 210,
+    "discountPercent": 10,
+    "finalPrice": 189,
+    "rating": 4.4,
+    "totalRatings": 4231,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_022_029.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "tea",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-31T00:06:25.398Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_030",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Popular choice: Strawberry Smoothie made with premium ingredients.",
+    "price": 656,
+    "discountPercent": 13,
+    "finalPrice": 571,
+    "rating": 4,
+    "totalRatings": 3870,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_022_030.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "shake",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-15T17:41:22.341Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_031",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Delicious cold coffee prepared fresh with authentic spices.",
+    "price": 333,
+    "discountPercent": 14,
+    "finalPrice": 286,
+    "rating": 3.7,
+    "totalRatings": 1863,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_022_031.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "tea",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-17T06:39:00.590Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_032",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 557,
+    "discountPercent": 1,
+    "finalPrice": 551,
+    "rating": 3.5,
+    "totalRatings": 4890,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_bangalore_022_032.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-19T10:12:10.355Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_033",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Classic mango shake served hot and fresh.",
+    "price": 386,
+    "discountPercent": 29,
+    "finalPrice": 274,
+    "rating": 4.4,
+    "totalRatings": 2317,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_022_033.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "mango"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-10T12:02:21.190Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_034",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 130,
+    "discountPercent": 31,
+    "finalPrice": 90,
+    "rating": 3.8,
+    "totalRatings": 4349,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_bangalore_022_034.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-25T18:23:29.142Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_035",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Popular choice: Masala Chai made with premium ingredients.",
+    "price": 134,
+    "discountPercent": 38,
+    "finalPrice": 83,
+    "rating": 3.9,
+    "totalRatings": 3111,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_022_035.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "shake",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-11T12:52:42.152Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_036",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 145,
+    "discountPercent": 9,
+    "finalPrice": 132,
+    "rating": 3.9,
+    "totalRatings": 240,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_bangalore_022_036.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-14T15:18:39.524Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_037",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 746,
+    "discountPercent": 2,
+    "finalPrice": 731,
+    "rating": 4.5,
+    "totalRatings": 3879,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_bangalore_022_037.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-01T15:45:33.084Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_038",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Classic buttermilk served hot and fresh.",
+    "price": 559,
+    "discountPercent": 12,
+    "finalPrice": 492,
+    "rating": 4.4,
+    "totalRatings": 1721,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_022_038.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "tea"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-27T10:10:06.395Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_039",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 314,
+    "discountPercent": 38,
+    "finalPrice": 195,
+    "rating": 4.5,
+    "totalRatings": 2350,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_bangalore_022_039.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-12T04:15:57.867Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_040",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 593,
+    "discountPercent": 25,
+    "finalPrice": 445,
+    "rating": 4.8,
+    "totalRatings": 1153,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_bangalore_022_040.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-02T23:40:32.444Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_041",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Classic fresh lime soda served hot and fresh.",
+    "price": 892,
+    "discountPercent": 30,
+    "finalPrice": 624,
+    "rating": 4.4,
+    "totalRatings": 1121,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_022_041.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "shake",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-08T15:55:42.987Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_042",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Chef's special fresh lime soda — perfect for a satisfying meal.",
+    "price": 108,
+    "discountPercent": 14,
+    "finalPrice": 93,
+    "rating": 4.9,
+    "totalRatings": 456,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_022_042.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "shake",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-30T20:32:07.792Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_043",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 369,
+    "discountPercent": 31,
+    "finalPrice": 255,
+    "rating": 3.6,
+    "totalRatings": 502,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_bangalore_022_043.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-18T02:52:47.016Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_044",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Delicious fresh lime soda prepared fresh with authentic spices.",
+    "price": 518,
+    "discountPercent": 0,
+    "finalPrice": 518,
+    "rating": 4.6,
+    "totalRatings": 3559,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_022_044.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "lassi",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "lassi",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-26T20:09:58.967Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_045",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 735,
+    "discountPercent": 34,
+    "finalPrice": 485,
+    "rating": 3.9,
+    "totalRatings": 301,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_bangalore_022_045.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-25T19:52:09.322Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_046",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Classic buttermilk served hot and fresh.",
+    "price": 325,
+    "discountPercent": 2,
+    "finalPrice": 319,
+    "rating": 4.7,
+    "totalRatings": 2699,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_022_046.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "tea"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-17T02:57:23.781Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_047",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 687,
+    "discountPercent": 4,
+    "finalPrice": 660,
+    "rating": 3.9,
+    "totalRatings": 4668,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_bangalore_022_047.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-07T02:35:36.645Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_048",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Classic strawberry smoothie served hot and fresh.",
+    "price": 673,
+    "discountPercent": 32,
+    "finalPrice": 458,
+    "rating": 4.8,
+    "totalRatings": 1784,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_022_048.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "juice",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-13T10:24:19.835Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_049",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Chef's special fresh lime soda — perfect for a satisfying meal.",
+    "price": 593,
+    "discountPercent": 22,
+    "finalPrice": 463,
+    "rating": 4.1,
+    "totalRatings": 3507,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_022_049.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "shake",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-31T14:09:42.721Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_050",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 206,
+    "discountPercent": 38,
+    "finalPrice": 128,
+    "rating": 4.2,
+    "totalRatings": 922,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_bangalore_022_050.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-19T21:01:06.975Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_051",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Chef's special strawberry smoothie — perfect for a satisfying meal.",
+    "price": 254,
+    "discountPercent": 38,
+    "finalPrice": 157,
+    "rating": 3.5,
+    "totalRatings": 1974,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_022_051.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "shake",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-03T23:48:25.135Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_052",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Classic strawberry smoothie served hot and fresh.",
+    "price": 604,
+    "discountPercent": 39,
+    "finalPrice": 368,
+    "rating": 3.6,
+    "totalRatings": 1080,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_022_052.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "tea",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-23T02:35:05.873Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_053",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Classic mango shake served hot and fresh.",
+    "price": 95,
+    "discountPercent": 40,
+    "finalPrice": 57,
+    "rating": 4.3,
+    "totalRatings": 3479,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_022_053.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "coffee",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-29T18:59:08.610Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_054",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 588,
+    "discountPercent": 28,
+    "finalPrice": 423,
+    "rating": 3.9,
+    "totalRatings": 74,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_bangalore_022_054.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-19T13:44:36.520Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_055",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Delicious strawberry smoothie prepared fresh with authentic spices.",
+    "price": 512,
+    "discountPercent": 14,
+    "finalPrice": 440,
+    "rating": 4.6,
+    "totalRatings": 359,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_022_055.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "coffee",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-02T00:13:39.355Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_056",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 220,
+    "discountPercent": 14,
+    "finalPrice": 189,
+    "rating": 4.5,
+    "totalRatings": 3267,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_022_056.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "juice",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-27T06:56:08.860Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_057",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Chef's special cold coffee — perfect for a satisfying meal.",
+    "price": 156,
+    "discountPercent": 18,
+    "finalPrice": 128,
+    "rating": 3.9,
+    "totalRatings": 3734,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_022_057.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "juice",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-10T09:17:45.878Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_058",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Chef's special strawberry smoothie — perfect for a satisfying meal.",
+    "price": 592,
+    "discountPercent": 27,
+    "finalPrice": 432,
+    "rating": 4,
+    "totalRatings": 3066,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_022_058.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "juice",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-09T08:24:00.255Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_059",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Delicious cold coffee prepared fresh with authentic spices.",
+    "price": 235,
+    "discountPercent": 5,
+    "finalPrice": 223,
+    "rating": 4.9,
+    "totalRatings": 4973,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_022_059.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "juice",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-07T21:14:44.918Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_060",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Classic mango shake served hot and fresh.",
+    "price": 668,
+    "discountPercent": 25,
+    "finalPrice": 501,
+    "rating": 4.5,
+    "totalRatings": 3254,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_022_060.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "tea",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-10T18:20:23.601Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_061",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 635,
+    "discountPercent": 30,
+    "finalPrice": 445,
+    "rating": 3.6,
+    "totalRatings": 3978,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_022_061.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "tea",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-06-06T02:54:18.509Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_062",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 307,
+    "discountPercent": 22,
+    "finalPrice": 239,
+    "rating": 4.6,
+    "totalRatings": 1416,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_bangalore_022_062.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-10T04:05:03.935Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_063",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 208,
+    "discountPercent": 12,
+    "finalPrice": 183,
+    "rating": 4,
+    "totalRatings": 4937,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_bangalore_022_063.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-26T00:34:46.587Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_064",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Classic strawberry smoothie served hot and fresh.",
+    "price": 303,
+    "discountPercent": 24,
+    "finalPrice": 230,
+    "rating": 4.8,
+    "totalRatings": 1838,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_022_064.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "shake",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-23T19:49:50.179Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_065",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 175,
+    "discountPercent": 37,
+    "finalPrice": 110,
+    "rating": 3.5,
+    "totalRatings": 2359,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_bangalore_022_065.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-27T07:37:21.045Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_066",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Chef's special fresh lime soda — perfect for a satisfying meal.",
+    "price": 611,
+    "discountPercent": 8,
+    "finalPrice": 562,
+    "rating": 4.2,
+    "totalRatings": 2551,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_022_066.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "coffee",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-06T18:39:12.905Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_067",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 232,
+    "discountPercent": 16,
+    "finalPrice": 195,
+    "rating": 4.1,
+    "totalRatings": 3906,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_bangalore_022_067.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-22T21:51:05.230Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_068",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 764,
+    "discountPercent": 4,
+    "finalPrice": 733,
+    "rating": 4.4,
+    "totalRatings": 2989,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_022_068.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "juice",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-07T11:29:45.255Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_069",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 684,
+    "discountPercent": 17,
+    "finalPrice": 568,
+    "rating": 3.8,
+    "totalRatings": 1045,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_bangalore_022_069.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-26T04:14:45.721Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_070",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Delicious buttermilk prepared fresh with authentic spices.",
+    "price": 844,
+    "discountPercent": 27,
+    "finalPrice": 616,
+    "rating": 4.2,
+    "totalRatings": 4935,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_022_070.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "tea"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-12T11:51:37.221Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_071",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 291,
+    "discountPercent": 30,
+    "finalPrice": 204,
+    "rating": 3.7,
+    "totalRatings": 3706,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_bangalore_022_071.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-18T21:40:40.185Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_072",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 735,
+    "discountPercent": 6,
+    "finalPrice": 691,
+    "rating": 4.7,
+    "totalRatings": 656,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_bangalore_022_072.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-24T20:47:41.997Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_073",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Chef's special mango shake — perfect for a satisfying meal.",
+    "price": 784,
+    "discountPercent": 22,
+    "finalPrice": 612,
+    "rating": 3.7,
+    "totalRatings": 631,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_022_073.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "tea",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-28T12:57:36.480Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_074",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 135,
+    "discountPercent": 13,
+    "finalPrice": 117,
+    "rating": 4.3,
+    "totalRatings": 3574,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_bangalore_022_074.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-07T05:08:44.510Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_075",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 233,
+    "discountPercent": 34,
+    "finalPrice": 154,
+    "rating": 4.3,
+    "totalRatings": 1501,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_bangalore_022_075.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-10T01:52:22.684Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_076",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Delicious strawberry smoothie prepared fresh with authentic spices.",
+    "price": 357,
+    "discountPercent": 35,
+    "finalPrice": 232,
+    "rating": 4.4,
+    "totalRatings": 1240,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_022_076.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "tea",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-13T15:40:06.154Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_077",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Delicious masala chai prepared fresh with authentic spices.",
+    "price": 408,
+    "discountPercent": 40,
+    "finalPrice": 245,
+    "rating": 4.9,
+    "totalRatings": 1956,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_022_077.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "shake",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-20T03:14:42.699Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_078",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Delicious buttermilk prepared fresh with authentic spices.",
+    "price": 598,
+    "discountPercent": 28,
+    "finalPrice": 431,
+    "rating": 4.7,
+    "totalRatings": 4105,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_022_078.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "lassi"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-30T12:24:07.562Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_079",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Delicious fresh lime soda prepared fresh with authentic spices.",
+    "price": 619,
+    "discountPercent": 15,
+    "finalPrice": 526,
+    "rating": 4.5,
+    "totalRatings": 573,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_022_079.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "tea",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-07T06:46:52.077Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_080",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 109,
+    "discountPercent": 6,
+    "finalPrice": 102,
+    "rating": 4.8,
+    "totalRatings": 120,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_bangalore_022_080.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-30T09:55:20.811Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_081",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 682,
+    "discountPercent": 9,
+    "finalPrice": 621,
+    "rating": 3.8,
+    "totalRatings": 4280,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_bangalore_022_081.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-22T19:42:17.954Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_082",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Delicious masala chai prepared fresh with authentic spices.",
+    "price": 663,
+    "discountPercent": 7,
+    "finalPrice": 617,
+    "rating": 4.5,
+    "totalRatings": 2005,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_022_082.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "lassi",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-18T15:12:14.912Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_083",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 344,
+    "discountPercent": 21,
+    "finalPrice": 272,
+    "rating": 4.6,
+    "totalRatings": 2052,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_bangalore_022_083.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-13T19:33:12.427Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_084",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 549,
+    "discountPercent": 33,
+    "finalPrice": 368,
+    "rating": 4.2,
+    "totalRatings": 3232,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_bangalore_022_084.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-06T09:33:05.265Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_085",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Popular choice: Strawberry Smoothie made with premium ingredients.",
+    "price": 164,
+    "discountPercent": 21,
+    "finalPrice": 130,
+    "rating": 4.8,
+    "totalRatings": 3471,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_022_085.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "juice",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-06T20:58:49.598Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_086",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Delicious buttermilk prepared fresh with authentic spices.",
+    "price": 884,
+    "discountPercent": 18,
+    "finalPrice": 725,
+    "rating": 4.5,
+    "totalRatings": 789,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_022_086.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-06-02T18:46:47.491Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_087",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 293,
+    "discountPercent": 35,
+    "finalPrice": 190,
+    "rating": 4.1,
+    "totalRatings": 4082,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_022_087.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "tea",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-30T13:42:43.314Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_088",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Popular choice: Avocado Toast made with premium ingredients.",
+    "price": 253,
+    "discountPercent": 16,
+    "finalPrice": 213,
+    "rating": 3.7,
+    "totalRatings": 433,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_bangalore_022_088.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-30T14:25:24.264Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_089",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 182,
+    "discountPercent": 24,
+    "finalPrice": 138,
+    "rating": 3.7,
+    "totalRatings": 2900,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_bangalore_022_089.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-26T22:55:21.375Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_090",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 488,
+    "discountPercent": 18,
+    "finalPrice": 400,
+    "rating": 4.1,
+    "totalRatings": 2475,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_bangalore_022_090.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-27T00:34:28.709Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_091",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Popular choice: Masala Chai made with premium ingredients.",
+    "price": 422,
+    "discountPercent": 10,
+    "finalPrice": 380,
+    "rating": 4.1,
+    "totalRatings": 1135,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_022_091.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "juice",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-26T04:19:09.716Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_092",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Popular choice: Buttermilk made with premium ingredients.",
+    "price": 240,
+    "discountPercent": 2,
+    "finalPrice": 235,
+    "rating": 3.9,
+    "totalRatings": 3234,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_022_092.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "juice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-31T03:40:45.991Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_093",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Popular choice: Avocado Toast made with premium ingredients.",
+    "price": 595,
+    "discountPercent": 11,
+    "finalPrice": 530,
+    "rating": 4.5,
+    "totalRatings": 1348,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_bangalore_022_093.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-26T12:02:27.817Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_094",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 313,
+    "discountPercent": 22,
+    "finalPrice": 244,
+    "rating": 4.8,
+    "totalRatings": 4328,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_bangalore_022_094.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-08T15:58:05.545Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_095",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Delicious mango shake prepared fresh with authentic spices.",
+    "price": 865,
+    "discountPercent": 25,
+    "finalPrice": 649,
+    "rating": 4.8,
+    "totalRatings": 4699,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_022_095.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "tea",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-25T19:13:57.121Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_096",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 463,
+    "discountPercent": 20,
+    "finalPrice": 370,
+    "rating": 4.3,
+    "totalRatings": 3470,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_022_096.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "juice",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-05T13:32:25.804Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_097",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 124,
+    "discountPercent": 28,
+    "finalPrice": 89,
+    "rating": 4.3,
+    "totalRatings": 4665,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_bangalore_022_097.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-26T13:59:11.335Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_098",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Chef's special cold coffee — perfect for a satisfying meal.",
+    "price": 670,
+    "discountPercent": 5,
+    "finalPrice": 637,
+    "rating": 4.9,
+    "totalRatings": 1076,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_022_098.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "tea",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-06T22:58:12.650Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_099",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 658,
+    "discountPercent": 0,
+    "finalPrice": 658,
+    "rating": 3.9,
+    "totalRatings": 1952,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_bangalore_022_099.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-06T23:23:20.485Z"
+  },
+  {
+    "id": "product_vendor_bangalore_022_100",
+    "vendorId": "vendor_bangalore_022",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 268,
+    "discountPercent": 0,
+    "finalPrice": 268,
+    "rating": 4.7,
+    "totalRatings": 1730,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_bangalore_022_100.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-29T19:55:07.007Z"
+  }
+]

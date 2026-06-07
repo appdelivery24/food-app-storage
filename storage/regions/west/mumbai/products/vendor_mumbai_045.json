@@ -1,0 +1,3599 @@
+[
+  {
+    "id": "product_vendor_mumbai_045_001",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Chef's special french fries — perfect for a satisfying meal.",
+    "price": 85,
+    "discountPercent": 31,
+    "finalPrice": 59,
+    "rating": 3.8,
+    "totalRatings": 2237,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_045_001.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "sandwich",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-25T22:23:31.076Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_002",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 845,
+    "discountPercent": 3,
+    "finalPrice": 820,
+    "rating": 4.3,
+    "totalRatings": 522,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_045_002.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-11T17:45:41.133Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_003",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 432,
+    "discountPercent": 6,
+    "finalPrice": 406,
+    "rating": 4.3,
+    "totalRatings": 4520,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_003.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-07T22:37:49.508Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_004",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 495,
+    "discountPercent": 13,
+    "finalPrice": 431,
+    "rating": 4.4,
+    "totalRatings": 2982,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_004.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-02T14:04:04.604Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_005",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Popular choice: Cheese Burger made with premium ingredients.",
+    "price": 530,
+    "discountPercent": 28,
+    "finalPrice": 382,
+    "rating": 4.8,
+    "totalRatings": 2681,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_045_005.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "fries",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-08T15:12:08.219Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_006",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 272,
+    "discountPercent": 1,
+    "finalPrice": 269,
+    "rating": 4.3,
+    "totalRatings": 2807,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_045_006.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-11T07:44:22.363Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_007",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 415,
+    "discountPercent": 17,
+    "finalPrice": 344,
+    "rating": 4.1,
+    "totalRatings": 3044,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_045_007.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-03T03:43:54.124Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_008",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 427,
+    "discountPercent": 13,
+    "finalPrice": 371,
+    "rating": 4.2,
+    "totalRatings": 3545,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_045_008.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-18T10:45:33.123Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_009",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 165,
+    "discountPercent": 26,
+    "finalPrice": 122,
+    "rating": 4.4,
+    "totalRatings": 1173,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_045_009.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-15T05:34:54.814Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_010",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 490,
+    "discountPercent": 15,
+    "finalPrice": 417,
+    "rating": 4,
+    "totalRatings": 4439,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_mumbai_045_010.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "fries",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-02T08:03:34.818Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_011",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 396,
+    "discountPercent": 19,
+    "finalPrice": 321,
+    "rating": 4.2,
+    "totalRatings": 3058,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_045_011.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-28T05:31:32.507Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_012",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 182,
+    "discountPercent": 0,
+    "finalPrice": 182,
+    "rating": 4.9,
+    "totalRatings": 4610,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_045_012.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "pizza",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-04T17:52:39.730Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_013",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Classic cheese burger served hot and fresh.",
+    "price": 135,
+    "discountPercent": 3,
+    "finalPrice": 131,
+    "rating": 4.1,
+    "totalRatings": 1222,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_045_013.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "cheese"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-06T10:43:14.377Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_014",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 541,
+    "discountPercent": 40,
+    "finalPrice": 325,
+    "rating": 4.7,
+    "totalRatings": 947,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_045_014.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-23T09:30:02.073Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_015",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 636,
+    "discountPercent": 23,
+    "finalPrice": 490,
+    "rating": 4.3,
+    "totalRatings": 1718,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_045_015.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "sandwich",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-24T21:17:34.388Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_016",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 347,
+    "discountPercent": 37,
+    "finalPrice": 219,
+    "rating": 4.6,
+    "totalRatings": 1152,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_016.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-04T01:59:32.758Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_017",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 513,
+    "discountPercent": 15,
+    "finalPrice": 436,
+    "rating": 4.8,
+    "totalRatings": 372,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_017.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-27T14:47:26.178Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_018",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 784,
+    "discountPercent": 3,
+    "finalPrice": 760,
+    "rating": 3.6,
+    "totalRatings": 2909,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_018.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-20T04:36:20.696Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_019",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Classic cheese burger served hot and fresh.",
+    "price": 379,
+    "discountPercent": 12,
+    "finalPrice": 334,
+    "rating": 4.4,
+    "totalRatings": 3763,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_045_019.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "cheese"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-16T09:13:11.492Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_020",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 729,
+    "discountPercent": 12,
+    "finalPrice": 642,
+    "rating": 4.2,
+    "totalRatings": 2225,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_045_020.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-01T00:58:29.013Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_021",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 807,
+    "discountPercent": 27,
+    "finalPrice": 589,
+    "rating": 3.8,
+    "totalRatings": 831,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_045_021.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "fries",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-30T13:34:50.681Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_022",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 260,
+    "discountPercent": 17,
+    "finalPrice": 216,
+    "rating": 3.7,
+    "totalRatings": 1028,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_045_022.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-20T14:56:25.982Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_023",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Popular choice: Garlic Bread made with premium ingredients.",
+    "price": 518,
+    "discountPercent": 20,
+    "finalPrice": 414,
+    "rating": 4,
+    "totalRatings": 1756,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_045_023.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "pizza",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-08T02:23:09.987Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_024",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 842,
+    "discountPercent": 6,
+    "finalPrice": 791,
+    "rating": 4.2,
+    "totalRatings": 120,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_mumbai_045_024.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "pizza",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-30T14:23:38.825Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_025",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 539,
+    "discountPercent": 25,
+    "finalPrice": 404,
+    "rating": 3.6,
+    "totalRatings": 319,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_045_025.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "pizza",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-09T21:16:07.299Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_026",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Chef's special margherita pizza — perfect for a satisfying meal.",
+    "price": 387,
+    "discountPercent": 3,
+    "finalPrice": 375,
+    "rating": 3.8,
+    "totalRatings": 178,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_045_026.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-08T04:35:33.619Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_027",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 109,
+    "discountPercent": 30,
+    "finalPrice": 76,
+    "rating": 4.1,
+    "totalRatings": 1259,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_027.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-09T19:53:08.720Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_028",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 653,
+    "discountPercent": 34,
+    "finalPrice": 431,
+    "rating": 4.9,
+    "totalRatings": 3548,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_045_028.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-17T23:23:57.546Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_029",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 157,
+    "discountPercent": 29,
+    "finalPrice": 111,
+    "rating": 4.9,
+    "totalRatings": 3103,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_029.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-08T01:21:14.101Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_030",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 571,
+    "discountPercent": 6,
+    "finalPrice": 537,
+    "rating": 4.8,
+    "totalRatings": 3614,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_045_030.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "sandwich",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-19T17:50:25.135Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_031",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 245,
+    "discountPercent": 18,
+    "finalPrice": 201,
+    "rating": 4.7,
+    "totalRatings": 2518,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_045_031.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-23T19:40:37.497Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_032",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 176,
+    "discountPercent": 18,
+    "finalPrice": 144,
+    "rating": 3.7,
+    "totalRatings": 4712,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_045_032.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "fries",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-07T09:29:49.612Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_033",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 842,
+    "discountPercent": 37,
+    "finalPrice": 530,
+    "rating": 4.5,
+    "totalRatings": 3597,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_045_033.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "pizza",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-01T09:16:39.018Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_034",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 163,
+    "discountPercent": 17,
+    "finalPrice": 135,
+    "rating": 4.4,
+    "totalRatings": 627,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_045_034.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "sandwich",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-27T05:33:39.743Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_035",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Delicious french fries prepared fresh with authentic spices.",
+    "price": 809,
+    "discountPercent": 30,
+    "finalPrice": 566,
+    "rating": 4.8,
+    "totalRatings": 149,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_045_035.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-03T01:07:06.829Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_036",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 313,
+    "discountPercent": 15,
+    "finalPrice": 266,
+    "rating": 3.8,
+    "totalRatings": 4585,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_045_036.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "pizza",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-25T23:57:38.319Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_037",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 852,
+    "discountPercent": 35,
+    "finalPrice": 554,
+    "rating": 4,
+    "totalRatings": 3932,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_045_037.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-27T05:16:05.649Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_038",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 398,
+    "discountPercent": 2,
+    "finalPrice": 390,
+    "rating": 4.4,
+    "totalRatings": 1787,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_mumbai_045_038.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-23T14:44:44.022Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_039",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 257,
+    "discountPercent": 31,
+    "finalPrice": 177,
+    "rating": 4,
+    "totalRatings": 81,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_045_039.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "pizza",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-16T11:29:23.418Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_040",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 232,
+    "discountPercent": 7,
+    "finalPrice": 216,
+    "rating": 4.5,
+    "totalRatings": 4685,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_045_040.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "pizza",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-22T12:43:13.689Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_041",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 686,
+    "discountPercent": 22,
+    "finalPrice": 535,
+    "rating": 4.7,
+    "totalRatings": 737,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_041.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-27T11:43:02.772Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_042",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 283,
+    "discountPercent": 6,
+    "finalPrice": 266,
+    "rating": 4.5,
+    "totalRatings": 2227,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_045_042.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-14T00:32:36.126Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_043",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 804,
+    "discountPercent": 18,
+    "finalPrice": 659,
+    "rating": 4.3,
+    "totalRatings": 4610,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_045_043.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "sandwich",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-26T17:10:55.187Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_044",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 557,
+    "discountPercent": 8,
+    "finalPrice": 512,
+    "rating": 4,
+    "totalRatings": 4002,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_045_044.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "sandwich",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-20T22:10:11.196Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_045",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 410,
+    "discountPercent": 32,
+    "finalPrice": 279,
+    "rating": 4.3,
+    "totalRatings": 1696,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_045.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-12T04:04:39.644Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_046",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 153,
+    "discountPercent": 31,
+    "finalPrice": 106,
+    "rating": 3.5,
+    "totalRatings": 285,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_045_046.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "burger",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-21T13:44:22.353Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_047",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 289,
+    "discountPercent": 34,
+    "finalPrice": 191,
+    "rating": 4.2,
+    "totalRatings": 3006,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_047.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-17T08:14:22.288Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_048",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 420,
+    "discountPercent": 19,
+    "finalPrice": 340,
+    "rating": 3.9,
+    "totalRatings": 5000,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_045_048.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-27T14:05:52.492Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_049",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 408,
+    "discountPercent": 11,
+    "finalPrice": 363,
+    "rating": 4.2,
+    "totalRatings": 4342,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_045_049.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "fries",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-18T22:34:22.090Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_050",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 245,
+    "discountPercent": 37,
+    "finalPrice": 154,
+    "rating": 3.7,
+    "totalRatings": 4714,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_045_050.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "pizza",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-23T08:58:24.256Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_051",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 456,
+    "discountPercent": 27,
+    "finalPrice": 333,
+    "rating": 4.1,
+    "totalRatings": 3435,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_045_051.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "burger",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-18T14:58:12.938Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_052",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Chef's special margherita pizza — perfect for a satisfying meal.",
+    "price": 409,
+    "discountPercent": 7,
+    "finalPrice": 380,
+    "rating": 4.3,
+    "totalRatings": 2412,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_045_052.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-01T14:55:29.225Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_053",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 419,
+    "discountPercent": 24,
+    "finalPrice": 318,
+    "rating": 4.4,
+    "totalRatings": 1817,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_mumbai_045_053.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "fries",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-14T07:00:09.942Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_054",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 341,
+    "discountPercent": 23,
+    "finalPrice": 263,
+    "rating": 4.5,
+    "totalRatings": 540,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_045_054.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-06T16:05:37.246Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_055",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 375,
+    "discountPercent": 25,
+    "finalPrice": 281,
+    "rating": 4.2,
+    "totalRatings": 2798,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_055.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-26T07:11:42.995Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_056",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 402,
+    "discountPercent": 0,
+    "finalPrice": 402,
+    "rating": 4,
+    "totalRatings": 4289,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_045_056.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-20T16:15:38.508Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_057",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Chef's special margherita pizza — perfect for a satisfying meal.",
+    "price": 445,
+    "discountPercent": 0,
+    "finalPrice": 445,
+    "rating": 4,
+    "totalRatings": 3467,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_045_057.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-16T02:20:03.880Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_058",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 594,
+    "discountPercent": 38,
+    "finalPrice": 368,
+    "rating": 3.7,
+    "totalRatings": 841,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_045_058.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-29T14:01:43.867Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_059",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Chef's special french fries — perfect for a satisfying meal.",
+    "price": 284,
+    "discountPercent": 4,
+    "finalPrice": 273,
+    "rating": 4,
+    "totalRatings": 1716,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_045_059.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "pizza",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-15T22:21:58.647Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_060",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Popular choice: Margherita Pizza made with premium ingredients.",
+    "price": 536,
+    "discountPercent": 19,
+    "finalPrice": 434,
+    "rating": 3.6,
+    "totalRatings": 4157,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_045_060.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-22T00:23:18.510Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_061",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 461,
+    "discountPercent": 31,
+    "finalPrice": 318,
+    "rating": 4.3,
+    "totalRatings": 1561,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_061.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-25T06:12:42.305Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_062",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 228,
+    "discountPercent": 9,
+    "finalPrice": 207,
+    "rating": 4.8,
+    "totalRatings": 2544,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_045_062.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-24T08:24:58.446Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_063",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 199,
+    "discountPercent": 9,
+    "finalPrice": 181,
+    "rating": 4.7,
+    "totalRatings": 1785,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_mumbai_045_063.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-26T23:51:28.131Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_064",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 677,
+    "discountPercent": 13,
+    "finalPrice": 589,
+    "rating": 4.4,
+    "totalRatings": 1542,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_064.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-30T19:04:12.360Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_065",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 772,
+    "discountPercent": 17,
+    "finalPrice": 641,
+    "rating": 3.6,
+    "totalRatings": 2610,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_045_065.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "burger",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-10T02:39:48.964Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_066",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 395,
+    "discountPercent": 29,
+    "finalPrice": 280,
+    "rating": 4,
+    "totalRatings": 3855,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_045_066.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "margherita"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-05T13:09:28.274Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_067",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Chef's special margherita pizza — perfect for a satisfying meal.",
+    "price": 436,
+    "discountPercent": 21,
+    "finalPrice": 344,
+    "rating": 4,
+    "totalRatings": 1213,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_045_067.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-04T01:20:12.597Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_068",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 718,
+    "discountPercent": 6,
+    "finalPrice": 675,
+    "rating": 4.2,
+    "totalRatings": 136,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_mumbai_045_068.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-11T12:44:42.957Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_069",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Popular choice: Garlic Bread made with premium ingredients.",
+    "price": 167,
+    "discountPercent": 23,
+    "finalPrice": 129,
+    "rating": 3.8,
+    "totalRatings": 1432,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_045_069.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "sandwich",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-13T00:10:50.308Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_070",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Chef's special french fries — perfect for a satisfying meal.",
+    "price": 359,
+    "discountPercent": 19,
+    "finalPrice": 291,
+    "rating": 3.7,
+    "totalRatings": 3075,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_045_070.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "burger",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-16T21:09:57.520Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_071",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 180,
+    "discountPercent": 9,
+    "finalPrice": 164,
+    "rating": 4.8,
+    "totalRatings": 4296,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_045_071.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "pizza",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-13T06:14:30.008Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_072",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Popular choice: Cheese Burger made with premium ingredients.",
+    "price": 737,
+    "discountPercent": 36,
+    "finalPrice": 472,
+    "rating": 4.5,
+    "totalRatings": 3883,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_045_072.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "cheese"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-11T09:42:06.259Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_073",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 600,
+    "discountPercent": 2,
+    "finalPrice": 588,
+    "rating": 4.6,
+    "totalRatings": 2611,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_045_073.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "fries",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-02T06:22:43.009Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_074",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 378,
+    "discountPercent": 0,
+    "finalPrice": 378,
+    "rating": 4.2,
+    "totalRatings": 1454,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_074.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-16T01:10:02.473Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_075",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 148,
+    "discountPercent": 20,
+    "finalPrice": 118,
+    "rating": 4.4,
+    "totalRatings": 1487,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_mumbai_045_075.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-02T20:26:03.712Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_076",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 742,
+    "discountPercent": 33,
+    "finalPrice": 497,
+    "rating": 3.5,
+    "totalRatings": 1071,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_076.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-22T04:39:41.310Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_077",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 800,
+    "discountPercent": 34,
+    "finalPrice": 528,
+    "rating": 4.8,
+    "totalRatings": 4506,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_045_077.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-13T11:49:02.250Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_078",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 437,
+    "discountPercent": 11,
+    "finalPrice": 389,
+    "rating": 4.1,
+    "totalRatings": 2135,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_045_078.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "burger",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-23T05:00:00.147Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_079",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 607,
+    "discountPercent": 28,
+    "finalPrice": 437,
+    "rating": 4,
+    "totalRatings": 1529,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_045_079.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-10T21:45:44.250Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_080",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Delicious veg sandwich prepared fresh with authentic spices.",
+    "price": 731,
+    "discountPercent": 17,
+    "finalPrice": 607,
+    "rating": 3.9,
+    "totalRatings": 2973,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_mumbai_045_080.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-25T03:19:20.140Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_081",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 662,
+    "discountPercent": 11,
+    "finalPrice": 589,
+    "rating": 4.7,
+    "totalRatings": 787,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_mumbai_045_081.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-18T23:59:52.683Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_082",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 716,
+    "discountPercent": 22,
+    "finalPrice": 558,
+    "rating": 3.7,
+    "totalRatings": 66,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_045_082.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-14T15:56:14.235Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_083",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 277,
+    "discountPercent": 35,
+    "finalPrice": 180,
+    "rating": 4.9,
+    "totalRatings": 1693,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_045_083.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "wrap",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-11T17:43:21.346Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_084",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 560,
+    "discountPercent": 25,
+    "finalPrice": 420,
+    "rating": 3.7,
+    "totalRatings": 3388,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_045_084.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-19T09:01:02.959Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_085",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 333,
+    "discountPercent": 14,
+    "finalPrice": 286,
+    "rating": 4.7,
+    "totalRatings": 3484,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_mumbai_045_085.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-28T15:27:27.192Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_086",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 850,
+    "discountPercent": 2,
+    "finalPrice": 833,
+    "rating": 4.6,
+    "totalRatings": 3398,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_045_086.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "pizza",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-27T17:47:25.524Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_087",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Classic cheese burger served hot and fresh.",
+    "price": 633,
+    "discountPercent": 33,
+    "finalPrice": 424,
+    "rating": 3.6,
+    "totalRatings": 627,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_045_087.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "pizza",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-22T03:33:13.504Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_088",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 556,
+    "discountPercent": 17,
+    "finalPrice": 461,
+    "rating": 3.8,
+    "totalRatings": 600,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_mumbai_045_088.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "pizza",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-05T21:14:13.246Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_089",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 887,
+    "discountPercent": 0,
+    "finalPrice": 887,
+    "rating": 4.4,
+    "totalRatings": 2284,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_mumbai_045_089.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "burger",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-01T17:35:32.183Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_090",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 636,
+    "discountPercent": 32,
+    "finalPrice": 432,
+    "rating": 4.9,
+    "totalRatings": 980,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_045_090.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "fries",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-22T13:23:24.391Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_091",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 630,
+    "discountPercent": 1,
+    "finalPrice": 624,
+    "rating": 3.8,
+    "totalRatings": 1451,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_091.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-27T04:20:29.971Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_092",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 573,
+    "discountPercent": 7,
+    "finalPrice": 533,
+    "rating": 4.4,
+    "totalRatings": 446,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_mumbai_045_092.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-12T02:32:52.178Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_093",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 573,
+    "discountPercent": 33,
+    "finalPrice": 384,
+    "rating": 4.9,
+    "totalRatings": 4384,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_045_093.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-07T02:18:21.376Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_094",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Classic cheese burger served hot and fresh.",
+    "price": 196,
+    "discountPercent": 38,
+    "finalPrice": 122,
+    "rating": 4.7,
+    "totalRatings": 3318,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_mumbai_045_094.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "sandwich",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-24T20:40:21.571Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_095",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 446,
+    "discountPercent": 24,
+    "finalPrice": 339,
+    "rating": 4,
+    "totalRatings": 1947,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_mumbai_045_095.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "burger",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-08T03:21:28.324Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_096",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 146,
+    "discountPercent": 3,
+    "finalPrice": 142,
+    "rating": 3.8,
+    "totalRatings": 3121,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_045_096.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-01T05:40:21.652Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_097",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 838,
+    "discountPercent": 4,
+    "finalPrice": 804,
+    "rating": 3.6,
+    "totalRatings": 4646,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_045_097.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "margherita"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-27T01:22:43.150Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_098",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Chef's special margherita pizza — perfect for a satisfying meal.",
+    "price": 874,
+    "discountPercent": 13,
+    "finalPrice": 760,
+    "rating": 4.1,
+    "totalRatings": 3349,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_045_098.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-15T10:57:46.376Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_099",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 250,
+    "discountPercent": 33,
+    "finalPrice": 167,
+    "rating": 4.9,
+    "totalRatings": 4883,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_mumbai_045_099.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "burger",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-08T08:58:35.105Z"
+  },
+  {
+    "id": "product_vendor_mumbai_045_100",
+    "vendorId": "vendor_mumbai_045",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 669,
+    "discountPercent": 28,
+    "finalPrice": 482,
+    "rating": 4.7,
+    "totalRatings": 895,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_mumbai_045_100.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-23T05:53:12.706Z"
+  }
+]

@@ -1,0 +1,3533 @@
+[
+  {
+    "id": "product_vendor_bangalore_004_001",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Delicious aloo tikki chaat prepared fresh with authentic spices.",
+    "price": 513,
+    "discountPercent": 38,
+    "finalPrice": 318,
+    "rating": 3.5,
+    "totalRatings": 2060,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_004_001.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "rolls",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-15T16:04:02.259Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_002",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Classic pav bhaji served hot and fresh.",
+    "price": 617,
+    "discountPercent": 11,
+    "finalPrice": 549,
+    "rating": 4.2,
+    "totalRatings": 4886,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_bangalore_004_002.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "vada-pav",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-17T22:34:57.575Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_003",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Popular choice: Pav Bhaji made with premium ingredients.",
+    "price": 229,
+    "discountPercent": 30,
+    "finalPrice": 160,
+    "rating": 4.8,
+    "totalRatings": 3184,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_bangalore_004_003.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "chaat",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-24T22:01:26.539Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_004",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Chef's special aloo tikki chaat — perfect for a satisfying meal.",
+    "price": 262,
+    "discountPercent": 10,
+    "finalPrice": 236,
+    "rating": 4,
+    "totalRatings": 393,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_004_004.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "aloo",
+      "tikki"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-16T06:58:22.590Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_005",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 692,
+    "discountPercent": 25,
+    "finalPrice": 519,
+    "rating": 4.6,
+    "totalRatings": 4628,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_004_005.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "veg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-12T10:22:39.773Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_006",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Popular choice: Dahi Bhalla made with premium ingredients.",
+    "price": 579,
+    "discountPercent": 14,
+    "finalPrice": 498,
+    "rating": 4.8,
+    "totalRatings": 2412,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_004_006.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "rolls",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-09T03:49:23.368Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_007",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Delicious chicken biryani prepared fresh with authentic spices.",
+    "price": 268,
+    "discountPercent": 1,
+    "finalPrice": 265,
+    "rating": 3.6,
+    "totalRatings": 4581,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_004_007.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "veg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-24T23:45:04.771Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_008",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Popular choice: Veg Biryani made with premium ingredients.",
+    "price": 774,
+    "discountPercent": 37,
+    "finalPrice": 488,
+    "rating": 4.1,
+    "totalRatings": 3064,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_004_008.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "mutton-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-07T14:47:34.600Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_009",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Delicious dahi bhalla prepared fresh with authentic spices.",
+    "price": 573,
+    "discountPercent": 38,
+    "finalPrice": 355,
+    "rating": 3.7,
+    "totalRatings": 4716,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_004_009.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "vada-pav",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-15T12:30:55.547Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_010",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 154,
+    "discountPercent": 34,
+    "finalPrice": 102,
+    "rating": 3.9,
+    "totalRatings": 3224,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_004_010.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "chaat",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-14T11:51:54.526Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_011",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 482,
+    "discountPercent": 20,
+    "finalPrice": 386,
+    "rating": 4.6,
+    "totalRatings": 3900,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_004_011.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-17T08:16:02.676Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_012",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 480,
+    "discountPercent": 7,
+    "finalPrice": 446,
+    "rating": 3.5,
+    "totalRatings": 502,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_004_012.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "momos",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-31T14:40:42.419Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_013",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Popular choice: Dahi Bhalla made with premium ingredients.",
+    "price": 739,
+    "discountPercent": 24,
+    "finalPrice": 562,
+    "rating": 4.9,
+    "totalRatings": 4804,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_004_013.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "vada-pav",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-20T04:38:59.517Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_014",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Popular choice: Hyderabadi Dum Biryani made with premium ingredients.",
+    "price": 428,
+    "discountPercent": 34,
+    "finalPrice": 282,
+    "rating": 4.1,
+    "totalRatings": 3284,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_004_014.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "chicken-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-15T09:46:32.156Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_015",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Delicious hyderabadi dum biryani prepared fresh with authentic spices.",
+    "price": 525,
+    "discountPercent": 15,
+    "finalPrice": 446,
+    "rating": 4.5,
+    "totalRatings": 3441,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_004_015.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "mutton-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-08T21:00:17.982Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_016",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Delicious veg biryani prepared fresh with authentic spices.",
+    "price": 642,
+    "discountPercent": 10,
+    "finalPrice": 578,
+    "rating": 4.6,
+    "totalRatings": 667,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_004_016.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "egg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-08T22:28:02.759Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_017",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Delicious vada pav prepared fresh with authentic spices.",
+    "price": 276,
+    "discountPercent": 0,
+    "finalPrice": 276,
+    "rating": 3.8,
+    "totalRatings": 1838,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_bangalore_004_017.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "rolls",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-28T18:41:45.272Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_018",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Classic aloo tikki chaat served hot and fresh.",
+    "price": 174,
+    "discountPercent": 23,
+    "finalPrice": 134,
+    "rating": 4.9,
+    "totalRatings": 3171,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_004_018.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "vada-pav",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-19T20:51:22.007Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_019",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Delicious aloo tikki chaat prepared fresh with authentic spices.",
+    "price": 340,
+    "discountPercent": 5,
+    "finalPrice": 323,
+    "rating": 4.9,
+    "totalRatings": 3719,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_004_019.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "vada-pav",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-26T03:04:12.943Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_020",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Chef's special veg biryani — perfect for a satisfying meal.",
+    "price": 814,
+    "discountPercent": 11,
+    "finalPrice": 724,
+    "rating": 4.7,
+    "totalRatings": 2367,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_004_020.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "chicken-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-07T00:55:48.125Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_021",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Popular choice: Veg Momos made with premium ingredients.",
+    "price": 841,
+    "discountPercent": 19,
+    "finalPrice": 681,
+    "rating": 4.7,
+    "totalRatings": 1072,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_bangalore_004_021.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "rolls",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-30T19:31:40.344Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_022",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Chef's special veg momos — perfect for a satisfying meal.",
+    "price": 479,
+    "discountPercent": 6,
+    "finalPrice": 450,
+    "rating": 4.8,
+    "totalRatings": 345,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_bangalore_004_022.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-05T07:52:47.573Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_023",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Delicious veg momos prepared fresh with authentic spices.",
+    "price": 497,
+    "discountPercent": 39,
+    "finalPrice": 303,
+    "rating": 3.5,
+    "totalRatings": 1948,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_bangalore_004_023.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-27T19:13:36.117Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_024",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Delicious aloo tikki chaat prepared fresh with authentic spices.",
+    "price": 614,
+    "discountPercent": 24,
+    "finalPrice": 467,
+    "rating": 4.6,
+    "totalRatings": 123,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_004_024.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "vada-pav",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-03T11:30:12.186Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_025",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Popular choice: Mutton Biryani made with premium ingredients.",
+    "price": 212,
+    "discountPercent": 5,
+    "finalPrice": 201,
+    "rating": 3.7,
+    "totalRatings": 917,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_004_025.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "veg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-22T07:33:10.474Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_026",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Popular choice: Mutton Biryani made with premium ingredients.",
+    "price": 786,
+    "discountPercent": 26,
+    "finalPrice": 582,
+    "rating": 4.7,
+    "totalRatings": 2368,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_004_026.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "veg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-20T18:18:52.090Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_027",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 791,
+    "discountPercent": 6,
+    "finalPrice": 744,
+    "rating": 4.8,
+    "totalRatings": 179,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_004_027.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-31T19:16:25.965Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_028",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Popular choice: Pani Puri made with premium ingredients.",
+    "price": 843,
+    "discountPercent": 18,
+    "finalPrice": 691,
+    "rating": 3.6,
+    "totalRatings": 1509,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_bangalore_004_028.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "rolls",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-02T08:35:57.613Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_029",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Popular choice: Pav Bhaji made with premium ingredients.",
+    "price": 400,
+    "discountPercent": 16,
+    "finalPrice": 336,
+    "rating": 4,
+    "totalRatings": 2392,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_bangalore_004_029.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "rolls",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-25T10:44:06.998Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_030",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Delicious dahi bhalla prepared fresh with authentic spices.",
+    "price": 598,
+    "discountPercent": 40,
+    "finalPrice": 359,
+    "rating": 3.9,
+    "totalRatings": 2340,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_004_030.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "pav-bhaji",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-08T23:40:37.108Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_031",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Popular choice: Egg Biryani made with premium ingredients.",
+    "price": 150,
+    "discountPercent": 33,
+    "finalPrice": 100,
+    "rating": 3.6,
+    "totalRatings": 1123,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_004_031.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "veg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-24T12:54:38.019Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_032",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Classic egg biryani served hot and fresh.",
+    "price": 217,
+    "discountPercent": 30,
+    "finalPrice": 152,
+    "rating": 3.7,
+    "totalRatings": 2247,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_004_032.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "egg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-26T12:58:36.662Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_033",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 790,
+    "discountPercent": 28,
+    "finalPrice": 569,
+    "rating": 4.2,
+    "totalRatings": 257,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_004_033.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "mutton-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-31T21:58:31.616Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_034",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Popular choice: Veg Biryani made with premium ingredients.",
+    "price": 419,
+    "discountPercent": 12,
+    "finalPrice": 369,
+    "rating": 4.7,
+    "totalRatings": 1144,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_004_034.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "veg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-26T22:59:39.191Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_035",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Classic vada pav served hot and fresh.",
+    "price": 298,
+    "discountPercent": 2,
+    "finalPrice": 292,
+    "rating": 4.6,
+    "totalRatings": 655,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_bangalore_004_035.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "chaat",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-23T09:21:51.799Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_036",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Delicious veg momos prepared fresh with authentic spices.",
+    "price": 565,
+    "discountPercent": 35,
+    "finalPrice": 367,
+    "rating": 3.8,
+    "totalRatings": 1311,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_bangalore_004_036.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "pav-bhaji",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-30T06:14:06.878Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_037",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Popular choice: Hyderabadi Dum Biryani made with premium ingredients.",
+    "price": 500,
+    "discountPercent": 12,
+    "finalPrice": 440,
+    "rating": 4.1,
+    "totalRatings": 1708,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_004_037.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "chicken-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-26T19:59:04.423Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_038",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Classic aloo tikki chaat served hot and fresh.",
+    "price": 690,
+    "discountPercent": 18,
+    "finalPrice": 566,
+    "rating": 3.6,
+    "totalRatings": 1828,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_004_038.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "pav-bhaji",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-03T18:51:58.232Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_039",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Popular choice: Mutton Biryani made with premium ingredients.",
+    "price": 477,
+    "discountPercent": 32,
+    "finalPrice": 324,
+    "rating": 4.9,
+    "totalRatings": 2052,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_004_039.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "egg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-15T05:18:23.031Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_040",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Classic pav bhaji served hot and fresh.",
+    "price": 359,
+    "discountPercent": 39,
+    "finalPrice": 219,
+    "rating": 4.6,
+    "totalRatings": 2864,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_bangalore_004_040.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "momos",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-11T21:26:09.636Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_041",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Classic pani puri served hot and fresh.",
+    "price": 573,
+    "discountPercent": 3,
+    "finalPrice": 556,
+    "rating": 3.9,
+    "totalRatings": 4637,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_bangalore_004_041.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "chaat",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-29T05:20:19.546Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_042",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Classic egg biryani served hot and fresh.",
+    "price": 325,
+    "discountPercent": 4,
+    "finalPrice": 312,
+    "rating": 4.4,
+    "totalRatings": 1552,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_004_042.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "chicken-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-04T17:34:57.309Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_043",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Popular choice: Pav Bhaji made with premium ingredients.",
+    "price": 276,
+    "discountPercent": 1,
+    "finalPrice": 273,
+    "rating": 4.3,
+    "totalRatings": 2862,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_bangalore_004_043.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "chaat",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-28T19:19:06.412Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_044",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Classic egg biryani served hot and fresh.",
+    "price": 159,
+    "discountPercent": 3,
+    "finalPrice": 154,
+    "rating": 4.2,
+    "totalRatings": 1424,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_004_044.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "egg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-17T16:46:59.694Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_045",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Popular choice: Pav Bhaji made with premium ingredients.",
+    "price": 154,
+    "discountPercent": 1,
+    "finalPrice": 152,
+    "rating": 4.8,
+    "totalRatings": 4168,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_bangalore_004_045.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "momos",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-14T00:21:43.312Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_046",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Chef's special aloo tikki chaat — perfect for a satisfying meal.",
+    "price": 144,
+    "discountPercent": 3,
+    "finalPrice": 140,
+    "rating": 3.7,
+    "totalRatings": 1902,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_004_046.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "aloo",
+      "tikki"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-18T06:05:52.446Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_047",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Popular choice: Vada Pav made with premium ingredients.",
+    "price": 791,
+    "discountPercent": 38,
+    "finalPrice": 490,
+    "rating": 3.6,
+    "totalRatings": 376,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_bangalore_004_047.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "pav-bhaji",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-01T11:34:32.848Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_048",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 254,
+    "discountPercent": 24,
+    "finalPrice": 193,
+    "rating": 4.2,
+    "totalRatings": 247,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_004_048.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "pav-bhaji",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-18T08:07:35.780Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_049",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Chef's special veg momos — perfect for a satisfying meal.",
+    "price": 341,
+    "discountPercent": 3,
+    "finalPrice": 331,
+    "rating": 4.6,
+    "totalRatings": 4152,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_bangalore_004_049.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "rolls",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-15T00:00:41.909Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_050",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Chef's special dahi bhalla — perfect for a satisfying meal.",
+    "price": 745,
+    "discountPercent": 12,
+    "finalPrice": 656,
+    "rating": 4.7,
+    "totalRatings": 1137,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_004_050.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "rolls",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-10T08:09:43.835Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_051",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Delicious chicken biryani prepared fresh with authentic spices.",
+    "price": 180,
+    "discountPercent": 17,
+    "finalPrice": 149,
+    "rating": 4.2,
+    "totalRatings": 4724,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_004_051.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "egg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-07T20:45:33.458Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_052",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Popular choice: Pav Bhaji made with premium ingredients.",
+    "price": 393,
+    "discountPercent": 25,
+    "finalPrice": 295,
+    "rating": 4.5,
+    "totalRatings": 2040,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_bangalore_004_052.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "chaat",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-21T16:41:37.892Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_053",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Chef's special lucknowi biryani — perfect for a satisfying meal.",
+    "price": 559,
+    "discountPercent": 22,
+    "finalPrice": 436,
+    "rating": 4.2,
+    "totalRatings": 1347,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_004_053.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "mutton-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-25T07:01:56.459Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_054",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Delicious aloo tikki chaat prepared fresh with authentic spices.",
+    "price": 645,
+    "discountPercent": 28,
+    "finalPrice": 464,
+    "rating": 4.6,
+    "totalRatings": 741,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_004_054.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "rolls",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-30T02:24:10.328Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_055",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Delicious aloo tikki chaat prepared fresh with authentic spices.",
+    "price": 211,
+    "discountPercent": 30,
+    "finalPrice": 148,
+    "rating": 3.6,
+    "totalRatings": 1761,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_004_055.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "rolls",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-08T07:07:23.570Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_056",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Popular choice: Egg Biryani made with premium ingredients.",
+    "price": 222,
+    "discountPercent": 34,
+    "finalPrice": 147,
+    "rating": 4.5,
+    "totalRatings": 1890,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_004_056.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "veg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-22T01:06:43.227Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_057",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Popular choice: Pav Bhaji made with premium ingredients.",
+    "price": 616,
+    "discountPercent": 6,
+    "finalPrice": 579,
+    "rating": 4.5,
+    "totalRatings": 2280,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_bangalore_004_057.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "momos",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-25T00:52:20.452Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_058",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Popular choice: Chicken Biryani made with premium ingredients.",
+    "price": 386,
+    "discountPercent": 25,
+    "finalPrice": 290,
+    "rating": 4.5,
+    "totalRatings": 4336,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_004_058.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "veg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-19T05:37:43.541Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_059",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Delicious hyderabadi dum biryani prepared fresh with authentic spices.",
+    "price": 637,
+    "discountPercent": 11,
+    "finalPrice": 567,
+    "rating": 4.1,
+    "totalRatings": 4237,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_004_059.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "chicken-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-29T08:22:51.005Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_060",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Classic mutton biryani served hot and fresh.",
+    "price": 898,
+    "discountPercent": 6,
+    "finalPrice": 844,
+    "rating": 3.8,
+    "totalRatings": 2448,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_004_060.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "chicken-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-19T00:11:46.178Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_061",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Delicious egg biryani prepared fresh with authentic spices.",
+    "price": 678,
+    "discountPercent": 11,
+    "finalPrice": 603,
+    "rating": 4.7,
+    "totalRatings": 3429,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_004_061.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "chicken-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-26T15:14:20.586Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_062",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Delicious veg biryani prepared fresh with authentic spices.",
+    "price": 615,
+    "discountPercent": 2,
+    "finalPrice": 603,
+    "rating": 3.6,
+    "totalRatings": 3487,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_004_062.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "mutton-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-18T12:28:55.255Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_063",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Popular choice: Dahi Bhalla made with premium ingredients.",
+    "price": 672,
+    "discountPercent": 5,
+    "finalPrice": 638,
+    "rating": 4.1,
+    "totalRatings": 216,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_004_063.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "pav-bhaji",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-28T17:03:26.147Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_064",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Classic mutton biryani served hot and fresh.",
+    "price": 821,
+    "discountPercent": 18,
+    "finalPrice": 673,
+    "rating": 4.6,
+    "totalRatings": 1494,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_004_064.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "mutton-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-05T10:24:10.521Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_065",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Chef's special mutton biryani — perfect for a satisfying meal.",
+    "price": 781,
+    "discountPercent": 32,
+    "finalPrice": 531,
+    "rating": 3.7,
+    "totalRatings": 3549,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_004_065.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "chicken-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-20T07:00:05.693Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_066",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 645,
+    "discountPercent": 29,
+    "finalPrice": 458,
+    "rating": 4,
+    "totalRatings": 133,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_004_066.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "pav-bhaji",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-05T20:57:45.488Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_067",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Delicious chicken biryani prepared fresh with authentic spices.",
+    "price": 327,
+    "discountPercent": 35,
+    "finalPrice": 213,
+    "rating": 4.4,
+    "totalRatings": 701,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_004_067.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-10T07:50:43.735Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_068",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Delicious veg biryani prepared fresh with authentic spices.",
+    "price": 112,
+    "discountPercent": 34,
+    "finalPrice": 74,
+    "rating": 4.2,
+    "totalRatings": 3486,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_004_068.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "chicken-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-15T12:35:52.388Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_069",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Chef's special pav bhaji — perfect for a satisfying meal.",
+    "price": 536,
+    "discountPercent": 30,
+    "finalPrice": 375,
+    "rating": 4.8,
+    "totalRatings": 1469,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_bangalore_004_069.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "vada-pav",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-14T15:33:57.005Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_070",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Popular choice: Pani Puri made with premium ingredients.",
+    "price": 819,
+    "discountPercent": 36,
+    "finalPrice": 524,
+    "rating": 4,
+    "totalRatings": 773,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_bangalore_004_070.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "pav-bhaji",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-03T17:55:03.321Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_071",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Delicious mutton biryani prepared fresh with authentic spices.",
+    "price": 498,
+    "discountPercent": 8,
+    "finalPrice": 458,
+    "rating": 4,
+    "totalRatings": 2895,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_004_071.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "chicken-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-22T14:49:19.674Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_072",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 516,
+    "discountPercent": 6,
+    "finalPrice": 485,
+    "rating": 4.2,
+    "totalRatings": 3383,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_004_072.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-13T21:04:24.323Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_073",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Classic chicken biryani served hot and fresh.",
+    "price": 210,
+    "discountPercent": 37,
+    "finalPrice": 132,
+    "rating": 4.7,
+    "totalRatings": 1198,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_004_073.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "egg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-18T16:25:23.900Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_074",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Popular choice: Pani Puri made with premium ingredients.",
+    "price": 321,
+    "discountPercent": 35,
+    "finalPrice": 209,
+    "rating": 3.9,
+    "totalRatings": 1913,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_bangalore_004_074.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "momos",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-06-05T15:11:33.726Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_075",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Classic kathi roll served hot and fresh.",
+    "price": 330,
+    "discountPercent": 25,
+    "finalPrice": 248,
+    "rating": 4,
+    "totalRatings": 272,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_bangalore_004_075.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "chaat",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-01T23:04:47.618Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_076",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Chef's special egg biryani — perfect for a satisfying meal.",
+    "price": 152,
+    "discountPercent": 36,
+    "finalPrice": 97,
+    "rating": 4.2,
+    "totalRatings": 4607,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_004_076.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "veg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-28T01:53:29.141Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_077",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Popular choice: Kathi Roll made with premium ingredients.",
+    "price": 844,
+    "discountPercent": 40,
+    "finalPrice": 506,
+    "rating": 4.8,
+    "totalRatings": 4717,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_bangalore_004_077.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "momos",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-15T07:46:49.801Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_078",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Delicious hyderabadi dum biryani prepared fresh with authentic spices.",
+    "price": 175,
+    "discountPercent": 32,
+    "finalPrice": 119,
+    "rating": 3.5,
+    "totalRatings": 3632,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_004_078.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "mutton-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-15T23:28:32.096Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_079",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Delicious hyderabadi dum biryani prepared fresh with authentic spices.",
+    "price": 829,
+    "discountPercent": 33,
+    "finalPrice": 555,
+    "rating": 4.7,
+    "totalRatings": 3920,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_004_079.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "mutton-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-20T21:55:59.326Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_080",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Chef's special mutton biryani — perfect for a satisfying meal.",
+    "price": 593,
+    "discountPercent": 32,
+    "finalPrice": 403,
+    "rating": 4.4,
+    "totalRatings": 4429,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_004_080.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "veg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-18T05:04:57.307Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_081",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Chef's special pav bhaji — perfect for a satisfying meal.",
+    "price": 226,
+    "discountPercent": 18,
+    "finalPrice": 185,
+    "rating": 3.8,
+    "totalRatings": 2595,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_bangalore_004_081.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "momos",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-10T22:09:29.030Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_082",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Delicious hyderabadi dum biryani prepared fresh with authentic spices.",
+    "price": 858,
+    "discountPercent": 28,
+    "finalPrice": 618,
+    "rating": 3.8,
+    "totalRatings": 727,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_004_082.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "egg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-21T01:11:23.938Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_083",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Classic vada pav served hot and fresh.",
+    "price": 681,
+    "discountPercent": 11,
+    "finalPrice": 606,
+    "rating": 4.1,
+    "totalRatings": 1539,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_bangalore_004_083.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "pav-bhaji",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-10T14:42:50.860Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_084",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Classic veg momos served hot and fresh.",
+    "price": 795,
+    "discountPercent": 18,
+    "finalPrice": 652,
+    "rating": 4.2,
+    "totalRatings": 3880,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_bangalore_004_084.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "pav-bhaji",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-07T10:17:45.740Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_085",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Classic veg biryani served hot and fresh.",
+    "price": 504,
+    "discountPercent": 4,
+    "finalPrice": 484,
+    "rating": 3.9,
+    "totalRatings": 2239,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_004_085.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "veg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-29T18:32:19.487Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_086",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Classic veg momos served hot and fresh.",
+    "price": 606,
+    "discountPercent": 6,
+    "finalPrice": 570,
+    "rating": 3.5,
+    "totalRatings": 3658,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_bangalore_004_086.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "chaat",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-05T17:10:59.386Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_087",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Popular choice: Chicken Biryani made with premium ingredients.",
+    "price": 178,
+    "discountPercent": 17,
+    "finalPrice": 148,
+    "rating": 3.6,
+    "totalRatings": 4347,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_004_087.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "egg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-29T00:26:35.246Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_088",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Chef's special dahi bhalla — perfect for a satisfying meal.",
+    "price": 884,
+    "discountPercent": 23,
+    "finalPrice": 681,
+    "rating": 3.8,
+    "totalRatings": 4516,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_004_088.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "vada-pav",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-18T19:07:41.562Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_089",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Delicious aloo tikki chaat prepared fresh with authentic spices.",
+    "price": 650,
+    "discountPercent": 8,
+    "finalPrice": 598,
+    "rating": 3.8,
+    "totalRatings": 980,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_004_089.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "momos",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-31T13:11:19.608Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_090",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 661,
+    "discountPercent": 3,
+    "finalPrice": 641,
+    "rating": 4.6,
+    "totalRatings": 124,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_004_090.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "veg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-03T12:20:46.953Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_091",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Delicious egg biryani prepared fresh with authentic spices.",
+    "price": 455,
+    "discountPercent": 40,
+    "finalPrice": 273,
+    "rating": 4.4,
+    "totalRatings": 2842,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_004_091.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "mutton-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-12T13:47:20.064Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_092",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Classic vada pav served hot and fresh.",
+    "price": 174,
+    "discountPercent": 18,
+    "finalPrice": 143,
+    "rating": 4.2,
+    "totalRatings": 3501,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_bangalore_004_092.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "chaat",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-15T00:08:33.412Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_093",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Classic veg momos served hot and fresh.",
+    "price": 683,
+    "discountPercent": 11,
+    "finalPrice": 608,
+    "rating": 3.5,
+    "totalRatings": 3496,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_bangalore_004_093.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "rolls",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-11T10:01:10.551Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_094",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Classic egg biryani served hot and fresh.",
+    "price": 794,
+    "discountPercent": 34,
+    "finalPrice": 524,
+    "rating": 3.7,
+    "totalRatings": 3717,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_004_094.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "veg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-09T12:13:14.874Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_095",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Classic aloo tikki chaat served hot and fresh.",
+    "price": 898,
+    "discountPercent": 40,
+    "finalPrice": 539,
+    "rating": 4.6,
+    "totalRatings": 2141,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_bangalore_004_095.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "pav-bhaji",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-28T10:01:30.816Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_096",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Popular choice: Mutton Biryani made with premium ingredients.",
+    "price": 853,
+    "discountPercent": 28,
+    "finalPrice": 614,
+    "rating": 4.5,
+    "totalRatings": 3801,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_004_096.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "mutton-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-08T14:43:40.592Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_097",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Delicious pav bhaji prepared fresh with authentic spices.",
+    "price": 427,
+    "discountPercent": 11,
+    "finalPrice": 380,
+    "rating": 3.9,
+    "totalRatings": 1037,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_bangalore_004_097.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "chaat",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-04T13:25:44.633Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_098",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Delicious dahi bhalla prepared fresh with authentic spices.",
+    "price": 544,
+    "discountPercent": 16,
+    "finalPrice": 457,
+    "rating": 3.8,
+    "totalRatings": 1870,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_004_098.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "vada-pav",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-13T04:03:48.424Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_099",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Popular choice: Pani Puri made with premium ingredients.",
+    "price": 286,
+    "discountPercent": 6,
+    "finalPrice": 269,
+    "rating": 4.1,
+    "totalRatings": 158,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_bangalore_004_099.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "rolls",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-13T15:11:50.344Z"
+  },
+  {
+    "id": "product_vendor_bangalore_004_100",
+    "vendorId": "vendor_bangalore_004",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 141,
+    "discountPercent": 17,
+    "finalPrice": 117,
+    "rating": 4.5,
+    "totalRatings": 2129,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_bangalore_004_100.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "chaat",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-24T04:15:13.340Z"
+  }
+]

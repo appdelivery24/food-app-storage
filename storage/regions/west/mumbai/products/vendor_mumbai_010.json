@@ -1,0 +1,3617 @@
+[
+  {
+    "id": "product_vendor_mumbai_010_001",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Chef's special butter chicken — perfect for a satisfying meal.",
+    "price": 593,
+    "discountPercent": 36,
+    "finalPrice": 380,
+    "rating": 4.7,
+    "totalRatings": 2439,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_mumbai_010_001.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "roti",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-11T09:53:51.286Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_002",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 471,
+    "discountPercent": 35,
+    "finalPrice": 306,
+    "rating": 3.7,
+    "totalRatings": 3790,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_mumbai_010_002.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-04T22:29:07.895Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_003",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Delicious dal makhani prepared fresh with authentic spices.",
+    "price": 317,
+    "discountPercent": 16,
+    "finalPrice": 266,
+    "rating": 4.5,
+    "totalRatings": 4842,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_mumbai_010_003.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "non-veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "kebab",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-13T09:21:53.925Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_004",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 753,
+    "discountPercent": 12,
+    "finalPrice": 663,
+    "rating": 4.5,
+    "totalRatings": 4040,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_mumbai_010_004.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "soup",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-12T12:12:09.652Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_005",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Delicious rajma chawal prepared fresh with authentic spices.",
+    "price": 285,
+    "discountPercent": 30,
+    "finalPrice": 200,
+    "rating": 4.6,
+    "totalRatings": 1047,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_mumbai_010_005.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "thali",
+      "non-veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "thali",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-20T23:16:28.886Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_006",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Classic veg manchurian served hot and fresh.",
+    "price": 489,
+    "discountPercent": 12,
+    "finalPrice": 430,
+    "rating": 4.2,
+    "totalRatings": 4409,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_mumbai_010_006.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-26T02:37:43.493Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_007",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 610,
+    "discountPercent": 37,
+    "finalPrice": 384,
+    "rating": 4.8,
+    "totalRatings": 464,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_mumbai_010_007.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-19T23:14:58.572Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_008",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Popular choice: Grilled Chicken Salad made with premium ingredients.",
+    "price": 582,
+    "discountPercent": 25,
+    "finalPrice": 437,
+    "rating": 4.3,
+    "totalRatings": 3886,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_mumbai_010_008.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-22T05:39:27.068Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_009",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Delicious kung pao chicken prepared fresh with authentic spices.",
+    "price": 472,
+    "discountPercent": 40,
+    "finalPrice": 283,
+    "rating": 3.8,
+    "totalRatings": 879,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_mumbai_010_009.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "noodles",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-29T23:21:37.309Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_010",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Classic paneer butter masala served hot and fresh.",
+    "price": 529,
+    "discountPercent": 11,
+    "finalPrice": 471,
+    "rating": 4.2,
+    "totalRatings": 2114,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_mumbai_010_010.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-06T16:05:15.356Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_011",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Popular choice: Palak Paneer made with premium ingredients.",
+    "price": 300,
+    "discountPercent": 31,
+    "finalPrice": 207,
+    "rating": 4.5,
+    "totalRatings": 2648,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_mumbai_010_011.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "veg",
+      "palak",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "kebab",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-02T09:27:03.957Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_012",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Classic greek salad served hot and fresh.",
+    "price": 410,
+    "discountPercent": 16,
+    "finalPrice": 344,
+    "rating": 4.6,
+    "totalRatings": 151,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_mumbai_010_012.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-24T13:43:59.225Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_013",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 681,
+    "discountPercent": 15,
+    "finalPrice": 579,
+    "rating": 3.9,
+    "totalRatings": 1204,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_mumbai_010_013.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-05T22:53:43.875Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_014",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Delicious palak paneer prepared fresh with authentic spices.",
+    "price": 388,
+    "discountPercent": 33,
+    "finalPrice": 260,
+    "rating": 4.6,
+    "totalRatings": 3323,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_mumbai_010_014.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "palak",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "biryani",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-11T10:34:35.389Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_015",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 705,
+    "discountPercent": 7,
+    "finalPrice": 656,
+    "rating": 3.7,
+    "totalRatings": 121,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_mumbai_010_015.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-28T10:10:27.366Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_016",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Chef's special palak paneer — perfect for a satisfying meal.",
+    "price": 108,
+    "discountPercent": 26,
+    "finalPrice": 80,
+    "rating": 3.6,
+    "totalRatings": 557,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_mumbai_010_016.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "veg",
+      "palak"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-18T23:58:52.702Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_017",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Popular choice: Hakka Noodles made with premium ingredients.",
+    "price": 834,
+    "discountPercent": 40,
+    "finalPrice": 500,
+    "rating": 4.1,
+    "totalRatings": 4772,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_mumbai_010_017.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "hakka"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-19T20:56:21.485Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_018",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Popular choice: Avocado Toast made with premium ingredients.",
+    "price": 154,
+    "discountPercent": 5,
+    "finalPrice": 146,
+    "rating": 4.3,
+    "totalRatings": 2102,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_mumbai_010_018.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-26T19:55:53.797Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_019",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Delicious palak paneer prepared fresh with authentic spices.",
+    "price": 828,
+    "discountPercent": 3,
+    "finalPrice": 803,
+    "rating": 4,
+    "totalRatings": 2559,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_mumbai_010_019.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "non-veg",
+      "palak",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "kebab",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-05T19:40:03.427Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_020",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 246,
+    "discountPercent": 36,
+    "finalPrice": 157,
+    "rating": 4.4,
+    "totalRatings": 1198,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_mumbai_010_020.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "fried-rice",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-20T23:09:30.197Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_021",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Delicious palak paneer prepared fresh with authentic spices.",
+    "price": 336,
+    "discountPercent": 8,
+    "finalPrice": 309,
+    "rating": 4.5,
+    "totalRatings": 871,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_mumbai_010_021.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "palak",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "roti",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-26T16:22:10.821Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_022",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Popular choice: Avocado Toast made with premium ingredients.",
+    "price": 885,
+    "discountPercent": 35,
+    "finalPrice": 575,
+    "rating": 4.6,
+    "totalRatings": 1940,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_mumbai_010_022.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-26T11:59:11.644Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_023",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Popular choice: Hot & Sour Soup made with premium ingredients.",
+    "price": 690,
+    "discountPercent": 13,
+    "finalPrice": 600,
+    "rating": 4.5,
+    "totalRatings": 626,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_mumbai_010_023.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-09T05:02:41.083Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_024",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 689,
+    "discountPercent": 13,
+    "finalPrice": 599,
+    "rating": 4.9,
+    "totalRatings": 3322,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_mumbai_010_024.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-26T02:29:36.289Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_025",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 606,
+    "discountPercent": 31,
+    "finalPrice": 418,
+    "rating": 4.3,
+    "totalRatings": 4400,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_mumbai_010_025.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-18T17:24:32.902Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_026",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 555,
+    "discountPercent": 22,
+    "finalPrice": 433,
+    "rating": 4.4,
+    "totalRatings": 1876,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_mumbai_010_026.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "soup",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-26T19:25:52.334Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_027",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 291,
+    "discountPercent": 14,
+    "finalPrice": 250,
+    "rating": 4.5,
+    "totalRatings": 906,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_mumbai_010_027.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-26T06:44:57.901Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_028",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 136,
+    "discountPercent": 15,
+    "finalPrice": 116,
+    "rating": 4,
+    "totalRatings": 3508,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_mumbai_010_028.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-05T15:01:19.861Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_029",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Chef's special chilli paneer — perfect for a satisfying meal.",
+    "price": 233,
+    "discountPercent": 30,
+    "finalPrice": 163,
+    "rating": 4.7,
+    "totalRatings": 3685,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_mumbai_010_029.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "noodles",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-11T21:12:33.214Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_030",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Popular choice: Hot & Sour Soup made with premium ingredients.",
+    "price": 389,
+    "discountPercent": 4,
+    "finalPrice": 373,
+    "rating": 4.1,
+    "totalRatings": 612,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_mumbai_010_030.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "manchurian",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-06-02T07:42:54.902Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_031",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 526,
+    "discountPercent": 3,
+    "finalPrice": 510,
+    "rating": 4.7,
+    "totalRatings": 874,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_mumbai_010_031.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-28T18:44:15.193Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_032",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Classic butter chicken served hot and fresh.",
+    "price": 321,
+    "discountPercent": 26,
+    "finalPrice": 238,
+    "rating": 3.7,
+    "totalRatings": 2135,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_mumbai_010_032.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "roti",
+      "non-veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "roti",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-11T15:50:43.964Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_033",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Delicious kung pao chicken prepared fresh with authentic spices.",
+    "price": 209,
+    "discountPercent": 12,
+    "finalPrice": 184,
+    "rating": 3.8,
+    "totalRatings": 3735,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_mumbai_010_033.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "soup",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-05T14:05:20.979Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_034",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Delicious paneer butter masala prepared fresh with authentic spices.",
+    "price": 644,
+    "discountPercent": 11,
+    "finalPrice": 573,
+    "rating": 3.9,
+    "totalRatings": 188,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_mumbai_010_034.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "paneer",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "biryani",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-26T21:54:30.036Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_035",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Chef's special spring rolls — perfect for a satisfying meal.",
+    "price": 481,
+    "discountPercent": 8,
+    "finalPrice": 443,
+    "rating": 4.7,
+    "totalRatings": 1501,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_mumbai_010_035.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "noodles",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-03T21:52:00.025Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_036",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 433,
+    "discountPercent": 8,
+    "finalPrice": 398,
+    "rating": 4.1,
+    "totalRatings": 4443,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_mumbai_010_036.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-15T03:37:37.732Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_037",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Chef's special malai kofta — perfect for a satisfying meal.",
+    "price": 705,
+    "discountPercent": 21,
+    "finalPrice": 557,
+    "rating": 4.4,
+    "totalRatings": 4653,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_mumbai_010_037.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "roti",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-06T09:38:13.709Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_038",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 371,
+    "discountPercent": 24,
+    "finalPrice": 282,
+    "rating": 4,
+    "totalRatings": 2616,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_mumbai_010_038.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-22T07:41:33.730Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_039",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Popular choice: Paneer Butter Masala made with premium ingredients.",
+    "price": 786,
+    "discountPercent": 34,
+    "finalPrice": 519,
+    "rating": 4.1,
+    "totalRatings": 735,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_mumbai_010_039.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "veg",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-11T10:45:24.664Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_040",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 195,
+    "discountPercent": 31,
+    "finalPrice": 135,
+    "rating": 3.6,
+    "totalRatings": 499,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_mumbai_010_040.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-23T02:46:08.468Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_041",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Popular choice: Chole Bhature made with premium ingredients.",
+    "price": 538,
+    "discountPercent": 22,
+    "finalPrice": 420,
+    "rating": 3.8,
+    "totalRatings": 2268,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_mumbai_010_041.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "dal",
+      "non-veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "dal",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-05T03:45:40.217Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_042",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 545,
+    "discountPercent": 34,
+    "finalPrice": 360,
+    "rating": 3.9,
+    "totalRatings": 4141,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_mumbai_010_042.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-30T12:43:43.984Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_043",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Chef's special palak paneer — perfect for a satisfying meal.",
+    "price": 249,
+    "discountPercent": 3,
+    "finalPrice": 242,
+    "rating": 4.6,
+    "totalRatings": 3708,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_mumbai_010_043.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "palak",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "biryani",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-30T22:41:47.420Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_044",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Chef's special rajma chawal — perfect for a satisfying meal.",
+    "price": 312,
+    "discountPercent": 36,
+    "finalPrice": 200,
+    "rating": 4.4,
+    "totalRatings": 2562,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_mumbai_010_044.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "biryani",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-10T05:32:52.242Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_045",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 340,
+    "discountPercent": 22,
+    "finalPrice": 265,
+    "rating": 4.9,
+    "totalRatings": 256,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_mumbai_010_045.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-04T20:19:58.185Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_046",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Delicious spring rolls prepared fresh with authentic spices.",
+    "price": 447,
+    "discountPercent": 22,
+    "finalPrice": 349,
+    "rating": 4.6,
+    "totalRatings": 1948,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_mumbai_010_046.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "noodles",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-04T13:30:22.395Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_047",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 709,
+    "discountPercent": 17,
+    "finalPrice": 588,
+    "rating": 3.9,
+    "totalRatings": 1674,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_mumbai_010_047.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-02T21:35:09.181Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_048",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Delicious rajma chawal prepared fresh with authentic spices.",
+    "price": 234,
+    "discountPercent": 2,
+    "finalPrice": 229,
+    "rating": 4.4,
+    "totalRatings": 525,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_mumbai_010_048.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "thali",
+      "veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "thali",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-24T03:53:29.404Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_049",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 193,
+    "discountPercent": 38,
+    "finalPrice": 120,
+    "rating": 4.3,
+    "totalRatings": 3682,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_mumbai_010_049.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-15T16:49:29.656Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_050",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 398,
+    "discountPercent": 2,
+    "finalPrice": 390,
+    "rating": 4,
+    "totalRatings": 2601,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_mumbai_010_050.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "dim-sum",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-28T14:20:01.163Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_051",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 877,
+    "discountPercent": 1,
+    "finalPrice": 868,
+    "rating": 3.7,
+    "totalRatings": 1188,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_mumbai_010_051.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-29T07:44:13.161Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_052",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Chef's special spring rolls — perfect for a satisfying meal.",
+    "price": 263,
+    "discountPercent": 11,
+    "finalPrice": 234,
+    "rating": 4.7,
+    "totalRatings": 626,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_mumbai_010_052.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "noodles",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-01T23:29:07.942Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_053",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 301,
+    "discountPercent": 37,
+    "finalPrice": 190,
+    "rating": 4.2,
+    "totalRatings": 1914,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_mumbai_010_053.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-29T11:50:29.131Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_054",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Delicious veg manchurian prepared fresh with authentic spices.",
+    "price": 462,
+    "discountPercent": 34,
+    "finalPrice": 305,
+    "rating": 3.7,
+    "totalRatings": 1742,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_mumbai_010_054.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "dim-sum",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-12T14:35:54.840Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_055",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 764,
+    "discountPercent": 7,
+    "finalPrice": 711,
+    "rating": 4.2,
+    "totalRatings": 2181,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_mumbai_010_055.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-17T20:58:06.276Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_056",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 119,
+    "discountPercent": 28,
+    "finalPrice": 86,
+    "rating": 3.9,
+    "totalRatings": 1403,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_mumbai_010_056.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-08T16:04:58.703Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_057",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 444,
+    "discountPercent": 29,
+    "finalPrice": 315,
+    "rating": 3.6,
+    "totalRatings": 3251,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_mumbai_010_057.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-13T19:34:59.830Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_058",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Popular choice: Palak Paneer made with premium ingredients.",
+    "price": 168,
+    "discountPercent": 36,
+    "finalPrice": 108,
+    "rating": 3.8,
+    "totalRatings": 1410,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_mumbai_010_058.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "veg",
+      "palak"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-06T21:01:27.817Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_059",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Classic hakka noodles served hot and fresh.",
+    "price": 237,
+    "discountPercent": 40,
+    "finalPrice": 142,
+    "rating": 4.3,
+    "totalRatings": 2693,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_mumbai_010_059.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "soup",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-23T00:06:27.120Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_060",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Chef's special butter chicken — perfect for a satisfying meal.",
+    "price": 824,
+    "discountPercent": 7,
+    "finalPrice": 766,
+    "rating": 3.6,
+    "totalRatings": 2086,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_mumbai_010_060.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "thali",
+      "veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "thali",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-27T10:12:31.180Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_061",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 834,
+    "discountPercent": 37,
+    "finalPrice": 525,
+    "rating": 3.5,
+    "totalRatings": 1242,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_mumbai_010_061.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-10T13:24:25.331Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_062",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Popular choice: Hakka Noodles made with premium ingredients.",
+    "price": 662,
+    "discountPercent": 25,
+    "finalPrice": 497,
+    "rating": 3.8,
+    "totalRatings": 2665,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_mumbai_010_062.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "hakka"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-16T21:20:11.381Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_063",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 704,
+    "discountPercent": 16,
+    "finalPrice": 591,
+    "rating": 4.8,
+    "totalRatings": 3788,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_mumbai_010_063.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "fried-rice",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-28T02:16:55.694Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_064",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Popular choice: Spring Rolls made with premium ingredients.",
+    "price": 129,
+    "discountPercent": 11,
+    "finalPrice": 115,
+    "rating": 3.6,
+    "totalRatings": 3933,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_mumbai_010_064.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "soup",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-24T15:08:17.255Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_065",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 277,
+    "discountPercent": 35,
+    "finalPrice": 180,
+    "rating": 4.7,
+    "totalRatings": 2457,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_mumbai_010_065.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-16T13:08:10.009Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_066",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Chef's special butter chicken — perfect for a satisfying meal.",
+    "price": 871,
+    "discountPercent": 37,
+    "finalPrice": 549,
+    "rating": 4.6,
+    "totalRatings": 1548,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_mumbai_010_066.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "kebab",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-03T21:58:22.537Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_067",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 671,
+    "discountPercent": 16,
+    "finalPrice": 564,
+    "rating": 4.5,
+    "totalRatings": 2921,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_mumbai_010_067.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-25T08:36:04.302Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_068",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Delicious malai kofta prepared fresh with authentic spices.",
+    "price": 97,
+    "discountPercent": 0,
+    "finalPrice": 97,
+    "rating": 4.1,
+    "totalRatings": 3970,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_mumbai_010_068.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "thali",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "thali",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-03T23:22:27.081Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_069",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 221,
+    "discountPercent": 36,
+    "finalPrice": 141,
+    "rating": 4.3,
+    "totalRatings": 3916,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_mumbai_010_069.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-26T07:47:44.727Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_070",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 821,
+    "discountPercent": 13,
+    "finalPrice": 714,
+    "rating": 4.7,
+    "totalRatings": 709,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_mumbai_010_070.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "dim-sum",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-25T18:00:40.458Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_071",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Classic rajma chawal served hot and fresh.",
+    "price": 215,
+    "discountPercent": 12,
+    "finalPrice": 189,
+    "rating": 3.7,
+    "totalRatings": 4649,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_mumbai_010_071.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "kebab",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-10T01:15:10.588Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_072",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 838,
+    "discountPercent": 23,
+    "finalPrice": 645,
+    "rating": 3.6,
+    "totalRatings": 2552,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_mumbai_010_072.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-24T15:51:15.699Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_073",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 568,
+    "discountPercent": 37,
+    "finalPrice": 358,
+    "rating": 4.5,
+    "totalRatings": 3653,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_mumbai_010_073.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-04T00:51:32.969Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_074",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 899,
+    "discountPercent": 11,
+    "finalPrice": 800,
+    "rating": 4.2,
+    "totalRatings": 2516,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_mumbai_010_074.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-18T06:09:47.642Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_075",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 269,
+    "discountPercent": 4,
+    "finalPrice": 258,
+    "rating": 4,
+    "totalRatings": 3747,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_mumbai_010_075.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-07T21:04:44.221Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_076",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 863,
+    "discountPercent": 9,
+    "finalPrice": 785,
+    "rating": 3.6,
+    "totalRatings": 4987,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_mumbai_010_076.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-03T11:57:08.641Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_077",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Delicious kung pao chicken prepared fresh with authentic spices.",
+    "price": 282,
+    "discountPercent": 17,
+    "finalPrice": 234,
+    "rating": 3.6,
+    "totalRatings": 3936,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_mumbai_010_077.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "soup",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-27T19:30:12.786Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_078",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Kadai Paneer",
+    "description": "Chef's special kadai paneer — perfect for a satisfying meal.",
+    "price": 677,
+    "discountPercent": 35,
+    "finalPrice": 440,
+    "rating": 4.2,
+    "totalRatings": 104,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/kadai-paneer/product_vendor_mumbai_010_078.webp",
+    "imageSlug": "kadai-paneer",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "veg",
+      "kadai",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "kadai",
+      "paneer",
+      "north-indian",
+      "kebab",
+      "kadai paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-19T22:07:44.338Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_079",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Chef's special paneer butter masala — perfect for a satisfying meal.",
+    "price": 385,
+    "discountPercent": 6,
+    "finalPrice": 362,
+    "rating": 4.7,
+    "totalRatings": 2993,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_mumbai_010_079.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "dal",
+      "veg",
+      "paneer",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "dal",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-21T13:11:11.474Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_080",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Delicious veg manchurian prepared fresh with authentic spices.",
+    "price": 846,
+    "discountPercent": 24,
+    "finalPrice": 643,
+    "rating": 3.9,
+    "totalRatings": 4143,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_mumbai_010_080.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-23T04:56:56.033Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_081",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Kadai Paneer",
+    "description": "Classic kadai paneer served hot and fresh.",
+    "price": 300,
+    "discountPercent": 30,
+    "finalPrice": 210,
+    "rating": 4.4,
+    "totalRatings": 3218,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/kadai-paneer/product_vendor_mumbai_010_081.webp",
+    "imageSlug": "kadai-paneer",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "veg",
+      "kadai",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "kadai",
+      "paneer",
+      "north-indian",
+      "kebab",
+      "kadai paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-23T23:17:44.775Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_082",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 218,
+    "discountPercent": 23,
+    "finalPrice": 168,
+    "rating": 4.8,
+    "totalRatings": 1406,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_mumbai_010_082.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "noodles",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-29T18:50:28.736Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_083",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Classic hot & sour soup served hot and fresh.",
+    "price": 653,
+    "discountPercent": 8,
+    "finalPrice": 601,
+    "rating": 3.6,
+    "totalRatings": 2573,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_mumbai_010_083.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "dim-sum",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-16T11:44:22.270Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_084",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Popular choice: Palak Paneer made with premium ingredients.",
+    "price": 851,
+    "discountPercent": 38,
+    "finalPrice": 528,
+    "rating": 4.7,
+    "totalRatings": 1566,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_mumbai_010_084.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "veg",
+      "palak"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-17T01:09:04.634Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_085",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 230,
+    "discountPercent": 16,
+    "finalPrice": 193,
+    "rating": 3.9,
+    "totalRatings": 3249,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_mumbai_010_085.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-13T20:45:31.134Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_086",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Popular choice: Hakka Noodles made with premium ingredients.",
+    "price": 563,
+    "discountPercent": 12,
+    "finalPrice": 495,
+    "rating": 4.2,
+    "totalRatings": 3283,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_mumbai_010_086.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "soup",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-18T12:16:58.158Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_087",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 525,
+    "discountPercent": 3,
+    "finalPrice": 509,
+    "rating": 4.4,
+    "totalRatings": 2278,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_mumbai_010_087.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-17T04:19:51.445Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_088",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Classic veg manchurian served hot and fresh.",
+    "price": 133,
+    "discountPercent": 40,
+    "finalPrice": 80,
+    "rating": 3.7,
+    "totalRatings": 1672,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_mumbai_010_088.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "fried-rice",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-24T23:13:46.806Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_089",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Delicious veg manchurian prepared fresh with authentic spices.",
+    "price": 701,
+    "discountPercent": 12,
+    "finalPrice": 617,
+    "rating": 3.8,
+    "totalRatings": 4945,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_mumbai_010_089.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "soup",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-18T14:13:45.331Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_090",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Popular choice: Rajma Chawal made with premium ingredients.",
+    "price": 291,
+    "discountPercent": 17,
+    "finalPrice": 242,
+    "rating": 4.3,
+    "totalRatings": 3465,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_mumbai_010_090.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "thali",
+      "non-veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "thali",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-13T23:16:24.988Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_091",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Classic chilli paneer served hot and fresh.",
+    "price": 800,
+    "discountPercent": 39,
+    "finalPrice": 488,
+    "rating": 4.2,
+    "totalRatings": 2692,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_mumbai_010_091.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "manchurian",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-28T07:23:28.648Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_092",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Popular choice: Paneer Butter Masala made with premium ingredients.",
+    "price": 233,
+    "discountPercent": 40,
+    "finalPrice": 140,
+    "rating": 3.6,
+    "totalRatings": 386,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_mumbai_010_092.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-27T14:29:04.757Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_093",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Classic hot & sour soup served hot and fresh.",
+    "price": 839,
+    "discountPercent": 16,
+    "finalPrice": 705,
+    "rating": 4,
+    "totalRatings": 3266,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_mumbai_010_093.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-24T09:03:27.062Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_094",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Popular choice: Butter Chicken made with premium ingredients.",
+    "price": 664,
+    "discountPercent": 22,
+    "finalPrice": 518,
+    "rating": 4.7,
+    "totalRatings": 3308,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_mumbai_010_094.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "biryani",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-19T09:57:05.384Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_095",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 458,
+    "discountPercent": 27,
+    "finalPrice": 334,
+    "rating": 3.6,
+    "totalRatings": 3806,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_mumbai_010_095.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-09T22:22:27.815Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_096",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 255,
+    "discountPercent": 14,
+    "finalPrice": 219,
+    "rating": 4.8,
+    "totalRatings": 4666,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_mumbai_010_096.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-25T18:09:26.343Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_097",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Chef's special palak paneer — perfect for a satisfying meal.",
+    "price": 133,
+    "discountPercent": 24,
+    "finalPrice": 101,
+    "rating": 4.1,
+    "totalRatings": 2320,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_mumbai_010_097.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "palak"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-24T08:59:36.743Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_098",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Classic dal makhani served hot and fresh.",
+    "price": 501,
+    "discountPercent": 31,
+    "finalPrice": 346,
+    "rating": 3.6,
+    "totalRatings": 33,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_mumbai_010_098.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "paneer",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-23T19:48:10.071Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_099",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Popular choice: Grilled Chicken Salad made with premium ingredients.",
+    "price": 476,
+    "discountPercent": 10,
+    "finalPrice": 428,
+    "rating": 4.1,
+    "totalRatings": 3135,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_mumbai_010_099.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-15T11:27:57.030Z"
+  },
+  {
+    "id": "product_vendor_mumbai_010_100",
+    "vendorId": "vendor_mumbai_010",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 503,
+    "discountPercent": 26,
+    "finalPrice": 372,
+    "rating": 4.4,
+    "totalRatings": 178,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_mumbai_010_100.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-09T02:45:50.237Z"
+  }
+]

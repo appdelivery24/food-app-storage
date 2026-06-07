@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "product_vendor_bangalore_011_001",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 283,
+    "discountPercent": 38,
+    "finalPrice": 175,
+    "rating": 3.9,
+    "totalRatings": 1465,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "fries",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-28T11:19:29.611Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_002",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 372,
+    "discountPercent": 4,
+    "finalPrice": 357,
+    "rating": 3.5,
+    "totalRatings": 4591,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "sandwich",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-25T03:14:57.510Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_003",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 761,
+    "discountPercent": 33,
+    "finalPrice": 510,
+    "rating": 3.7,
+    "totalRatings": 4629,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_011_003.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "chicken-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-28T20:56:13.191Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_004",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Classic veg biryani served hot and fresh.",
+    "price": 484,
+    "discountPercent": 19,
+    "finalPrice": 392,
+    "rating": 4.4,
+    "totalRatings": 2968,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_011_004.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "veg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-12T21:10:39.024Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_005",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Popular choice: Veg Biryani made with premium ingredients.",
+    "price": 893,
+    "discountPercent": 9,
+    "finalPrice": 813,
+    "rating": 4.6,
+    "totalRatings": 2790,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_011_005.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "mutton-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-03T17:07:51.038Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_006",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 219,
+    "discountPercent": 40,
+    "finalPrice": 131,
+    "rating": 4.2,
+    "totalRatings": 3795,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_011_006.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "pizza",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-29T11:16:33.009Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_007",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Chef's special mutton biryani — perfect for a satisfying meal.",
+    "price": 697,
+    "discountPercent": 19,
+    "finalPrice": 565,
+    "rating": 3.6,
+    "totalRatings": 3198,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_011_007.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "mutton-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-09T22:49:51.884Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_008",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 109,
+    "discountPercent": 33,
+    "finalPrice": 73,
+    "rating": 3.9,
+    "totalRatings": 3177,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-01T22:36:05.969Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_009",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 728,
+    "discountPercent": 11,
+    "finalPrice": 648,
+    "rating": 3.6,
+    "totalRatings": 1012,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "pizza",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-17T23:00:50.793Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_010",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Popular choice: Mutton Biryani made with premium ingredients.",
+    "price": 445,
+    "discountPercent": 4,
+    "finalPrice": 427,
+    "rating": 3.7,
+    "totalRatings": 840,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_011_010.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "egg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-05T06:18:22.962Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_011",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Delicious chicken biryani prepared fresh with authentic spices.",
+    "price": 706,
+    "discountPercent": 2,
+    "finalPrice": 692,
+    "rating": 4.4,
+    "totalRatings": 2232,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_011_011.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "mutton-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-25T23:36:23.306Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_012",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 781,
+    "discountPercent": 29,
+    "finalPrice": 555,
+    "rating": 4.6,
+    "totalRatings": 2092,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_bangalore_011_012.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-07T15:29:15.475Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_013",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Classic veg biryani served hot and fresh.",
+    "price": 183,
+    "discountPercent": 13,
+    "finalPrice": 159,
+    "rating": 4.2,
+    "totalRatings": 2835,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_011_013.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "mutton-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-06T02:13:37.900Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_014",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Chef's special french fries — perfect for a satisfying meal.",
+    "price": 666,
+    "discountPercent": 24,
+    "finalPrice": 506,
+    "rating": 4.7,
+    "totalRatings": 1736,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_bangalore_011_014.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "french"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-25T06:28:59.217Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_015",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Delicious hyderabadi dum biryani prepared fresh with authentic spices.",
+    "price": 635,
+    "discountPercent": 25,
+    "finalPrice": 476,
+    "rating": 4.3,
+    "totalRatings": 4982,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_011_015.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "mutton-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-23T10:49:25.705Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_016",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Chef's special mutton biryani — perfect for a satisfying meal.",
+    "price": 415,
+    "discountPercent": 34,
+    "finalPrice": 274,
+    "rating": 4.8,
+    "totalRatings": 4109,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_011_016.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "egg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-10T02:07:15.180Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_017",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 610,
+    "discountPercent": 30,
+    "finalPrice": 427,
+    "rating": 4.2,
+    "totalRatings": 1966,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "burger",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-16T06:36:26.204Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_018",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Chef's special veg biryani — perfect for a satisfying meal.",
+    "price": 230,
+    "discountPercent": 39,
+    "finalPrice": 140,
+    "rating": 3.6,
+    "totalRatings": 1522,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_011_018.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "mutton-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-27T04:58:25.341Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_019",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 628,
+    "discountPercent": 28,
+    "finalPrice": 452,
+    "rating": 4.4,
+    "totalRatings": 1821,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_011_019.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-07T20:44:56.959Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_020",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 354,
+    "discountPercent": 17,
+    "finalPrice": 294,
+    "rating": 4.6,
+    "totalRatings": 993,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_bangalore_011_020.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-08T06:41:08.635Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_021",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Chef's special french fries — perfect for a satisfying meal.",
+    "price": 106,
+    "discountPercent": 30,
+    "finalPrice": 74,
+    "rating": 4.6,
+    "totalRatings": 2323,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_bangalore_011_021.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "pizza",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-06T22:01:51.348Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_022",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 418,
+    "discountPercent": 17,
+    "finalPrice": 347,
+    "rating": 4.7,
+    "totalRatings": 4290,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_bangalore_011_022.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "sandwich",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-23T10:35:32.311Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_023",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 127,
+    "discountPercent": 23,
+    "finalPrice": 98,
+    "rating": 4,
+    "totalRatings": 71,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-23T19:58:56.214Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_024",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 131,
+    "discountPercent": 25,
+    "finalPrice": 98,
+    "rating": 4.1,
+    "totalRatings": 731,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-26T17:58:16.404Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_025",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 281,
+    "discountPercent": 21,
+    "finalPrice": 222,
+    "rating": 3.9,
+    "totalRatings": 1735,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_bangalore_011_025.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "cheese"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-14T09:24:57.623Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_026",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Popular choice: Cheese Burger made with premium ingredients.",
+    "price": 363,
+    "discountPercent": 28,
+    "finalPrice": 261,
+    "rating": 3.7,
+    "totalRatings": 4800,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_bangalore_011_026.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "sandwich",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-17T01:47:01.575Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_027",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Classic veg biryani served hot and fresh.",
+    "price": 855,
+    "discountPercent": 21,
+    "finalPrice": 675,
+    "rating": 3.8,
+    "totalRatings": 2231,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_011_027.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "egg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-23T19:28:42.248Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_028",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Delicious french fries prepared fresh with authentic spices.",
+    "price": 190,
+    "discountPercent": 16,
+    "finalPrice": 160,
+    "rating": 4.2,
+    "totalRatings": 1057,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_bangalore_011_028.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "pizza",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-24T12:21:15.867Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_029",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 513,
+    "discountPercent": 23,
+    "finalPrice": 395,
+    "rating": 3.9,
+    "totalRatings": 356,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_011_029.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "fries",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-03T04:49:33.568Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_030",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Delicious french fries prepared fresh with authentic spices.",
+    "price": 675,
+    "discountPercent": 15,
+    "finalPrice": 574,
+    "rating": 4,
+    "totalRatings": 3431,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_bangalore_011_030.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "pizza",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-26T17:46:18.181Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_031",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 405,
+    "discountPercent": 3,
+    "finalPrice": 393,
+    "rating": 3.5,
+    "totalRatings": 3867,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_011_031.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-06T03:40:21.236Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_032",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 607,
+    "discountPercent": 17,
+    "finalPrice": 504,
+    "rating": 4.6,
+    "totalRatings": 3768,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_bangalore_011_032.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "wrap",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-11T07:32:23.461Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_033",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Popular choice: Veg Biryani made with premium ingredients.",
+    "price": 317,
+    "discountPercent": 2,
+    "finalPrice": 311,
+    "rating": 3.9,
+    "totalRatings": 4845,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_011_033.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "mutton-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-25T08:01:56.030Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_034",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Classic chicken biryani served hot and fresh.",
+    "price": 240,
+    "discountPercent": 38,
+    "finalPrice": 149,
+    "rating": 4,
+    "totalRatings": 4906,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_011_034.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "veg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-26T21:22:52.233Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_035",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 713,
+    "discountPercent": 24,
+    "finalPrice": 542,
+    "rating": 4.5,
+    "totalRatings": 3151,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_011_035.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-28T11:26:52.270Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_036",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Chef's special egg biryani — perfect for a satisfying meal.",
+    "price": 249,
+    "discountPercent": 17,
+    "finalPrice": 207,
+    "rating": 4,
+    "totalRatings": 1717,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_011_036.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "veg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-28T01:05:53.466Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_037",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Popular choice: Mutton Biryani made with premium ingredients.",
+    "price": 424,
+    "discountPercent": 30,
+    "finalPrice": 297,
+    "rating": 4.3,
+    "totalRatings": 1563,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_011_037.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "mutton-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-19T09:49:52.091Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_038",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Popular choice: Garlic Bread made with premium ingredients.",
+    "price": 288,
+    "discountPercent": 26,
+    "finalPrice": 213,
+    "rating": 4.2,
+    "totalRatings": 1688,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_bangalore_011_038.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "burger",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-11T10:14:42.129Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_039",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 616,
+    "discountPercent": 32,
+    "finalPrice": 419,
+    "rating": 4,
+    "totalRatings": 428,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_bangalore_011_039.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-06-01T16:11:57.662Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_040",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 453,
+    "discountPercent": 24,
+    "finalPrice": 344,
+    "rating": 4.3,
+    "totalRatings": 551,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_bangalore_011_040.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-08T06:31:27.698Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_041",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Delicious lucknowi biryani prepared fresh with authentic spices.",
+    "price": 721,
+    "discountPercent": 21,
+    "finalPrice": 570,
+    "rating": 3.8,
+    "totalRatings": 4107,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_011_041.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "egg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-29T05:46:54.173Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_042",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Delicious chicken biryani prepared fresh with authentic spices.",
+    "price": 120,
+    "discountPercent": 39,
+    "finalPrice": 73,
+    "rating": 4.3,
+    "totalRatings": 3032,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_011_042.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "egg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-21T00:56:06.556Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_043",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Chef's special veg biryani — perfect for a satisfying meal.",
+    "price": 410,
+    "discountPercent": 27,
+    "finalPrice": 299,
+    "rating": 4.7,
+    "totalRatings": 2138,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_011_043.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "egg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-08T09:05:04.861Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_044",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Popular choice: Lucknowi Biryani made with premium ingredients.",
+    "price": 240,
+    "discountPercent": 30,
+    "finalPrice": 168,
+    "rating": 4.4,
+    "totalRatings": 4645,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_011_044.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "egg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-19T06:40:44.325Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_045",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 294,
+    "discountPercent": 3,
+    "finalPrice": 285,
+    "rating": 3.5,
+    "totalRatings": 837,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_011_045.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "mutton-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-01T00:12:39.672Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_046",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 641,
+    "discountPercent": 30,
+    "finalPrice": 449,
+    "rating": 3.9,
+    "totalRatings": 1277,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_011_046.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-30T08:26:37.231Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_047",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 434,
+    "discountPercent": 19,
+    "finalPrice": 352,
+    "rating": 4.5,
+    "totalRatings": 4692,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_bangalore_011_047.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-01T01:15:49.162Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_048",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Popular choice: Chicken Biryani made with premium ingredients.",
+    "price": 677,
+    "discountPercent": 35,
+    "finalPrice": 440,
+    "rating": 4.8,
+    "totalRatings": 1306,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_011_048.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "mutton-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-16T16:48:02.558Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_049",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Chef's special veg biryani — perfect for a satisfying meal.",
+    "price": 814,
+    "discountPercent": 24,
+    "finalPrice": 619,
+    "rating": 3.6,
+    "totalRatings": 2299,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_011_049.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "mutton-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-12T04:27:16.399Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_050",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Chef's special french fries — perfect for a satisfying meal.",
+    "price": 808,
+    "discountPercent": 14,
+    "finalPrice": 695,
+    "rating": 3.6,
+    "totalRatings": 768,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_bangalore_011_050.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "french"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-26T09:50:55.446Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_051",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 677,
+    "discountPercent": 26,
+    "finalPrice": 501,
+    "rating": 4.8,
+    "totalRatings": 1459,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_bangalore_011_051.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "pizza",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-15T12:12:51.183Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_052",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Delicious egg biryani prepared fresh with authentic spices.",
+    "price": 104,
+    "discountPercent": 9,
+    "finalPrice": 95,
+    "rating": 4,
+    "totalRatings": 898,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_011_052.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "veg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-26T19:23:03.674Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_053",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Popular choice: Chicken Biryani made with premium ingredients.",
+    "price": 290,
+    "discountPercent": 3,
+    "finalPrice": 281,
+    "rating": 4.4,
+    "totalRatings": 1785,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_011_053.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-02T08:20:53.723Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_054",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 730,
+    "discountPercent": 27,
+    "finalPrice": 533,
+    "rating": 3.7,
+    "totalRatings": 4600,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_011_054.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "veg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-11T19:16:22.434Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_055",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Chef's special mutton biryani — perfect for a satisfying meal.",
+    "price": 771,
+    "discountPercent": 17,
+    "finalPrice": 640,
+    "rating": 4.4,
+    "totalRatings": 3505,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_011_055.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "chicken-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-13T10:13:27.841Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_056",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 821,
+    "discountPercent": 16,
+    "finalPrice": 690,
+    "rating": 3.7,
+    "totalRatings": 2565,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_011_056.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-22T22:59:21.171Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_057",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 274,
+    "discountPercent": 11,
+    "finalPrice": 244,
+    "rating": 3.9,
+    "totalRatings": 3661,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_bangalore_011_057.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-18T00:35:17.363Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_058",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Popular choice: Margherita Pizza made with premium ingredients.",
+    "price": 148,
+    "discountPercent": 36,
+    "finalPrice": 95,
+    "rating": 3.7,
+    "totalRatings": 1634,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_bangalore_011_058.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-10T22:22:39.545Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_059",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Classic chicken biryani served hot and fresh.",
+    "price": 860,
+    "discountPercent": 19,
+    "finalPrice": 697,
+    "rating": 4.4,
+    "totalRatings": 3948,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_011_059.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "mutton-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-25T20:13:30.881Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_060",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 466,
+    "discountPercent": 39,
+    "finalPrice": 284,
+    "rating": 4.3,
+    "totalRatings": 3547,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_bangalore_011_060.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "pizza",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-08T17:34:59.093Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_061",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Delicious chicken biryani prepared fresh with authentic spices.",
+    "price": 773,
+    "discountPercent": 17,
+    "finalPrice": 642,
+    "rating": 4.5,
+    "totalRatings": 1430,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_011_061.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "veg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-25T15:06:59.973Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_062",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Chef's special veg biryani — perfect for a satisfying meal.",
+    "price": 661,
+    "discountPercent": 40,
+    "finalPrice": 397,
+    "rating": 3.7,
+    "totalRatings": 3782,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_011_062.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "egg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-24T22:56:49.881Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_063",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Classic chicken wrap served hot and fresh.",
+    "price": 218,
+    "discountPercent": 36,
+    "finalPrice": 140,
+    "rating": 3.6,
+    "totalRatings": 4613,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_011_063.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "pizza",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-12T23:35:27.442Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_064",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 873,
+    "discountPercent": 37,
+    "finalPrice": 550,
+    "rating": 4.6,
+    "totalRatings": 2725,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_bangalore_011_064.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "sandwich",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-08T09:36:49.869Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_065",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Popular choice: Veg Biryani made with premium ingredients.",
+    "price": 719,
+    "discountPercent": 10,
+    "finalPrice": 647,
+    "rating": 4,
+    "totalRatings": 2830,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_011_065.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "chicken-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-18T14:30:35.964Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_066",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Classic cheese burger served hot and fresh.",
+    "price": 614,
+    "discountPercent": 17,
+    "finalPrice": 510,
+    "rating": 4.9,
+    "totalRatings": 2495,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_bangalore_011_066.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-29T08:40:53.517Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_067",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 493,
+    "discountPercent": 38,
+    "finalPrice": 306,
+    "rating": 4.7,
+    "totalRatings": 4537,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_bangalore_011_067.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-22T15:57:14.974Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_068",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Delicious veg biryani prepared fresh with authentic spices.",
+    "price": 214,
+    "discountPercent": 24,
+    "finalPrice": 163,
+    "rating": 4.8,
+    "totalRatings": 1743,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_011_068.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "egg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-16T23:54:39.179Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_069",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 685,
+    "discountPercent": 23,
+    "finalPrice": 527,
+    "rating": 4.6,
+    "totalRatings": 4292,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_bangalore_011_069.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-14T09:57:00.514Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_070",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Delicious chicken biryani prepared fresh with authentic spices.",
+    "price": 332,
+    "discountPercent": 25,
+    "finalPrice": 249,
+    "rating": 3.5,
+    "totalRatings": 2065,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_011_070.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-07T05:37:17.248Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_071",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Delicious lucknowi biryani prepared fresh with authentic spices.",
+    "price": 642,
+    "discountPercent": 23,
+    "finalPrice": 494,
+    "rating": 3.9,
+    "totalRatings": 2340,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_011_071.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "mutton-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-23T07:58:53.991Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_072",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Delicious lucknowi biryani prepared fresh with authentic spices.",
+    "price": 871,
+    "discountPercent": 14,
+    "finalPrice": 749,
+    "rating": 3.9,
+    "totalRatings": 1645,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_011_072.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "mutton-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-24T17:13:25.893Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_073",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 354,
+    "discountPercent": 31,
+    "finalPrice": 244,
+    "rating": 4.4,
+    "totalRatings": 3512,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_bangalore_011_073.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-05T04:59:50.289Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_074",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Delicious hyderabadi dum biryani prepared fresh with authentic spices.",
+    "price": 676,
+    "discountPercent": 18,
+    "finalPrice": 554,
+    "rating": 4.7,
+    "totalRatings": 4541,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_011_074.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "veg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-11T16:42:42.315Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_075",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 692,
+    "discountPercent": 22,
+    "finalPrice": 540,
+    "rating": 4.6,
+    "totalRatings": 3148,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_011_075.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-18T17:24:23.067Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_076",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 877,
+    "discountPercent": 2,
+    "finalPrice": 859,
+    "rating": 4.2,
+    "totalRatings": 3793,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_bangalore_011_076.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-01T00:06:18.799Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_077",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 500,
+    "discountPercent": 21,
+    "finalPrice": 395,
+    "rating": 4.3,
+    "totalRatings": 1400,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_011_077.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "egg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-02T14:19:52.065Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_078",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 132,
+    "discountPercent": 32,
+    "finalPrice": 90,
+    "rating": 4,
+    "totalRatings": 1853,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_bangalore_011_078.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-08T15:29:29.491Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_079",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Chef's special veg biryani — perfect for a satisfying meal.",
+    "price": 870,
+    "discountPercent": 2,
+    "finalPrice": 853,
+    "rating": 4.7,
+    "totalRatings": 3279,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_011_079.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "chicken-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-04T12:03:44.497Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_080",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Popular choice: Margherita Pizza made with premium ingredients.",
+    "price": 512,
+    "discountPercent": 8,
+    "finalPrice": 471,
+    "rating": 4.8,
+    "totalRatings": 3518,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_bangalore_011_080.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "burger",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-02T05:55:45.826Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_081",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 542,
+    "discountPercent": 11,
+    "finalPrice": 482,
+    "rating": 3.5,
+    "totalRatings": 1255,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_bangalore_011_081.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "fries",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-11T12:51:56.362Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_082",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Popular choice: Cheese Burger made with premium ingredients.",
+    "price": 322,
+    "discountPercent": 38,
+    "finalPrice": 200,
+    "rating": 4.2,
+    "totalRatings": 528,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_bangalore_011_082.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "sandwich",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-09T20:15:38.061Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_083",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Delicious lucknowi biryani prepared fresh with authentic spices.",
+    "price": 128,
+    "discountPercent": 21,
+    "finalPrice": 101,
+    "rating": 4.8,
+    "totalRatings": 2460,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_011_083.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "mutton-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-19T06:31:23.514Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_084",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 388,
+    "discountPercent": 24,
+    "finalPrice": 295,
+    "rating": 3.5,
+    "totalRatings": 4273,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_011_084.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-22T18:34:16.553Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_085",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Delicious chicken biryani prepared fresh with authentic spices.",
+    "price": 516,
+    "discountPercent": 21,
+    "finalPrice": 408,
+    "rating": 3.8,
+    "totalRatings": 2967,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_011_085.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "veg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-13T23:57:42.620Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_086",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Popular choice: Lucknowi Biryani made with premium ingredients.",
+    "price": 807,
+    "discountPercent": 0,
+    "finalPrice": 807,
+    "rating": 4.5,
+    "totalRatings": 3002,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_011_086.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "mutton-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-23T22:51:39.948Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_087",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 437,
+    "discountPercent": 20,
+    "finalPrice": 350,
+    "rating": 4.7,
+    "totalRatings": 4797,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_bangalore_011_087.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-19T06:29:16.378Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_088",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Chef's special egg biryani — perfect for a satisfying meal.",
+    "price": 226,
+    "discountPercent": 13,
+    "finalPrice": 197,
+    "rating": 3.7,
+    "totalRatings": 907,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_011_088.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "egg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-28T08:50:46.207Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_089",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 443,
+    "discountPercent": 15,
+    "finalPrice": 377,
+    "rating": 4.1,
+    "totalRatings": 3390,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_011_089.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "egg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-23T00:33:16.694Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_090",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 406,
+    "discountPercent": 7,
+    "finalPrice": 378,
+    "rating": 4.9,
+    "totalRatings": 881,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_bangalore_011_090.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-16T15:17:29.889Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_091",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 235,
+    "discountPercent": 5,
+    "finalPrice": 223,
+    "rating": 3.7,
+    "totalRatings": 4007,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_011_091.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-23T20:51:30.630Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_092",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Delicious egg biryani prepared fresh with authentic spices.",
+    "price": 858,
+    "discountPercent": 31,
+    "finalPrice": 592,
+    "rating": 3.7,
+    "totalRatings": 3722,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_011_092.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "egg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-26T11:17:58.353Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_093",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 398,
+    "discountPercent": 12,
+    "finalPrice": 350,
+    "rating": 4.5,
+    "totalRatings": 3775,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_011_093.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "chicken-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-08T22:57:11.655Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_094",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Popular choice: Mutton Biryani made with premium ingredients.",
+    "price": 737,
+    "discountPercent": 21,
+    "finalPrice": 582,
+    "rating": 4.2,
+    "totalRatings": 3010,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_011_094.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "egg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-24T22:24:56.357Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_095",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 860,
+    "discountPercent": 15,
+    "finalPrice": 731,
+    "rating": 4.8,
+    "totalRatings": 1307,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_bangalore_011_095.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-17T20:48:42.652Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_096",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Classic cheese burger served hot and fresh.",
+    "price": 196,
+    "discountPercent": 20,
+    "finalPrice": 157,
+    "rating": 4.2,
+    "totalRatings": 3697,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_bangalore_011_096.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "cheese"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-04T02:52:11.883Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_097",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Classic mutton biryani served hot and fresh.",
+    "price": 856,
+    "discountPercent": 21,
+    "finalPrice": 676,
+    "rating": 4,
+    "totalRatings": 2446,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_011_097.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "chicken-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-17T08:51:16.274Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_098",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 247,
+    "discountPercent": 30,
+    "finalPrice": 173,
+    "rating": 4.6,
+    "totalRatings": 579,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_011_098.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "mutton-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-27T14:05:01.961Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_099",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Classic chicken wrap served hot and fresh.",
+    "price": 379,
+    "discountPercent": 19,
+    "finalPrice": 307,
+    "rating": 3.9,
+    "totalRatings": 2567,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_011_099.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "fries",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-27T23:32:32.674Z"
+  },
+  {
+    "id": "product_vendor_bangalore_011_100",
+    "vendorId": "vendor_bangalore_011",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 235,
+    "discountPercent": 39,
+    "finalPrice": 143,
+    "rating": 3.6,
+    "totalRatings": 2187,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_bangalore_011_100.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "burger",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-23T10:23:34.496Z"
+  }
+]

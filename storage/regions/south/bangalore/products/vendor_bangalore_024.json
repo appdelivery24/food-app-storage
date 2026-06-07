@@ -1,0 +1,3539 @@
+[
+  {
+    "id": "product_vendor_bangalore_024_001",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 522,
+    "discountPercent": 4,
+    "finalPrice": 501,
+    "rating": 3.5,
+    "totalRatings": 3237,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_024_001.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "hakka"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-02T22:28:52.438Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_002",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Delicious lucknowi biryani prepared fresh with authentic spices.",
+    "price": 207,
+    "discountPercent": 22,
+    "finalPrice": 161,
+    "rating": 3.6,
+    "totalRatings": 522,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_024_002.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "veg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-08T23:01:00.562Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_003",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 772,
+    "discountPercent": 34,
+    "finalPrice": 510,
+    "rating": 4.9,
+    "totalRatings": 392,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_024_003.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-21T10:54:10.484Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_004",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Classic mutton biryani served hot and fresh.",
+    "price": 324,
+    "discountPercent": 30,
+    "finalPrice": 227,
+    "rating": 3.6,
+    "totalRatings": 315,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_024_004.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "veg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-03T06:31:57.474Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_005",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Popular choice: Egg Biryani made with premium ingredients.",
+    "price": 381,
+    "discountPercent": 18,
+    "finalPrice": 312,
+    "rating": 3.6,
+    "totalRatings": 2552,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_024_005.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "veg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-18T07:34:03.633Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_006",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 898,
+    "discountPercent": 4,
+    "finalPrice": 862,
+    "rating": 3.6,
+    "totalRatings": 1927,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_bangalore_024_006.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "alfredo"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-21T21:42:53.260Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_007",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Popular choice: Veg Biryani made with premium ingredients.",
+    "price": 542,
+    "discountPercent": 22,
+    "finalPrice": 423,
+    "rating": 4.1,
+    "totalRatings": 2117,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_024_007.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "veg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-27T00:57:36.939Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_008",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 164,
+    "discountPercent": 13,
+    "finalPrice": 143,
+    "rating": 4.5,
+    "totalRatings": 3958,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_bangalore_024_008.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-24T09:24:37.554Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_009",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Popular choice: Egg Biryani made with premium ingredients.",
+    "price": 526,
+    "discountPercent": 21,
+    "finalPrice": 416,
+    "rating": 3.5,
+    "totalRatings": 728,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_024_009.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "veg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-21T12:16:43.479Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_010",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Popular choice: Hakka Noodles made with premium ingredients.",
+    "price": 688,
+    "discountPercent": 21,
+    "finalPrice": 544,
+    "rating": 4.2,
+    "totalRatings": 1138,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_024_010.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "hakka"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-06T23:00:20.198Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_011",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 723,
+    "discountPercent": 38,
+    "finalPrice": 448,
+    "rating": 4.1,
+    "totalRatings": 4645,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_bangalore_024_011.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-29T03:00:23.679Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_012",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 674,
+    "discountPercent": 19,
+    "finalPrice": 546,
+    "rating": 4.3,
+    "totalRatings": 916,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_bangalore_024_012.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-27T17:34:15.659Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_013",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Classic veg manchurian served hot and fresh.",
+    "price": 177,
+    "discountPercent": 36,
+    "finalPrice": 113,
+    "rating": 3.6,
+    "totalRatings": 3137,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_024_013.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-06T23:31:42.244Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_014",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 469,
+    "discountPercent": 14,
+    "finalPrice": 403,
+    "rating": 4,
+    "totalRatings": 934,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_bangalore_024_014.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-07T23:51:44.639Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_015",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Popular choice: Schezwan Fried Rice made with premium ingredients.",
+    "price": 842,
+    "discountPercent": 11,
+    "finalPrice": 749,
+    "rating": 3.8,
+    "totalRatings": 1415,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_024_015.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "dim-sum",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-02T22:34:19.918Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_016",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 141,
+    "discountPercent": 39,
+    "finalPrice": 86,
+    "rating": 4.4,
+    "totalRatings": 4279,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_bangalore_024_016.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "risotto",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-08T05:36:59.103Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_017",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Classic egg biryani served hot and fresh.",
+    "price": 436,
+    "discountPercent": 36,
+    "finalPrice": 279,
+    "rating": 3.6,
+    "totalRatings": 3696,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_024_017.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "mutton-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-02T14:36:42.015Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_018",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Delicious chicken biryani prepared fresh with authentic spices.",
+    "price": 245,
+    "discountPercent": 30,
+    "finalPrice": 172,
+    "rating": 3.9,
+    "totalRatings": 2927,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_024_018.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "mutton-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-05T00:44:19.487Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_019",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 501,
+    "discountPercent": 18,
+    "finalPrice": 411,
+    "rating": 3.9,
+    "totalRatings": 1046,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_bangalore_024_019.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-24T13:00:12.095Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_020",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Chef's special lucknowi biryani — perfect for a satisfying meal.",
+    "price": 160,
+    "discountPercent": 10,
+    "finalPrice": 144,
+    "rating": 3.7,
+    "totalRatings": 482,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_024_020.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "egg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-09T09:17:56.399Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_021",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Delicious veg biryani prepared fresh with authentic spices.",
+    "price": 278,
+    "discountPercent": 39,
+    "finalPrice": 170,
+    "rating": 4.2,
+    "totalRatings": 395,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_024_021.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "veg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-29T08:23:31.960Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_022",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Popular choice: Lucknowi Biryani made with premium ingredients.",
+    "price": 723,
+    "discountPercent": 27,
+    "finalPrice": 528,
+    "rating": 4,
+    "totalRatings": 2838,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_024_022.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-21T04:40:36.778Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_023",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Classic hyderabadi dum biryani served hot and fresh.",
+    "price": 129,
+    "discountPercent": 35,
+    "finalPrice": 84,
+    "rating": 4.8,
+    "totalRatings": 2154,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_024_023.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "mutton-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-19T21:56:03.096Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_024",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 659,
+    "discountPercent": 31,
+    "finalPrice": 455,
+    "rating": 4.2,
+    "totalRatings": 3247,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_bangalore_024_024.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-28T11:54:52.000Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_025",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Popular choice: Caesar Salad made with premium ingredients.",
+    "price": 564,
+    "discountPercent": 39,
+    "finalPrice": 344,
+    "rating": 4.8,
+    "totalRatings": 1092,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_bangalore_024_025.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "risotto",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-10T08:27:39.360Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_026",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Popular choice: Chilli Paneer made with premium ingredients.",
+    "price": 108,
+    "discountPercent": 3,
+    "finalPrice": 105,
+    "rating": 4.3,
+    "totalRatings": 667,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_024_026.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "fried-rice",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-03T01:25:28.271Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_027",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Classic hyderabadi dum biryani served hot and fresh.",
+    "price": 460,
+    "discountPercent": 5,
+    "finalPrice": 437,
+    "rating": 4.2,
+    "totalRatings": 982,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_024_027.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "egg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-15T12:24:24.479Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_028",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Classic spring rolls served hot and fresh.",
+    "price": 124,
+    "discountPercent": 2,
+    "finalPrice": 122,
+    "rating": 4.7,
+    "totalRatings": 1397,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_024_028.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "fried-rice",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-16T07:36:29.284Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_029",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 143,
+    "discountPercent": 21,
+    "finalPrice": 113,
+    "rating": 4.2,
+    "totalRatings": 2375,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_024_029.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "fried-rice",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-26T14:15:46.735Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_030",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 422,
+    "discountPercent": 23,
+    "finalPrice": 325,
+    "rating": 4.2,
+    "totalRatings": 2367,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_bangalore_024_030.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "soup",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-05T06:19:09.784Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_031",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 511,
+    "discountPercent": 25,
+    "finalPrice": 383,
+    "rating": 3.7,
+    "totalRatings": 1323,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_024_031.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "veg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-20T23:31:01.935Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_032",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Chef's special spring rolls — perfect for a satisfying meal.",
+    "price": 641,
+    "discountPercent": 18,
+    "finalPrice": 526,
+    "rating": 4.8,
+    "totalRatings": 4051,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_024_032.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "fried-rice",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-27T06:55:02.315Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_033",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Classic chilli paneer served hot and fresh.",
+    "price": 730,
+    "discountPercent": 22,
+    "finalPrice": 569,
+    "rating": 3.8,
+    "totalRatings": 2890,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_024_033.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "dim-sum",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-11T10:45:53.523Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_034",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 698,
+    "discountPercent": 9,
+    "finalPrice": 635,
+    "rating": 3.7,
+    "totalRatings": 48,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_bangalore_024_034.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-08T21:23:54.988Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_035",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 709,
+    "discountPercent": 12,
+    "finalPrice": 624,
+    "rating": 3.9,
+    "totalRatings": 2506,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_bangalore_024_035.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-25T12:08:43.224Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_036",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Chef's special schezwan fried rice — perfect for a satisfying meal.",
+    "price": 283,
+    "discountPercent": 19,
+    "finalPrice": 229,
+    "rating": 4.8,
+    "totalRatings": 1652,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_024_036.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "fried-rice",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-03T16:34:45.465Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_037",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Delicious veg manchurian prepared fresh with authentic spices.",
+    "price": 170,
+    "discountPercent": 13,
+    "finalPrice": 148,
+    "rating": 3.6,
+    "totalRatings": 4381,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_024_037.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-28T10:47:36.850Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_038",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 354,
+    "discountPercent": 35,
+    "finalPrice": 230,
+    "rating": 4.5,
+    "totalRatings": 2083,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_024_038.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "veg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-11T10:40:44.796Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_039",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 176,
+    "discountPercent": 40,
+    "finalPrice": 106,
+    "rating": 3.6,
+    "totalRatings": 631,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_024_039.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "dim-sum",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-06-05T06:41:16.146Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_040",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Chef's special lucknowi biryani — perfect for a satisfying meal.",
+    "price": 747,
+    "discountPercent": 29,
+    "finalPrice": 530,
+    "rating": 4.7,
+    "totalRatings": 485,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_024_040.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-25T22:18:06.125Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_041",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Delicious egg biryani prepared fresh with authentic spices.",
+    "price": 811,
+    "discountPercent": 6,
+    "finalPrice": 762,
+    "rating": 3.8,
+    "totalRatings": 467,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_024_041.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "egg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-03T18:25:40.213Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_042",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 164,
+    "discountPercent": 27,
+    "finalPrice": 120,
+    "rating": 4,
+    "totalRatings": 3331,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_bangalore_024_042.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-23T07:06:33.799Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_043",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Chef's special mutton biryani — perfect for a satisfying meal.",
+    "price": 370,
+    "discountPercent": 30,
+    "finalPrice": 259,
+    "rating": 3.9,
+    "totalRatings": 299,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_024_043.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "egg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-17T11:53:09.097Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_044",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Popular choice: Schezwan Fried Rice made with premium ingredients.",
+    "price": 459,
+    "discountPercent": 3,
+    "finalPrice": 445,
+    "rating": 4.9,
+    "totalRatings": 3341,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_024_044.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "fried-rice",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-05T07:30:10.467Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_045",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Chef's special hakka noodles — perfect for a satisfying meal.",
+    "price": 504,
+    "discountPercent": 13,
+    "finalPrice": 438,
+    "rating": 4.2,
+    "totalRatings": 1174,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_024_045.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "fried-rice",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-16T03:53:00.800Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_046",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Delicious mutton biryani prepared fresh with authentic spices.",
+    "price": 284,
+    "discountPercent": 40,
+    "finalPrice": 170,
+    "rating": 4.8,
+    "totalRatings": 1568,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_024_046.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "veg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-24T15:51:42.514Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_047",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 852,
+    "discountPercent": 8,
+    "finalPrice": 784,
+    "rating": 3.7,
+    "totalRatings": 2917,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_024_047.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "veg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-14T01:43:05.572Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_048",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Popular choice: Veg Biryani made with premium ingredients.",
+    "price": 252,
+    "discountPercent": 6,
+    "finalPrice": 237,
+    "rating": 4,
+    "totalRatings": 1906,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_024_048.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "veg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-09T23:40:46.904Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_049",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Chef's special lucknowi biryani — perfect for a satisfying meal.",
+    "price": 338,
+    "discountPercent": 13,
+    "finalPrice": 294,
+    "rating": 3.6,
+    "totalRatings": 2773,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_024_049.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "mutton-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-10T09:24:33.246Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_050",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 105,
+    "discountPercent": 21,
+    "finalPrice": 83,
+    "rating": 4.4,
+    "totalRatings": 1967,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_bangalore_024_050.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-04T09:37:49.271Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_051",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Delicious spring rolls prepared fresh with authentic spices.",
+    "price": 585,
+    "discountPercent": 27,
+    "finalPrice": 427,
+    "rating": 4.4,
+    "totalRatings": 1764,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_024_051.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "dim-sum",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-30T03:59:20.884Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_052",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 576,
+    "discountPercent": 35,
+    "finalPrice": 374,
+    "rating": 4.3,
+    "totalRatings": 3874,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_bangalore_024_052.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "risotto",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-04T03:50:22.350Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_053",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Delicious veg manchurian prepared fresh with authentic spices.",
+    "price": 856,
+    "discountPercent": 21,
+    "finalPrice": 676,
+    "rating": 4.5,
+    "totalRatings": 3805,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_024_053.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-06T10:11:33.747Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_054",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 587,
+    "discountPercent": 25,
+    "finalPrice": 440,
+    "rating": 4.1,
+    "totalRatings": 3007,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_024_054.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "chicken-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-11T18:13:31.317Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_055",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Classic chicken biryani served hot and fresh.",
+    "price": 415,
+    "discountPercent": 18,
+    "finalPrice": 340,
+    "rating": 4.3,
+    "totalRatings": 3123,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_024_055.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "egg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-14T20:07:35.045Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_056",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 299,
+    "discountPercent": 16,
+    "finalPrice": 251,
+    "rating": 4.3,
+    "totalRatings": 2712,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_024_056.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-26T06:20:16.827Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_057",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 845,
+    "discountPercent": 13,
+    "finalPrice": 735,
+    "rating": 3.7,
+    "totalRatings": 3490,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_bangalore_024_057.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-29T17:33:51.398Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_058",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 794,
+    "discountPercent": 15,
+    "finalPrice": 675,
+    "rating": 4,
+    "totalRatings": 4739,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_bangalore_024_058.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-11T14:03:54.225Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_059",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Popular choice: Kung Pao Chicken made with premium ingredients.",
+    "price": 525,
+    "discountPercent": 40,
+    "finalPrice": 315,
+    "rating": 3.9,
+    "totalRatings": 481,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_024_059.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "fried-rice",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-11T04:10:05.186Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_060",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 520,
+    "discountPercent": 29,
+    "finalPrice": 369,
+    "rating": 4.1,
+    "totalRatings": 566,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_024_060.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-06-05T07:57:52.669Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_061",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Delicious egg biryani prepared fresh with authentic spices.",
+    "price": 87,
+    "discountPercent": 7,
+    "finalPrice": 81,
+    "rating": 3.8,
+    "totalRatings": 1356,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_024_061.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "egg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-08T21:58:28.445Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_062",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 216,
+    "discountPercent": 0,
+    "finalPrice": 216,
+    "rating": 4.1,
+    "totalRatings": 294,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_bangalore_024_062.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-24T23:18:38.039Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_063",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 880,
+    "discountPercent": 21,
+    "finalPrice": 695,
+    "rating": 4.2,
+    "totalRatings": 765,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_bangalore_024_063.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-25T02:07:21.699Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_064",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Popular choice: Caesar Salad made with premium ingredients.",
+    "price": 822,
+    "discountPercent": 38,
+    "finalPrice": 510,
+    "rating": 4.8,
+    "totalRatings": 106,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_bangalore_024_064.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "soup",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-09T07:04:14.872Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_065",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 734,
+    "discountPercent": 19,
+    "finalPrice": 595,
+    "rating": 4.1,
+    "totalRatings": 1610,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_bangalore_024_065.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-13T22:37:35.152Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_066",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 806,
+    "discountPercent": 15,
+    "finalPrice": 685,
+    "rating": 4.2,
+    "totalRatings": 2883,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_bangalore_024_066.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-10T17:52:50.299Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_067",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 314,
+    "discountPercent": 19,
+    "finalPrice": 254,
+    "rating": 3.7,
+    "totalRatings": 4485,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_bangalore_024_067.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-07T10:11:31.947Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_068",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 527,
+    "discountPercent": 6,
+    "finalPrice": 495,
+    "rating": 3.7,
+    "totalRatings": 2903,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_024_068.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "veg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-24T08:51:46.934Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_069",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Popular choice: Spring Rolls made with premium ingredients.",
+    "price": 503,
+    "discountPercent": 0,
+    "finalPrice": 503,
+    "rating": 4.3,
+    "totalRatings": 4194,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_024_069.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "manchurian",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-14T11:20:23.096Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_070",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Classic mutton biryani served hot and fresh.",
+    "price": 850,
+    "discountPercent": 2,
+    "finalPrice": 833,
+    "rating": 4,
+    "totalRatings": 61,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_024_070.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "chicken-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-28T01:16:12.377Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_071",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Classic hot & sour soup served hot and fresh.",
+    "price": 607,
+    "discountPercent": 25,
+    "finalPrice": 455,
+    "rating": 4.3,
+    "totalRatings": 4693,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_024_071.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "dim-sum",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-01T12:59:23.968Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_072",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Popular choice: Mutton Biryani made with premium ingredients.",
+    "price": 90,
+    "discountPercent": 6,
+    "finalPrice": 85,
+    "rating": 4.5,
+    "totalRatings": 4319,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_024_072.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "egg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-28T11:03:37.153Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_073",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Popular choice: Caesar Salad made with premium ingredients.",
+    "price": 498,
+    "discountPercent": 39,
+    "finalPrice": 304,
+    "rating": 3.7,
+    "totalRatings": 2546,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_bangalore_024_073.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-25T07:29:18.973Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_074",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 435,
+    "discountPercent": 0,
+    "finalPrice": 435,
+    "rating": 4.7,
+    "totalRatings": 2655,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_bangalore_024_074.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "soup",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-05T13:54:58.299Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_075",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Classic veg biryani served hot and fresh.",
+    "price": 861,
+    "discountPercent": 30,
+    "finalPrice": 603,
+    "rating": 4.2,
+    "totalRatings": 4588,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_024_075.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "veg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-15T01:06:14.071Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_076",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 874,
+    "discountPercent": 21,
+    "finalPrice": 690,
+    "rating": 4,
+    "totalRatings": 2967,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_bangalore_024_076.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-25T17:19:50.936Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_077",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 659,
+    "discountPercent": 16,
+    "finalPrice": 554,
+    "rating": 4.8,
+    "totalRatings": 1971,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_bangalore_024_077.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-22T00:36:51.475Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_078",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Delicious chilli paneer prepared fresh with authentic spices.",
+    "price": 844,
+    "discountPercent": 34,
+    "finalPrice": 557,
+    "rating": 4.9,
+    "totalRatings": 1136,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_024_078.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "soup",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-20T11:36:20.088Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_079",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 707,
+    "discountPercent": 35,
+    "finalPrice": 460,
+    "rating": 3.7,
+    "totalRatings": 2918,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_bangalore_024_079.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-26T07:58:29.887Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_080",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Classic chilli paneer served hot and fresh.",
+    "price": 380,
+    "discountPercent": 19,
+    "finalPrice": 308,
+    "rating": 3.6,
+    "totalRatings": 4936,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_024_080.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "fried-rice",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-17T06:06:12.292Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_081",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 740,
+    "discountPercent": 39,
+    "finalPrice": 451,
+    "rating": 3.8,
+    "totalRatings": 2556,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_bangalore_024_081.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-15T05:52:14.292Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_082",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Classic caesar salad served hot and fresh.",
+    "price": 602,
+    "discountPercent": 4,
+    "finalPrice": 578,
+    "rating": 4,
+    "totalRatings": 2445,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_bangalore_024_082.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "soup",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-29T15:18:18.569Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_083",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 278,
+    "discountPercent": 40,
+    "finalPrice": 167,
+    "rating": 3.9,
+    "totalRatings": 2424,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_bangalore_024_083.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-01T22:38:40.438Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_084",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 395,
+    "discountPercent": 30,
+    "finalPrice": 277,
+    "rating": 4.4,
+    "totalRatings": 2463,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_024_084.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "fried-rice",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-29T12:55:27.219Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_085",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 743,
+    "discountPercent": 3,
+    "finalPrice": 721,
+    "rating": 4.4,
+    "totalRatings": 1207,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_bangalore_024_085.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-05T02:57:02.500Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_086",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 517,
+    "discountPercent": 5,
+    "finalPrice": 491,
+    "rating": 4.4,
+    "totalRatings": 4262,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_bangalore_024_086.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-24T05:05:01.484Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_087",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 684,
+    "discountPercent": 21,
+    "finalPrice": 540,
+    "rating": 4.4,
+    "totalRatings": 1544,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_bangalore_024_087.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "soup",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-15T00:06:21.786Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_088",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 668,
+    "discountPercent": 34,
+    "finalPrice": 441,
+    "rating": 4.5,
+    "totalRatings": 1123,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_bangalore_024_088.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-20T13:19:09.657Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_089",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Delicious veg biryani prepared fresh with authentic spices.",
+    "price": 236,
+    "discountPercent": 5,
+    "finalPrice": 224,
+    "rating": 4.4,
+    "totalRatings": 3101,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_024_089.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "chicken-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-28T04:35:47.359Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_090",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Popular choice: Kung Pao Chicken made with premium ingredients.",
+    "price": 272,
+    "discountPercent": 40,
+    "finalPrice": 163,
+    "rating": 4.4,
+    "totalRatings": 506,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_024_090.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "noodles",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-18T18:33:13.871Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_091",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Chef's special chilli paneer — perfect for a satisfying meal.",
+    "price": 301,
+    "discountPercent": 22,
+    "finalPrice": 235,
+    "rating": 3.8,
+    "totalRatings": 2776,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_024_091.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "noodles",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-23T14:39:39.124Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_092",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Popular choice: Veg Manchurian made with premium ingredients.",
+    "price": 79,
+    "discountPercent": 3,
+    "finalPrice": 77,
+    "rating": 4.4,
+    "totalRatings": 2100,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_024_092.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "fried-rice",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-21T00:49:34.261Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_093",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Popular choice: Chilli Paneer made with premium ingredients.",
+    "price": 387,
+    "discountPercent": 10,
+    "finalPrice": 348,
+    "rating": 4.2,
+    "totalRatings": 553,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_024_093.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "dim-sum",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-31T22:43:50.514Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_094",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Classic spring rolls served hot and fresh.",
+    "price": 861,
+    "discountPercent": 34,
+    "finalPrice": 568,
+    "rating": 3.9,
+    "totalRatings": 810,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_024_094.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "soup",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-14T07:49:39.381Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_095",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Popular choice: Kung Pao Chicken made with premium ingredients.",
+    "price": 780,
+    "discountPercent": 37,
+    "finalPrice": 491,
+    "rating": 3.6,
+    "totalRatings": 758,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_024_095.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "fried-rice",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-14T21:11:45.451Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_096",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Classic hakka noodles served hot and fresh.",
+    "price": 811,
+    "discountPercent": 15,
+    "finalPrice": 689,
+    "rating": 4.2,
+    "totalRatings": 204,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_024_096.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "hakka"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-03T03:19:02.417Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_097",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 635,
+    "discountPercent": 38,
+    "finalPrice": 394,
+    "rating": 4.5,
+    "totalRatings": 4038,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_bangalore_024_097.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "alfredo"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-21T10:29:47.461Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_098",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 878,
+    "discountPercent": 29,
+    "finalPrice": 623,
+    "rating": 4.3,
+    "totalRatings": 1542,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_bangalore_024_098.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-14T18:08:46.034Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_099",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Delicious lucknowi biryani prepared fresh with authentic spices.",
+    "price": 533,
+    "discountPercent": 23,
+    "finalPrice": 410,
+    "rating": 4.4,
+    "totalRatings": 4978,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_024_099.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "veg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-28T20:51:52.146Z"
+  },
+  {
+    "id": "product_vendor_bangalore_024_100",
+    "vendorId": "vendor_bangalore_024",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Popular choice: Chilli Paneer made with premium ingredients.",
+    "price": 88,
+    "discountPercent": 12,
+    "finalPrice": 77,
+    "rating": 4.3,
+    "totalRatings": 72,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_024_100.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "fried-rice",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-23T00:43:20.858Z"
+  }
+]

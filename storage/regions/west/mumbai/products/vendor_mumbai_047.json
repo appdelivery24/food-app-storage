@@ -1,0 +1,3549 @@
+[
+  {
+    "id": "product_vendor_mumbai_047_001",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 832,
+    "discountPercent": 2,
+    "finalPrice": 815,
+    "rating": 4.4,
+    "totalRatings": 3648,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_047_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "alfredo"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-18T17:44:26.472Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_002",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Classic masala dosa served hot and fresh.",
+    "price": 516,
+    "discountPercent": 35,
+    "finalPrice": 335,
+    "rating": 4.8,
+    "totalRatings": 4944,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_mumbai_047_002.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "masala"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-13T06:02:31.782Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_003",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Popular choice: Idli Sambar made with premium ingredients.",
+    "price": 159,
+    "discountPercent": 17,
+    "finalPrice": 132,
+    "rating": 4.7,
+    "totalRatings": 4167,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_mumbai_047_003.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "dosa",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-14T03:43:50.050Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_004",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 565,
+    "discountPercent": 1,
+    "finalPrice": 559,
+    "rating": 4.2,
+    "totalRatings": 2540,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_mumbai_047_004.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-17T00:22:59.211Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_005",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 874,
+    "discountPercent": 28,
+    "finalPrice": 629,
+    "rating": 4,
+    "totalRatings": 976,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_047_005.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-23T04:09:02.374Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_006",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Classic caesar salad served hot and fresh.",
+    "price": 463,
+    "discountPercent": 11,
+    "finalPrice": 412,
+    "rating": 4.4,
+    "totalRatings": 1236,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_mumbai_047_006.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-28T08:14:36.744Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_007",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Delicious medu vada prepared fresh with authentic spices.",
+    "price": 137,
+    "discountPercent": 18,
+    "finalPrice": 112,
+    "rating": 3.9,
+    "totalRatings": 1508,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_mumbai_047_007.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "rasam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-28T13:07:41.597Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_008",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 845,
+    "discountPercent": 26,
+    "finalPrice": 625,
+    "rating": 4.6,
+    "totalRatings": 1488,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_047_008.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "risotto",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-14T14:57:36.700Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_009",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Delicious mushroom risotto prepared fresh with authentic spices.",
+    "price": 826,
+    "discountPercent": 31,
+    "finalPrice": 570,
+    "rating": 4.7,
+    "totalRatings": 3793,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_mumbai_047_009.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-06T09:17:18.025Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_010",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 554,
+    "discountPercent": 8,
+    "finalPrice": 510,
+    "rating": 4.4,
+    "totalRatings": 548,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_mumbai_047_010.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-06-04T15:21:40.099Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_011",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 670,
+    "discountPercent": 34,
+    "finalPrice": 442,
+    "rating": 3.9,
+    "totalRatings": 1835,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_047_011.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "soup",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-06-05T19:31:15.104Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_012",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Popular choice: Masala Dosa made with premium ingredients.",
+    "price": 204,
+    "discountPercent": 4,
+    "finalPrice": 196,
+    "rating": 4.6,
+    "totalRatings": 2589,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_mumbai_047_012.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "masala"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-19T17:48:31.893Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_013",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 596,
+    "discountPercent": 2,
+    "finalPrice": 584,
+    "rating": 3.5,
+    "totalRatings": 4452,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_047_013.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-24T03:58:04.468Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_014",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Popular choice: Uttapam made with premium ingredients.",
+    "price": 402,
+    "discountPercent": 9,
+    "finalPrice": 366,
+    "rating": 4.2,
+    "totalRatings": 3729,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_mumbai_047_014.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-19T06:24:21.803Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_015",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Chef's special hyderabadi biryani — perfect for a satisfying meal.",
+    "price": 394,
+    "discountPercent": 3,
+    "finalPrice": 382,
+    "rating": 4.1,
+    "totalRatings": 3579,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_mumbai_047_015.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "uttapam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-18T09:13:32.835Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_016",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 480,
+    "discountPercent": 32,
+    "finalPrice": 326,
+    "rating": 3.7,
+    "totalRatings": 3471,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_mumbai_047_016.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "tomato"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-12T08:24:50.688Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_017",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Popular choice: Idli Sambar made with premium ingredients.",
+    "price": 565,
+    "discountPercent": 34,
+    "finalPrice": 373,
+    "rating": 3.6,
+    "totalRatings": 3201,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_mumbai_047_017.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "idli"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-02T02:14:22.748Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_018",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 438,
+    "discountPercent": 37,
+    "finalPrice": 276,
+    "rating": 4.2,
+    "totalRatings": 2511,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_mumbai_047_018.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "risotto",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-12T05:12:25.818Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_019",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 394,
+    "discountPercent": 2,
+    "finalPrice": 386,
+    "rating": 3.7,
+    "totalRatings": 4428,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_047_019.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-30T01:07:45.279Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_020",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Popular choice: Uttapam made with premium ingredients.",
+    "price": 779,
+    "discountPercent": 14,
+    "finalPrice": 670,
+    "rating": 3.8,
+    "totalRatings": 516,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_mumbai_047_020.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "idli"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-11T15:27:21.263Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_021",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 100,
+    "discountPercent": 26,
+    "finalPrice": 74,
+    "rating": 3.6,
+    "totalRatings": 1665,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_047_021.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-13T07:11:13.608Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_022",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 780,
+    "discountPercent": 10,
+    "finalPrice": 702,
+    "rating": 4.2,
+    "totalRatings": 3213,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_047_022.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-15T10:52:04.278Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_023",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 97,
+    "discountPercent": 27,
+    "finalPrice": 71,
+    "rating": 4.5,
+    "totalRatings": 1982,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_047_023.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "soup",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-28T18:12:08.022Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_024",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Chef's special filter coffee — perfect for a satisfying meal.",
+    "price": 830,
+    "discountPercent": 32,
+    "finalPrice": 564,
+    "rating": 4.8,
+    "totalRatings": 4306,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_mumbai_047_024.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-16T00:44:18.920Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_025",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 692,
+    "discountPercent": 10,
+    "finalPrice": 623,
+    "rating": 3.9,
+    "totalRatings": 398,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_047_025.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-24T00:37:02.988Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_026",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 597,
+    "discountPercent": 9,
+    "finalPrice": 543,
+    "rating": 4.4,
+    "totalRatings": 2057,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_mumbai_047_026.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "vada",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-03T12:42:28.163Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_027",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 251,
+    "discountPercent": 28,
+    "finalPrice": 181,
+    "rating": 4.7,
+    "totalRatings": 257,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_mumbai_047_027.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "rasam",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-20T04:37:23.278Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_028",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 549,
+    "discountPercent": 1,
+    "finalPrice": 544,
+    "rating": 3.8,
+    "totalRatings": 3939,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_mumbai_047_028.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-10T07:57:10.865Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_029",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 421,
+    "discountPercent": 35,
+    "finalPrice": 274,
+    "rating": 3.6,
+    "totalRatings": 833,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_mumbai_047_029.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "uttapam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-14T09:29:42.243Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_030",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Popular choice: Caesar Salad made with premium ingredients.",
+    "price": 888,
+    "discountPercent": 24,
+    "finalPrice": 675,
+    "rating": 3.6,
+    "totalRatings": 1534,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_mumbai_047_030.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-07T21:16:51.290Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_031",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 586,
+    "discountPercent": 11,
+    "finalPrice": 522,
+    "rating": 4.4,
+    "totalRatings": 3196,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_mumbai_047_031.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-19T16:10:16.168Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_032",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Classic hyderabadi biryani served hot and fresh.",
+    "price": 561,
+    "discountPercent": 36,
+    "finalPrice": 359,
+    "rating": 3.8,
+    "totalRatings": 598,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_mumbai_047_032.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "dosa",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-30T06:39:19.670Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_033",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 797,
+    "discountPercent": 5,
+    "finalPrice": 757,
+    "rating": 4.1,
+    "totalRatings": 108,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_047_033.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-04T05:50:35.882Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_034",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Chef's special filter coffee — perfect for a satisfying meal.",
+    "price": 195,
+    "discountPercent": 23,
+    "finalPrice": 150,
+    "rating": 3.7,
+    "totalRatings": 617,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_mumbai_047_034.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "sambar",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-12T08:12:26.991Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_035",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Delicious mushroom risotto prepared fresh with authentic spices.",
+    "price": 637,
+    "discountPercent": 17,
+    "finalPrice": 529,
+    "rating": 4,
+    "totalRatings": 797,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_mumbai_047_035.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "pasta",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-13T09:46:43.186Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_036",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Popular choice: Rava Dosa made with premium ingredients.",
+    "price": 609,
+    "discountPercent": 31,
+    "finalPrice": 420,
+    "rating": 4.9,
+    "totalRatings": 3560,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_mumbai_047_036.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "rava"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-11T17:40:22.712Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_037",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 91,
+    "discountPercent": 29,
+    "finalPrice": 65,
+    "rating": 3.7,
+    "totalRatings": 64,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_mumbai_047_037.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-24T18:28:53.947Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_038",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 97,
+    "discountPercent": 18,
+    "finalPrice": 80,
+    "rating": 3.9,
+    "totalRatings": 2418,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_047_038.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-22T13:56:23.512Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_039",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Chef's special uttapam — perfect for a satisfying meal.",
+    "price": 144,
+    "discountPercent": 34,
+    "finalPrice": 95,
+    "rating": 3.8,
+    "totalRatings": 2783,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_mumbai_047_039.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "rasam"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-26T02:33:51.033Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_040",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 685,
+    "discountPercent": 36,
+    "finalPrice": 438,
+    "rating": 4.7,
+    "totalRatings": 1268,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_047_040.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-23T11:25:40.088Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_041",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 745,
+    "discountPercent": 36,
+    "finalPrice": 477,
+    "rating": 4.1,
+    "totalRatings": 4720,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_mumbai_047_041.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-17T13:48:20.278Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_042",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 634,
+    "discountPercent": 11,
+    "finalPrice": 564,
+    "rating": 3.9,
+    "totalRatings": 2837,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_047_042.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-08T07:01:16.509Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_043",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 622,
+    "discountPercent": 15,
+    "finalPrice": 529,
+    "rating": 4.2,
+    "totalRatings": 792,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_mumbai_047_043.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-06T19:50:05.800Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_044",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Chef's special hyderabadi biryani — perfect for a satisfying meal.",
+    "price": 310,
+    "discountPercent": 5,
+    "finalPrice": 295,
+    "rating": 4.3,
+    "totalRatings": 592,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_mumbai_047_044.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "vada",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-08T00:43:38.164Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_045",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Classic idli sambar served hot and fresh.",
+    "price": 131,
+    "discountPercent": 13,
+    "finalPrice": 114,
+    "rating": 3.7,
+    "totalRatings": 1093,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_mumbai_047_045.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "uttapam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-21T23:46:55.287Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_046",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 825,
+    "discountPercent": 23,
+    "finalPrice": 635,
+    "rating": 3.7,
+    "totalRatings": 1779,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_mumbai_047_046.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "mushroom"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-26T23:02:56.434Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_047",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Classic hyderabadi biryani served hot and fresh.",
+    "price": 290,
+    "discountPercent": 4,
+    "finalPrice": 278,
+    "rating": 4.1,
+    "totalRatings": 3535,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_mumbai_047_047.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "uttapam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-02T08:12:22.831Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_048",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 361,
+    "discountPercent": 5,
+    "finalPrice": 343,
+    "rating": 4.4,
+    "totalRatings": 228,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_mumbai_047_048.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "tomato"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-07T17:59:56.879Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_049",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 386,
+    "discountPercent": 32,
+    "finalPrice": 262,
+    "rating": 4.6,
+    "totalRatings": 238,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_mumbai_047_049.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-25T21:45:58.029Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_050",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 706,
+    "discountPercent": 5,
+    "finalPrice": 671,
+    "rating": 4,
+    "totalRatings": 2289,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_047_050.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "risotto",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-04T03:27:49.811Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_051",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Chef's special idli sambar — perfect for a satisfying meal.",
+    "price": 316,
+    "discountPercent": 0,
+    "finalPrice": 316,
+    "rating": 4.1,
+    "totalRatings": 1033,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_mumbai_047_051.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "idli"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-19T14:42:22.386Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_052",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 472,
+    "discountPercent": 0,
+    "finalPrice": 472,
+    "rating": 4.5,
+    "totalRatings": 3040,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_047_052.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "risotto",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-28T04:50:26.512Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_053",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 142,
+    "discountPercent": 39,
+    "finalPrice": 87,
+    "rating": 3.5,
+    "totalRatings": 4337,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_047_053.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-22T14:35:44.690Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_054",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Chef's special idli sambar — perfect for a satisfying meal.",
+    "price": 555,
+    "discountPercent": 16,
+    "finalPrice": 466,
+    "rating": 3.6,
+    "totalRatings": 330,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_mumbai_047_054.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-15T10:30:59.548Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_055",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 438,
+    "discountPercent": 31,
+    "finalPrice": 302,
+    "rating": 3.7,
+    "totalRatings": 4234,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_047_055.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-15T08:17:30.555Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_056",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 131,
+    "discountPercent": 22,
+    "finalPrice": 102,
+    "rating": 3.9,
+    "totalRatings": 3174,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_047_056.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "risotto",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-07T12:34:30.181Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_057",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 694,
+    "discountPercent": 3,
+    "finalPrice": 673,
+    "rating": 4.1,
+    "totalRatings": 945,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_mumbai_047_057.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-24T11:26:40.848Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_058",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 328,
+    "discountPercent": 27,
+    "finalPrice": 239,
+    "rating": 4.6,
+    "totalRatings": 1623,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_047_058.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-11T20:47:11.578Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_059",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 736,
+    "discountPercent": 10,
+    "finalPrice": 662,
+    "rating": 4.5,
+    "totalRatings": 4024,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_047_059.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-16T23:38:41.343Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_060",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 289,
+    "discountPercent": 31,
+    "finalPrice": 199,
+    "rating": 3.8,
+    "totalRatings": 1548,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_047_060.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "risotto",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-05T07:35:27.388Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_061",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 147,
+    "discountPercent": 2,
+    "finalPrice": 144,
+    "rating": 4.5,
+    "totalRatings": 4319,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_047_061.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-22T00:18:01.483Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_062",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 323,
+    "discountPercent": 39,
+    "finalPrice": 197,
+    "rating": 3.8,
+    "totalRatings": 1810,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_mumbai_047_062.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "idli",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-15T16:28:31.115Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_063",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Classic masala dosa served hot and fresh.",
+    "price": 823,
+    "discountPercent": 7,
+    "finalPrice": 765,
+    "rating": 3.5,
+    "totalRatings": 653,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_mumbai_047_063.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "vada",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-03T21:48:51.283Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_064",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Classic medu vada served hot and fresh.",
+    "price": 600,
+    "discountPercent": 30,
+    "finalPrice": 420,
+    "rating": 4.8,
+    "totalRatings": 2551,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_mumbai_047_064.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "idli",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-09T11:12:29.685Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_065",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Classic idli sambar served hot and fresh.",
+    "price": 253,
+    "discountPercent": 30,
+    "finalPrice": 177,
+    "rating": 4.6,
+    "totalRatings": 1172,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_mumbai_047_065.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "vada",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-23T10:21:52.880Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_066",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 877,
+    "discountPercent": 4,
+    "finalPrice": 842,
+    "rating": 4.1,
+    "totalRatings": 4456,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_047_066.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "soup",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-12T08:52:08.092Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_067",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 587,
+    "discountPercent": 38,
+    "finalPrice": 364,
+    "rating": 4,
+    "totalRatings": 53,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_mumbai_047_067.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "sambar",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-30T09:38:04.454Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_068",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Chef's special filter coffee — perfect for a satisfying meal.",
+    "price": 266,
+    "discountPercent": 34,
+    "finalPrice": 176,
+    "rating": 4.5,
+    "totalRatings": 2516,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_mumbai_047_068.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-20T21:59:59.823Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_069",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 252,
+    "discountPercent": 8,
+    "finalPrice": 232,
+    "rating": 4.1,
+    "totalRatings": 4878,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_047_069.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-16T10:38:09.408Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_070",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 387,
+    "discountPercent": 20,
+    "finalPrice": 310,
+    "rating": 4.4,
+    "totalRatings": 654,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_mumbai_047_070.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-05T01:25:01.286Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_071",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 348,
+    "discountPercent": 23,
+    "finalPrice": 268,
+    "rating": 4.7,
+    "totalRatings": 1702,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_mumbai_047_071.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "uttapam",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-11T19:49:58.018Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_072",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Delicious mushroom risotto prepared fresh with authentic spices.",
+    "price": 131,
+    "discountPercent": 12,
+    "finalPrice": 115,
+    "rating": 4,
+    "totalRatings": 3392,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_mumbai_047_072.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "mushroom"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-29T13:36:00.230Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_073",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 373,
+    "discountPercent": 34,
+    "finalPrice": 246,
+    "rating": 3.8,
+    "totalRatings": 716,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_047_073.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-04T08:47:05.986Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_074",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Popular choice: Curd Rice made with premium ingredients.",
+    "price": 617,
+    "discountPercent": 32,
+    "finalPrice": 420,
+    "rating": 4.3,
+    "totalRatings": 2156,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_mumbai_047_074.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "dosa",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-12T00:38:50.985Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_075",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Classic medu vada served hot and fresh.",
+    "price": 805,
+    "discountPercent": 27,
+    "finalPrice": 588,
+    "rating": 4,
+    "totalRatings": 297,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_mumbai_047_075.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "medu"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-12T03:06:41.576Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_076",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 563,
+    "discountPercent": 15,
+    "finalPrice": 479,
+    "rating": 4.6,
+    "totalRatings": 4452,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_mumbai_047_076.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-30T13:48:51.975Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_077",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 851,
+    "discountPercent": 24,
+    "finalPrice": 647,
+    "rating": 3.8,
+    "totalRatings": 1981,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_047_077.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-04T05:19:43.331Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_078",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 880,
+    "discountPercent": 23,
+    "finalPrice": 678,
+    "rating": 4.7,
+    "totalRatings": 1224,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_047_078.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-28T03:11:57.932Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_079",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Chef's special rava dosa — perfect for a satisfying meal.",
+    "price": 604,
+    "discountPercent": 33,
+    "finalPrice": 405,
+    "rating": 3.7,
+    "totalRatings": 4843,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_mumbai_047_079.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-22T13:14:44.548Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_080",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Delicious mushroom risotto prepared fresh with authentic spices.",
+    "price": 879,
+    "discountPercent": 10,
+    "finalPrice": 791,
+    "rating": 3.6,
+    "totalRatings": 3332,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_mumbai_047_080.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "mushroom"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-09T20:14:48.527Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_081",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Classic medu vada served hot and fresh.",
+    "price": 573,
+    "discountPercent": 40,
+    "finalPrice": 344,
+    "rating": 4.6,
+    "totalRatings": 3638,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_mumbai_047_081.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "sambar",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-20T06:12:13.566Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_082",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 631,
+    "discountPercent": 4,
+    "finalPrice": 606,
+    "rating": 4,
+    "totalRatings": 4315,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_mumbai_047_082.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "sambar",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-23T07:12:43.461Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_083",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 724,
+    "discountPercent": 19,
+    "finalPrice": 586,
+    "rating": 4,
+    "totalRatings": 2860,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_mumbai_047_083.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-28T06:12:08.667Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_084",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Chef's special hyderabadi biryani — perfect for a satisfying meal.",
+    "price": 256,
+    "discountPercent": 9,
+    "finalPrice": 233,
+    "rating": 4.5,
+    "totalRatings": 2257,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_mumbai_047_084.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "uttapam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-12T20:49:46.530Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_085",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Delicious mushroom risotto prepared fresh with authentic spices.",
+    "price": 453,
+    "discountPercent": 24,
+    "finalPrice": 344,
+    "rating": 4.5,
+    "totalRatings": 2539,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_mumbai_047_085.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-20T03:49:57.211Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_086",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 463,
+    "discountPercent": 25,
+    "finalPrice": 347,
+    "rating": 4.4,
+    "totalRatings": 3864,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_047_086.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-20T05:36:39.747Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_087",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 807,
+    "discountPercent": 20,
+    "finalPrice": 646,
+    "rating": 4.3,
+    "totalRatings": 2967,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_mumbai_047_087.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "dosa",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-23T21:05:54.721Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_088",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 254,
+    "discountPercent": 28,
+    "finalPrice": 183,
+    "rating": 3.7,
+    "totalRatings": 3637,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_047_088.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-17T10:21:55.896Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_089",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 256,
+    "discountPercent": 2,
+    "finalPrice": 251,
+    "rating": 3.5,
+    "totalRatings": 3992,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_mumbai_047_089.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-29T02:14:12.276Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_090",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Delicious curd rice prepared fresh with authentic spices.",
+    "price": 326,
+    "discountPercent": 12,
+    "finalPrice": 287,
+    "rating": 4.8,
+    "totalRatings": 394,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_mumbai_047_090.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "vada",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-22T08:53:23.115Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_091",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 113,
+    "discountPercent": 23,
+    "finalPrice": 87,
+    "rating": 4.5,
+    "totalRatings": 4042,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_047_091.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-04T04:03:13.917Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_092",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Popular choice: Uttapam made with premium ingredients.",
+    "price": 415,
+    "discountPercent": 15,
+    "finalPrice": 353,
+    "rating": 4.1,
+    "totalRatings": 4486,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_mumbai_047_092.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-01T22:40:56.148Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_093",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Classic hyderabadi biryani served hot and fresh.",
+    "price": 624,
+    "discountPercent": 23,
+    "finalPrice": 480,
+    "rating": 4.8,
+    "totalRatings": 4647,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_mumbai_047_093.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "sambar",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-25T19:20:36.892Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_094",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 675,
+    "discountPercent": 34,
+    "finalPrice": 445,
+    "rating": 4.7,
+    "totalRatings": 749,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_mumbai_047_094.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-09T03:25:42.376Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_095",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 143,
+    "discountPercent": 34,
+    "finalPrice": 94,
+    "rating": 4.8,
+    "totalRatings": 726,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_047_095.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "alfredo"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-11T10:08:52.046Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_096",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 575,
+    "discountPercent": 10,
+    "finalPrice": 518,
+    "rating": 4.3,
+    "totalRatings": 268,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_047_096.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "risotto",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-08T19:26:27.755Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_097",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Delicious curd rice prepared fresh with authentic spices.",
+    "price": 782,
+    "discountPercent": 25,
+    "finalPrice": 587,
+    "rating": 4.9,
+    "totalRatings": 4213,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_mumbai_047_097.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "uttapam",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-26T15:25:42.614Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_098",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 893,
+    "discountPercent": 34,
+    "finalPrice": 589,
+    "rating": 3.9,
+    "totalRatings": 4526,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_mumbai_047_098.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "dosa",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-06-01T23:55:28.546Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_099",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 325,
+    "discountPercent": 18,
+    "finalPrice": 267,
+    "rating": 4.8,
+    "totalRatings": 4036,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_047_099.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-10T12:22:44.836Z"
+  },
+  {
+    "id": "product_vendor_mumbai_047_100",
+    "vendorId": "vendor_mumbai_047",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Classic caesar salad served hot and fresh.",
+    "price": 350,
+    "discountPercent": 10,
+    "finalPrice": 315,
+    "rating": 3.7,
+    "totalRatings": 3347,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_mumbai_047_100.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-18T01:50:00.707Z"
+  }
+]

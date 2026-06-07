@@ -1,0 +1,3567 @@
+[
+  {
+    "id": "product_vendor_noida_008_001",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 460,
+    "discountPercent": 3,
+    "finalPrice": 446,
+    "rating": 4.7,
+    "totalRatings": 657,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_008_001.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-21T22:14:24.057Z"
+  },
+  {
+    "id": "product_vendor_noida_008_002",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 617,
+    "discountPercent": 21,
+    "finalPrice": 487,
+    "rating": 3.7,
+    "totalRatings": 4962,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_008_002.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "uttapam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-10T10:32:21.536Z"
+  },
+  {
+    "id": "product_vendor_noida_008_003",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 715,
+    "discountPercent": 33,
+    "finalPrice": 479,
+    "rating": 4.7,
+    "totalRatings": 3601,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_008_003.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "uttapam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-20T07:07:23.987Z"
+  },
+  {
+    "id": "product_vendor_noida_008_004",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 309,
+    "discountPercent": 15,
+    "finalPrice": 263,
+    "rating": 3.7,
+    "totalRatings": 2336,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_008_004.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-01T01:09:40.245Z"
+  },
+  {
+    "id": "product_vendor_noida_008_005",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 410,
+    "discountPercent": 6,
+    "finalPrice": 385,
+    "rating": 4.5,
+    "totalRatings": 2033,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_008_005.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-28T13:21:05.080Z"
+  },
+  {
+    "id": "product_vendor_noida_008_006",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 882,
+    "discountPercent": 14,
+    "finalPrice": 759,
+    "rating": 3.7,
+    "totalRatings": 1141,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_008_006.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-16T09:47:17.913Z"
+  },
+  {
+    "id": "product_vendor_noida_008_007",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 300,
+    "discountPercent": 31,
+    "finalPrice": 207,
+    "rating": 4.2,
+    "totalRatings": 4736,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_008_007.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "risotto",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-26T21:25:52.070Z"
+  },
+  {
+    "id": "product_vendor_noida_008_008",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 200,
+    "discountPercent": 0,
+    "finalPrice": 200,
+    "rating": 4.1,
+    "totalRatings": 993,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_008_008.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "tomato"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-20T03:39:59.623Z"
+  },
+  {
+    "id": "product_vendor_noida_008_009",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 251,
+    "discountPercent": 34,
+    "finalPrice": 166,
+    "rating": 4.8,
+    "totalRatings": 2274,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_008_009.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-10T15:42:23.493Z"
+  },
+  {
+    "id": "product_vendor_noida_008_010",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 181,
+    "discountPercent": 16,
+    "finalPrice": 152,
+    "rating": 4.8,
+    "totalRatings": 1831,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_008_010.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-20T15:08:09.840Z"
+  },
+  {
+    "id": "product_vendor_noida_008_011",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 607,
+    "discountPercent": 13,
+    "finalPrice": 528,
+    "rating": 3.6,
+    "totalRatings": 3546,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_008_011.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "mushroom"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-29T08:19:10.514Z"
+  },
+  {
+    "id": "product_vendor_noida_008_012",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 117,
+    "discountPercent": 30,
+    "finalPrice": 82,
+    "rating": 4.1,
+    "totalRatings": 4139,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_008_012.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-28T19:43:24.187Z"
+  },
+  {
+    "id": "product_vendor_noida_008_013",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 833,
+    "discountPercent": 24,
+    "finalPrice": 633,
+    "rating": 4.8,
+    "totalRatings": 3827,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_008_013.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-30T22:55:36.811Z"
+  },
+  {
+    "id": "product_vendor_noida_008_014",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Chef's special filter coffee — perfect for a satisfying meal.",
+    "price": 635,
+    "discountPercent": 11,
+    "finalPrice": 565,
+    "rating": 4.4,
+    "totalRatings": 3081,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_008_014.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "rasam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-18T04:34:57.125Z"
+  },
+  {
+    "id": "product_vendor_noida_008_015",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Delicious idli sambar prepared fresh with authentic spices.",
+    "price": 214,
+    "discountPercent": 39,
+    "finalPrice": 131,
+    "rating": 4.1,
+    "totalRatings": 3579,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_008_015.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "dosa",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-05T12:59:33.249Z"
+  },
+  {
+    "id": "product_vendor_noida_008_016",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 113,
+    "discountPercent": 28,
+    "finalPrice": 81,
+    "rating": 4.2,
+    "totalRatings": 4919,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_008_016.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-08T02:16:29.968Z"
+  },
+  {
+    "id": "product_vendor_noida_008_017",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Classic masala dosa served hot and fresh.",
+    "price": 681,
+    "discountPercent": 20,
+    "finalPrice": 545,
+    "rating": 4.3,
+    "totalRatings": 1585,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_noida_008_017.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-03T02:50:45.455Z"
+  },
+  {
+    "id": "product_vendor_noida_008_018",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 685,
+    "discountPercent": 19,
+    "finalPrice": 555,
+    "rating": 4.8,
+    "totalRatings": 4031,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_008_018.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "tomato"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-10T05:06:16.168Z"
+  },
+  {
+    "id": "product_vendor_noida_008_019",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 258,
+    "discountPercent": 33,
+    "finalPrice": 173,
+    "rating": 4.1,
+    "totalRatings": 827,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_008_019.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "risotto",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-15T16:26:21.877Z"
+  },
+  {
+    "id": "product_vendor_noida_008_020",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 164,
+    "discountPercent": 25,
+    "finalPrice": 123,
+    "rating": 4.2,
+    "totalRatings": 4010,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_008_020.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-06T22:11:01.990Z"
+  },
+  {
+    "id": "product_vendor_noida_008_021",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 899,
+    "discountPercent": 39,
+    "finalPrice": 548,
+    "rating": 4.2,
+    "totalRatings": 331,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_noida_008_021.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "vada",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-23T19:22:01.807Z"
+  },
+  {
+    "id": "product_vendor_noida_008_022",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 176,
+    "discountPercent": 36,
+    "finalPrice": 113,
+    "rating": 4.5,
+    "totalRatings": 2165,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_008_022.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-02T13:03:49.205Z"
+  },
+  {
+    "id": "product_vendor_noida_008_023",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Popular choice: Caesar Salad made with premium ingredients.",
+    "price": 783,
+    "discountPercent": 12,
+    "finalPrice": 689,
+    "rating": 3.8,
+    "totalRatings": 2733,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_008_023.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "steak",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-19T17:49:07.991Z"
+  },
+  {
+    "id": "product_vendor_noida_008_024",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Chef's special rava dosa — perfect for a satisfying meal.",
+    "price": 175,
+    "discountPercent": 30,
+    "finalPrice": 122,
+    "rating": 4.3,
+    "totalRatings": 1061,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_008_024.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "vada",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-14T20:57:53.886Z"
+  },
+  {
+    "id": "product_vendor_noida_008_025",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 456,
+    "discountPercent": 9,
+    "finalPrice": 415,
+    "rating": 4.7,
+    "totalRatings": 3387,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_008_025.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "risotto",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-11T19:09:29.364Z"
+  },
+  {
+    "id": "product_vendor_noida_008_026",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 81,
+    "discountPercent": 19,
+    "finalPrice": 66,
+    "rating": 4.2,
+    "totalRatings": 3336,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_008_026.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "steak",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-06T14:45:41.071Z"
+  },
+  {
+    "id": "product_vendor_noida_008_027",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 441,
+    "discountPercent": 9,
+    "finalPrice": 401,
+    "rating": 4.8,
+    "totalRatings": 540,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_008_027.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-19T05:28:18.918Z"
+  },
+  {
+    "id": "product_vendor_noida_008_028",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Classic idli sambar served hot and fresh.",
+    "price": 755,
+    "discountPercent": 38,
+    "finalPrice": 468,
+    "rating": 3.9,
+    "totalRatings": 1248,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_008_028.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "rasam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-08T20:43:55.677Z"
+  },
+  {
+    "id": "product_vendor_noida_008_029",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Chef's special rava dosa — perfect for a satisfying meal.",
+    "price": 292,
+    "discountPercent": 17,
+    "finalPrice": 242,
+    "rating": 4,
+    "totalRatings": 3992,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_008_029.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-12T01:31:20.790Z"
+  },
+  {
+    "id": "product_vendor_noida_008_030",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 404,
+    "discountPercent": 16,
+    "finalPrice": 339,
+    "rating": 3.5,
+    "totalRatings": 1387,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_008_030.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-14T02:25:07.006Z"
+  },
+  {
+    "id": "product_vendor_noida_008_031",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 154,
+    "discountPercent": 7,
+    "finalPrice": 143,
+    "rating": 3.6,
+    "totalRatings": 3543,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_008_031.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-12T07:19:11.162Z"
+  },
+  {
+    "id": "product_vendor_noida_008_032",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Popular choice: Caesar Salad made with premium ingredients.",
+    "price": 283,
+    "discountPercent": 27,
+    "finalPrice": 207,
+    "rating": 4.9,
+    "totalRatings": 2312,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_008_032.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "soup",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-31T19:34:03.135Z"
+  },
+  {
+    "id": "product_vendor_noida_008_033",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 527,
+    "discountPercent": 22,
+    "finalPrice": 411,
+    "rating": 4.2,
+    "totalRatings": 3898,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_008_033.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "dosa",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-19T19:42:17.456Z"
+  },
+  {
+    "id": "product_vendor_noida_008_034",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 205,
+    "discountPercent": 31,
+    "finalPrice": 141,
+    "rating": 3.9,
+    "totalRatings": 756,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_008_034.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-08T11:21:04.987Z"
+  },
+  {
+    "id": "product_vendor_noida_008_035",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 863,
+    "discountPercent": 19,
+    "finalPrice": 699,
+    "rating": 4.1,
+    "totalRatings": 4687,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_008_035.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-07T22:52:31.074Z"
+  },
+  {
+    "id": "product_vendor_noida_008_036",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 396,
+    "discountPercent": 26,
+    "finalPrice": 293,
+    "rating": 4.3,
+    "totalRatings": 2574,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_008_036.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-28T13:30:13.431Z"
+  },
+  {
+    "id": "product_vendor_noida_008_037",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 845,
+    "discountPercent": 25,
+    "finalPrice": 634,
+    "rating": 4.9,
+    "totalRatings": 1579,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_008_037.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "risotto",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-28T19:22:25.253Z"
+  },
+  {
+    "id": "product_vendor_noida_008_038",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 695,
+    "discountPercent": 19,
+    "finalPrice": 563,
+    "rating": 4.1,
+    "totalRatings": 4945,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_noida_008_038.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "vada",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-01T23:12:49.509Z"
+  },
+  {
+    "id": "product_vendor_noida_008_039",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 431,
+    "discountPercent": 16,
+    "finalPrice": 362,
+    "rating": 4.3,
+    "totalRatings": 1496,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_008_039.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "dosa",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-13T21:10:51.750Z"
+  },
+  {
+    "id": "product_vendor_noida_008_040",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 85,
+    "discountPercent": 17,
+    "finalPrice": 71,
+    "rating": 4,
+    "totalRatings": 3572,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_008_040.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "alfredo"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-14T13:58:30.309Z"
+  },
+  {
+    "id": "product_vendor_noida_008_041",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 754,
+    "discountPercent": 23,
+    "finalPrice": 581,
+    "rating": 3.7,
+    "totalRatings": 2926,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_008_041.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "rasam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-12T02:58:52.543Z"
+  },
+  {
+    "id": "product_vendor_noida_008_042",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Popular choice: Uttapam made with premium ingredients.",
+    "price": 340,
+    "discountPercent": 8,
+    "finalPrice": 313,
+    "rating": 4.7,
+    "totalRatings": 3930,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_noida_008_042.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-27T22:09:20.691Z"
+  },
+  {
+    "id": "product_vendor_noida_008_043",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 175,
+    "discountPercent": 25,
+    "finalPrice": 131,
+    "rating": 3.8,
+    "totalRatings": 4784,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_008_043.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-16T05:16:06.116Z"
+  },
+  {
+    "id": "product_vendor_noida_008_044",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Classic hyderabadi biryani served hot and fresh.",
+    "price": 624,
+    "discountPercent": 13,
+    "finalPrice": 543,
+    "rating": 4.5,
+    "totalRatings": 4123,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_008_044.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "dosa",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-19T21:42:01.896Z"
+  },
+  {
+    "id": "product_vendor_noida_008_045",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 320,
+    "discountPercent": 26,
+    "finalPrice": 237,
+    "rating": 4.2,
+    "totalRatings": 554,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_noida_008_045.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-30T09:59:33.459Z"
+  },
+  {
+    "id": "product_vendor_noida_008_046",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 289,
+    "discountPercent": 37,
+    "finalPrice": 182,
+    "rating": 4.1,
+    "totalRatings": 3002,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_008_046.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "sambar",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-29T17:27:55.948Z"
+  },
+  {
+    "id": "product_vendor_noida_008_047",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 719,
+    "discountPercent": 20,
+    "finalPrice": 575,
+    "rating": 4.4,
+    "totalRatings": 4204,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_008_047.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "pasta",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-06-06T05:37:55.585Z"
+  },
+  {
+    "id": "product_vendor_noida_008_048",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 564,
+    "discountPercent": 32,
+    "finalPrice": 384,
+    "rating": 4.5,
+    "totalRatings": 2675,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_008_048.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-06T21:27:41.808Z"
+  },
+  {
+    "id": "product_vendor_noida_008_049",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Classic uttapam served hot and fresh.",
+    "price": 274,
+    "discountPercent": 36,
+    "finalPrice": 175,
+    "rating": 3.8,
+    "totalRatings": 1372,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_noida_008_049.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "rasam"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-25T10:34:48.614Z"
+  },
+  {
+    "id": "product_vendor_noida_008_050",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 563,
+    "discountPercent": 10,
+    "finalPrice": 507,
+    "rating": 4,
+    "totalRatings": 2431,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_008_050.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "vada",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-06-05T13:35:10.011Z"
+  },
+  {
+    "id": "product_vendor_noida_008_051",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Chef's special filter coffee — perfect for a satisfying meal.",
+    "price": 723,
+    "discountPercent": 8,
+    "finalPrice": 665,
+    "rating": 3.8,
+    "totalRatings": 861,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_008_051.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "dosa",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-26T08:55:24.376Z"
+  },
+  {
+    "id": "product_vendor_noida_008_052",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 820,
+    "discountPercent": 35,
+    "finalPrice": 533,
+    "rating": 4.5,
+    "totalRatings": 2830,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_008_052.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "dosa",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-07T22:47:54.969Z"
+  },
+  {
+    "id": "product_vendor_noida_008_053",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 298,
+    "discountPercent": 25,
+    "finalPrice": 224,
+    "rating": 4.6,
+    "totalRatings": 3163,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_noida_008_053.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "vada",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-28T22:52:23.034Z"
+  },
+  {
+    "id": "product_vendor_noida_008_054",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Popular choice: Filter Coffee made with premium ingredients.",
+    "price": 474,
+    "discountPercent": 13,
+    "finalPrice": 412,
+    "rating": 4.6,
+    "totalRatings": 131,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_008_054.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "vada",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-16T19:13:08.291Z"
+  },
+  {
+    "id": "product_vendor_noida_008_055",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Delicious curd rice prepared fresh with authentic spices.",
+    "price": 788,
+    "discountPercent": 5,
+    "finalPrice": 749,
+    "rating": 4.1,
+    "totalRatings": 2051,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_noida_008_055.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "uttapam",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-03T13:51:18.542Z"
+  },
+  {
+    "id": "product_vendor_noida_008_056",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 303,
+    "discountPercent": 5,
+    "finalPrice": 288,
+    "rating": 4.1,
+    "totalRatings": 223,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_008_056.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "uttapam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-21T05:51:16.141Z"
+  },
+  {
+    "id": "product_vendor_noida_008_057",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 767,
+    "discountPercent": 2,
+    "finalPrice": 752,
+    "rating": 4,
+    "totalRatings": 2469,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_008_057.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "risotto",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-20T06:05:23.179Z"
+  },
+  {
+    "id": "product_vendor_noida_008_058",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 739,
+    "discountPercent": 13,
+    "finalPrice": 643,
+    "rating": 4.4,
+    "totalRatings": 2023,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_008_058.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "risotto",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-02T04:04:42.383Z"
+  },
+  {
+    "id": "product_vendor_noida_008_059",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 893,
+    "discountPercent": 20,
+    "finalPrice": 714,
+    "rating": 3.8,
+    "totalRatings": 1042,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_noida_008_059.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-26T15:11:51.642Z"
+  },
+  {
+    "id": "product_vendor_noida_008_060",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Popular choice: Idli Sambar made with premium ingredients.",
+    "price": 289,
+    "discountPercent": 27,
+    "finalPrice": 211,
+    "rating": 4.4,
+    "totalRatings": 1444,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_008_060.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "uttapam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-03T13:36:22.860Z"
+  },
+  {
+    "id": "product_vendor_noida_008_061",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 512,
+    "discountPercent": 10,
+    "finalPrice": 461,
+    "rating": 3.8,
+    "totalRatings": 4337,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_008_061.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-08T15:54:37.519Z"
+  },
+  {
+    "id": "product_vendor_noida_008_062",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 762,
+    "discountPercent": 20,
+    "finalPrice": 610,
+    "rating": 3.9,
+    "totalRatings": 373,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_008_062.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-14T00:55:37.959Z"
+  },
+  {
+    "id": "product_vendor_noida_008_063",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 324,
+    "discountPercent": 9,
+    "finalPrice": 295,
+    "rating": 4.4,
+    "totalRatings": 3172,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_noida_008_063.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "uttapam",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-29T04:26:11.838Z"
+  },
+  {
+    "id": "product_vendor_noida_008_064",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 811,
+    "discountPercent": 5,
+    "finalPrice": 770,
+    "rating": 4.8,
+    "totalRatings": 2320,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_008_064.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "soup",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-26T08:19:23.608Z"
+  },
+  {
+    "id": "product_vendor_noida_008_065",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 399,
+    "discountPercent": 25,
+    "finalPrice": 299,
+    "rating": 4.3,
+    "totalRatings": 2525,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_008_065.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-31T18:04:24.364Z"
+  },
+  {
+    "id": "product_vendor_noida_008_066",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 174,
+    "discountPercent": 25,
+    "finalPrice": 131,
+    "rating": 4,
+    "totalRatings": 952,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_noida_008_066.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-06T13:28:04.551Z"
+  },
+  {
+    "id": "product_vendor_noida_008_067",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 390,
+    "discountPercent": 19,
+    "finalPrice": 316,
+    "rating": 4.6,
+    "totalRatings": 2833,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_008_067.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-08T12:26:34.228Z"
+  },
+  {
+    "id": "product_vendor_noida_008_068",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Classic uttapam served hot and fresh.",
+    "price": 485,
+    "discountPercent": 5,
+    "finalPrice": 461,
+    "rating": 4.7,
+    "totalRatings": 4842,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_noida_008_068.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "rasam"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-16T03:44:10.579Z"
+  },
+  {
+    "id": "product_vendor_noida_008_069",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 426,
+    "discountPercent": 3,
+    "finalPrice": 413,
+    "rating": 4.5,
+    "totalRatings": 3896,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_008_069.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "soup",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-06T14:50:23.723Z"
+  },
+  {
+    "id": "product_vendor_noida_008_070",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Chef's special uttapam — perfect for a satisfying meal.",
+    "price": 865,
+    "discountPercent": 35,
+    "finalPrice": 562,
+    "rating": 4.6,
+    "totalRatings": 4252,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_noida_008_070.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-05T15:59:37.225Z"
+  },
+  {
+    "id": "product_vendor_noida_008_071",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 479,
+    "discountPercent": 17,
+    "finalPrice": 398,
+    "rating": 4.5,
+    "totalRatings": 4515,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_008_071.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-18T19:42:11.874Z"
+  },
+  {
+    "id": "product_vendor_noida_008_072",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Popular choice: Filter Coffee made with premium ingredients.",
+    "price": 209,
+    "discountPercent": 8,
+    "finalPrice": 192,
+    "rating": 3.9,
+    "totalRatings": 2118,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_008_072.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-03T00:19:00.968Z"
+  },
+  {
+    "id": "product_vendor_noida_008_073",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Classic medu vada served hot and fresh.",
+    "price": 148,
+    "discountPercent": 7,
+    "finalPrice": 138,
+    "rating": 4,
+    "totalRatings": 751,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_008_073.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "idli",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-27T21:44:41.299Z"
+  },
+  {
+    "id": "product_vendor_noida_008_074",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 806,
+    "discountPercent": 27,
+    "finalPrice": 588,
+    "rating": 3.7,
+    "totalRatings": 531,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_noida_008_074.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-18T02:59:36.214Z"
+  },
+  {
+    "id": "product_vendor_noida_008_075",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 339,
+    "discountPercent": 13,
+    "finalPrice": 295,
+    "rating": 3.5,
+    "totalRatings": 4241,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_008_075.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-15T08:13:16.003Z"
+  },
+  {
+    "id": "product_vendor_noida_008_076",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 784,
+    "discountPercent": 0,
+    "finalPrice": 784,
+    "rating": 4.1,
+    "totalRatings": 1582,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_008_076.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "rasam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-29T01:25:59.361Z"
+  },
+  {
+    "id": "product_vendor_noida_008_077",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 673,
+    "discountPercent": 35,
+    "finalPrice": 437,
+    "rating": 4.6,
+    "totalRatings": 4778,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_008_077.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "soup",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-09T19:51:19.498Z"
+  },
+  {
+    "id": "product_vendor_noida_008_078",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Popular choice: Filter Coffee made with premium ingredients.",
+    "price": 831,
+    "discountPercent": 26,
+    "finalPrice": 615,
+    "rating": 4.5,
+    "totalRatings": 1711,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_008_078.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "vada",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-16T04:41:12.850Z"
+  },
+  {
+    "id": "product_vendor_noida_008_079",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 649,
+    "discountPercent": 20,
+    "finalPrice": 519,
+    "rating": 4.5,
+    "totalRatings": 3151,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_008_079.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "risotto",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-04T18:23:18.501Z"
+  },
+  {
+    "id": "product_vendor_noida_008_080",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Classic caesar salad served hot and fresh.",
+    "price": 163,
+    "discountPercent": 19,
+    "finalPrice": 132,
+    "rating": 4.4,
+    "totalRatings": 3129,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_008_080.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "soup",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-27T20:08:31.594Z"
+  },
+  {
+    "id": "product_vendor_noida_008_081",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Chef's special rava dosa — perfect for a satisfying meal.",
+    "price": 798,
+    "discountPercent": 1,
+    "finalPrice": 790,
+    "rating": 4.1,
+    "totalRatings": 4276,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_008_081.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "rava"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-25T12:39:56.577Z"
+  },
+  {
+    "id": "product_vendor_noida_008_082",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Chef's special masala dosa — perfect for a satisfying meal.",
+    "price": 816,
+    "discountPercent": 21,
+    "finalPrice": 645,
+    "rating": 4.1,
+    "totalRatings": 3360,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_noida_008_082.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-13T19:33:28.670Z"
+  },
+  {
+    "id": "product_vendor_noida_008_083",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Popular choice: Medu Vada made with premium ingredients.",
+    "price": 379,
+    "discountPercent": 38,
+    "finalPrice": 235,
+    "rating": 3.7,
+    "totalRatings": 2025,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_008_083.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "dosa",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-16T05:01:02.196Z"
+  },
+  {
+    "id": "product_vendor_noida_008_084",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 849,
+    "discountPercent": 26,
+    "finalPrice": 628,
+    "rating": 4.8,
+    "totalRatings": 3415,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_008_084.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-10T07:54:34.824Z"
+  },
+  {
+    "id": "product_vendor_noida_008_085",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Chef's special masala dosa — perfect for a satisfying meal.",
+    "price": 333,
+    "discountPercent": 29,
+    "finalPrice": 236,
+    "rating": 4.6,
+    "totalRatings": 4011,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_noida_008_085.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-16T07:58:44.023Z"
+  },
+  {
+    "id": "product_vendor_noida_008_086",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Popular choice: Rava Dosa made with premium ingredients.",
+    "price": 683,
+    "discountPercent": 1,
+    "finalPrice": 676,
+    "rating": 3.7,
+    "totalRatings": 2295,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_008_086.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "rava"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-23T01:01:55.250Z"
+  },
+  {
+    "id": "product_vendor_noida_008_087",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 388,
+    "discountPercent": 29,
+    "finalPrice": 275,
+    "rating": 4.5,
+    "totalRatings": 3693,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_noida_008_087.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "soup",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-08T00:37:43.588Z"
+  },
+  {
+    "id": "product_vendor_noida_008_088",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 221,
+    "discountPercent": 26,
+    "finalPrice": 164,
+    "rating": 4.4,
+    "totalRatings": 2107,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_008_088.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-25T22:01:07.839Z"
+  },
+  {
+    "id": "product_vendor_noida_008_089",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 260,
+    "discountPercent": 28,
+    "finalPrice": 187,
+    "rating": 3.9,
+    "totalRatings": 1766,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_008_089.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "rava"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-30T11:55:51.033Z"
+  },
+  {
+    "id": "product_vendor_noida_008_090",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 169,
+    "discountPercent": 1,
+    "finalPrice": 167,
+    "rating": 4.5,
+    "totalRatings": 4415,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_noida_008_090.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "dosa",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-04T04:10:01.795Z"
+  },
+  {
+    "id": "product_vendor_noida_008_091",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 683,
+    "discountPercent": 35,
+    "finalPrice": 444,
+    "rating": 4.1,
+    "totalRatings": 4130,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_noida_008_091.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "rasam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-13T00:27:52.488Z"
+  },
+  {
+    "id": "product_vendor_noida_008_092",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Delicious idli sambar prepared fresh with authentic spices.",
+    "price": 322,
+    "discountPercent": 0,
+    "finalPrice": 322,
+    "rating": 3.6,
+    "totalRatings": 1812,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_noida_008_092.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "rasam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-12T22:22:43.230Z"
+  },
+  {
+    "id": "product_vendor_noida_008_093",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 818,
+    "discountPercent": 39,
+    "finalPrice": 499,
+    "rating": 3.5,
+    "totalRatings": 1978,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_008_093.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "uttapam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-21T00:21:22.305Z"
+  },
+  {
+    "id": "product_vendor_noida_008_094",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 627,
+    "discountPercent": 18,
+    "finalPrice": 514,
+    "rating": 4.3,
+    "totalRatings": 2888,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_008_094.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-27T01:46:54.699Z"
+  },
+  {
+    "id": "product_vendor_noida_008_095",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Popular choice: Medu Vada made with premium ingredients.",
+    "price": 753,
+    "discountPercent": 38,
+    "finalPrice": 467,
+    "rating": 3.8,
+    "totalRatings": 2906,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_noida_008_095.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "uttapam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-18T09:33:44.715Z"
+  },
+  {
+    "id": "product_vendor_noida_008_096",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 407,
+    "discountPercent": 3,
+    "finalPrice": 395,
+    "rating": 3.8,
+    "totalRatings": 864,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_noida_008_096.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "vada",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-10T19:13:24.011Z"
+  },
+  {
+    "id": "product_vendor_noida_008_097",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 452,
+    "discountPercent": 26,
+    "finalPrice": 334,
+    "rating": 4.1,
+    "totalRatings": 588,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_noida_008_097.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-02T22:19:50.800Z"
+  },
+  {
+    "id": "product_vendor_noida_008_098",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Classic curd rice served hot and fresh.",
+    "price": 806,
+    "discountPercent": 25,
+    "finalPrice": 605,
+    "rating": 3.9,
+    "totalRatings": 2666,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_noida_008_098.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "dosa",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-11T15:04:19.625Z"
+  },
+  {
+    "id": "product_vendor_noida_008_099",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 289,
+    "discountPercent": 27,
+    "finalPrice": 211,
+    "rating": 4.3,
+    "totalRatings": 3346,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_noida_008_099.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-15T02:02:00.600Z"
+  },
+  {
+    "id": "product_vendor_noida_008_100",
+    "vendorId": "vendor_noida_008",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Popular choice: Caesar Salad made with premium ingredients.",
+    "price": 533,
+    "discountPercent": 34,
+    "finalPrice": 352,
+    "rating": 4.1,
+    "totalRatings": 1466,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_noida_008_100.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "soup",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-20T06:39:43.570Z"
+  }
+]

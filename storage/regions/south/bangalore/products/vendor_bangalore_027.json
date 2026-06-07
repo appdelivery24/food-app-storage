@@ -1,0 +1,3558 @@
+[
+  {
+    "id": "product_vendor_bangalore_027_001",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Popular choice: Filter Coffee made with premium ingredients.",
+    "price": 575,
+    "discountPercent": 2,
+    "finalPrice": 564,
+    "rating": 4.8,
+    "totalRatings": 1324,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_bangalore_027_001.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "dosa",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-30T14:01:01.957Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_002",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Popular choice: Margherita Pizza made with premium ingredients.",
+    "price": 669,
+    "discountPercent": 38,
+    "finalPrice": 415,
+    "rating": 4.4,
+    "totalRatings": 954,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_bangalore_027_002.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "margherita"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-05T08:22:54.959Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_003",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Popular choice: Cheese Burger made with premium ingredients.",
+    "price": 428,
+    "discountPercent": 13,
+    "finalPrice": 372,
+    "rating": 4.5,
+    "totalRatings": 4131,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_bangalore_027_003.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-12T07:57:15.263Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_004",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 322,
+    "discountPercent": 24,
+    "finalPrice": 245,
+    "rating": 4.3,
+    "totalRatings": 2016,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_bangalore_027_004.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "margherita"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-14T00:17:39.064Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_005",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 200,
+    "discountPercent": 23,
+    "finalPrice": 154,
+    "rating": 3.8,
+    "totalRatings": 4345,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_027_005.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-12T18:48:21.563Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_006",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Chef's special margherita pizza — perfect for a satisfying meal.",
+    "price": 620,
+    "discountPercent": 24,
+    "finalPrice": 471,
+    "rating": 3.8,
+    "totalRatings": 1141,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_bangalore_027_006.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-21T17:13:55.710Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_007",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 140,
+    "discountPercent": 31,
+    "finalPrice": 97,
+    "rating": 4.3,
+    "totalRatings": 1366,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_bangalore_027_007.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-06T23:00:25.096Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_008",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 818,
+    "discountPercent": 36,
+    "finalPrice": 524,
+    "rating": 4.1,
+    "totalRatings": 4466,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_bangalore_027_008.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "idli",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-30T17:25:31.028Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_009",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 447,
+    "discountPercent": 11,
+    "finalPrice": 398,
+    "rating": 4.7,
+    "totalRatings": 1495,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_bangalore_027_009.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-04T00:00:59.482Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_010",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 865,
+    "discountPercent": 9,
+    "finalPrice": 787,
+    "rating": 4.8,
+    "totalRatings": 2396,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_bangalore_027_010.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-04T20:57:21.231Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_011",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Chef's special french fries — perfect for a satisfying meal.",
+    "price": 217,
+    "discountPercent": 17,
+    "finalPrice": 180,
+    "rating": 4.8,
+    "totalRatings": 2410,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_bangalore_027_011.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "pizza",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-22T16:28:00.060Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_012",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Chef's special uttapam — perfect for a satisfying meal.",
+    "price": 811,
+    "discountPercent": 17,
+    "finalPrice": 673,
+    "rating": 3.9,
+    "totalRatings": 1668,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_bangalore_027_012.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-26T05:37:11.701Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_013",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 639,
+    "discountPercent": 6,
+    "finalPrice": 601,
+    "rating": 3.8,
+    "totalRatings": 812,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_bangalore_027_013.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-05T04:03:32.490Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_014",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 379,
+    "discountPercent": 32,
+    "finalPrice": 258,
+    "rating": 4.7,
+    "totalRatings": 540,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_bangalore_027_014.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-15T09:00:33.568Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_015",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Popular choice: Rava Dosa made with premium ingredients.",
+    "price": 291,
+    "discountPercent": 0,
+    "finalPrice": 291,
+    "rating": 3.6,
+    "totalRatings": 958,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_bangalore_027_015.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "vada",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-25T08:53:18.667Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_016",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Classic medu vada served hot and fresh.",
+    "price": 218,
+    "discountPercent": 39,
+    "finalPrice": 133,
+    "rating": 4.4,
+    "totalRatings": 3924,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_bangalore_027_016.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "sambar",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-29T12:10:53.331Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_017",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 368,
+    "discountPercent": 20,
+    "finalPrice": 294,
+    "rating": 4.9,
+    "totalRatings": 950,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_bangalore_027_017.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-09T00:53:47.588Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_018",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 736,
+    "discountPercent": 26,
+    "finalPrice": 545,
+    "rating": 4.1,
+    "totalRatings": 1126,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_bangalore_027_018.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-31T21:06:56.642Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_019",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 489,
+    "discountPercent": 22,
+    "finalPrice": 381,
+    "rating": 4,
+    "totalRatings": 1173,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_bangalore_027_019.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-30T14:09:49.144Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_020",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Chef's special rava dosa — perfect for a satisfying meal.",
+    "price": 791,
+    "discountPercent": 34,
+    "finalPrice": 522,
+    "rating": 4.4,
+    "totalRatings": 2865,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_bangalore_027_020.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "vada",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-18T19:34:18.191Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_021",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Delicious idli sambar prepared fresh with authentic spices.",
+    "price": 846,
+    "discountPercent": 38,
+    "finalPrice": 525,
+    "rating": 3.7,
+    "totalRatings": 4465,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_bangalore_027_021.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "dosa",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-22T10:57:15.121Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_022",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 426,
+    "discountPercent": 16,
+    "finalPrice": 358,
+    "rating": 3.8,
+    "totalRatings": 3475,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_bangalore_027_022.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-05T13:43:32.259Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_023",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Popular choice: Rava Dosa made with premium ingredients.",
+    "price": 487,
+    "discountPercent": 6,
+    "finalPrice": 458,
+    "rating": 4.1,
+    "totalRatings": 786,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_bangalore_027_023.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "idli",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-13T07:37:24.849Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_024",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Classic hyderabadi biryani served hot and fresh.",
+    "price": 758,
+    "discountPercent": 39,
+    "finalPrice": 462,
+    "rating": 3.8,
+    "totalRatings": 2225,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_bangalore_027_024.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "rasam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-11T08:31:07.224Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_025",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Classic medu vada served hot and fresh.",
+    "price": 735,
+    "discountPercent": 21,
+    "finalPrice": 581,
+    "rating": 4.7,
+    "totalRatings": 4749,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_bangalore_027_025.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "medu"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-13T15:49:23.671Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_026",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Popular choice: Uttapam made with premium ingredients.",
+    "price": 228,
+    "discountPercent": 33,
+    "finalPrice": 153,
+    "rating": 3.8,
+    "totalRatings": 1105,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_bangalore_027_026.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-01T10:39:18.654Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_027",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Popular choice: Garlic Bread made with premium ingredients.",
+    "price": 381,
+    "discountPercent": 38,
+    "finalPrice": 236,
+    "rating": 4.4,
+    "totalRatings": 4429,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_bangalore_027_027.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "sandwich",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-08T00:26:14.966Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_028",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 815,
+    "discountPercent": 6,
+    "finalPrice": 766,
+    "rating": 4.2,
+    "totalRatings": 1533,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_bangalore_027_028.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "idli",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-17T17:07:03.199Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_029",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Popular choice: Margherita Pizza made with premium ingredients.",
+    "price": 185,
+    "discountPercent": 3,
+    "finalPrice": 179,
+    "rating": 4.2,
+    "totalRatings": 2286,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_bangalore_027_029.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-20T18:20:46.442Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_030",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Classic idli sambar served hot and fresh.",
+    "price": 712,
+    "discountPercent": 7,
+    "finalPrice": 662,
+    "rating": 4.3,
+    "totalRatings": 438,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_bangalore_027_030.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "vada",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-13T16:57:25.926Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_031",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Classic hyderabadi biryani served hot and fresh.",
+    "price": 700,
+    "discountPercent": 15,
+    "finalPrice": 595,
+    "rating": 3.8,
+    "totalRatings": 3402,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_bangalore_027_031.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "uttapam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-21T05:58:18.651Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_032",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Popular choice: Margherita Pizza made with premium ingredients.",
+    "price": 637,
+    "discountPercent": 36,
+    "finalPrice": 408,
+    "rating": 3.8,
+    "totalRatings": 2015,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_bangalore_027_032.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-20T10:57:04.573Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_033",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 787,
+    "discountPercent": 28,
+    "finalPrice": 567,
+    "rating": 4.8,
+    "totalRatings": 485,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_bangalore_027_033.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "cheese"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-12T17:09:26.177Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_034",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 638,
+    "discountPercent": 11,
+    "finalPrice": 568,
+    "rating": 4.5,
+    "totalRatings": 997,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_bangalore_027_034.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "burger",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-12T18:07:19.973Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_035",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 694,
+    "discountPercent": 35,
+    "finalPrice": 451,
+    "rating": 3.7,
+    "totalRatings": 1734,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_027_035.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "fries",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-14T19:35:05.692Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_036",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Classic cheese burger served hot and fresh.",
+    "price": 601,
+    "discountPercent": 22,
+    "finalPrice": 469,
+    "rating": 4.4,
+    "totalRatings": 3478,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_bangalore_027_036.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "cheese"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-07T07:53:05.377Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_037",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Popular choice: Cheese Burger made with premium ingredients.",
+    "price": 642,
+    "discountPercent": 21,
+    "finalPrice": 507,
+    "rating": 4.2,
+    "totalRatings": 1045,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_bangalore_027_037.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-02T04:52:42.945Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_038",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 758,
+    "discountPercent": 10,
+    "finalPrice": 682,
+    "rating": 4.5,
+    "totalRatings": 141,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_bangalore_027_038.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "sandwich",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-28T08:17:30.765Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_039",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Delicious idli sambar prepared fresh with authentic spices.",
+    "price": 632,
+    "discountPercent": 35,
+    "finalPrice": 411,
+    "rating": 4.4,
+    "totalRatings": 2292,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_bangalore_027_039.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "vada",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-20T15:57:40.756Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_040",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Chef's special margherita pizza — perfect for a satisfying meal.",
+    "price": 627,
+    "discountPercent": 20,
+    "finalPrice": 502,
+    "rating": 4.2,
+    "totalRatings": 3747,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_bangalore_027_040.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "margherita"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-23T04:41:43.342Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_041",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 575,
+    "discountPercent": 6,
+    "finalPrice": 541,
+    "rating": 4,
+    "totalRatings": 3969,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_027_041.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-21T08:12:40.820Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_042",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 422,
+    "discountPercent": 30,
+    "finalPrice": 295,
+    "rating": 3.5,
+    "totalRatings": 3062,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_bangalore_027_042.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-06T05:45:45.404Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_043",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 701,
+    "discountPercent": 34,
+    "finalPrice": 463,
+    "rating": 3.6,
+    "totalRatings": 945,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_bangalore_027_043.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-05T02:10:10.284Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_044",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 843,
+    "discountPercent": 11,
+    "finalPrice": 750,
+    "rating": 3.8,
+    "totalRatings": 1882,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_bangalore_027_044.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "idli",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-28T16:40:04.598Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_045",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 102,
+    "discountPercent": 15,
+    "finalPrice": 87,
+    "rating": 4.1,
+    "totalRatings": 3985,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_bangalore_027_045.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "pizza",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-09T22:34:31.584Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_046",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Popular choice: Filter Coffee made with premium ingredients.",
+    "price": 613,
+    "discountPercent": 1,
+    "finalPrice": 607,
+    "rating": 4.3,
+    "totalRatings": 161,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_bangalore_027_046.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "uttapam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-05T09:04:35.940Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_047",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 273,
+    "discountPercent": 37,
+    "finalPrice": 172,
+    "rating": 4.7,
+    "totalRatings": 3451,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_bangalore_027_047.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-06T08:51:14.700Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_048",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Delicious medu vada prepared fresh with authentic spices.",
+    "price": 490,
+    "discountPercent": 20,
+    "finalPrice": 392,
+    "rating": 3.8,
+    "totalRatings": 3738,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_bangalore_027_048.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "dosa",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-29T16:13:22.442Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_049",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 382,
+    "discountPercent": 10,
+    "finalPrice": 344,
+    "rating": 4.9,
+    "totalRatings": 330,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_bangalore_027_049.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-31T20:41:28.539Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_050",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Popular choice: Rava Dosa made with premium ingredients.",
+    "price": 615,
+    "discountPercent": 29,
+    "finalPrice": 437,
+    "rating": 3.6,
+    "totalRatings": 3458,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_bangalore_027_050.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "idli",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-08T03:03:49.830Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_051",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Classic idli sambar served hot and fresh.",
+    "price": 415,
+    "discountPercent": 15,
+    "finalPrice": 353,
+    "rating": 4.5,
+    "totalRatings": 126,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_bangalore_027_051.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "uttapam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-13T05:21:46.436Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_052",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 788,
+    "discountPercent": 32,
+    "finalPrice": 536,
+    "rating": 3.8,
+    "totalRatings": 2382,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_bangalore_027_052.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-07T14:12:58.099Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_053",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 891,
+    "discountPercent": 37,
+    "finalPrice": 561,
+    "rating": 4,
+    "totalRatings": 4275,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_bangalore_027_053.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "rasam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-08T15:55:02.179Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_054",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 525,
+    "discountPercent": 39,
+    "finalPrice": 320,
+    "rating": 4.7,
+    "totalRatings": 4775,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_bangalore_027_054.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-31T22:43:40.765Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_055",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Chef's special masala dosa — perfect for a satisfying meal.",
+    "price": 294,
+    "discountPercent": 9,
+    "finalPrice": 268,
+    "rating": 3.9,
+    "totalRatings": 1055,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_bangalore_027_055.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-13T20:23:55.175Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_056",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 244,
+    "discountPercent": 5,
+    "finalPrice": 232,
+    "rating": 4.5,
+    "totalRatings": 1738,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_027_056.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-16T20:07:07.433Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_057",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 431,
+    "discountPercent": 2,
+    "finalPrice": 422,
+    "rating": 4.5,
+    "totalRatings": 4414,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_bangalore_027_057.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-05T07:24:25.320Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_058",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Chef's special idli sambar — perfect for a satisfying meal.",
+    "price": 237,
+    "discountPercent": 17,
+    "finalPrice": 197,
+    "rating": 4.8,
+    "totalRatings": 3396,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_bangalore_027_058.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "dosa",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-20T08:22:03.929Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_059",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 281,
+    "discountPercent": 30,
+    "finalPrice": 197,
+    "rating": 4.8,
+    "totalRatings": 3079,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_bangalore_027_059.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-21T19:53:32.177Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_060",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Chef's special french fries — perfect for a satisfying meal.",
+    "price": 722,
+    "discountPercent": 29,
+    "finalPrice": 513,
+    "rating": 4,
+    "totalRatings": 2040,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_bangalore_027_060.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-29T15:58:54.810Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_061",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 327,
+    "discountPercent": 8,
+    "finalPrice": 301,
+    "rating": 4.3,
+    "totalRatings": 2958,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_bangalore_027_061.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-14T12:39:42.395Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_062",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Popular choice: Curd Rice made with premium ingredients.",
+    "price": 274,
+    "discountPercent": 35,
+    "finalPrice": 178,
+    "rating": 4.7,
+    "totalRatings": 967,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_bangalore_027_062.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "vada",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-23T22:16:28.569Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_063",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 838,
+    "discountPercent": 34,
+    "finalPrice": 553,
+    "rating": 4.5,
+    "totalRatings": 339,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_027_063.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "pizza",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-22T06:15:02.489Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_064",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Classic hyderabadi biryani served hot and fresh.",
+    "price": 895,
+    "discountPercent": 13,
+    "finalPrice": 779,
+    "rating": 3.8,
+    "totalRatings": 3403,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_bangalore_027_064.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "uttapam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-23T04:48:17.842Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_065",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 815,
+    "discountPercent": 1,
+    "finalPrice": 807,
+    "rating": 4.6,
+    "totalRatings": 4712,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_bangalore_027_065.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "dosa",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-25T10:53:41.663Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_066",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Classic cheese burger served hot and fresh.",
+    "price": 280,
+    "discountPercent": 25,
+    "finalPrice": 210,
+    "rating": 4.9,
+    "totalRatings": 733,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_bangalore_027_066.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "sandwich",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-06-02T03:09:35.260Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_067",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 747,
+    "discountPercent": 33,
+    "finalPrice": 500,
+    "rating": 4.5,
+    "totalRatings": 4480,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_bangalore_027_067.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "uttapam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-14T02:40:05.207Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_068",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Chef's special uttapam — perfect for a satisfying meal.",
+    "price": 489,
+    "discountPercent": 29,
+    "finalPrice": 347,
+    "rating": 4.7,
+    "totalRatings": 4558,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_bangalore_027_068.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "rasam"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-28T15:01:19.535Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_069",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 580,
+    "discountPercent": 9,
+    "finalPrice": 528,
+    "rating": 4.6,
+    "totalRatings": 240,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_027_069.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-10T00:23:06.037Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_070",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 732,
+    "discountPercent": 22,
+    "finalPrice": 571,
+    "rating": 4.4,
+    "totalRatings": 1612,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_bangalore_027_070.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-26T05:24:41.547Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_071",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Delicious medu vada prepared fresh with authentic spices.",
+    "price": 750,
+    "discountPercent": 23,
+    "finalPrice": 578,
+    "rating": 3.6,
+    "totalRatings": 4880,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_bangalore_027_071.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "medu"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-08T23:14:10.799Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_072",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Popular choice: Curd Rice made with premium ingredients.",
+    "price": 244,
+    "discountPercent": 30,
+    "finalPrice": 171,
+    "rating": 4.7,
+    "totalRatings": 2154,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_bangalore_027_072.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "vada",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-05T19:00:51.492Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_073",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 847,
+    "discountPercent": 26,
+    "finalPrice": 627,
+    "rating": 4.4,
+    "totalRatings": 284,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_bangalore_027_073.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "sambar",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-18T02:10:21.990Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_074",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 545,
+    "discountPercent": 31,
+    "finalPrice": 376,
+    "rating": 4,
+    "totalRatings": 3301,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_027_074.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "pizza",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-09T16:51:59.581Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_075",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 843,
+    "discountPercent": 9,
+    "finalPrice": 767,
+    "rating": 4.4,
+    "totalRatings": 3941,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_bangalore_027_075.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-17T18:07:54.455Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_076",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Popular choice: Masala Dosa made with premium ingredients.",
+    "price": 869,
+    "discountPercent": 13,
+    "finalPrice": 756,
+    "rating": 3.6,
+    "totalRatings": 3789,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_bangalore_027_076.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-10T03:31:57.793Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_077",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 784,
+    "discountPercent": 40,
+    "finalPrice": 470,
+    "rating": 4.4,
+    "totalRatings": 3816,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_bangalore_027_077.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "pizza",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-06T01:24:54.705Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_078",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Chef's special margherita pizza — perfect for a satisfying meal.",
+    "price": 166,
+    "discountPercent": 23,
+    "finalPrice": 128,
+    "rating": 4.8,
+    "totalRatings": 4111,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_bangalore_027_078.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "margherita"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-21T23:06:55.851Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_079",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 123,
+    "discountPercent": 14,
+    "finalPrice": 106,
+    "rating": 4.3,
+    "totalRatings": 4062,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_027_079.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "pizza",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-02T06:30:31.654Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_080",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 753,
+    "discountPercent": 17,
+    "finalPrice": 625,
+    "rating": 4.9,
+    "totalRatings": 4196,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_bangalore_027_080.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "margherita"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-09T09:20:13.089Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_081",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Chef's special margherita pizza — perfect for a satisfying meal.",
+    "price": 615,
+    "discountPercent": 1,
+    "finalPrice": 609,
+    "rating": 4.2,
+    "totalRatings": 3203,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_bangalore_027_081.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-05T02:26:29.896Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_082",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Chef's special french fries — perfect for a satisfying meal.",
+    "price": 360,
+    "discountPercent": 37,
+    "finalPrice": 227,
+    "rating": 3.6,
+    "totalRatings": 407,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_bangalore_027_082.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "burger",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-13T16:22:52.282Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_083",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Chef's special rava dosa — perfect for a satisfying meal.",
+    "price": 780,
+    "discountPercent": 14,
+    "finalPrice": 671,
+    "rating": 4,
+    "totalRatings": 3233,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_bangalore_027_083.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-26T05:10:08.843Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_084",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 723,
+    "discountPercent": 4,
+    "finalPrice": 694,
+    "rating": 4.8,
+    "totalRatings": 1499,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_bangalore_027_084.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "sambar",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-14T21:40:35.956Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_085",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Popular choice: Uttapam made with premium ingredients.",
+    "price": 240,
+    "discountPercent": 22,
+    "finalPrice": 187,
+    "rating": 4.1,
+    "totalRatings": 1003,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_bangalore_027_085.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "rasam"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-27T13:07:38.369Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_086",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Classic chicken wrap served hot and fresh.",
+    "price": 602,
+    "discountPercent": 36,
+    "finalPrice": 385,
+    "rating": 4.9,
+    "totalRatings": 1943,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_027_086.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-22T22:38:42.459Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_087",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Delicious medu vada prepared fresh with authentic spices.",
+    "price": 356,
+    "discountPercent": 6,
+    "finalPrice": 335,
+    "rating": 4.2,
+    "totalRatings": 1746,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_bangalore_027_087.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "dosa",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-28T14:23:57.009Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_088",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 194,
+    "discountPercent": 1,
+    "finalPrice": 192,
+    "rating": 4.6,
+    "totalRatings": 2259,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_bangalore_027_088.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "rasam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-04T06:04:56.226Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_089",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 155,
+    "discountPercent": 14,
+    "finalPrice": 133,
+    "rating": 4.4,
+    "totalRatings": 3569,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_027_089.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-22T15:32:25.184Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_090",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Classic masala dosa served hot and fresh.",
+    "price": 517,
+    "discountPercent": 26,
+    "finalPrice": 383,
+    "rating": 4.8,
+    "totalRatings": 363,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_bangalore_027_090.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "vada",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-21T10:14:56.871Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_091",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 812,
+    "discountPercent": 24,
+    "finalPrice": 617,
+    "rating": 3.9,
+    "totalRatings": 2117,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_bangalore_027_091.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "dosa",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-12T20:33:15.911Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_092",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 805,
+    "discountPercent": 29,
+    "finalPrice": 572,
+    "rating": 4.4,
+    "totalRatings": 4230,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_bangalore_027_092.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-16T23:25:56.252Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_093",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 762,
+    "discountPercent": 21,
+    "finalPrice": 602,
+    "rating": 4.9,
+    "totalRatings": 2419,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_bangalore_027_093.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "vada",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-17T23:03:35.663Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_094",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 137,
+    "discountPercent": 25,
+    "finalPrice": 103,
+    "rating": 3.6,
+    "totalRatings": 2991,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_bangalore_027_094.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-31T14:04:38.554Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_095",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 154,
+    "discountPercent": 5,
+    "finalPrice": 146,
+    "rating": 4.4,
+    "totalRatings": 324,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_bangalore_027_095.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-19T06:49:51.765Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_096",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Delicious medu vada prepared fresh with authentic spices.",
+    "price": 873,
+    "discountPercent": 5,
+    "finalPrice": 829,
+    "rating": 4.9,
+    "totalRatings": 1931,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_bangalore_027_096.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "dosa",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-17T18:43:39.313Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_097",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Delicious hyderabadi biryani prepared fresh with authentic spices.",
+    "price": 452,
+    "discountPercent": 5,
+    "finalPrice": 429,
+    "rating": 3.5,
+    "totalRatings": 4097,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_bangalore_027_097.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "idli",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-11T09:56:22.648Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_098",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Popular choice: Idli Sambar made with premium ingredients.",
+    "price": 557,
+    "discountPercent": 33,
+    "finalPrice": 373,
+    "rating": 4.5,
+    "totalRatings": 3463,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_bangalore_027_098.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "vada",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-21T20:02:25.457Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_099",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 676,
+    "discountPercent": 16,
+    "finalPrice": 568,
+    "rating": 4.1,
+    "totalRatings": 2574,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_bangalore_027_099.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "dosa",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-13T01:37:54.817Z"
+  },
+  {
+    "id": "product_vendor_bangalore_027_100",
+    "vendorId": "vendor_bangalore_027",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 378,
+    "discountPercent": 17,
+    "finalPrice": 314,
+    "rating": 4.2,
+    "totalRatings": 4141,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_bangalore_027_100.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-08T23:34:52.010Z"
+  }
+]

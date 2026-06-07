@@ -1,0 +1,3594 @@
+[
+  {
+    "id": "product_vendor_mumbai_014_001",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Delicious cold coffee prepared fresh with authentic spices.",
+    "price": 262,
+    "discountPercent": 22,
+    "finalPrice": 204,
+    "rating": 4.5,
+    "totalRatings": 1423,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_mumbai_014_001.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "tea",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-01T05:24:29.462Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_002",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 388,
+    "discountPercent": 12,
+    "finalPrice": 341,
+    "rating": 4.5,
+    "totalRatings": 1892,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_014_002.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-24T18:45:02.194Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_003",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Delicious mango shake prepared fresh with authentic spices.",
+    "price": 275,
+    "discountPercent": 38,
+    "finalPrice": 171,
+    "rating": 4.6,
+    "totalRatings": 4627,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_mumbai_014_003.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "coffee",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-03T10:54:18.550Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_004",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 415,
+    "discountPercent": 8,
+    "finalPrice": 382,
+    "rating": 4.3,
+    "totalRatings": 2972,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_014_004.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "risotto",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-26T10:10:50.370Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_005",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Classic mango shake served hot and fresh.",
+    "price": 739,
+    "discountPercent": 12,
+    "finalPrice": 650,
+    "rating": 4,
+    "totalRatings": 1282,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_mumbai_014_005.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "mango"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-12T06:32:02.594Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_006",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 207,
+    "discountPercent": 16,
+    "finalPrice": 174,
+    "rating": 4.2,
+    "totalRatings": 1255,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_014_006.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-25T23:48:01.226Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_007",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Popular choice: Fresh Lime Soda made with premium ingredients.",
+    "price": 116,
+    "discountPercent": 26,
+    "finalPrice": 86,
+    "rating": 4.5,
+    "totalRatings": 262,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_mumbai_014_007.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "tea",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-17T23:04:05.929Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_008",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 801,
+    "discountPercent": 9,
+    "finalPrice": 729,
+    "rating": 4.7,
+    "totalRatings": 4817,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_014_008.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "soup",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-02T06:43:12.437Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_009",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Classic fresh lime soda served hot and fresh.",
+    "price": 505,
+    "discountPercent": 13,
+    "finalPrice": 439,
+    "rating": 4.8,
+    "totalRatings": 3449,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_mumbai_014_009.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "coffee",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-30T01:21:13.075Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_010",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 390,
+    "discountPercent": 21,
+    "finalPrice": 308,
+    "rating": 4.4,
+    "totalRatings": 105,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_mumbai_014_010.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-24T08:56:39.409Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_011",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Classic cold coffee served hot and fresh.",
+    "price": 123,
+    "discountPercent": 3,
+    "finalPrice": 119,
+    "rating": 4.4,
+    "totalRatings": 587,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_mumbai_014_011.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "tea",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-12T08:24:41.577Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_012",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Delicious strawberry smoothie prepared fresh with authentic spices.",
+    "price": 625,
+    "discountPercent": 29,
+    "finalPrice": 444,
+    "rating": 3.8,
+    "totalRatings": 1252,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_mumbai_014_012.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "coffee",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-10T22:38:01.192Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_013",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Delicious buttermilk prepared fresh with authentic spices.",
+    "price": 727,
+    "discountPercent": 23,
+    "finalPrice": 560,
+    "rating": 4.1,
+    "totalRatings": 2109,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_mumbai_014_013.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "tea"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-25T13:01:15.637Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_014",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Delicious fresh lime soda prepared fresh with authentic spices.",
+    "price": 113,
+    "discountPercent": 21,
+    "finalPrice": 89,
+    "rating": 3.7,
+    "totalRatings": 1953,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_mumbai_014_014.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "juice",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-29T06:59:25.118Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_015",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Delicious fresh lime soda prepared fresh with authentic spices.",
+    "price": 494,
+    "discountPercent": 40,
+    "finalPrice": 296,
+    "rating": 4.8,
+    "totalRatings": 2358,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_mumbai_014_015.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "tea",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-23T11:48:40.655Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_016",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Chef's special cold coffee — perfect for a satisfying meal.",
+    "price": 649,
+    "discountPercent": 37,
+    "finalPrice": 409,
+    "rating": 4.8,
+    "totalRatings": 1277,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_mumbai_014_016.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "shake",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-10T12:51:40.982Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_017",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 145,
+    "discountPercent": 9,
+    "finalPrice": 132,
+    "rating": 4.1,
+    "totalRatings": 1118,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_mumbai_014_017.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "steak",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-25T02:16:16.336Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_018",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 745,
+    "discountPercent": 23,
+    "finalPrice": 574,
+    "rating": 4.8,
+    "totalRatings": 1725,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_mumbai_014_018.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "risotto",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-19T08:40:45.974Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_019",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Popular choice: Caesar Salad made with premium ingredients.",
+    "price": 390,
+    "discountPercent": 5,
+    "finalPrice": 371,
+    "rating": 4.4,
+    "totalRatings": 2431,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_mumbai_014_019.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-05T02:10:01.008Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_020",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Delicious mushroom risotto prepared fresh with authentic spices.",
+    "price": 582,
+    "discountPercent": 40,
+    "finalPrice": 349,
+    "rating": 4.6,
+    "totalRatings": 568,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_mumbai_014_020.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-27T15:22:21.162Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_021",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 853,
+    "discountPercent": 15,
+    "finalPrice": 725,
+    "rating": 4.1,
+    "totalRatings": 2291,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_mumbai_014_021.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-06-05T13:56:04.936Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_022",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Delicious mango shake prepared fresh with authentic spices.",
+    "price": 248,
+    "discountPercent": 20,
+    "finalPrice": 198,
+    "rating": 4.8,
+    "totalRatings": 2719,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_mumbai_014_022.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "lassi",
+      "non-veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "lassi",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-08T22:11:57.555Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_023",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 865,
+    "discountPercent": 20,
+    "finalPrice": 692,
+    "rating": 4.5,
+    "totalRatings": 1691,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_mumbai_014_023.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-03T18:39:09.382Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_024",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Chef's special fresh lime soda — perfect for a satisfying meal.",
+    "price": 833,
+    "discountPercent": 32,
+    "finalPrice": 566,
+    "rating": 3.6,
+    "totalRatings": 3216,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_mumbai_014_024.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "juice",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-23T02:13:51.638Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_025",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 306,
+    "discountPercent": 9,
+    "finalPrice": 278,
+    "rating": 3.9,
+    "totalRatings": 3145,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_mumbai_014_025.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-06T12:52:29.370Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_026",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Delicious fresh lime soda prepared fresh with authentic spices.",
+    "price": 165,
+    "discountPercent": 27,
+    "finalPrice": 120,
+    "rating": 3.9,
+    "totalRatings": 2210,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_mumbai_014_026.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "shake",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-03T12:01:12.451Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_027",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 463,
+    "discountPercent": 21,
+    "finalPrice": 366,
+    "rating": 4.5,
+    "totalRatings": 1428,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_014_027.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-17T14:14:11.861Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_028",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 521,
+    "discountPercent": 0,
+    "finalPrice": 521,
+    "rating": 3.8,
+    "totalRatings": 980,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_mumbai_014_028.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "tea",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-10T10:47:32.928Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_029",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 575,
+    "discountPercent": 3,
+    "finalPrice": 558,
+    "rating": 4.8,
+    "totalRatings": 688,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_014_029.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-02T23:06:20.556Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_030",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Popular choice: Fresh Lime Soda made with premium ingredients.",
+    "price": 139,
+    "discountPercent": 21,
+    "finalPrice": 110,
+    "rating": 4.8,
+    "totalRatings": 3606,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_mumbai_014_030.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "shake",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-06T12:58:11.726Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_031",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 138,
+    "discountPercent": 26,
+    "finalPrice": 102,
+    "rating": 4.2,
+    "totalRatings": 3350,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_mumbai_014_031.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "cold"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-28T14:47:59.878Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_032",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 843,
+    "discountPercent": 26,
+    "finalPrice": 624,
+    "rating": 4.7,
+    "totalRatings": 3938,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_mumbai_014_032.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-23T07:08:04.700Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_033",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 662,
+    "discountPercent": 38,
+    "finalPrice": 410,
+    "rating": 4.2,
+    "totalRatings": 909,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_mumbai_014_033.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-01T09:29:58.656Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_034",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Delicious strawberry smoothie prepared fresh with authentic spices.",
+    "price": 425,
+    "discountPercent": 12,
+    "finalPrice": 374,
+    "rating": 3.5,
+    "totalRatings": 454,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_mumbai_014_034.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "shake",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-10T18:01:11.986Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_035",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 632,
+    "discountPercent": 32,
+    "finalPrice": 430,
+    "rating": 4.8,
+    "totalRatings": 4253,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_mumbai_014_035.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-06T17:49:46.722Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_036",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 104,
+    "discountPercent": 27,
+    "finalPrice": 76,
+    "rating": 4,
+    "totalRatings": 645,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_mumbai_014_036.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "pasta",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-24T04:55:12.631Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_037",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Delicious fresh lime soda prepared fresh with authentic spices.",
+    "price": 189,
+    "discountPercent": 22,
+    "finalPrice": 147,
+    "rating": 3.6,
+    "totalRatings": 3034,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_mumbai_014_037.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "tea",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-23T01:38:46.412Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_038",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 756,
+    "discountPercent": 28,
+    "finalPrice": 544,
+    "rating": 3.9,
+    "totalRatings": 2579,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_014_038.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-28T18:03:19.676Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_039",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Popular choice: Mango Shake made with premium ingredients.",
+    "price": 848,
+    "discountPercent": 10,
+    "finalPrice": 763,
+    "rating": 4.5,
+    "totalRatings": 2155,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_mumbai_014_039.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "tea",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-18T17:15:44.923Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_040",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Classic mango shake served hot and fresh.",
+    "price": 502,
+    "discountPercent": 38,
+    "finalPrice": 311,
+    "rating": 4.9,
+    "totalRatings": 2504,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_mumbai_014_040.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "mango"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-11T15:10:33.965Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_041",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 730,
+    "discountPercent": 4,
+    "finalPrice": 701,
+    "rating": 3.9,
+    "totalRatings": 720,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_mumbai_014_041.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-13T20:34:57.726Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_042",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Classic buttermilk served hot and fresh.",
+    "price": 266,
+    "discountPercent": 20,
+    "finalPrice": 213,
+    "rating": 4.7,
+    "totalRatings": 3122,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_mumbai_014_042.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "lassi",
+      "non-veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "lassi"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-03T06:30:58.436Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_043",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 506,
+    "discountPercent": 39,
+    "finalPrice": 309,
+    "rating": 4.5,
+    "totalRatings": 3902,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_014_043.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-21T10:02:24.957Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_044",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 190,
+    "discountPercent": 22,
+    "finalPrice": 148,
+    "rating": 4.3,
+    "totalRatings": 2374,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_mumbai_014_044.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "risotto",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-20T05:36:47.848Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_045",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Chef's special masala chai — perfect for a satisfying meal.",
+    "price": 571,
+    "discountPercent": 24,
+    "finalPrice": 434,
+    "rating": 4.3,
+    "totalRatings": 581,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_mumbai_014_045.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "coffee",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-03T14:30:25.598Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_046",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 463,
+    "discountPercent": 7,
+    "finalPrice": 431,
+    "rating": 3.9,
+    "totalRatings": 477,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_014_046.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "risotto",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-21T01:12:47.207Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_047",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Delicious mushroom risotto prepared fresh with authentic spices.",
+    "price": 775,
+    "discountPercent": 26,
+    "finalPrice": 574,
+    "rating": 4.2,
+    "totalRatings": 1346,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_mumbai_014_047.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-07T21:06:27.896Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_048",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 128,
+    "discountPercent": 28,
+    "finalPrice": 92,
+    "rating": 4.8,
+    "totalRatings": 2082,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_014_048.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-12T21:30:09.157Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_049",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 436,
+    "discountPercent": 37,
+    "finalPrice": 275,
+    "rating": 4.9,
+    "totalRatings": 4862,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_mumbai_014_049.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "juice",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-17T21:32:21.687Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_050",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Chef's special strawberry smoothie — perfect for a satisfying meal.",
+    "price": 722,
+    "discountPercent": 19,
+    "finalPrice": 585,
+    "rating": 3.8,
+    "totalRatings": 1027,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_mumbai_014_050.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "tea",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-16T04:40:52.585Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_051",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Delicious strawberry smoothie prepared fresh with authentic spices.",
+    "price": 154,
+    "discountPercent": 33,
+    "finalPrice": 103,
+    "rating": 4.9,
+    "totalRatings": 2002,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_mumbai_014_051.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "shake",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-29T11:05:05.994Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_052",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Delicious mushroom risotto prepared fresh with authentic spices.",
+    "price": 312,
+    "discountPercent": 38,
+    "finalPrice": 193,
+    "rating": 4.7,
+    "totalRatings": 2403,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_mumbai_014_052.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "mushroom"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-13T12:32:13.897Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_053",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 844,
+    "discountPercent": 18,
+    "finalPrice": 692,
+    "rating": 4.1,
+    "totalRatings": 3471,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/tomato-soup/product_vendor_mumbai_014_053.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "risotto",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-11T16:45:18.086Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_054",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Classic masala chai served hot and fresh.",
+    "price": 444,
+    "discountPercent": 24,
+    "finalPrice": 337,
+    "rating": 4,
+    "totalRatings": 520,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_mumbai_014_054.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "juice",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-18T15:27:53.369Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_055",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Delicious mango shake prepared fresh with authentic spices.",
+    "price": 583,
+    "discountPercent": 1,
+    "finalPrice": 577,
+    "rating": 4.3,
+    "totalRatings": 4585,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_mumbai_014_055.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "juice",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-15T03:30:52.746Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_056",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 689,
+    "discountPercent": 22,
+    "finalPrice": 537,
+    "rating": 4,
+    "totalRatings": 1642,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_mumbai_014_056.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-02T05:15:51.822Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_057",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Classic caesar salad served hot and fresh.",
+    "price": 293,
+    "discountPercent": 15,
+    "finalPrice": 249,
+    "rating": 4.7,
+    "totalRatings": 3094,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_mumbai_014_057.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "steak",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-26T07:58:00.742Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_058",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Delicious cold coffee prepared fresh with authentic spices.",
+    "price": 812,
+    "discountPercent": 18,
+    "finalPrice": 666,
+    "rating": 3.8,
+    "totalRatings": 1943,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_mumbai_014_058.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "tea",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-12T04:50:44.671Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_059",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Delicious mango shake prepared fresh with authentic spices.",
+    "price": 256,
+    "discountPercent": 17,
+    "finalPrice": 212,
+    "rating": 4.1,
+    "totalRatings": 4097,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_mumbai_014_059.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "coffee",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-20T15:41:01.492Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_060",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 333,
+    "discountPercent": 35,
+    "finalPrice": 216,
+    "rating": 4.1,
+    "totalRatings": 1436,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_014_060.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-31T05:23:40.361Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_061",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Classic masala chai served hot and fresh.",
+    "price": 345,
+    "discountPercent": 31,
+    "finalPrice": 238,
+    "rating": 4.6,
+    "totalRatings": 466,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_mumbai_014_061.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "lassi",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-22T11:58:09.981Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_062",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Chef's special mango shake — perfect for a satisfying meal.",
+    "price": 357,
+    "discountPercent": 4,
+    "finalPrice": 343,
+    "rating": 4.9,
+    "totalRatings": 951,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_mumbai_014_062.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "juice",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-14T06:19:37.199Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_063",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Classic cold coffee served hot and fresh.",
+    "price": 144,
+    "discountPercent": 16,
+    "finalPrice": 121,
+    "rating": 4.3,
+    "totalRatings": 2861,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_mumbai_014_063.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "cold"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-30T22:35:46.605Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_064",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 430,
+    "discountPercent": 38,
+    "finalPrice": 267,
+    "rating": 3.9,
+    "totalRatings": 1966,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_014_064.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-15T03:20:16.026Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_065",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Chef's special cold coffee — perfect for a satisfying meal.",
+    "price": 230,
+    "discountPercent": 36,
+    "finalPrice": 147,
+    "rating": 3.7,
+    "totalRatings": 3304,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_mumbai_014_065.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "shake",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-16T22:52:50.397Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_066",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 124,
+    "discountPercent": 16,
+    "finalPrice": 104,
+    "rating": 4.2,
+    "totalRatings": 321,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_014_066.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-10T18:44:00.031Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_067",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Delicious fresh lime soda prepared fresh with authentic spices.",
+    "price": 421,
+    "discountPercent": 30,
+    "finalPrice": 295,
+    "rating": 4.5,
+    "totalRatings": 245,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_mumbai_014_067.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "juice",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-19T03:52:46.331Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_068",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 718,
+    "discountPercent": 14,
+    "finalPrice": 617,
+    "rating": 4.4,
+    "totalRatings": 626,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_014_068.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "risotto",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-27T09:39:30.051Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_069",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Classic mango shake served hot and fresh.",
+    "price": 708,
+    "discountPercent": 40,
+    "finalPrice": 425,
+    "rating": 3.7,
+    "totalRatings": 3090,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_mumbai_014_069.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "lassi",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-22T03:55:34.662Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_070",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Chef's special masala chai — perfect for a satisfying meal.",
+    "price": 882,
+    "discountPercent": 20,
+    "finalPrice": 706,
+    "rating": 4.2,
+    "totalRatings": 4780,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_mumbai_014_070.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "coffee",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-04T22:52:18.693Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_071",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Classic mango shake served hot and fresh.",
+    "price": 212,
+    "discountPercent": 13,
+    "finalPrice": 184,
+    "rating": 4.8,
+    "totalRatings": 4550,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_mumbai_014_071.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "coffee",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-03T04:32:53.709Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_072",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 481,
+    "discountPercent": 32,
+    "finalPrice": 327,
+    "rating": 4.2,
+    "totalRatings": 195,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_014_072.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-29T00:41:50.729Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_073",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Delicious strawberry smoothie prepared fresh with authentic spices.",
+    "price": 720,
+    "discountPercent": 31,
+    "finalPrice": 497,
+    "rating": 4.5,
+    "totalRatings": 4470,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_mumbai_014_073.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "juice",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-14T13:57:17.167Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_074",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 882,
+    "discountPercent": 7,
+    "finalPrice": 820,
+    "rating": 4.5,
+    "totalRatings": 3635,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_014_074.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-16T11:50:39.795Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_075",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Chef's special mango shake — perfect for a satisfying meal.",
+    "price": 287,
+    "discountPercent": 31,
+    "finalPrice": 198,
+    "rating": 3.7,
+    "totalRatings": 439,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_mumbai_014_075.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "mango"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-27T11:21:43.211Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_076",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 462,
+    "discountPercent": 22,
+    "finalPrice": 360,
+    "rating": 3.8,
+    "totalRatings": 1138,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_mumbai_014_076.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "steak",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-01T18:35:58.275Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_077",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 286,
+    "discountPercent": 10,
+    "finalPrice": 257,
+    "rating": 4.4,
+    "totalRatings": 3417,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_014_077.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-31T09:06:02.639Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_078",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 518,
+    "discountPercent": 0,
+    "finalPrice": 518,
+    "rating": 3.8,
+    "totalRatings": 4706,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_mumbai_014_078.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "cold"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-28T07:24:30.618Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_079",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Classic strawberry smoothie served hot and fresh.",
+    "price": 706,
+    "discountPercent": 17,
+    "finalPrice": 586,
+    "rating": 4.1,
+    "totalRatings": 1097,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_mumbai_014_079.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "coffee",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-19T03:08:51.484Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_080",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 308,
+    "discountPercent": 21,
+    "finalPrice": 243,
+    "rating": 3.8,
+    "totalRatings": 2654,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_014_080.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-20T00:30:38.338Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_081",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 212,
+    "discountPercent": 1,
+    "finalPrice": 210,
+    "rating": 4.1,
+    "totalRatings": 4946,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/caesar-salad/product_vendor_mumbai_014_081.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-25T13:55:25.101Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_082",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Classic cold coffee served hot and fresh.",
+    "price": 814,
+    "discountPercent": 25,
+    "finalPrice": 611,
+    "rating": 4.6,
+    "totalRatings": 3306,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_mumbai_014_082.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "lassi",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-24T12:48:34.060Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_083",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Chef's special masala chai — perfect for a satisfying meal.",
+    "price": 457,
+    "discountPercent": 9,
+    "finalPrice": 416,
+    "rating": 3.6,
+    "totalRatings": 1338,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_mumbai_014_083.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "tea",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-22T19:35:16.369Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_084",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 258,
+    "discountPercent": 15,
+    "finalPrice": 219,
+    "rating": 4.8,
+    "totalRatings": 674,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_014_084.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-02T20:55:23.622Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_085",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Classic strawberry smoothie served hot and fresh.",
+    "price": 502,
+    "discountPercent": 26,
+    "finalPrice": 371,
+    "rating": 3.6,
+    "totalRatings": 1410,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_mumbai_014_085.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "tea",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-31T09:50:56.083Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_086",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 684,
+    "discountPercent": 0,
+    "finalPrice": 684,
+    "rating": 3.9,
+    "totalRatings": 1968,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_mumbai_014_086.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-23T06:30:19.350Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_087",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Classic strawberry smoothie served hot and fresh.",
+    "price": 171,
+    "discountPercent": 17,
+    "finalPrice": 142,
+    "rating": 4.3,
+    "totalRatings": 3215,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_mumbai_014_087.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "lassi",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-10T07:53:07.747Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_088",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 693,
+    "discountPercent": 15,
+    "finalPrice": 589,
+    "rating": 4.3,
+    "totalRatings": 4280,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-sandwich/product_vendor_mumbai_014_088.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-15T04:46:43.255Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_089",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Classic strawberry smoothie served hot and fresh.",
+    "price": 415,
+    "discountPercent": 36,
+    "finalPrice": 266,
+    "rating": 3.8,
+    "totalRatings": 607,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_mumbai_014_089.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "coffee",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-29T18:40:54.341Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_090",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 684,
+    "discountPercent": 39,
+    "finalPrice": 417,
+    "rating": 4.7,
+    "totalRatings": 3033,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_mumbai_014_090.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "tea",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-01T06:12:25.951Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_091",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 852,
+    "discountPercent": 28,
+    "finalPrice": 613,
+    "rating": 4,
+    "totalRatings": 1508,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_014_091.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-31T13:13:48.967Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_092",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 564,
+    "discountPercent": 13,
+    "finalPrice": 491,
+    "rating": 4,
+    "totalRatings": 1596,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/mushroom-risotto/product_vendor_mumbai_014_092.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-05T12:51:15.877Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_093",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 462,
+    "discountPercent": 23,
+    "finalPrice": 356,
+    "rating": 3.8,
+    "totalRatings": 4552,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-fish/product_vendor_mumbai_014_093.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-14T00:10:46.152Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_094",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Popular choice: Masala Chai made with premium ingredients.",
+    "price": 692,
+    "discountPercent": 19,
+    "finalPrice": 561,
+    "rating": 4,
+    "totalRatings": 4148,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_mumbai_014_094.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "coffee",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-12T16:06:47.553Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_095",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Classic strawberry smoothie served hot and fresh.",
+    "price": 734,
+    "discountPercent": 39,
+    "finalPrice": 448,
+    "rating": 4.8,
+    "totalRatings": 3437,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_mumbai_014_095.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "shake",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-26T01:43:24.669Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_096",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Chef's special cold coffee — perfect for a satisfying meal.",
+    "price": 887,
+    "discountPercent": 31,
+    "finalPrice": 612,
+    "rating": 3.7,
+    "totalRatings": 1047,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_mumbai_014_096.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "shake",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-15T14:28:06.757Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_097",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Chef's special strawberry smoothie — perfect for a satisfying meal.",
+    "price": 536,
+    "discountPercent": 10,
+    "finalPrice": 482,
+    "rating": 4.8,
+    "totalRatings": 1243,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_mumbai_014_097.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "coffee",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-13T19:10:38.824Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_098",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Classic masala chai served hot and fresh.",
+    "price": 82,
+    "discountPercent": 13,
+    "finalPrice": 71,
+    "rating": 3.8,
+    "totalRatings": 305,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_mumbai_014_098.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "tea",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-05T09:48:46.961Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_099",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 403,
+    "discountPercent": 24,
+    "finalPrice": 306,
+    "rating": 3.7,
+    "totalRatings": 1061,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://cdn.myapp.com/products/alfredo-pasta/product_vendor_mumbai_014_099.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-21T00:28:48.117Z"
+  },
+  {
+    "id": "product_vendor_mumbai_014_100",
+    "vendorId": "vendor_mumbai_014",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Chef's special fresh lime soda — perfect for a satisfying meal.",
+    "price": 505,
+    "discountPercent": 29,
+    "finalPrice": 359,
+    "rating": 4.7,
+    "totalRatings": 1903,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_mumbai_014_100.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "juice",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-15T06:32:24.662Z"
+  }
+]

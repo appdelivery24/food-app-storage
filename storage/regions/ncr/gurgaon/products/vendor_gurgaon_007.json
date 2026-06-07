@@ -1,0 +1,3560 @@
+[
+  {
+    "id": "product_vendor_gurgaon_007_001",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Classic hot & sour soup served hot and fresh.",
+    "price": 168,
+    "discountPercent": 26,
+    "finalPrice": 124,
+    "rating": 3.7,
+    "totalRatings": 128,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_gurgaon_007_001.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-11T15:36:22.070Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_002",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Popular choice: Kung Pao Chicken made with premium ingredients.",
+    "price": 197,
+    "discountPercent": 5,
+    "finalPrice": 187,
+    "rating": 4,
+    "totalRatings": 1235,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_gurgaon_007_002.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "noodles",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-08T13:37:04.047Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_003",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Chef's special pav bhaji — perfect for a satisfying meal.",
+    "price": 345,
+    "discountPercent": 32,
+    "finalPrice": 235,
+    "rating": 4.4,
+    "totalRatings": 4953,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_gurgaon_007_003.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "vada-pav",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-30T16:20:51.572Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_004",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Delicious mutton biryani prepared fresh with authentic spices.",
+    "price": 435,
+    "discountPercent": 31,
+    "finalPrice": 300,
+    "rating": 4.4,
+    "totalRatings": 2228,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_gurgaon_007_004.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "egg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-22T12:20:54.812Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_005",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Classic hakka noodles served hot and fresh.",
+    "price": 122,
+    "discountPercent": 26,
+    "finalPrice": 90,
+    "rating": 4.4,
+    "totalRatings": 4593,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_gurgaon_007_005.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "soup",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-03T14:42:04.196Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_006",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Delicious lucknowi biryani prepared fresh with authentic spices.",
+    "price": 170,
+    "discountPercent": 18,
+    "finalPrice": 139,
+    "rating": 4.2,
+    "totalRatings": 3169,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_gurgaon_007_006.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "veg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-06T06:17:28.317Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_007",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Popular choice: Dahi Bhalla made with premium ingredients.",
+    "price": 580,
+    "discountPercent": 10,
+    "finalPrice": 522,
+    "rating": 4.7,
+    "totalRatings": 4143,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_gurgaon_007_007.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "pav-bhaji",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-11T07:34:35.108Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_008",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 424,
+    "discountPercent": 35,
+    "finalPrice": 276,
+    "rating": 4.4,
+    "totalRatings": 4060,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_gurgaon_007_008.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "soup",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-20T03:07:39.559Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_009",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Chef's special chilli paneer — perfect for a satisfying meal.",
+    "price": 775,
+    "discountPercent": 24,
+    "finalPrice": 589,
+    "rating": 4.4,
+    "totalRatings": 3140,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_gurgaon_007_009.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "fried-rice",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-27T19:24:08.843Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_010",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Popular choice: Veg Biryani made with premium ingredients.",
+    "price": 186,
+    "discountPercent": 40,
+    "finalPrice": 112,
+    "rating": 4.8,
+    "totalRatings": 4637,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_gurgaon_007_010.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "veg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-15T07:43:48.255Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_011",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Classic pav bhaji served hot and fresh.",
+    "price": 488,
+    "discountPercent": 3,
+    "finalPrice": 473,
+    "rating": 4.2,
+    "totalRatings": 183,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_gurgaon_007_011.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "rolls",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-27T03:15:58.681Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_012",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Chef's special mutton biryani — perfect for a satisfying meal.",
+    "price": 115,
+    "discountPercent": 15,
+    "finalPrice": 98,
+    "rating": 3.8,
+    "totalRatings": 3531,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_gurgaon_007_012.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "mutton-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-11T21:32:08.263Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_013",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Chef's special mutton biryani — perfect for a satisfying meal.",
+    "price": 307,
+    "discountPercent": 13,
+    "finalPrice": 267,
+    "rating": 3.8,
+    "totalRatings": 2276,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_gurgaon_007_013.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "mutton-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-07T02:04:39.192Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_014",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Classic hyderabadi dum biryani served hot and fresh.",
+    "price": 265,
+    "discountPercent": 40,
+    "finalPrice": 159,
+    "rating": 3.6,
+    "totalRatings": 1401,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_gurgaon_007_014.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "egg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-08T23:37:25.918Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_015",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 704,
+    "discountPercent": 3,
+    "finalPrice": 683,
+    "rating": 4.7,
+    "totalRatings": 4265,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_gurgaon_007_015.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "soup",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-10T18:06:08.247Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_016",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Popular choice: Veg Manchurian made with premium ingredients.",
+    "price": 769,
+    "discountPercent": 22,
+    "finalPrice": 600,
+    "rating": 4.4,
+    "totalRatings": 2106,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_gurgaon_007_016.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "dim-sum",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-10T01:41:37.428Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_017",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Popular choice: Egg Biryani made with premium ingredients.",
+    "price": 665,
+    "discountPercent": 15,
+    "finalPrice": 565,
+    "rating": 3.8,
+    "totalRatings": 1052,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_gurgaon_007_017.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "mutton-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-17T22:13:09.503Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_018",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Chef's special hakka noodles — perfect for a satisfying meal.",
+    "price": 554,
+    "discountPercent": 13,
+    "finalPrice": 482,
+    "rating": 4.8,
+    "totalRatings": 2177,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_gurgaon_007_018.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "dim-sum",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-20T04:55:59.620Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_019",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Popular choice: Chicken Biryani made with premium ingredients.",
+    "price": 194,
+    "discountPercent": 22,
+    "finalPrice": 151,
+    "rating": 3.8,
+    "totalRatings": 300,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_gurgaon_007_019.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-26T02:41:23.604Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_020",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Delicious lucknowi biryani prepared fresh with authentic spices.",
+    "price": 771,
+    "discountPercent": 6,
+    "finalPrice": 725,
+    "rating": 4.8,
+    "totalRatings": 4519,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_gurgaon_007_020.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-11T15:00:36.132Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_021",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Chef's special egg biryani — perfect for a satisfying meal.",
+    "price": 152,
+    "discountPercent": 17,
+    "finalPrice": 126,
+    "rating": 4.4,
+    "totalRatings": 2793,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_gurgaon_007_021.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "chicken-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-19T13:36:54.409Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_022",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Delicious spring rolls prepared fresh with authentic spices.",
+    "price": 759,
+    "discountPercent": 8,
+    "finalPrice": 698,
+    "rating": 3.7,
+    "totalRatings": 3345,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_gurgaon_007_022.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "dim-sum",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-05T21:17:51.693Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_023",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Delicious veg momos prepared fresh with authentic spices.",
+    "price": 397,
+    "discountPercent": 8,
+    "finalPrice": 365,
+    "rating": 4,
+    "totalRatings": 1855,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_gurgaon_007_023.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "chaat",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-01T00:42:08.103Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_024",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Delicious veg momos prepared fresh with authentic spices.",
+    "price": 241,
+    "discountPercent": 28,
+    "finalPrice": 174,
+    "rating": 4.9,
+    "totalRatings": 3933,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_gurgaon_007_024.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "chaat",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-11T19:29:39.730Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_025",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Chef's special hakka noodles — perfect for a satisfying meal.",
+    "price": 531,
+    "discountPercent": 7,
+    "finalPrice": 494,
+    "rating": 3.9,
+    "totalRatings": 4254,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_gurgaon_007_025.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "dim-sum",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-18T00:04:15.903Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_026",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Delicious pani puri prepared fresh with authentic spices.",
+    "price": 614,
+    "discountPercent": 20,
+    "finalPrice": 491,
+    "rating": 4.4,
+    "totalRatings": 3039,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_gurgaon_007_026.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "pav-bhaji",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-07T10:49:52.125Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_027",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Popular choice: Kathi Roll made with premium ingredients.",
+    "price": 479,
+    "discountPercent": 10,
+    "finalPrice": 431,
+    "rating": 4.3,
+    "totalRatings": 1598,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_gurgaon_007_027.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "rolls",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-08T11:12:43.252Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_028",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 601,
+    "discountPercent": 38,
+    "finalPrice": 373,
+    "rating": 4.4,
+    "totalRatings": 1820,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_gurgaon_007_028.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-15T10:44:55.835Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_029",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Classic vada pav served hot and fresh.",
+    "price": 286,
+    "discountPercent": 26,
+    "finalPrice": 212,
+    "rating": 3.6,
+    "totalRatings": 3116,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_gurgaon_007_029.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "rolls",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-24T15:42:57.046Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_030",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Popular choice: Kung Pao Chicken made with premium ingredients.",
+    "price": 464,
+    "discountPercent": 29,
+    "finalPrice": 329,
+    "rating": 4.2,
+    "totalRatings": 3791,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_gurgaon_007_030.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "noodles",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-15T05:55:47.708Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_031",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Chef's special veg biryani — perfect for a satisfying meal.",
+    "price": 843,
+    "discountPercent": 15,
+    "finalPrice": 717,
+    "rating": 3.5,
+    "totalRatings": 618,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_gurgaon_007_031.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "egg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-30T06:15:09.677Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_032",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Delicious aloo tikki chaat prepared fresh with authentic spices.",
+    "price": 751,
+    "discountPercent": 32,
+    "finalPrice": 511,
+    "rating": 4.1,
+    "totalRatings": 2755,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_gurgaon_007_032.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "vada-pav",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-26T10:02:44.990Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_033",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Popular choice: Hyderabadi Dum Biryani made with premium ingredients.",
+    "price": 897,
+    "discountPercent": 10,
+    "finalPrice": 807,
+    "rating": 3.5,
+    "totalRatings": 1368,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_gurgaon_007_033.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "veg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-21T17:09:40.686Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_034",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 230,
+    "discountPercent": 19,
+    "finalPrice": 186,
+    "rating": 4.3,
+    "totalRatings": 1764,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_gurgaon_007_034.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-03T21:57:30.633Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_035",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Popular choice: Vada Pav made with premium ingredients.",
+    "price": 150,
+    "discountPercent": 16,
+    "finalPrice": 126,
+    "rating": 4.7,
+    "totalRatings": 88,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_gurgaon_007_035.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "rolls",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-25T16:43:57.775Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_036",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Chef's special aloo tikki chaat — perfect for a satisfying meal.",
+    "price": 382,
+    "discountPercent": 17,
+    "finalPrice": 317,
+    "rating": 4.2,
+    "totalRatings": 1462,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_gurgaon_007_036.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "momos",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-29T05:52:13.945Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_037",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Popular choice: Schezwan Fried Rice made with premium ingredients.",
+    "price": 466,
+    "discountPercent": 37,
+    "finalPrice": 294,
+    "rating": 4,
+    "totalRatings": 2946,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_gurgaon_007_037.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "noodles",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-13T14:14:51.748Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_038",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Chef's special mutton biryani — perfect for a satisfying meal.",
+    "price": 261,
+    "discountPercent": 0,
+    "finalPrice": 261,
+    "rating": 4.1,
+    "totalRatings": 4123,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_gurgaon_007_038.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "egg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-16T06:09:45.685Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_039",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Classic hyderabadi dum biryani served hot and fresh.",
+    "price": 873,
+    "discountPercent": 33,
+    "finalPrice": 585,
+    "rating": 4.1,
+    "totalRatings": 4793,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_gurgaon_007_039.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "chicken-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-10T15:42:29.982Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_040",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 366,
+    "discountPercent": 12,
+    "finalPrice": 322,
+    "rating": 3.5,
+    "totalRatings": 4920,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_gurgaon_007_040.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "rolls",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-28T02:55:12.981Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_041",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Popular choice: Hot & Sour Soup made with premium ingredients.",
+    "price": 96,
+    "discountPercent": 30,
+    "finalPrice": 67,
+    "rating": 3.9,
+    "totalRatings": 4983,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_gurgaon_007_041.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "fried-rice",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-30T04:10:12.586Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_042",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Delicious veg biryani prepared fresh with authentic spices.",
+    "price": 594,
+    "discountPercent": 39,
+    "finalPrice": 362,
+    "rating": 4.1,
+    "totalRatings": 4173,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_gurgaon_007_042.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "egg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-23T07:01:03.804Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_043",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Classic hot & sour soup served hot and fresh.",
+    "price": 305,
+    "discountPercent": 40,
+    "finalPrice": 183,
+    "rating": 4.4,
+    "totalRatings": 2435,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_gurgaon_007_043.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-08T12:58:36.917Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_044",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 133,
+    "discountPercent": 9,
+    "finalPrice": 121,
+    "rating": 3.7,
+    "totalRatings": 1422,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_gurgaon_007_044.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "hakka"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-07T18:07:51.900Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_045",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 458,
+    "discountPercent": 11,
+    "finalPrice": 408,
+    "rating": 4.1,
+    "totalRatings": 4029,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_gurgaon_007_045.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "chicken-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-06T22:53:55.266Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_046",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Popular choice: Veg Manchurian made with premium ingredients.",
+    "price": 336,
+    "discountPercent": 17,
+    "finalPrice": 279,
+    "rating": 3.8,
+    "totalRatings": 3848,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_gurgaon_007_046.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-19T16:39:44.138Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_047",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Delicious kung pao chicken prepared fresh with authentic spices.",
+    "price": 769,
+    "discountPercent": 11,
+    "finalPrice": 684,
+    "rating": 4.8,
+    "totalRatings": 152,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_gurgaon_007_047.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "dim-sum",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-09T15:38:45.022Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_048",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Classic mutton biryani served hot and fresh.",
+    "price": 389,
+    "discountPercent": 26,
+    "finalPrice": 288,
+    "rating": 4.3,
+    "totalRatings": 4316,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_gurgaon_007_048.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "veg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-27T13:31:16.881Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_049",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Popular choice: Vada Pav made with premium ingredients.",
+    "price": 737,
+    "discountPercent": 31,
+    "finalPrice": 509,
+    "rating": 3.9,
+    "totalRatings": 2088,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_gurgaon_007_049.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "chaat",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-14T20:25:04.362Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_050",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Classic veg biryani served hot and fresh.",
+    "price": 748,
+    "discountPercent": 12,
+    "finalPrice": 658,
+    "rating": 4,
+    "totalRatings": 948,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_gurgaon_007_050.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "chicken-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-06-05T16:44:43.143Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_051",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Chef's special veg momos — perfect for a satisfying meal.",
+    "price": 359,
+    "discountPercent": 37,
+    "finalPrice": 226,
+    "rating": 4.4,
+    "totalRatings": 684,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_gurgaon_007_051.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "pav-bhaji",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-22T06:06:24.727Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_052",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Delicious vada pav prepared fresh with authentic spices.",
+    "price": 825,
+    "discountPercent": 22,
+    "finalPrice": 644,
+    "rating": 3.7,
+    "totalRatings": 2552,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_gurgaon_007_052.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "vada-pav",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-08T00:37:58.920Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_053",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Popular choice: Hakka Noodles made with premium ingredients.",
+    "price": 486,
+    "discountPercent": 14,
+    "finalPrice": 418,
+    "rating": 3.6,
+    "totalRatings": 2074,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_gurgaon_007_053.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "manchurian",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-18T11:54:32.572Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_054",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Chef's special lucknowi biryani — perfect for a satisfying meal.",
+    "price": 535,
+    "discountPercent": 22,
+    "finalPrice": 417,
+    "rating": 4.1,
+    "totalRatings": 4840,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_gurgaon_007_054.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "veg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-05T14:57:52.603Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_055",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 412,
+    "discountPercent": 1,
+    "finalPrice": 408,
+    "rating": 4.1,
+    "totalRatings": 4935,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_gurgaon_007_055.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-10T07:45:42.823Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_056",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Chef's special veg biryani — perfect for a satisfying meal.",
+    "price": 503,
+    "discountPercent": 5,
+    "finalPrice": 478,
+    "rating": 4.8,
+    "totalRatings": 4387,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_gurgaon_007_056.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "egg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-14T18:43:56.646Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_057",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Popular choice: Lucknowi Biryani made with premium ingredients.",
+    "price": 652,
+    "discountPercent": 31,
+    "finalPrice": 450,
+    "rating": 3.6,
+    "totalRatings": 1890,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_gurgaon_007_057.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "egg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-24T06:54:08.879Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_058",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Popular choice: Chicken Biryani made with premium ingredients.",
+    "price": 743,
+    "discountPercent": 1,
+    "finalPrice": 736,
+    "rating": 4.9,
+    "totalRatings": 2719,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_gurgaon_007_058.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-28T17:24:59.173Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_059",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Delicious chicken biryani prepared fresh with authentic spices.",
+    "price": 274,
+    "discountPercent": 4,
+    "finalPrice": 263,
+    "rating": 4.1,
+    "totalRatings": 775,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_gurgaon_007_059.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-29T09:14:28.693Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_060",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Popular choice: Veg Biryani made with premium ingredients.",
+    "price": 435,
+    "discountPercent": 3,
+    "finalPrice": 422,
+    "rating": 4.1,
+    "totalRatings": 725,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_gurgaon_007_060.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "mutton-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-30T23:59:26.047Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_061",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Classic mutton biryani served hot and fresh.",
+    "price": 517,
+    "discountPercent": 26,
+    "finalPrice": 383,
+    "rating": 4.4,
+    "totalRatings": 1337,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_gurgaon_007_061.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "chicken-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-25T11:33:46.801Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_062",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Delicious kung pao chicken prepared fresh with authentic spices.",
+    "price": 741,
+    "discountPercent": 4,
+    "finalPrice": 711,
+    "rating": 4.6,
+    "totalRatings": 4335,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_gurgaon_007_062.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "soup",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-02T15:38:44.964Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_063",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Popular choice: Vada Pav made with premium ingredients.",
+    "price": 706,
+    "discountPercent": 39,
+    "finalPrice": 431,
+    "rating": 3.5,
+    "totalRatings": 1029,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_gurgaon_007_063.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "chaat",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-29T10:40:46.423Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_064",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Popular choice: Hot & Sour Soup made with premium ingredients.",
+    "price": 788,
+    "discountPercent": 12,
+    "finalPrice": 693,
+    "rating": 3.6,
+    "totalRatings": 1146,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_gurgaon_007_064.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "manchurian",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-30T11:57:20.297Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_065",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Popular choice: Schezwan Fried Rice made with premium ingredients.",
+    "price": 237,
+    "discountPercent": 5,
+    "finalPrice": 225,
+    "rating": 4.3,
+    "totalRatings": 1710,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_gurgaon_007_065.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "soup",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-04T09:33:03.354Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_066",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Delicious lucknowi biryani prepared fresh with authentic spices.",
+    "price": 212,
+    "discountPercent": 39,
+    "finalPrice": 129,
+    "rating": 4.2,
+    "totalRatings": 1088,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_gurgaon_007_066.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "egg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-24T08:19:09.677Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_067",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Delicious kathi roll prepared fresh with authentic spices.",
+    "price": 548,
+    "discountPercent": 13,
+    "finalPrice": 477,
+    "rating": 4.6,
+    "totalRatings": 297,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_gurgaon_007_067.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "pav-bhaji",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-09T05:04:47.410Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_068",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Chef's special spring rolls — perfect for a satisfying meal.",
+    "price": 545,
+    "discountPercent": 26,
+    "finalPrice": 403,
+    "rating": 4.2,
+    "totalRatings": 3112,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_gurgaon_007_068.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "dim-sum",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-07T23:31:16.033Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_069",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 834,
+    "discountPercent": 13,
+    "finalPrice": 726,
+    "rating": 4.8,
+    "totalRatings": 57,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_gurgaon_007_069.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "veg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-04T17:19:52.209Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_070",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Chef's special hakka noodles — perfect for a satisfying meal.",
+    "price": 354,
+    "discountPercent": 28,
+    "finalPrice": 255,
+    "rating": 4.4,
+    "totalRatings": 2402,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_gurgaon_007_070.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "soup",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-06T18:17:46.091Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_071",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 155,
+    "discountPercent": 22,
+    "finalPrice": 121,
+    "rating": 3.9,
+    "totalRatings": 503,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_gurgaon_007_071.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "mutton-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-11T17:08:25.373Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_072",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Classic veg manchurian served hot and fresh.",
+    "price": 513,
+    "discountPercent": 11,
+    "finalPrice": 457,
+    "rating": 3.7,
+    "totalRatings": 1971,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_gurgaon_007_072.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "fried-rice",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-07T23:04:26.520Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_073",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Classic spring rolls served hot and fresh.",
+    "price": 87,
+    "discountPercent": 34,
+    "finalPrice": 57,
+    "rating": 4.7,
+    "totalRatings": 47,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_gurgaon_007_073.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "manchurian",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-10T05:02:39.819Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_074",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Popular choice: Kathi Roll made with premium ingredients.",
+    "price": 420,
+    "discountPercent": 20,
+    "finalPrice": 336,
+    "rating": 4.2,
+    "totalRatings": 1462,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_gurgaon_007_074.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "vada-pav",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-08T06:34:46.091Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_075",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Popular choice: Lucknowi Biryani made with premium ingredients.",
+    "price": 778,
+    "discountPercent": 10,
+    "finalPrice": 700,
+    "rating": 3.9,
+    "totalRatings": 833,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_gurgaon_007_075.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "veg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-29T02:42:07.775Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_076",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Popular choice: Hot & Sour Soup made with premium ingredients.",
+    "price": 366,
+    "discountPercent": 38,
+    "finalPrice": 227,
+    "rating": 4.1,
+    "totalRatings": 3054,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_gurgaon_007_076.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "manchurian",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-21T03:51:19.529Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_077",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Classic veg biryani served hot and fresh.",
+    "price": 696,
+    "discountPercent": 18,
+    "finalPrice": 571,
+    "rating": 3.7,
+    "totalRatings": 2671,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_gurgaon_007_077.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "chicken-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-21T06:27:53.115Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_078",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Delicious chicken biryani prepared fresh with authentic spices.",
+    "price": 470,
+    "discountPercent": 4,
+    "finalPrice": 451,
+    "rating": 3.9,
+    "totalRatings": 3696,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_gurgaon_007_078.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "mutton-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-31T05:50:57.578Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_079",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 104,
+    "discountPercent": 24,
+    "finalPrice": 79,
+    "rating": 4.8,
+    "totalRatings": 1223,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_gurgaon_007_079.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-20T20:41:39.571Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_080",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 600,
+    "discountPercent": 6,
+    "finalPrice": 564,
+    "rating": 4.3,
+    "totalRatings": 3177,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_gurgaon_007_080.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-06-04T20:20:37.444Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_081",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 413,
+    "discountPercent": 29,
+    "finalPrice": 293,
+    "rating": 3.6,
+    "totalRatings": 4281,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_gurgaon_007_081.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "manchurian",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-08T06:45:01.066Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_082",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Delicious chicken biryani prepared fresh with authentic spices.",
+    "price": 161,
+    "discountPercent": 7,
+    "finalPrice": 150,
+    "rating": 3.6,
+    "totalRatings": 1735,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_gurgaon_007_082.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "veg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-07T07:20:37.655Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_083",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Chef's special dahi bhalla — perfect for a satisfying meal.",
+    "price": 228,
+    "discountPercent": 12,
+    "finalPrice": 201,
+    "rating": 3.6,
+    "totalRatings": 4978,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_gurgaon_007_083.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "chaat",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-15T02:39:19.125Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_084",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Popular choice: Chilli Paneer made with premium ingredients.",
+    "price": 797,
+    "discountPercent": 6,
+    "finalPrice": 749,
+    "rating": 4.2,
+    "totalRatings": 4542,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_gurgaon_007_084.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "noodles",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-24T22:05:32.786Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_085",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 897,
+    "discountPercent": 2,
+    "finalPrice": 879,
+    "rating": 3.8,
+    "totalRatings": 4267,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_gurgaon_007_085.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-20T17:24:48.111Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_086",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Popular choice: Lucknowi Biryani made with premium ingredients.",
+    "price": 246,
+    "discountPercent": 16,
+    "finalPrice": 207,
+    "rating": 4.1,
+    "totalRatings": 4910,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_gurgaon_007_086.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-25T02:47:28.336Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_087",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Delicious vada pav prepared fresh with authentic spices.",
+    "price": 479,
+    "discountPercent": 12,
+    "finalPrice": 422,
+    "rating": 3.6,
+    "totalRatings": 3646,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_gurgaon_007_087.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "pav-bhaji",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-08T12:05:11.459Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_088",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Chef's special hot & sour soup — perfect for a satisfying meal.",
+    "price": 283,
+    "discountPercent": 3,
+    "finalPrice": 275,
+    "rating": 3.6,
+    "totalRatings": 571,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_gurgaon_007_088.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-02T03:32:36.312Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_089",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Chef's special schezwan fried rice — perfect for a satisfying meal.",
+    "price": 421,
+    "discountPercent": 33,
+    "finalPrice": 282,
+    "rating": 4.5,
+    "totalRatings": 3860,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_gurgaon_007_089.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "fried-rice",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-26T06:19:15.702Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_090",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Chef's special mutton biryani — perfect for a satisfying meal.",
+    "price": 365,
+    "discountPercent": 4,
+    "finalPrice": 350,
+    "rating": 3.9,
+    "totalRatings": 3978,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_gurgaon_007_090.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "chicken-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-12T15:29:06.865Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_091",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Chef's special pani puri — perfect for a satisfying meal.",
+    "price": 820,
+    "discountPercent": 31,
+    "finalPrice": 566,
+    "rating": 3.9,
+    "totalRatings": 1950,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_gurgaon_007_091.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "rolls",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-23T23:50:58.358Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_092",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Delicious dahi bhalla prepared fresh with authentic spices.",
+    "price": 723,
+    "discountPercent": 37,
+    "finalPrice": 455,
+    "rating": 4.4,
+    "totalRatings": 852,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_gurgaon_007_092.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "rolls",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-24T20:39:54.801Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_093",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Popular choice: Aloo Tikki Chaat made with premium ingredients.",
+    "price": 764,
+    "discountPercent": 7,
+    "finalPrice": 711,
+    "rating": 3.6,
+    "totalRatings": 4719,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_gurgaon_007_093.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "rolls",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-15T04:30:19.904Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_094",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Delicious lucknowi biryani prepared fresh with authentic spices.",
+    "price": 279,
+    "discountPercent": 3,
+    "finalPrice": 271,
+    "rating": 4.2,
+    "totalRatings": 443,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_gurgaon_007_094.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "veg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-24T13:09:19.003Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_095",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Delicious egg biryani prepared fresh with authentic spices.",
+    "price": 544,
+    "discountPercent": 23,
+    "finalPrice": 419,
+    "rating": 4,
+    "totalRatings": 4806,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_gurgaon_007_095.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "veg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-02T20:05:59.692Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_096",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Popular choice: Chicken Biryani made with premium ingredients.",
+    "price": 532,
+    "discountPercent": 25,
+    "finalPrice": 399,
+    "rating": 4.3,
+    "totalRatings": 3741,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_gurgaon_007_096.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-23T01:00:49.290Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_097",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Delicious chilli paneer prepared fresh with authentic spices.",
+    "price": 415,
+    "discountPercent": 23,
+    "finalPrice": 320,
+    "rating": 3.6,
+    "totalRatings": 4085,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_gurgaon_007_097.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "manchurian",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-12T08:19:17.407Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_098",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Delicious kung pao chicken prepared fresh with authentic spices.",
+    "price": 620,
+    "discountPercent": 11,
+    "finalPrice": 552,
+    "rating": 4.9,
+    "totalRatings": 3964,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_gurgaon_007_098.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "dim-sum",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-05T11:57:06.715Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_099",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Delicious chilli paneer prepared fresh with authentic spices.",
+    "price": 669,
+    "discountPercent": 4,
+    "finalPrice": 642,
+    "rating": 4.6,
+    "totalRatings": 2223,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_gurgaon_007_099.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "manchurian",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-19T00:12:20.757Z"
+  },
+  {
+    "id": "product_vendor_gurgaon_007_100",
+    "vendorId": "vendor_gurgaon_007",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Delicious chilli paneer prepared fresh with authentic spices.",
+    "price": 834,
+    "discountPercent": 8,
+    "finalPrice": 767,
+    "rating": 4.8,
+    "totalRatings": 2793,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_gurgaon_007_100.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "soup",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-10T09:19:36.519Z"
+  }
+]

@@ -1,0 +1,3525 @@
+[
+  {
+    "id": "product_vendor_bangalore_006_001",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 153,
+    "discountPercent": 6,
+    "finalPrice": 144,
+    "rating": 4.2,
+    "totalRatings": 4883,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_006_001.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "veg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-17T23:56:48.572Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_002",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Delicious chicken biryani prepared fresh with authentic spices.",
+    "price": 356,
+    "discountPercent": 11,
+    "finalPrice": 317,
+    "rating": 4,
+    "totalRatings": 2111,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_006_002.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "egg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-13T13:35:48.290Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_003",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Chef's special rajma chawal — perfect for a satisfying meal.",
+    "price": 284,
+    "discountPercent": 33,
+    "finalPrice": 190,
+    "rating": 4.3,
+    "totalRatings": 1813,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_bangalore_006_003.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "dal",
+      "non-veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "dal",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-23T12:09:20.945Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_004",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Classic dal makhani served hot and fresh.",
+    "price": 898,
+    "discountPercent": 35,
+    "finalPrice": 584,
+    "rating": 4.8,
+    "totalRatings": 4372,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_bangalore_006_004.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "non-veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "kebab",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-03T14:40:33.088Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_005",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Classic chicken biryani served hot and fresh.",
+    "price": 340,
+    "discountPercent": 1,
+    "finalPrice": 337,
+    "rating": 4.5,
+    "totalRatings": 4987,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_006_005.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "veg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-12T15:45:11.233Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_006",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Popular choice: Butter Chicken made with premium ingredients.",
+    "price": 257,
+    "discountPercent": 38,
+    "finalPrice": 159,
+    "rating": 3.6,
+    "totalRatings": 3301,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_bangalore_006_006.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "paneer",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-12T09:40:55.832Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_007",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Delicious dal makhani prepared fresh with authentic spices.",
+    "price": 835,
+    "discountPercent": 3,
+    "finalPrice": 810,
+    "rating": 4.9,
+    "totalRatings": 2165,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_bangalore_006_007.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "biryani",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-26T21:50:17.856Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_008",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Classic palak paneer served hot and fresh.",
+    "price": 856,
+    "discountPercent": 15,
+    "finalPrice": 728,
+    "rating": 4.1,
+    "totalRatings": 2172,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_bangalore_006_008.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "dal",
+      "veg",
+      "palak",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "dal",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-20T10:16:05.827Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_009",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 468,
+    "discountPercent": 16,
+    "finalPrice": 393,
+    "rating": 4.6,
+    "totalRatings": 1887,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_006_009.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "mutton-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-23T12:41:59.880Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_010",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 248,
+    "discountPercent": 39,
+    "finalPrice": 151,
+    "rating": 4.3,
+    "totalRatings": 3961,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_006_010.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "veg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-08T14:41:58.993Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_011",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Chef's special egg biryani — perfect for a satisfying meal.",
+    "price": 593,
+    "discountPercent": 33,
+    "finalPrice": 397,
+    "rating": 4.4,
+    "totalRatings": 1506,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_006_011.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "veg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-31T13:46:47.499Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_012",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 494,
+    "discountPercent": 34,
+    "finalPrice": 326,
+    "rating": 4.3,
+    "totalRatings": 3959,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_006_012.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "chicken-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-10T14:23:36.422Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_013",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Popular choice: Chicken Biryani made with premium ingredients.",
+    "price": 533,
+    "discountPercent": 2,
+    "finalPrice": 522,
+    "rating": 4.7,
+    "totalRatings": 825,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_006_013.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "mutton-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-03T10:06:54.866Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_014",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Classic butter chicken served hot and fresh.",
+    "price": 543,
+    "discountPercent": 11,
+    "finalPrice": 483,
+    "rating": 4,
+    "totalRatings": 4045,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_bangalore_006_014.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "kebab",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-02T15:27:01.793Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_015",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 729,
+    "discountPercent": 8,
+    "finalPrice": 671,
+    "rating": 4,
+    "totalRatings": 3929,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_006_015.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "egg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-30T05:20:59.979Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_016",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 135,
+    "discountPercent": 39,
+    "finalPrice": 82,
+    "rating": 4.6,
+    "totalRatings": 4972,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_006_016.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-13T09:45:35.858Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_017",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Popular choice: Rajma Chawal made with premium ingredients.",
+    "price": 858,
+    "discountPercent": 10,
+    "finalPrice": 772,
+    "rating": 4.5,
+    "totalRatings": 4750,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_bangalore_006_017.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "biryani",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-02T14:56:01.539Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_018",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Delicious paneer butter masala prepared fresh with authentic spices.",
+    "price": 300,
+    "discountPercent": 12,
+    "finalPrice": 264,
+    "rating": 4,
+    "totalRatings": 4256,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_bangalore_006_018.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "roti",
+      "non-veg",
+      "paneer",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "roti",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-07T14:28:00.085Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_019",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Delicious veg biryani prepared fresh with authentic spices.",
+    "price": 514,
+    "discountPercent": 2,
+    "finalPrice": 504,
+    "rating": 4.4,
+    "totalRatings": 578,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_006_019.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "veg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-04T17:04:15.510Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_020",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Classic dal makhani served hot and fresh.",
+    "price": 760,
+    "discountPercent": 1,
+    "finalPrice": 752,
+    "rating": 4.5,
+    "totalRatings": 4964,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_bangalore_006_020.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "thali",
+      "non-veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "thali",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-06-01T06:38:54.009Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_021",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Chef's special mutton biryani — perfect for a satisfying meal.",
+    "price": 705,
+    "discountPercent": 38,
+    "finalPrice": 437,
+    "rating": 4.3,
+    "totalRatings": 179,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_006_021.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "chicken-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-24T01:55:07.451Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_022",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Kadai Paneer",
+    "description": "Chef's special kadai paneer — perfect for a satisfying meal.",
+    "price": 549,
+    "discountPercent": 0,
+    "finalPrice": 549,
+    "rating": 4.7,
+    "totalRatings": 259,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/kadai-paneer/product_vendor_bangalore_006_022.webp",
+    "imageSlug": "kadai-paneer",
+    "tags": [
+      "north-indian",
+      "dal",
+      "non-veg",
+      "kadai",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "kadai",
+      "paneer",
+      "north-indian",
+      "dal",
+      "kadai paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-11T08:32:57.411Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_023",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Popular choice: Egg Biryani made with premium ingredients.",
+    "price": 867,
+    "discountPercent": 32,
+    "finalPrice": 590,
+    "rating": 4.5,
+    "totalRatings": 1154,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_006_023.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "chicken-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-12T06:49:36.883Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_024",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Delicious malai kofta prepared fresh with authentic spices.",
+    "price": 480,
+    "discountPercent": 14,
+    "finalPrice": 413,
+    "rating": 4.1,
+    "totalRatings": 3274,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_bangalore_006_024.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "roti",
+      "non-veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "roti",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-13T17:18:41.699Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_025",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Classic rajma chawal served hot and fresh.",
+    "price": 500,
+    "discountPercent": 34,
+    "finalPrice": 330,
+    "rating": 4.5,
+    "totalRatings": 753,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_bangalore_006_025.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "roti",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-11T19:20:03.641Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_026",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Classic hyderabadi dum biryani served hot and fresh.",
+    "price": 752,
+    "discountPercent": 7,
+    "finalPrice": 699,
+    "rating": 3.7,
+    "totalRatings": 1681,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_006_026.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "mutton-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-30T23:59:54.389Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_027",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Classic hyderabadi dum biryani served hot and fresh.",
+    "price": 691,
+    "discountPercent": 9,
+    "finalPrice": 629,
+    "rating": 3.6,
+    "totalRatings": 4954,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_006_027.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "mutton-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-17T01:17:05.461Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_028",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 270,
+    "discountPercent": 35,
+    "finalPrice": 176,
+    "rating": 4.4,
+    "totalRatings": 4763,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_006_028.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "mutton-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-03T04:48:58.991Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_029",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Chef's special lucknowi biryani — perfect for a satisfying meal.",
+    "price": 276,
+    "discountPercent": 31,
+    "finalPrice": 190,
+    "rating": 4.3,
+    "totalRatings": 4754,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_006_029.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "veg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-12T19:59:44.275Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_030",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Classic butter chicken served hot and fresh.",
+    "price": 206,
+    "discountPercent": 20,
+    "finalPrice": 165,
+    "rating": 3.8,
+    "totalRatings": 3611,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_bangalore_006_030.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "dal",
+      "veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "dal",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-24T15:13:17.611Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_031",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Chef's special palak paneer — perfect for a satisfying meal.",
+    "price": 630,
+    "discountPercent": 23,
+    "finalPrice": 485,
+    "rating": 4.6,
+    "totalRatings": 2645,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_bangalore_006_031.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "roti",
+      "non-veg",
+      "palak",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "roti",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-15T13:42:04.029Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_032",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Classic veg biryani served hot and fresh.",
+    "price": 531,
+    "discountPercent": 14,
+    "finalPrice": 457,
+    "rating": 3.6,
+    "totalRatings": 3441,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_006_032.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "chicken-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-26T15:01:40.311Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_033",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Classic malai kofta served hot and fresh.",
+    "price": 780,
+    "discountPercent": 38,
+    "finalPrice": 484,
+    "rating": 3.7,
+    "totalRatings": 691,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_bangalore_006_033.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "paneer",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-19T14:34:27.194Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_034",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Kadai Paneer",
+    "description": "Delicious kadai paneer prepared fresh with authentic spices.",
+    "price": 200,
+    "discountPercent": 30,
+    "finalPrice": 140,
+    "rating": 3.9,
+    "totalRatings": 3287,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/kadai-paneer/product_vendor_bangalore_006_034.webp",
+    "imageSlug": "kadai-paneer",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "kadai"
+    ],
+    "searchKeywords": [
+      "kadai",
+      "paneer",
+      "north-indian",
+      "kadai paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-14T08:59:40.928Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_035",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Classic malai kofta served hot and fresh.",
+    "price": 482,
+    "discountPercent": 26,
+    "finalPrice": 357,
+    "rating": 3.6,
+    "totalRatings": 3590,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_bangalore_006_035.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "roti",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-11T16:50:35.016Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_036",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 263,
+    "discountPercent": 5,
+    "finalPrice": 250,
+    "rating": 4.8,
+    "totalRatings": 1024,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_006_036.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "egg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-12T09:41:05.645Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_037",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Classic butter chicken served hot and fresh.",
+    "price": 635,
+    "discountPercent": 33,
+    "finalPrice": 425,
+    "rating": 3.6,
+    "totalRatings": 3169,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_bangalore_006_037.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "roti",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-31T11:32:15.658Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_038",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Classic palak paneer served hot and fresh.",
+    "price": 553,
+    "discountPercent": 34,
+    "finalPrice": 365,
+    "rating": 4.4,
+    "totalRatings": 2302,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_bangalore_006_038.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "veg",
+      "palak",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "biryani",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-05T15:47:00.076Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_039",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Kadai Paneer",
+    "description": "Classic kadai paneer served hot and fresh.",
+    "price": 709,
+    "discountPercent": 38,
+    "finalPrice": 440,
+    "rating": 3.6,
+    "totalRatings": 2404,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/kadai-paneer/product_vendor_bangalore_006_039.webp",
+    "imageSlug": "kadai-paneer",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "veg",
+      "kadai"
+    ],
+    "searchKeywords": [
+      "kadai",
+      "paneer",
+      "north-indian",
+      "kadai paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-31T00:31:00.994Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_040",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Chef's special egg biryani — perfect for a satisfying meal.",
+    "price": 175,
+    "discountPercent": 20,
+    "finalPrice": 140,
+    "rating": 4.3,
+    "totalRatings": 189,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_006_040.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "egg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-25T00:03:06.328Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_041",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Classic paneer butter masala served hot and fresh.",
+    "price": 272,
+    "discountPercent": 25,
+    "finalPrice": 204,
+    "rating": 4.1,
+    "totalRatings": 2243,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_bangalore_006_041.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-03T10:49:12.848Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_042",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Popular choice: Palak Paneer made with premium ingredients.",
+    "price": 333,
+    "discountPercent": 25,
+    "finalPrice": 250,
+    "rating": 3.6,
+    "totalRatings": 3822,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_bangalore_006_042.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "veg",
+      "palak",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "kebab",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-09T21:20:38.189Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_043",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Chef's special malai kofta — perfect for a satisfying meal.",
+    "price": 311,
+    "discountPercent": 26,
+    "finalPrice": 230,
+    "rating": 4.3,
+    "totalRatings": 976,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_bangalore_006_043.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "dal",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "dal",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-26T03:13:10.818Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_044",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Kadai Paneer",
+    "description": "Classic kadai paneer served hot and fresh.",
+    "price": 471,
+    "discountPercent": 29,
+    "finalPrice": 334,
+    "rating": 4,
+    "totalRatings": 4728,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/kadai-paneer/product_vendor_bangalore_006_044.webp",
+    "imageSlug": "kadai-paneer",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "kadai"
+    ],
+    "searchKeywords": [
+      "kadai",
+      "paneer",
+      "north-indian",
+      "kadai paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-24T02:46:21.472Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_045",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Chef's special butter chicken — perfect for a satisfying meal.",
+    "price": 135,
+    "discountPercent": 29,
+    "finalPrice": 96,
+    "rating": 4.8,
+    "totalRatings": 4873,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_bangalore_006_045.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "roti",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-26T09:44:28.351Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_046",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Popular choice: Dal Makhani made with premium ingredients.",
+    "price": 742,
+    "discountPercent": 22,
+    "finalPrice": 579,
+    "rating": 4.2,
+    "totalRatings": 4949,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_bangalore_006_046.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "roti",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-24T05:03:43.333Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_047",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Chef's special malai kofta — perfect for a satisfying meal.",
+    "price": 891,
+    "discountPercent": 35,
+    "finalPrice": 579,
+    "rating": 4.8,
+    "totalRatings": 762,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_bangalore_006_047.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "roti",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-21T03:32:15.004Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_048",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Popular choice: Chicken Biryani made with premium ingredients.",
+    "price": 608,
+    "discountPercent": 26,
+    "finalPrice": 450,
+    "rating": 4.2,
+    "totalRatings": 4321,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_006_048.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-23T16:42:54.147Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_049",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Classic rajma chawal served hot and fresh.",
+    "price": 151,
+    "discountPercent": 1,
+    "finalPrice": 149,
+    "rating": 3.6,
+    "totalRatings": 2069,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_bangalore_006_049.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "dal",
+      "non-veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "dal",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-27T18:32:53.354Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_050",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Popular choice: Mutton Biryani made with premium ingredients.",
+    "price": 209,
+    "discountPercent": 7,
+    "finalPrice": 194,
+    "rating": 4.3,
+    "totalRatings": 1779,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_006_050.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "egg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-07T15:43:00.341Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_051",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Popular choice: Malai Kofta made with premium ingredients.",
+    "price": 768,
+    "discountPercent": 17,
+    "finalPrice": 637,
+    "rating": 4.2,
+    "totalRatings": 1397,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_bangalore_006_051.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "roti",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-05T02:21:24.935Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_052",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Popular choice: Rajma Chawal made with premium ingredients.",
+    "price": 841,
+    "discountPercent": 37,
+    "finalPrice": 530,
+    "rating": 3.9,
+    "totalRatings": 1380,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_bangalore_006_052.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "thali",
+      "veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "thali",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-24T11:40:38.227Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_053",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Chef's special lucknowi biryani — perfect for a satisfying meal.",
+    "price": 109,
+    "discountPercent": 25,
+    "finalPrice": 82,
+    "rating": 4.5,
+    "totalRatings": 3251,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_006_053.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-08T09:19:02.719Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_054",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 241,
+    "discountPercent": 19,
+    "finalPrice": 195,
+    "rating": 3.6,
+    "totalRatings": 1899,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_006_054.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "egg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-02T00:06:55.282Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_055",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Popular choice: Rajma Chawal made with premium ingredients.",
+    "price": 117,
+    "discountPercent": 12,
+    "finalPrice": 103,
+    "rating": 4,
+    "totalRatings": 2440,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_bangalore_006_055.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "non-veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "kebab",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-09T06:03:27.842Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_056",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Popular choice: Chicken Biryani made with premium ingredients.",
+    "price": 168,
+    "discountPercent": 40,
+    "finalPrice": 101,
+    "rating": 4,
+    "totalRatings": 2570,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_006_056.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "mutton-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-13T11:51:46.267Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_057",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Chef's special chole bhature — perfect for a satisfying meal.",
+    "price": 772,
+    "discountPercent": 25,
+    "finalPrice": 579,
+    "rating": 3.6,
+    "totalRatings": 1854,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_bangalore_006_057.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "thali",
+      "veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "thali",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-06-03T23:49:42.314Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_058",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Classic chicken biryani served hot and fresh.",
+    "price": 80,
+    "discountPercent": 39,
+    "finalPrice": 49,
+    "rating": 3.8,
+    "totalRatings": 694,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_006_058.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "egg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-10T08:17:40.491Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_059",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Chef's special paneer butter masala — perfect for a satisfying meal.",
+    "price": 330,
+    "discountPercent": 19,
+    "finalPrice": 267,
+    "rating": 4.9,
+    "totalRatings": 1410,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_bangalore_006_059.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "dal",
+      "non-veg",
+      "paneer",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "dal",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-20T02:53:20.688Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_060",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Chef's special veg biryani — perfect for a satisfying meal.",
+    "price": 208,
+    "discountPercent": 37,
+    "finalPrice": 131,
+    "rating": 3.6,
+    "totalRatings": 1539,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_006_060.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "veg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-10T18:00:50.748Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_061",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Popular choice: Malai Kofta made with premium ingredients.",
+    "price": 787,
+    "discountPercent": 17,
+    "finalPrice": 653,
+    "rating": 4.2,
+    "totalRatings": 243,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_bangalore_006_061.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "dal",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "dal",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-03T17:24:42.325Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_062",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Delicious paneer butter masala prepared fresh with authentic spices.",
+    "price": 800,
+    "discountPercent": 20,
+    "finalPrice": 640,
+    "rating": 3.9,
+    "totalRatings": 698,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_bangalore_006_062.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "dal",
+      "veg",
+      "paneer",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "dal",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-30T19:25:56.502Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_063",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Classic rajma chawal served hot and fresh.",
+    "price": 839,
+    "discountPercent": 38,
+    "finalPrice": 520,
+    "rating": 3.7,
+    "totalRatings": 2505,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_bangalore_006_063.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "roti",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-01T22:45:24.180Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_064",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Chef's special lucknowi biryani — perfect for a satisfying meal.",
+    "price": 742,
+    "discountPercent": 6,
+    "finalPrice": 697,
+    "rating": 4.7,
+    "totalRatings": 3691,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_006_064.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-15T20:38:40.176Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_065",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Popular choice: Mutton Biryani made with premium ingredients.",
+    "price": 632,
+    "discountPercent": 29,
+    "finalPrice": 449,
+    "rating": 3.9,
+    "totalRatings": 3452,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_006_065.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "veg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-20T06:08:06.822Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_066",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Chef's special hyderabadi dum biryani — perfect for a satisfying meal.",
+    "price": 519,
+    "discountPercent": 12,
+    "finalPrice": 457,
+    "rating": 4.8,
+    "totalRatings": 2773,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_006_066.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "veg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-19T00:41:01.953Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_067",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Classic dal makhani served hot and fresh.",
+    "price": 840,
+    "discountPercent": 9,
+    "finalPrice": 764,
+    "rating": 3.7,
+    "totalRatings": 2104,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_bangalore_006_067.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "dal",
+      "veg",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-06T17:43:43.835Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_068",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Classic chole bhature served hot and fresh.",
+    "price": 368,
+    "discountPercent": 11,
+    "finalPrice": 328,
+    "rating": 4.4,
+    "totalRatings": 741,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_bangalore_006_068.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "dal",
+      "veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "dal",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-20T13:37:35.894Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_069",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Delicious chole bhature prepared fresh with authentic spices.",
+    "price": 713,
+    "discountPercent": 20,
+    "finalPrice": 570,
+    "rating": 4.7,
+    "totalRatings": 975,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_bangalore_006_069.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "dal",
+      "veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "dal",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-30T13:37:09.041Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_070",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Chef's special malai kofta — perfect for a satisfying meal.",
+    "price": 757,
+    "discountPercent": 9,
+    "finalPrice": 689,
+    "rating": 3.7,
+    "totalRatings": 3393,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_bangalore_006_070.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "paneer",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-21T20:48:39.824Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_071",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Popular choice: Dal Makhani made with premium ingredients.",
+    "price": 355,
+    "discountPercent": 40,
+    "finalPrice": 213,
+    "rating": 3.8,
+    "totalRatings": 1028,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_bangalore_006_071.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "thali",
+      "veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "thali",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-13T12:50:03.239Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_072",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Chef's special rajma chawal — perfect for a satisfying meal.",
+    "price": 246,
+    "discountPercent": 32,
+    "finalPrice": 167,
+    "rating": 4.4,
+    "totalRatings": 2848,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_bangalore_006_072.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "biryani",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-27T07:13:01.725Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_073",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Popular choice: Veg Biryani made with premium ingredients.",
+    "price": 246,
+    "discountPercent": 5,
+    "finalPrice": 234,
+    "rating": 4.2,
+    "totalRatings": 533,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_006_073.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "chicken-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-19T13:07:13.401Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_074",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Classic butter chicken served hot and fresh.",
+    "price": 352,
+    "discountPercent": 28,
+    "finalPrice": 253,
+    "rating": 3.6,
+    "totalRatings": 4987,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_bangalore_006_074.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "paneer",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-19T18:45:39.479Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_075",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Delicious mutton biryani prepared fresh with authentic spices.",
+    "price": 275,
+    "discountPercent": 25,
+    "finalPrice": 206,
+    "rating": 4.4,
+    "totalRatings": 4038,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_006_075.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "chicken-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-28T20:23:46.824Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_076",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Delicious mutton biryani prepared fresh with authentic spices.",
+    "price": 389,
+    "discountPercent": 19,
+    "finalPrice": 315,
+    "rating": 4,
+    "totalRatings": 2908,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_006_076.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "mutton-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-02T16:16:18.137Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_077",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Chef's special chole bhature — perfect for a satisfying meal.",
+    "price": 186,
+    "discountPercent": 10,
+    "finalPrice": 167,
+    "rating": 4,
+    "totalRatings": 1293,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_bangalore_006_077.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "kebab",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-29T20:39:40.536Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_078",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 824,
+    "discountPercent": 1,
+    "finalPrice": 816,
+    "rating": 4.2,
+    "totalRatings": 1779,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_006_078.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "egg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-18T15:33:08.858Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_079",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Chef's special lucknowi biryani — perfect for a satisfying meal.",
+    "price": 870,
+    "discountPercent": 5,
+    "finalPrice": 827,
+    "rating": 4.9,
+    "totalRatings": 4035,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_006_079.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-19T15:55:31.717Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_080",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Delicious chole bhature prepared fresh with authentic spices.",
+    "price": 700,
+    "discountPercent": 25,
+    "finalPrice": 525,
+    "rating": 4.3,
+    "totalRatings": 3732,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_bangalore_006_080.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "thali",
+      "veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "thali",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-16T10:57:59.425Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_081",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Popular choice: Hyderabadi Dum Biryani made with premium ingredients.",
+    "price": 867,
+    "discountPercent": 8,
+    "finalPrice": 798,
+    "rating": 3.7,
+    "totalRatings": 2222,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_006_081.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "veg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-05T01:46:11.342Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_082",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Classic mutton biryani served hot and fresh.",
+    "price": 733,
+    "discountPercent": 4,
+    "finalPrice": 704,
+    "rating": 4.1,
+    "totalRatings": 4198,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_006_082.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "egg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-27T07:26:35.745Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_083",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Classic hyderabadi dum biryani served hot and fresh.",
+    "price": 345,
+    "discountPercent": 27,
+    "finalPrice": 252,
+    "rating": 4.7,
+    "totalRatings": 616,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_006_083.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "veg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-12T14:20:33.386Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_084",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Chef's special egg biryani — perfect for a satisfying meal.",
+    "price": 419,
+    "discountPercent": 23,
+    "finalPrice": 323,
+    "rating": 4.9,
+    "totalRatings": 402,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_006_084.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "chicken-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-04T21:31:50.200Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_085",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Chef's special lucknowi biryani — perfect for a satisfying meal.",
+    "price": 334,
+    "discountPercent": 14,
+    "finalPrice": 287,
+    "rating": 4.5,
+    "totalRatings": 3297,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_006_085.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "egg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-06-04T04:59:02.981Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_086",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Delicious palak paneer prepared fresh with authentic spices.",
+    "price": 691,
+    "discountPercent": 14,
+    "finalPrice": 594,
+    "rating": 4.1,
+    "totalRatings": 2588,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_bangalore_006_086.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "palak",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "biryani",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-28T12:20:54.882Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_087",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Chef's special paneer butter masala — perfect for a satisfying meal.",
+    "price": 830,
+    "discountPercent": 26,
+    "finalPrice": 614,
+    "rating": 4.2,
+    "totalRatings": 2674,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_bangalore_006_087.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "veg",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-15T07:51:28.130Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_088",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Popular choice: Mutton Biryani made with premium ingredients.",
+    "price": 400,
+    "discountPercent": 1,
+    "finalPrice": 396,
+    "rating": 3.5,
+    "totalRatings": 4939,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_006_088.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "mutton-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-29T05:32:18.751Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_089",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Chef's special dal makhani — perfect for a satisfying meal.",
+    "price": 504,
+    "discountPercent": 20,
+    "finalPrice": 403,
+    "rating": 4.1,
+    "totalRatings": 455,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_bangalore_006_089.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "biryani",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-20T06:53:33.065Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_090",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Chef's special chole bhature — perfect for a satisfying meal.",
+    "price": 676,
+    "discountPercent": 19,
+    "finalPrice": 548,
+    "rating": 3.7,
+    "totalRatings": 145,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_bangalore_006_090.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "biryani",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-09T08:12:32.046Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_091",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Classic lucknowi biryani served hot and fresh.",
+    "price": 485,
+    "discountPercent": 39,
+    "finalPrice": 296,
+    "rating": 3.8,
+    "totalRatings": 2356,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_006_091.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "egg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-25T10:08:41.164Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_092",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Classic egg biryani served hot and fresh.",
+    "price": 384,
+    "discountPercent": 37,
+    "finalPrice": 242,
+    "rating": 4.8,
+    "totalRatings": 916,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_006_092.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "chicken-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-23T23:05:09.011Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_093",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Kadai Paneer",
+    "description": "Delicious kadai paneer prepared fresh with authentic spices.",
+    "price": 849,
+    "discountPercent": 25,
+    "finalPrice": 637,
+    "rating": 3.9,
+    "totalRatings": 33,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/kadai-paneer/product_vendor_bangalore_006_093.webp",
+    "imageSlug": "kadai-paneer",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "kadai",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "kadai",
+      "paneer",
+      "north-indian",
+      "biryani",
+      "kadai paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-19T12:39:51.177Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_094",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Delicious lucknowi biryani prepared fresh with authentic spices.",
+    "price": 303,
+    "discountPercent": 27,
+    "finalPrice": 221,
+    "rating": 4.1,
+    "totalRatings": 2679,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_006_094.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "veg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-20T02:24:25.972Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_095",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Popular choice: Paneer Butter Masala made with premium ingredients.",
+    "price": 596,
+    "discountPercent": 9,
+    "finalPrice": 542,
+    "rating": 4.6,
+    "totalRatings": 3891,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_bangalore_006_095.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "paneer",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "roti",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-18T07:51:59.069Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_096",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Classic dal makhani served hot and fresh.",
+    "price": 364,
+    "discountPercent": 21,
+    "finalPrice": 288,
+    "rating": 4.2,
+    "totalRatings": 2892,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_bangalore_006_096.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "kebab",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-30T18:31:33.801Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_097",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Chef's special paneer butter masala — perfect for a satisfying meal.",
+    "price": 102,
+    "discountPercent": 18,
+    "finalPrice": 84,
+    "rating": 4.8,
+    "totalRatings": 4757,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_bangalore_006_097.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "dal",
+      "non-veg",
+      "paneer",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "dal",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-21T23:26:38.836Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_098",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Popular choice: Palak Paneer made with premium ingredients.",
+    "price": 115,
+    "discountPercent": 37,
+    "finalPrice": 72,
+    "rating": 4.1,
+    "totalRatings": 1300,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_bangalore_006_098.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "roti",
+      "non-veg",
+      "palak",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "roti",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-27T07:41:12.831Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_099",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Chef's special veg biryani — perfect for a satisfying meal.",
+    "price": 441,
+    "discountPercent": 11,
+    "finalPrice": 392,
+    "rating": 3.9,
+    "totalRatings": 934,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_006_099.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "mutton-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-03T14:36:46.189Z"
+  },
+  {
+    "id": "product_vendor_bangalore_006_100",
+    "vendorId": "vendor_bangalore_006",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Delicious rajma chawal prepared fresh with authentic spices.",
+    "price": 863,
+    "discountPercent": 7,
+    "finalPrice": 803,
+    "rating": 4.8,
+    "totalRatings": 3092,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_bangalore_006_100.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "biryani",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-03T10:19:30.954Z"
+  }
+]

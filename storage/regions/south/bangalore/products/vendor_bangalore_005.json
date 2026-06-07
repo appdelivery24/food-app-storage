@@ -1,0 +1,3666 @@
+[
+  {
+    "id": "product_vendor_bangalore_005_001",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Popular choice: Veg Manchurian made with premium ingredients.",
+    "price": 354,
+    "discountPercent": 9,
+    "finalPrice": 322,
+    "rating": 3.8,
+    "totalRatings": 4356,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_001.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "fried-rice",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-28T20:44:53.109Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_002",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Delicious hot & sour soup prepared fresh with authentic spices.",
+    "price": 313,
+    "discountPercent": 10,
+    "finalPrice": 282,
+    "rating": 4.7,
+    "totalRatings": 2602,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_005_002.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "dim-sum",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-20T13:25:44.690Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_003",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Delicious spring rolls prepared fresh with authentic spices.",
+    "price": 122,
+    "discountPercent": 11,
+    "finalPrice": 109,
+    "rating": 4,
+    "totalRatings": 3939,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_005_003.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "dim-sum",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-27T05:30:31.376Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_004",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 308,
+    "discountPercent": 38,
+    "finalPrice": 191,
+    "rating": 4.1,
+    "totalRatings": 1854,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_004.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "soup",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-31T12:30:11.306Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_005",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Popular choice: Kung Pao Chicken made with premium ingredients.",
+    "price": 247,
+    "discountPercent": 14,
+    "finalPrice": 212,
+    "rating": 4,
+    "totalRatings": 4424,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_005.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "manchurian",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-18T18:11:06.287Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_006",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Delicious veg manchurian prepared fresh with authentic spices.",
+    "price": 822,
+    "discountPercent": 28,
+    "finalPrice": 592,
+    "rating": 4,
+    "totalRatings": 2476,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_006.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "soup",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-14T03:05:39.442Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_007",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Popular choice: Hakka Noodles made with premium ingredients.",
+    "price": 532,
+    "discountPercent": 31,
+    "finalPrice": 367,
+    "rating": 4.9,
+    "totalRatings": 4185,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_005_007.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "dim-sum",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-30T00:53:19.393Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_008",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Classic chilli paneer served hot and fresh.",
+    "price": 342,
+    "discountPercent": 7,
+    "finalPrice": 318,
+    "rating": 4,
+    "totalRatings": 3304,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_008.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "fried-rice",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-03T20:54:27.427Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_009",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Chef's special hakka noodles — perfect for a satisfying meal.",
+    "price": 171,
+    "discountPercent": 7,
+    "finalPrice": 159,
+    "rating": 3.6,
+    "totalRatings": 1106,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_005_009.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "fried-rice",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-04T02:26:57.711Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_010",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Popular choice: Kung Pao Chicken made with premium ingredients.",
+    "price": 306,
+    "discountPercent": 24,
+    "finalPrice": 233,
+    "rating": 3.7,
+    "totalRatings": 1922,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_010.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "dim-sum",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-09T18:01:34.527Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_011",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Delicious chilli paneer prepared fresh with authentic spices.",
+    "price": 140,
+    "discountPercent": 34,
+    "finalPrice": 92,
+    "rating": 3.7,
+    "totalRatings": 4534,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_011.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "fried-rice",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-16T18:13:17.977Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_012",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Chef's special chilli paneer — perfect for a satisfying meal.",
+    "price": 104,
+    "discountPercent": 7,
+    "finalPrice": 97,
+    "rating": 3.9,
+    "totalRatings": 4161,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_012.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "fried-rice",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-08T07:55:51.159Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_013",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Classic schezwan fried rice served hot and fresh.",
+    "price": 321,
+    "discountPercent": 29,
+    "finalPrice": 228,
+    "rating": 4.7,
+    "totalRatings": 1692,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_005_013.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "fried-rice",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-28T20:58:54.206Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_014",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Chef's special schezwan fried rice — perfect for a satisfying meal.",
+    "price": 96,
+    "discountPercent": 10,
+    "finalPrice": 86,
+    "rating": 4,
+    "totalRatings": 1757,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_005_014.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "soup",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-05T14:30:23.250Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_015",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Chef's special spring rolls — perfect for a satisfying meal.",
+    "price": 895,
+    "discountPercent": 1,
+    "finalPrice": 886,
+    "rating": 4.3,
+    "totalRatings": 4585,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_005_015.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "fried-rice",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-22T10:08:24.847Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_016",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Popular choice: Spring Rolls made with premium ingredients.",
+    "price": 723,
+    "discountPercent": 22,
+    "finalPrice": 564,
+    "rating": 4.8,
+    "totalRatings": 1083,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_005_016.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "fried-rice",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-24T00:34:38.954Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_017",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Delicious veg manchurian prepared fresh with authentic spices.",
+    "price": 184,
+    "discountPercent": 20,
+    "finalPrice": 147,
+    "rating": 3.6,
+    "totalRatings": 2526,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_017.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "fried-rice",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-16T16:27:08.733Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_018",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Delicious chilli paneer prepared fresh with authentic spices.",
+    "price": 412,
+    "discountPercent": 30,
+    "finalPrice": 288,
+    "rating": 4.5,
+    "totalRatings": 2338,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_018.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "manchurian",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-21T16:12:49.643Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_019",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Delicious hot & sour soup prepared fresh with authentic spices.",
+    "price": 598,
+    "discountPercent": 14,
+    "finalPrice": 514,
+    "rating": 4.2,
+    "totalRatings": 106,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_005_019.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "manchurian",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-23T09:38:49.663Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_020",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Chef's special spring rolls — perfect for a satisfying meal.",
+    "price": 722,
+    "discountPercent": 22,
+    "finalPrice": 563,
+    "rating": 4.9,
+    "totalRatings": 3223,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_005_020.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "dim-sum",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-07T10:50:43.385Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_021",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Chef's special hot & sour soup — perfect for a satisfying meal.",
+    "price": 780,
+    "discountPercent": 2,
+    "finalPrice": 764,
+    "rating": 4.6,
+    "totalRatings": 3343,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_005_021.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-06T02:22:37.715Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_022",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Popular choice: Spring Rolls made with premium ingredients.",
+    "price": 572,
+    "discountPercent": 9,
+    "finalPrice": 521,
+    "rating": 4.9,
+    "totalRatings": 2436,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_005_022.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "soup",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-25T09:15:05.919Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_023",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Classic veg manchurian served hot and fresh.",
+    "price": 247,
+    "discountPercent": 30,
+    "finalPrice": 173,
+    "rating": 4.1,
+    "totalRatings": 3661,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_023.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-20T11:58:15.290Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_024",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Delicious spring rolls prepared fresh with authentic spices.",
+    "price": 572,
+    "discountPercent": 37,
+    "finalPrice": 360,
+    "rating": 3.7,
+    "totalRatings": 482,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_005_024.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "noodles",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-03T11:52:20.476Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_025",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Delicious chilli paneer prepared fresh with authentic spices.",
+    "price": 355,
+    "discountPercent": 33,
+    "finalPrice": 238,
+    "rating": 4.4,
+    "totalRatings": 4795,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_025.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "manchurian",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-09T08:14:36.483Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_026",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Popular choice: Spring Rolls made with premium ingredients.",
+    "price": 357,
+    "discountPercent": 2,
+    "finalPrice": 350,
+    "rating": 4.4,
+    "totalRatings": 3282,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_005_026.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "dim-sum",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-01T11:37:46.926Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_027",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 700,
+    "discountPercent": 2,
+    "finalPrice": 686,
+    "rating": 4.6,
+    "totalRatings": 1660,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_005_027.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "soup",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-25T19:25:44.982Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_028",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 571,
+    "discountPercent": 32,
+    "finalPrice": 388,
+    "rating": 4.3,
+    "totalRatings": 4990,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_005_028.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "hakka"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-26T17:08:52.961Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_029",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Popular choice: Hakka Noodles made with premium ingredients.",
+    "price": 253,
+    "discountPercent": 15,
+    "finalPrice": 215,
+    "rating": 4.7,
+    "totalRatings": 935,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_005_029.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "manchurian",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-16T18:53:57.818Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_030",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Popular choice: Schezwan Fried Rice made with premium ingredients.",
+    "price": 390,
+    "discountPercent": 13,
+    "finalPrice": 339,
+    "rating": 4.8,
+    "totalRatings": 1188,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_005_030.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "soup",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-28T05:00:01.787Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_031",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Chef's special chilli paneer — perfect for a satisfying meal.",
+    "price": 661,
+    "discountPercent": 20,
+    "finalPrice": 529,
+    "rating": 4.4,
+    "totalRatings": 1145,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_031.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "soup",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-15T13:04:34.931Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_032",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 759,
+    "discountPercent": 5,
+    "finalPrice": 721,
+    "rating": 4.3,
+    "totalRatings": 2268,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_032.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "manchurian",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-18T22:55:03.216Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_033",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Classic chilli paneer served hot and fresh.",
+    "price": 356,
+    "discountPercent": 36,
+    "finalPrice": 228,
+    "rating": 4.1,
+    "totalRatings": 265,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_033.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "soup",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-12T06:57:59.845Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_034",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Chef's special spring rolls — perfect for a satisfying meal.",
+    "price": 722,
+    "discountPercent": 6,
+    "finalPrice": 679,
+    "rating": 4.1,
+    "totalRatings": 3418,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_005_034.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "noodles",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-09T19:31:43.699Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_035",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 192,
+    "discountPercent": 8,
+    "finalPrice": 177,
+    "rating": 4.3,
+    "totalRatings": 3785,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_035.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "fried-rice",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-06T02:50:02.640Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_036",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Delicious chilli paneer prepared fresh with authentic spices.",
+    "price": 451,
+    "discountPercent": 35,
+    "finalPrice": 293,
+    "rating": 4.8,
+    "totalRatings": 3254,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_036.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "noodles",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-24T20:10:54.623Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_037",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Popular choice: Chilli Paneer made with premium ingredients.",
+    "price": 421,
+    "discountPercent": 0,
+    "finalPrice": 421,
+    "rating": 4.5,
+    "totalRatings": 4352,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_037.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "noodles",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-23T08:11:30.841Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_038",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 522,
+    "discountPercent": 33,
+    "finalPrice": 350,
+    "rating": 3.9,
+    "totalRatings": 4197,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_038.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "soup",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-02T06:29:14.793Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_039",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Classic hakka noodles served hot and fresh.",
+    "price": 561,
+    "discountPercent": 2,
+    "finalPrice": 550,
+    "rating": 3.8,
+    "totalRatings": 3742,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_005_039.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "dim-sum",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-16T13:58:20.062Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_040",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Popular choice: Schezwan Fried Rice made with premium ingredients.",
+    "price": 866,
+    "discountPercent": 20,
+    "finalPrice": 693,
+    "rating": 4.7,
+    "totalRatings": 4793,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_005_040.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "dim-sum",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-01T08:24:26.760Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_041",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Delicious kung pao chicken prepared fresh with authentic spices.",
+    "price": 135,
+    "discountPercent": 13,
+    "finalPrice": 117,
+    "rating": 3.9,
+    "totalRatings": 2401,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_041.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "dim-sum",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-22T20:17:02.516Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_042",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Popular choice: Hot & Sour Soup made with premium ingredients.",
+    "price": 550,
+    "discountPercent": 20,
+    "finalPrice": 440,
+    "rating": 3.7,
+    "totalRatings": 1529,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_005_042.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "manchurian",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-10T06:45:52.127Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_043",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Popular choice: Kung Pao Chicken made with premium ingredients.",
+    "price": 495,
+    "discountPercent": 19,
+    "finalPrice": 401,
+    "rating": 3.6,
+    "totalRatings": 753,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_043.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "manchurian",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-21T06:51:58.539Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_044",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Chef's special chilli paneer — perfect for a satisfying meal.",
+    "price": 511,
+    "discountPercent": 15,
+    "finalPrice": 434,
+    "rating": 3.7,
+    "totalRatings": 2135,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_044.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "fried-rice",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-13T03:16:55.907Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_045",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Delicious veg manchurian prepared fresh with authentic spices.",
+    "price": 92,
+    "discountPercent": 10,
+    "finalPrice": 83,
+    "rating": 4.5,
+    "totalRatings": 3883,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_045.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "dim-sum",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-08T20:26:53.998Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_046",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Chef's special chilli paneer — perfect for a satisfying meal.",
+    "price": 146,
+    "discountPercent": 6,
+    "finalPrice": 137,
+    "rating": 3.6,
+    "totalRatings": 2237,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_046.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "manchurian",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-23T04:25:50.627Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_047",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Classic schezwan fried rice served hot and fresh.",
+    "price": 463,
+    "discountPercent": 35,
+    "finalPrice": 301,
+    "rating": 4.8,
+    "totalRatings": 3810,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_005_047.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "dim-sum",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-06T00:10:01.979Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_048",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Chef's special hakka noodles — perfect for a satisfying meal.",
+    "price": 300,
+    "discountPercent": 16,
+    "finalPrice": 252,
+    "rating": 4,
+    "totalRatings": 371,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_005_048.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "manchurian",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-20T17:00:15.640Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_049",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Chef's special hakka noodles — perfect for a satisfying meal.",
+    "price": 104,
+    "discountPercent": 35,
+    "finalPrice": 68,
+    "rating": 4.5,
+    "totalRatings": 1459,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_005_049.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "dim-sum",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-27T23:25:35.290Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_050",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Delicious chilli paneer prepared fresh with authentic spices.",
+    "price": 420,
+    "discountPercent": 34,
+    "finalPrice": 277,
+    "rating": 4.1,
+    "totalRatings": 4835,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_050.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "soup",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-06T05:04:54.900Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_051",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 569,
+    "discountPercent": 2,
+    "finalPrice": 558,
+    "rating": 3.6,
+    "totalRatings": 1113,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_005_051.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "manchurian",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-14T08:38:15.888Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_052",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Delicious spring rolls prepared fresh with authentic spices.",
+    "price": 725,
+    "discountPercent": 10,
+    "finalPrice": 653,
+    "rating": 4.8,
+    "totalRatings": 818,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_005_052.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "manchurian",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-25T21:21:48.865Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_053",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Popular choice: Kung Pao Chicken made with premium ingredients.",
+    "price": 488,
+    "discountPercent": 24,
+    "finalPrice": 371,
+    "rating": 3.6,
+    "totalRatings": 2996,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_053.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "fried-rice",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-17T13:40:13.500Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_054",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Delicious veg manchurian prepared fresh with authentic spices.",
+    "price": 871,
+    "discountPercent": 24,
+    "finalPrice": 662,
+    "rating": 3.5,
+    "totalRatings": 4156,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_054.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-24T15:38:02.077Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_055",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Delicious hot & sour soup prepared fresh with authentic spices.",
+    "price": 499,
+    "discountPercent": 12,
+    "finalPrice": 439,
+    "rating": 3.8,
+    "totalRatings": 1380,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_005_055.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "dim-sum",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-21T14:44:53.144Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_056",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Delicious chilli paneer prepared fresh with authentic spices.",
+    "price": 328,
+    "discountPercent": 17,
+    "finalPrice": 272,
+    "rating": 4.5,
+    "totalRatings": 4193,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_056.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "noodles",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-27T18:52:40.978Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_057",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Popular choice: Hot & Sour Soup made with premium ingredients.",
+    "price": 860,
+    "discountPercent": 38,
+    "finalPrice": 533,
+    "rating": 4.9,
+    "totalRatings": 3996,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_005_057.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "dim-sum",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-24T19:09:20.009Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_058",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Chef's special hot & sour soup — perfect for a satisfying meal.",
+    "price": 588,
+    "discountPercent": 28,
+    "finalPrice": 423,
+    "rating": 4.6,
+    "totalRatings": 1793,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_005_058.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "dim-sum",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-23T22:27:45.824Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_059",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Chef's special schezwan fried rice — perfect for a satisfying meal.",
+    "price": 684,
+    "discountPercent": 32,
+    "finalPrice": 465,
+    "rating": 3.7,
+    "totalRatings": 2908,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_005_059.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "soup",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-05T00:40:40.102Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_060",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Classic veg manchurian served hot and fresh.",
+    "price": 550,
+    "discountPercent": 27,
+    "finalPrice": 402,
+    "rating": 4.4,
+    "totalRatings": 2167,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_060.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "fried-rice",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-06T03:17:00.849Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_061",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 796,
+    "discountPercent": 29,
+    "finalPrice": 565,
+    "rating": 4,
+    "totalRatings": 3626,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_061.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "soup",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-20T01:12:43.167Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_062",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 530,
+    "discountPercent": 22,
+    "finalPrice": 413,
+    "rating": 4.3,
+    "totalRatings": 3507,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_062.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "noodles",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-26T05:14:43.019Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_063",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Delicious veg manchurian prepared fresh with authentic spices.",
+    "price": 714,
+    "discountPercent": 22,
+    "finalPrice": 557,
+    "rating": 4.3,
+    "totalRatings": 3805,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_063.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-30T11:15:26.451Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_064",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Classic hakka noodles served hot and fresh.",
+    "price": 840,
+    "discountPercent": 16,
+    "finalPrice": 706,
+    "rating": 4.4,
+    "totalRatings": 2655,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_005_064.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "manchurian",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-15T21:29:20.472Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_065",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Popular choice: Hot & Sour Soup made with premium ingredients.",
+    "price": 314,
+    "discountPercent": 27,
+    "finalPrice": 229,
+    "rating": 4.3,
+    "totalRatings": 3750,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_005_065.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-27T11:19:25.606Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_066",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 848,
+    "discountPercent": 34,
+    "finalPrice": 560,
+    "rating": 3.9,
+    "totalRatings": 1912,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_066.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-25T12:32:55.033Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_067",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Chef's special chilli paneer — perfect for a satisfying meal.",
+    "price": 615,
+    "discountPercent": 10,
+    "finalPrice": 554,
+    "rating": 3.9,
+    "totalRatings": 226,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_067.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "dim-sum",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-02T21:54:02.707Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_068",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 146,
+    "discountPercent": 6,
+    "finalPrice": 137,
+    "rating": 4.4,
+    "totalRatings": 4942,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_068.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-01T23:59:09.197Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_069",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 150,
+    "discountPercent": 18,
+    "finalPrice": 123,
+    "rating": 4.9,
+    "totalRatings": 4263,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_069.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "noodles",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-15T06:50:07.267Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_070",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Classic hot & sour soup served hot and fresh.",
+    "price": 140,
+    "discountPercent": 19,
+    "finalPrice": 113,
+    "rating": 4.5,
+    "totalRatings": 976,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_005_070.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "manchurian",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-10T16:18:40.261Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_071",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Classic hot & sour soup served hot and fresh.",
+    "price": 791,
+    "discountPercent": 6,
+    "finalPrice": 744,
+    "rating": 4.7,
+    "totalRatings": 4678,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_005_071.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "fried-rice",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-28T22:32:29.687Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_072",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Popular choice: Kung Pao Chicken made with premium ingredients.",
+    "price": 888,
+    "discountPercent": 34,
+    "finalPrice": 586,
+    "rating": 4.6,
+    "totalRatings": 1416,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_072.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "fried-rice",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-02T01:41:54.072Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_073",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Chef's special hot & sour soup — perfect for a satisfying meal.",
+    "price": 308,
+    "discountPercent": 39,
+    "finalPrice": 188,
+    "rating": 4.2,
+    "totalRatings": 3449,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_005_073.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "fried-rice",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-20T02:13:01.634Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_074",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Delicious kung pao chicken prepared fresh with authentic spices.",
+    "price": 659,
+    "discountPercent": 16,
+    "finalPrice": 554,
+    "rating": 4.2,
+    "totalRatings": 521,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_074.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "soup",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-04T18:44:14.466Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_075",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Delicious veg manchurian prepared fresh with authentic spices.",
+    "price": 882,
+    "discountPercent": 24,
+    "finalPrice": 670,
+    "rating": 4.2,
+    "totalRatings": 3111,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_075.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "dim-sum",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-18T11:04:23.852Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_076",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Delicious kung pao chicken prepared fresh with authentic spices.",
+    "price": 876,
+    "discountPercent": 37,
+    "finalPrice": 552,
+    "rating": 4.8,
+    "totalRatings": 468,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_076.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "soup",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-29T09:19:02.403Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_077",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 708,
+    "discountPercent": 20,
+    "finalPrice": 566,
+    "rating": 3.6,
+    "totalRatings": 1429,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_077.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "dim-sum",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-25T03:21:18.321Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_078",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Classic schezwan fried rice served hot and fresh.",
+    "price": 584,
+    "discountPercent": 18,
+    "finalPrice": 479,
+    "rating": 3.5,
+    "totalRatings": 2308,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_005_078.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "noodles",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-06-05T10:57:09.343Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_079",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 608,
+    "discountPercent": 0,
+    "finalPrice": 608,
+    "rating": 4.9,
+    "totalRatings": 4511,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_079.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "soup",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-08T11:15:52.493Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_080",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Classic chilli paneer served hot and fresh.",
+    "price": 508,
+    "discountPercent": 31,
+    "finalPrice": 351,
+    "rating": 4.2,
+    "totalRatings": 1348,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_080.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "noodles",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-13T11:34:28.066Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_081",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Popular choice: Spring Rolls made with premium ingredients.",
+    "price": 107,
+    "discountPercent": 17,
+    "finalPrice": 89,
+    "rating": 4.6,
+    "totalRatings": 1705,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_005_081.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "soup",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-05T02:52:15.422Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_082",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 403,
+    "discountPercent": 18,
+    "finalPrice": 330,
+    "rating": 4.6,
+    "totalRatings": 2029,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_005_082.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "fried-rice",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-10T15:01:14.254Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_083",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Classic veg manchurian served hot and fresh.",
+    "price": 332,
+    "discountPercent": 30,
+    "finalPrice": 232,
+    "rating": 4.7,
+    "totalRatings": 1902,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_083.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "soup",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-19T18:19:09.398Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_084",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Popular choice: Hakka Noodles made with premium ingredients.",
+    "price": 312,
+    "discountPercent": 8,
+    "finalPrice": 287,
+    "rating": 3.8,
+    "totalRatings": 3047,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_005_084.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "manchurian",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-24T15:20:42.458Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_085",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Classic chilli paneer served hot and fresh.",
+    "price": 168,
+    "discountPercent": 4,
+    "finalPrice": 161,
+    "rating": 4.1,
+    "totalRatings": 4493,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_085.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "fried-rice",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-25T05:04:11.071Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_086",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Delicious veg manchurian prepared fresh with authentic spices.",
+    "price": 103,
+    "discountPercent": 38,
+    "finalPrice": 64,
+    "rating": 4.2,
+    "totalRatings": 4967,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_086.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "dim-sum",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-16T17:21:05.615Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_087",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Popular choice: Veg Manchurian made with premium ingredients.",
+    "price": 298,
+    "discountPercent": 19,
+    "finalPrice": 241,
+    "rating": 4.3,
+    "totalRatings": 3551,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_087.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "soup",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-09T11:16:46.643Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_088",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 746,
+    "discountPercent": 13,
+    "finalPrice": 649,
+    "rating": 3.5,
+    "totalRatings": 3938,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_088.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-25T06:38:26.617Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_089",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Delicious veg manchurian prepared fresh with authentic spices.",
+    "price": 456,
+    "discountPercent": 35,
+    "finalPrice": 296,
+    "rating": 3.6,
+    "totalRatings": 1066,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_089.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "dim-sum",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-11T18:52:10.193Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_090",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Popular choice: Hakka Noodles made with premium ingredients.",
+    "price": 626,
+    "discountPercent": 25,
+    "finalPrice": 470,
+    "rating": 4.5,
+    "totalRatings": 1594,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_005_090.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "dim-sum",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-29T11:29:49.938Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_091",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Popular choice: Veg Manchurian made with premium ingredients.",
+    "price": 106,
+    "discountPercent": 40,
+    "finalPrice": 64,
+    "rating": 3.6,
+    "totalRatings": 933,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_091.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-07T01:17:09.480Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_092",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 606,
+    "discountPercent": 16,
+    "finalPrice": 509,
+    "rating": 4.3,
+    "totalRatings": 2095,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_005_092.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "manchurian",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-29T22:09:38.479Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_093",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Classic chilli paneer served hot and fresh.",
+    "price": 641,
+    "discountPercent": 29,
+    "finalPrice": 455,
+    "rating": 3.7,
+    "totalRatings": 3420,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_093.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "manchurian",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-13T08:03:30.149Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_094",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Popular choice: Hot & Sour Soup made with premium ingredients.",
+    "price": 158,
+    "discountPercent": 5,
+    "finalPrice": 150,
+    "rating": 4.8,
+    "totalRatings": 3014,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_005_094.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "manchurian",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-27T00:32:45.032Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_095",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Popular choice: Hakka Noodles made with premium ingredients.",
+    "price": 481,
+    "discountPercent": 17,
+    "finalPrice": 399,
+    "rating": 3.8,
+    "totalRatings": 706,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_005_095.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "dim-sum",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-16T15:53:19.382Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_096",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Classic veg manchurian served hot and fresh.",
+    "price": 818,
+    "discountPercent": 28,
+    "finalPrice": 589,
+    "rating": 4,
+    "totalRatings": 3591,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_096.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "soup",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-22T21:35:43.185Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_097",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Classic veg manchurian served hot and fresh.",
+    "price": 814,
+    "discountPercent": 16,
+    "finalPrice": 684,
+    "rating": 4.8,
+    "totalRatings": 664,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_005_097.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "soup",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-13T01:42:57.518Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_098",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 693,
+    "discountPercent": 10,
+    "finalPrice": 624,
+    "rating": 4,
+    "totalRatings": 2635,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_005_098.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "fried-rice",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-23T15:12:58.324Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_099",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Delicious chilli paneer prepared fresh with authentic spices.",
+    "price": 180,
+    "discountPercent": 29,
+    "finalPrice": 128,
+    "rating": 4.4,
+    "totalRatings": 3361,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_005_099.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "manchurian",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-12T07:56:00.139Z"
+  },
+  {
+    "id": "product_vendor_bangalore_005_100",
+    "vendorId": "vendor_bangalore_005",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Delicious schezwan fried rice prepared fresh with authentic spices.",
+    "price": 745,
+    "discountPercent": 40,
+    "finalPrice": 447,
+    "rating": 4.9,
+    "totalRatings": 654,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_005_100.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "fried-rice",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-24T11:32:45.854Z"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "id": "product_vendor_delhi_001_001",
+  "vendorId": "vendor_delhi_001",
+  "type": "food",
+  "name": "Paneer Butter Masala",
+  "description": "Creamy tomato gravy with paneer cubes.",
+  "price": 299,
+  "discountPercent": 15,
+  "finalPrice": 254,
+  "rating": 4.5,
+  "totalRatings": 550,
+  "category": "north-indian",
+  "subCategory": "paneer",
+  "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_delhi_001_001.webp",
+  "tags": ["north-indian", "paneer", "veg", "paneer", "butter", "masala"],
+  "searchKeywords": ["paneer", "butter", "masala", "north-indian", "paneer butter masala"],
+  "staticData": {
+    "veg": true,
+    "spicyLevel": "medium",
+    "unit": "plate"
+  },
+  "createdAt": "2024-08-01T08:00:00.000Z"
+}

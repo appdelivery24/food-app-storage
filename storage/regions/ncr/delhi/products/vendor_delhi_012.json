@@ -1,0 +1,3603 @@
+[
+  {
+    "id": "product_vendor_delhi_012_001",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 834,
+    "discountPercent": 0,
+    "finalPrice": 834,
+    "rating": 3.8,
+    "totalRatings": 1074,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_delhi_012_001.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-03T19:42:27.662Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_002",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Chef's special chole bhature — perfect for a satisfying meal.",
+    "price": 869,
+    "discountPercent": 24,
+    "finalPrice": 660,
+    "rating": 4.4,
+    "totalRatings": 62,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_delhi_012_002.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "roti",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-20T03:39:46.783Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_003",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 868,
+    "discountPercent": 26,
+    "finalPrice": 642,
+    "rating": 4.8,
+    "totalRatings": 2888,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_delhi_012_003.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "burger",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-19T07:58:58.303Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_004",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Classic rajma chawal served hot and fresh.",
+    "price": 357,
+    "discountPercent": 9,
+    "finalPrice": 325,
+    "rating": 3.7,
+    "totalRatings": 242,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_delhi_012_004.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "biryani",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-20T02:41:03.729Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_005",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 148,
+    "discountPercent": 8,
+    "finalPrice": 136,
+    "rating": 3.8,
+    "totalRatings": 200,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-26T06:23:17.561Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_006",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Rajma Chawal",
+    "description": "Popular choice: Rajma Chawal made with premium ingredients.",
+    "price": 156,
+    "discountPercent": 21,
+    "finalPrice": 123,
+    "rating": 3.9,
+    "totalRatings": 4307,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/rajma-chawal/product_vendor_delhi_012_006.webp",
+    "imageSlug": "rajma-chawal",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "rajma",
+      "chawal"
+    ],
+    "searchKeywords": [
+      "rajma",
+      "chawal",
+      "north-indian",
+      "paneer",
+      "rajma chawal"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-27T16:06:43.975Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_007",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Chef's special dal makhani — perfect for a satisfying meal.",
+    "price": 522,
+    "discountPercent": 29,
+    "finalPrice": 371,
+    "rating": 4.3,
+    "totalRatings": 2923,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_delhi_012_007.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "roti",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-14T22:29:55.943Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_008",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Popular choice: Grilled Chicken Salad made with premium ingredients.",
+    "price": 300,
+    "discountPercent": 39,
+    "finalPrice": 183,
+    "rating": 4.7,
+    "totalRatings": 1106,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_012_008.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-25T08:26:07.824Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_009",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 439,
+    "discountPercent": 31,
+    "finalPrice": 303,
+    "rating": 4.8,
+    "totalRatings": 1354,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_delhi_012_009.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-04T19:18:31.711Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_010",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 208,
+    "discountPercent": 32,
+    "finalPrice": 141,
+    "rating": 3.9,
+    "totalRatings": 3132,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_012_010.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-20T16:59:02.244Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_011",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Delicious butter chicken prepared fresh with authentic spices.",
+    "price": 838,
+    "discountPercent": 9,
+    "finalPrice": 763,
+    "rating": 4.8,
+    "totalRatings": 604,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_delhi_012_011.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "dal",
+      "non-veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "dal",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-20T20:03:45.970Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_012",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 276,
+    "discountPercent": 12,
+    "finalPrice": 243,
+    "rating": 4.6,
+    "totalRatings": 2512,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_012_012.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-09T03:58:55.269Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_013",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 370,
+    "discountPercent": 25,
+    "finalPrice": 278,
+    "rating": 4.6,
+    "totalRatings": 1246,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_012_013.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-04T18:40:08.893Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_014",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 625,
+    "discountPercent": 35,
+    "finalPrice": 406,
+    "rating": 4.8,
+    "totalRatings": 440,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_012_014.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-11T14:33:23.789Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_015",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Popular choice: Garlic Bread made with premium ingredients.",
+    "price": 269,
+    "discountPercent": 39,
+    "finalPrice": 164,
+    "rating": 3.8,
+    "totalRatings": 1774,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_delhi_012_015.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "burger",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-28T23:40:01.937Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_016",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 344,
+    "discountPercent": 8,
+    "finalPrice": 316,
+    "rating": 4,
+    "totalRatings": 375,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_016.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-29T17:44:18.932Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_017",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 732,
+    "discountPercent": 4,
+    "finalPrice": 703,
+    "rating": 4.8,
+    "totalRatings": 2791,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_017.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-25T07:00:47.781Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_018",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 732,
+    "discountPercent": 22,
+    "finalPrice": 571,
+    "rating": 4.4,
+    "totalRatings": 1078,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_018.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-09T02:48:32.775Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_019",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 383,
+    "discountPercent": 9,
+    "finalPrice": 349,
+    "rating": 3.9,
+    "totalRatings": 1519,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_019.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-30T10:49:17.896Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_020",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 339,
+    "discountPercent": 4,
+    "finalPrice": 325,
+    "rating": 3.9,
+    "totalRatings": 233,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_012_020.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-28T08:58:39.687Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_021",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 733,
+    "discountPercent": 32,
+    "finalPrice": 498,
+    "rating": 3.9,
+    "totalRatings": 809,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_021.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-13T18:46:23.386Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_022",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 505,
+    "discountPercent": 32,
+    "finalPrice": 343,
+    "rating": 4.4,
+    "totalRatings": 2515,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_012_022.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-02T12:13:52.625Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_023",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 126,
+    "discountPercent": 20,
+    "finalPrice": 101,
+    "rating": 4.1,
+    "totalRatings": 118,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_012_023.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-05T07:08:37.704Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_024",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Chef's special malai kofta — perfect for a satisfying meal.",
+    "price": 874,
+    "discountPercent": 14,
+    "finalPrice": 752,
+    "rating": 4.8,
+    "totalRatings": 1181,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_delhi_012_024.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "thali",
+      "non-veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "thali",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-31T15:02:27.175Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_025",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 339,
+    "discountPercent": 18,
+    "finalPrice": 278,
+    "rating": 4.2,
+    "totalRatings": 3268,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_012_025.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-27T13:12:55.216Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_026",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 603,
+    "discountPercent": 11,
+    "finalPrice": 537,
+    "rating": 4.1,
+    "totalRatings": 2004,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_delhi_012_026.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-25T11:24:27.099Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_027",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Classic butter chicken served hot and fresh.",
+    "price": 563,
+    "discountPercent": 36,
+    "finalPrice": 360,
+    "rating": 3.6,
+    "totalRatings": 1472,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_delhi_012_027.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "paneer",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-30T14:50:26.116Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_028",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Classic palak paneer served hot and fresh.",
+    "price": 858,
+    "discountPercent": 19,
+    "finalPrice": 695,
+    "rating": 4.7,
+    "totalRatings": 165,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_delhi_012_028.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "palak"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-31T13:27:10.774Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_029",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 90,
+    "discountPercent": 2,
+    "finalPrice": 88,
+    "rating": 4.2,
+    "totalRatings": 126,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_delhi_012_029.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-17T23:23:50.609Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_030",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 649,
+    "discountPercent": 37,
+    "finalPrice": 409,
+    "rating": 3.8,
+    "totalRatings": 3010,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_012_030.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-07T19:56:03.330Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_031",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 270,
+    "discountPercent": 37,
+    "finalPrice": 170,
+    "rating": 4.6,
+    "totalRatings": 2389,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_031.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-01T23:26:21.031Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_032",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Chef's special margherita pizza — perfect for a satisfying meal.",
+    "price": 782,
+    "discountPercent": 13,
+    "finalPrice": 680,
+    "rating": 4.8,
+    "totalRatings": 2992,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_delhi_012_032.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "burger",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-23T21:47:21.896Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_033",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 234,
+    "discountPercent": 29,
+    "finalPrice": 166,
+    "rating": 3.8,
+    "totalRatings": 2536,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_033.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-28T09:51:26.207Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_034",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 630,
+    "discountPercent": 21,
+    "finalPrice": 498,
+    "rating": 3.6,
+    "totalRatings": 3884,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_012_034.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-12T19:39:55.021Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_035",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Classic cheese burger served hot and fresh.",
+    "price": 588,
+    "discountPercent": 38,
+    "finalPrice": 365,
+    "rating": 3.7,
+    "totalRatings": 2678,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_delhi_012_035.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "fries",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-29T08:44:08.700Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_036",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Delicious dal makhani prepared fresh with authentic spices.",
+    "price": 303,
+    "discountPercent": 2,
+    "finalPrice": 297,
+    "rating": 3.9,
+    "totalRatings": 314,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_delhi_012_036.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "roti",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-18T10:27:20.020Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_037",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 764,
+    "discountPercent": 16,
+    "finalPrice": 642,
+    "rating": 4,
+    "totalRatings": 1204,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_012_037.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-07T05:01:46.061Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_038",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 543,
+    "discountPercent": 11,
+    "finalPrice": 483,
+    "rating": 4.1,
+    "totalRatings": 1381,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_012_038.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-18T16:38:45.525Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_039",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Chef's special french fries — perfect for a satisfying meal.",
+    "price": 402,
+    "discountPercent": 14,
+    "finalPrice": 346,
+    "rating": 4.5,
+    "totalRatings": 2202,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_delhi_012_039.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-08T02:28:06.550Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_040",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 644,
+    "discountPercent": 14,
+    "finalPrice": 554,
+    "rating": 3.7,
+    "totalRatings": 4082,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_012_040.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-28T10:13:57.266Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_041",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 635,
+    "discountPercent": 37,
+    "finalPrice": 400,
+    "rating": 3.7,
+    "totalRatings": 1037,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_012_041.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-02T19:06:17.868Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_042",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 495,
+    "discountPercent": 18,
+    "finalPrice": 406,
+    "rating": 4.8,
+    "totalRatings": 764,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_012_042.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-11T07:01:59.029Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_043",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 504,
+    "discountPercent": 17,
+    "finalPrice": 418,
+    "rating": 4.3,
+    "totalRatings": 2155,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_012_043.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-01T23:22:53.647Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_044",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 648,
+    "discountPercent": 7,
+    "finalPrice": 603,
+    "rating": 4.6,
+    "totalRatings": 3899,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_012_044.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-17T16:27:40.245Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_045",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 512,
+    "discountPercent": 15,
+    "finalPrice": 435,
+    "rating": 3.9,
+    "totalRatings": 2254,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_012_045.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-05T20:07:07.850Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_046",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 111,
+    "discountPercent": 35,
+    "finalPrice": 72,
+    "rating": 4.6,
+    "totalRatings": 4335,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_012_046.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-25T22:48:02.349Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_047",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 418,
+    "discountPercent": 18,
+    "finalPrice": 343,
+    "rating": 3.8,
+    "totalRatings": 2705,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_012_047.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-08T05:48:43.844Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_048",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Popular choice: Avocado Toast made with premium ingredients.",
+    "price": 594,
+    "discountPercent": 3,
+    "finalPrice": 576,
+    "rating": 3.5,
+    "totalRatings": 4149,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_012_048.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-03T03:55:47.612Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_049",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 358,
+    "discountPercent": 6,
+    "finalPrice": 337,
+    "rating": 4,
+    "totalRatings": 3036,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_012_049.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-07T18:35:43.693Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_050",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Chef's special malai kofta — perfect for a satisfying meal.",
+    "price": 224,
+    "discountPercent": 19,
+    "finalPrice": 181,
+    "rating": 4.7,
+    "totalRatings": 2295,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_delhi_012_050.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "dal",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "dal",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-11T06:03:44.091Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_051",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 836,
+    "discountPercent": 35,
+    "finalPrice": 543,
+    "rating": 4.6,
+    "totalRatings": 2821,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_012_051.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-18T04:33:30.655Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_052",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 394,
+    "discountPercent": 5,
+    "finalPrice": 374,
+    "rating": 4.4,
+    "totalRatings": 709,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_delhi_012_052.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-22T03:18:53.577Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_053",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Kadai Paneer",
+    "description": "Classic kadai paneer served hot and fresh.",
+    "price": 736,
+    "discountPercent": 35,
+    "finalPrice": 478,
+    "rating": 4.8,
+    "totalRatings": 3634,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/kadai-paneer/product_vendor_delhi_012_053.webp",
+    "imageSlug": "kadai-paneer",
+    "tags": [
+      "north-indian",
+      "thali",
+      "non-veg",
+      "kadai",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "kadai",
+      "paneer",
+      "north-indian",
+      "thali",
+      "kadai paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-15T18:38:17.817Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_054",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 873,
+    "discountPercent": 22,
+    "finalPrice": 681,
+    "rating": 3.6,
+    "totalRatings": 1239,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_054.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-17T06:33:24.604Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_055",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Delicious butter chicken prepared fresh with authentic spices.",
+    "price": 154,
+    "discountPercent": 36,
+    "finalPrice": 99,
+    "rating": 4.2,
+    "totalRatings": 701,
+    "category": "north-indian",
+    "subCategory": "thali",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_delhi_012_055.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "thali",
+      "veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "thali",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-08T02:00:45.050Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_056",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 457,
+    "discountPercent": 22,
+    "finalPrice": 356,
+    "rating": 4.8,
+    "totalRatings": 2151,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_056.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-15T18:28:03.980Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_057",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Palak Paneer",
+    "description": "Chef's special palak paneer — perfect for a satisfying meal.",
+    "price": 491,
+    "discountPercent": 19,
+    "finalPrice": 398,
+    "rating": 4.3,
+    "totalRatings": 1017,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/palak-paneer/product_vendor_delhi_012_057.webp",
+    "imageSlug": "palak-paneer",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "palak",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "palak",
+      "paneer",
+      "north-indian",
+      "roti",
+      "palak paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-12T10:46:01.482Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_058",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 675,
+    "discountPercent": 26,
+    "finalPrice": 500,
+    "rating": 4.1,
+    "totalRatings": 2385,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_012_058.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-08T03:34:15.534Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_059",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 424,
+    "discountPercent": 20,
+    "finalPrice": 339,
+    "rating": 3.9,
+    "totalRatings": 3491,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_012_059.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-27T20:16:48.860Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_060",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 512,
+    "discountPercent": 31,
+    "finalPrice": 353,
+    "rating": 4.4,
+    "totalRatings": 1216,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_delhi_012_060.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-10T10:23:41.658Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_061",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 564,
+    "discountPercent": 13,
+    "finalPrice": 491,
+    "rating": 4.8,
+    "totalRatings": 3744,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_012_061.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-21T13:15:03.630Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_062",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 626,
+    "discountPercent": 19,
+    "finalPrice": 507,
+    "rating": 4.2,
+    "totalRatings": 3277,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_delhi_012_062.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "sandwich",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-04T15:55:28.755Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_063",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Chef's special chole bhature — perfect for a satisfying meal.",
+    "price": 599,
+    "discountPercent": 38,
+    "finalPrice": 371,
+    "rating": 4.3,
+    "totalRatings": 3013,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_delhi_012_063.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "dal",
+      "veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "dal",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-28T14:29:23.617Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_064",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 420,
+    "discountPercent": 26,
+    "finalPrice": 311,
+    "rating": 3.7,
+    "totalRatings": 458,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-wrap/product_vendor_delhi_012_064.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "burger",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-20T17:48:33.676Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_065",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 193,
+    "discountPercent": 11,
+    "finalPrice": 172,
+    "rating": 4.7,
+    "totalRatings": 1881,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/garlic-bread/product_vendor_delhi_012_065.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "wrap",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-16T08:33:33.078Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_066",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 868,
+    "discountPercent": 17,
+    "finalPrice": 720,
+    "rating": 3.9,
+    "totalRatings": 343,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_066.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-13T09:45:18.253Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_067",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 549,
+    "discountPercent": 30,
+    "finalPrice": 384,
+    "rating": 3.9,
+    "totalRatings": 4781,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_012_067.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-17T18:52:19.934Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_068",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 284,
+    "discountPercent": 5,
+    "finalPrice": 270,
+    "rating": 4.1,
+    "totalRatings": 4845,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_068.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-23T09:37:24.651Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_069",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Dal Makhani",
+    "description": "Classic dal makhani served hot and fresh.",
+    "price": 264,
+    "discountPercent": 21,
+    "finalPrice": 209,
+    "rating": 4.7,
+    "totalRatings": 1572,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/dal-makhani/product_vendor_delhi_012_069.webp",
+    "imageSlug": "dal-makhani",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "dal",
+      "makhani"
+    ],
+    "searchKeywords": [
+      "dal",
+      "makhani",
+      "north-indian",
+      "paneer",
+      "dal makhani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-23T07:12:22.816Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_070",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 419,
+    "discountPercent": 22,
+    "finalPrice": 327,
+    "rating": 3.5,
+    "totalRatings": 1561,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_012_070.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-07T12:22:16.759Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_071",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Popular choice: Avocado Toast made with premium ingredients.",
+    "price": 760,
+    "discountPercent": 9,
+    "finalPrice": 692,
+    "rating": 4.7,
+    "totalRatings": 4362,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_delhi_012_071.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-10T12:29:03.975Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_072",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 856,
+    "discountPercent": 40,
+    "finalPrice": 514,
+    "rating": 4.7,
+    "totalRatings": 616,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/margherita-pizza/product_vendor_delhi_012_072.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "burger",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-13T11:30:14.450Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_073",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 615,
+    "discountPercent": 40,
+    "finalPrice": 369,
+    "rating": 4,
+    "totalRatings": 3303,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_012_073.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "pizza",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-11T21:21:10.517Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_074",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 778,
+    "discountPercent": 2,
+    "finalPrice": 762,
+    "rating": 4,
+    "totalRatings": 3151,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_012_074.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-27T09:11:32.584Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_075",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 666,
+    "discountPercent": 11,
+    "finalPrice": 593,
+    "rating": 4.1,
+    "totalRatings": 2360,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://cdn.myapp.com/products/french-fries/product_vendor_delhi_012_075.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "burger",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-23T15:57:54.105Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_076",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Delicious veg sandwich prepared fresh with authentic spices.",
+    "price": 379,
+    "discountPercent": 26,
+    "finalPrice": 280,
+    "rating": 3.9,
+    "totalRatings": 4231,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_012_076.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-11T20:57:51.883Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_077",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Classic chole bhature served hot and fresh.",
+    "price": 838,
+    "discountPercent": 6,
+    "finalPrice": 788,
+    "rating": 3.8,
+    "totalRatings": 73,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_delhi_012_077.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "kebab",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-17T21:41:02.448Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_078",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 459,
+    "discountPercent": 35,
+    "finalPrice": 298,
+    "rating": 4.8,
+    "totalRatings": 4194,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_078.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-23T21:30:40.390Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_079",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 181,
+    "discountPercent": 13,
+    "finalPrice": 157,
+    "rating": 3.7,
+    "totalRatings": 2739,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-tikka-pizza/product_vendor_delhi_012_079.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-17T13:47:05.683Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_080",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 851,
+    "discountPercent": 28,
+    "finalPrice": 613,
+    "rating": 3.9,
+    "totalRatings": 2200,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://cdn.myapp.com/products/cheese-burger/product_vendor_delhi_012_080.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-09T03:17:10.931Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_081",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Delicious butter chicken prepared fresh with authentic spices.",
+    "price": 817,
+    "discountPercent": 27,
+    "finalPrice": 596,
+    "rating": 4.3,
+    "totalRatings": 2409,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_delhi_012_081.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "dal",
+      "non-veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "dal",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-04T00:03:25.357Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_082",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Chef's special paneer butter masala — perfect for a satisfying meal.",
+    "price": 411,
+    "discountPercent": 38,
+    "finalPrice": 255,
+    "rating": 4.7,
+    "totalRatings": 1834,
+    "category": "north-indian",
+    "subCategory": "paneer",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_delhi_012_082.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "paneer",
+      "non-veg",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-23T07:02:07.516Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_083",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Classic butter chicken served hot and fresh.",
+    "price": 411,
+    "discountPercent": 23,
+    "finalPrice": 316,
+    "rating": 4,
+    "totalRatings": 1572,
+    "category": "north-indian",
+    "subCategory": "dal",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_delhi_012_083.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "dal",
+      "veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "dal",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-30T05:08:26.057Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_084",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Paneer Butter Masala",
+    "description": "Delicious paneer butter masala prepared fresh with authentic spices.",
+    "price": 448,
+    "discountPercent": 32,
+    "finalPrice": 305,
+    "rating": 4.3,
+    "totalRatings": 1017,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/paneer-butter-masala/product_vendor_delhi_012_084.webp",
+    "imageSlug": "paneer-butter-masala",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "paneer",
+      "butter",
+      "masala"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "butter",
+      "masala",
+      "north-indian",
+      "roti",
+      "paneer butter masala"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-24T12:17:10.391Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_085",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 520,
+    "discountPercent": 29,
+    "finalPrice": 369,
+    "rating": 4.4,
+    "totalRatings": 4174,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_012_085.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-07T04:52:19.510Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_086",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 381,
+    "discountPercent": 5,
+    "finalPrice": 362,
+    "rating": 3.9,
+    "totalRatings": 756,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_delhi_012_086.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-20T05:13:46.144Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_087",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 894,
+    "discountPercent": 15,
+    "finalPrice": 760,
+    "rating": 4.9,
+    "totalRatings": 4507,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_087.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-11T19:06:53.008Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_088",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 794,
+    "discountPercent": 28,
+    "finalPrice": 572,
+    "rating": 4.3,
+    "totalRatings": 1057,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_012_088.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-23T07:21:29.256Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_089",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 806,
+    "discountPercent": 35,
+    "finalPrice": 524,
+    "rating": 4.6,
+    "totalRatings": 2494,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_089.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-24T17:31:05.428Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_090",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Chole Bhature",
+    "description": "Popular choice: Chole Bhature made with premium ingredients.",
+    "price": 791,
+    "discountPercent": 20,
+    "finalPrice": 633,
+    "rating": 4.3,
+    "totalRatings": 3161,
+    "category": "north-indian",
+    "subCategory": "biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chole-bhature/product_vendor_delhi_012_090.webp",
+    "imageSlug": "chole-bhature",
+    "tags": [
+      "north-indian",
+      "biryani",
+      "non-veg",
+      "chole",
+      "bhature"
+    ],
+    "searchKeywords": [
+      "chole",
+      "bhature",
+      "north-indian",
+      "biryani",
+      "chole bhature"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-07T12:44:14.798Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_091",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 96,
+    "discountPercent": 35,
+    "finalPrice": 62,
+    "rating": 4,
+    "totalRatings": 2323,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_091.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-13T18:15:30.183Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_092",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 280,
+    "discountPercent": 0,
+    "finalPrice": 280,
+    "rating": 4.2,
+    "totalRatings": 4084,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_012_092.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "pizza",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-24T10:39:39.802Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_093",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Butter Chicken",
+    "description": "Classic butter chicken served hot and fresh.",
+    "price": 371,
+    "discountPercent": 39,
+    "finalPrice": 226,
+    "rating": 4.2,
+    "totalRatings": 629,
+    "category": "north-indian",
+    "subCategory": "kebab",
+    "imageUrl": "https://cdn.myapp.com/products/butter-chicken/product_vendor_delhi_012_093.webp",
+    "imageSlug": "butter-chicken",
+    "tags": [
+      "north-indian",
+      "kebab",
+      "non-veg",
+      "butter",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "butter",
+      "chicken",
+      "north-indian",
+      "kebab",
+      "butter chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-29T11:40:26.494Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_094",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 82,
+    "discountPercent": 14,
+    "finalPrice": 71,
+    "rating": 3.6,
+    "totalRatings": 2111,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_012_094.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-21T17:00:33.060Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_095",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 662,
+    "discountPercent": 38,
+    "finalPrice": 410,
+    "rating": 4.4,
+    "totalRatings": 3763,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_012_095.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-23T02:07:54.715Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_096",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 329,
+    "discountPercent": 27,
+    "finalPrice": 240,
+    "rating": 3.8,
+    "totalRatings": 4198,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_delhi_012_096.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-24T00:52:33.976Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_097",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 721,
+    "discountPercent": 39,
+    "finalPrice": 440,
+    "rating": 4.1,
+    "totalRatings": 2439,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://cdn.myapp.com/products/veg-sandwich/product_vendor_delhi_012_097.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "pizza",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-05T22:49:57.217Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_098",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 449,
+    "discountPercent": 28,
+    "finalPrice": 323,
+    "rating": 4,
+    "totalRatings": 837,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_delhi_012_098.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-19T10:50:12.092Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_099",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 284,
+    "discountPercent": 27,
+    "finalPrice": 207,
+    "rating": 3.8,
+    "totalRatings": 1199,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_delhi_012_099.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-18T09:40:31.270Z"
+  },
+  {
+    "id": "product_vendor_delhi_012_100",
+    "vendorId": "vendor_delhi_012",
+    "type": "food",
+    "name": "Malai Kofta",
+    "description": "Delicious malai kofta prepared fresh with authentic spices.",
+    "price": 274,
+    "discountPercent": 7,
+    "finalPrice": 255,
+    "rating": 4.3,
+    "totalRatings": 4018,
+    "category": "north-indian",
+    "subCategory": "roti",
+    "imageUrl": "https://cdn.myapp.com/products/malai-kofta/product_vendor_delhi_012_100.webp",
+    "imageSlug": "malai-kofta",
+    "tags": [
+      "north-indian",
+      "roti",
+      "veg",
+      "malai",
+      "kofta"
+    ],
+    "searchKeywords": [
+      "malai",
+      "kofta",
+      "north-indian",
+      "roti",
+      "malai kofta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-11T03:51:23.956Z"
+  }
+]

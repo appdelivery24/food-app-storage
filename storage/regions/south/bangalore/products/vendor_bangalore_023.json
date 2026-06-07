@@ -1,0 +1,3571 @@
+[
+  {
+    "id": "product_vendor_bangalore_023_001",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Classic buttermilk served hot and fresh.",
+    "price": 493,
+    "discountPercent": 22,
+    "finalPrice": 385,
+    "rating": 4.3,
+    "totalRatings": 1209,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_023_001.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-10T13:25:00.937Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_002",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 340,
+    "discountPercent": 17,
+    "finalPrice": 282,
+    "rating": 4.2,
+    "totalRatings": 1072,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_023_002.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "veg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-16T18:12:25.156Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_003",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Chef's special masala chai — perfect for a satisfying meal.",
+    "price": 270,
+    "discountPercent": 0,
+    "finalPrice": 270,
+    "rating": 4.6,
+    "totalRatings": 3696,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_023_003.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "lassi",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-13T05:27:20.353Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_004",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Popular choice: Egg Biryani made with premium ingredients.",
+    "price": 535,
+    "discountPercent": 15,
+    "finalPrice": 455,
+    "rating": 3.6,
+    "totalRatings": 4117,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_023_004.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "mutton-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-01T04:40:11.030Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_005",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Classic mutton biryani served hot and fresh.",
+    "price": 538,
+    "discountPercent": 25,
+    "finalPrice": 404,
+    "rating": 3.8,
+    "totalRatings": 353,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_023_005.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "chicken-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-02T18:21:00.220Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_006",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Classic spring rolls served hot and fresh.",
+    "price": 684,
+    "discountPercent": 18,
+    "finalPrice": 561,
+    "rating": 3.9,
+    "totalRatings": 2073,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_023_006.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "manchurian",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-05T02:34:40.622Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_007",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Popular choice: Mango Shake made with premium ingredients.",
+    "price": 764,
+    "discountPercent": 23,
+    "finalPrice": 588,
+    "rating": 4.6,
+    "totalRatings": 4013,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_023_007.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "coffee",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-27T05:20:24.157Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_008",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Chef's special lucknowi biryani — perfect for a satisfying meal.",
+    "price": 296,
+    "discountPercent": 24,
+    "finalPrice": 225,
+    "rating": 3.7,
+    "totalRatings": 2524,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_023_008.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "chicken-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-08T18:29:41.482Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_009",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Classic cold coffee served hot and fresh.",
+    "price": 157,
+    "discountPercent": 29,
+    "finalPrice": 111,
+    "rating": 4.2,
+    "totalRatings": 2983,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_023_009.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "tea",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-26T09:50:25.040Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_010",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Chef's special mango shake — perfect for a satisfying meal.",
+    "price": 340,
+    "discountPercent": 35,
+    "finalPrice": 221,
+    "rating": 3.9,
+    "totalRatings": 643,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_023_010.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "tea",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-12T20:26:59.694Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_011",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Chef's special veg biryani — perfect for a satisfying meal.",
+    "price": 628,
+    "discountPercent": 8,
+    "finalPrice": 578,
+    "rating": 3.6,
+    "totalRatings": 1386,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_023_011.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "mutton-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-03T22:24:28.788Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_012",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Delicious kung pao chicken prepared fresh with authentic spices.",
+    "price": 602,
+    "discountPercent": 1,
+    "finalPrice": 596,
+    "rating": 3.8,
+    "totalRatings": 1355,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_023_012.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "manchurian",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-05T19:33:29.206Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_013",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Chef's special mutton biryani — perfect for a satisfying meal.",
+    "price": 217,
+    "discountPercent": 3,
+    "finalPrice": 210,
+    "rating": 4.5,
+    "totalRatings": 634,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_023_013.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "chicken-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-23T09:29:55.447Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_014",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Delicious hyderabadi dum biryani prepared fresh with authentic spices.",
+    "price": 832,
+    "discountPercent": 27,
+    "finalPrice": 607,
+    "rating": 3.6,
+    "totalRatings": 215,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_023_014.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "mutton-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-17T07:16:33.363Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_015",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Delicious chicken biryani prepared fresh with authentic spices.",
+    "price": 759,
+    "discountPercent": 30,
+    "finalPrice": 531,
+    "rating": 3.8,
+    "totalRatings": 2780,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_023_015.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "egg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-25T12:38:30.263Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_016",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Delicious chilli paneer prepared fresh with authentic spices.",
+    "price": 184,
+    "discountPercent": 0,
+    "finalPrice": 184,
+    "rating": 4.7,
+    "totalRatings": 3464,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_023_016.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "dim-sum",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-23T19:49:25.601Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_017",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 560,
+    "discountPercent": 17,
+    "finalPrice": 465,
+    "rating": 3.9,
+    "totalRatings": 1801,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_023_017.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "soup",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-17T09:21:55.591Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_018",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Delicious hot & sour soup prepared fresh with authentic spices.",
+    "price": 205,
+    "discountPercent": 27,
+    "finalPrice": 150,
+    "rating": 4.7,
+    "totalRatings": 3448,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_023_018.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "manchurian",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-27T20:57:04.488Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_019",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Classic chicken biryani served hot and fresh.",
+    "price": 765,
+    "discountPercent": 2,
+    "finalPrice": 750,
+    "rating": 4.7,
+    "totalRatings": 3167,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_023_019.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-15T04:55:00.467Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_020",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Popular choice: Spring Rolls made with premium ingredients.",
+    "price": 166,
+    "discountPercent": 5,
+    "finalPrice": 158,
+    "rating": 4.3,
+    "totalRatings": 3889,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_023_020.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "manchurian",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-10T12:59:49.704Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_021",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Classic mutton biryani served hot and fresh.",
+    "price": 368,
+    "discountPercent": 21,
+    "finalPrice": 291,
+    "rating": 4.9,
+    "totalRatings": 4798,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_023_021.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "egg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-17T16:13:53.742Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_022",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Popular choice: Egg Biryani made with premium ingredients.",
+    "price": 336,
+    "discountPercent": 5,
+    "finalPrice": 319,
+    "rating": 4.8,
+    "totalRatings": 3177,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_023_022.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "egg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-23T16:29:41.929Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_023",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Egg Biryani",
+    "description": "Popular choice: Egg Biryani made with premium ingredients.",
+    "price": 236,
+    "discountPercent": 36,
+    "finalPrice": 151,
+    "rating": 4.1,
+    "totalRatings": 1684,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/egg-biryani/product_vendor_bangalore_023_023.webp",
+    "imageSlug": "egg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "egg"
+    ],
+    "searchKeywords": [
+      "egg",
+      "biryani",
+      "egg-biryani",
+      "egg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-02T00:10:46.215Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_024",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Popular choice: Kung Pao Chicken made with premium ingredients.",
+    "price": 261,
+    "discountPercent": 33,
+    "finalPrice": 175,
+    "rating": 4.6,
+    "totalRatings": 1213,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_023_024.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "fried-rice",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-26T01:05:19.046Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_025",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Delicious hyderabadi dum biryani prepared fresh with authentic spices.",
+    "price": 539,
+    "discountPercent": 19,
+    "finalPrice": 437,
+    "rating": 4,
+    "totalRatings": 444,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_023_025.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "non-veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "veg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-09T13:22:50.680Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_026",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Delicious lucknowi biryani prepared fresh with authentic spices.",
+    "price": 818,
+    "discountPercent": 5,
+    "finalPrice": 777,
+    "rating": 3.7,
+    "totalRatings": 2981,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_023_026.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "egg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-15T05:37:40.665Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_027",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Delicious strawberry smoothie prepared fresh with authentic spices.",
+    "price": 119,
+    "discountPercent": 19,
+    "finalPrice": 96,
+    "rating": 3.8,
+    "totalRatings": 3512,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_023_027.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "coffee",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-14T18:07:10.767Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_028",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Delicious strawberry smoothie prepared fresh with authentic spices.",
+    "price": 679,
+    "discountPercent": 19,
+    "finalPrice": 550,
+    "rating": 3.8,
+    "totalRatings": 4157,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_023_028.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "lassi",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-15T06:38:42.533Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_029",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Popular choice: Hot & Sour Soup made with premium ingredients.",
+    "price": 141,
+    "discountPercent": 35,
+    "finalPrice": 92,
+    "rating": 4.9,
+    "totalRatings": 1548,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_023_029.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "noodles",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-17T05:08:26.296Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_030",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Popular choice: Mango Shake made with premium ingredients.",
+    "price": 454,
+    "discountPercent": 7,
+    "finalPrice": 422,
+    "rating": 4,
+    "totalRatings": 118,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_023_030.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "juice",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-26T04:50:17.481Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_031",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Delicious mango shake prepared fresh with authentic spices.",
+    "price": 168,
+    "discountPercent": 11,
+    "finalPrice": 150,
+    "rating": 4,
+    "totalRatings": 2837,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_023_031.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "mango"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-12T00:46:18.203Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_032",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Lucknowi Biryani",
+    "description": "Popular choice: Lucknowi Biryani made with premium ingredients.",
+    "price": 420,
+    "discountPercent": 16,
+    "finalPrice": 353,
+    "rating": 4.8,
+    "totalRatings": 1238,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/lucknowi-biryani/product_vendor_bangalore_023_032.webp",
+    "imageSlug": "lucknowi-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "lucknowi"
+    ],
+    "searchKeywords": [
+      "lucknowi",
+      "biryani",
+      "veg-biryani",
+      "lucknowi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-27T14:33:32.110Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_033",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 423,
+    "discountPercent": 7,
+    "finalPrice": 393,
+    "rating": 4.1,
+    "totalRatings": 3199,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_023_033.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "fried-rice",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-21T00:47:18.964Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_034",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 86,
+    "discountPercent": 40,
+    "finalPrice": 52,
+    "rating": 4.8,
+    "totalRatings": 4506,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_023_034.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "noodles",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-05T10:39:19.562Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_035",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Popular choice: Veg Biryani made with premium ingredients.",
+    "price": 763,
+    "discountPercent": 13,
+    "finalPrice": 664,
+    "rating": 4.3,
+    "totalRatings": 3824,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_023_035.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "chicken-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-26T11:13:45.327Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_036",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Chef's special buttermilk — perfect for a satisfying meal.",
+    "price": 394,
+    "discountPercent": 0,
+    "finalPrice": 394,
+    "rating": 4.1,
+    "totalRatings": 2389,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_023_036.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-11T21:52:00.275Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_037",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Popular choice: Mutton Biryani made with premium ingredients.",
+    "price": 856,
+    "discountPercent": 20,
+    "finalPrice": 685,
+    "rating": 3.5,
+    "totalRatings": 4169,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_023_037.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "egg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-04T16:37:51.593Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_038",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Delicious fresh lime soda prepared fresh with authentic spices.",
+    "price": 773,
+    "discountPercent": 0,
+    "finalPrice": 773,
+    "rating": 4.1,
+    "totalRatings": 3167,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_023_038.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "juice",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-15T05:42:26.656Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_039",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Delicious hyderabadi dum biryani prepared fresh with authentic spices.",
+    "price": 258,
+    "discountPercent": 31,
+    "finalPrice": 178,
+    "rating": 3.7,
+    "totalRatings": 236,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_023_039.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "egg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-08T09:29:22.005Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_040",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Classic chicken biryani served hot and fresh.",
+    "price": 781,
+    "discountPercent": 23,
+    "finalPrice": 601,
+    "rating": 4.6,
+    "totalRatings": 2386,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_023_040.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "egg-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-13T08:08:30.356Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_041",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Delicious chilli paneer prepared fresh with authentic spices.",
+    "price": 383,
+    "discountPercent": 39,
+    "finalPrice": 234,
+    "rating": 4.6,
+    "totalRatings": 716,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_023_041.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "noodles",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-10T04:04:13.049Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_042",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Chef's special buttermilk — perfect for a satisfying meal.",
+    "price": 111,
+    "discountPercent": 23,
+    "finalPrice": 85,
+    "rating": 4,
+    "totalRatings": 3087,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_023_042.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "juice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-08T18:39:31.750Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_043",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Chef's special chicken biryani — perfect for a satisfying meal.",
+    "price": 352,
+    "discountPercent": 22,
+    "finalPrice": 275,
+    "rating": 4.2,
+    "totalRatings": 2549,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_023_043.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-06T04:20:52.998Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_044",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Chef's special mutton biryani — perfect for a satisfying meal.",
+    "price": 87,
+    "discountPercent": 22,
+    "finalPrice": 68,
+    "rating": 3.7,
+    "totalRatings": 3859,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_023_044.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "veg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-29T18:26:30.900Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_045",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Chef's special spring rolls — perfect for a satisfying meal.",
+    "price": 705,
+    "discountPercent": 31,
+    "finalPrice": 486,
+    "rating": 3.8,
+    "totalRatings": 4741,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_023_045.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "dim-sum",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-09T03:18:51.721Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_046",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Chef's special strawberry smoothie — perfect for a satisfying meal.",
+    "price": 420,
+    "discountPercent": 23,
+    "finalPrice": 323,
+    "rating": 3.7,
+    "totalRatings": 268,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_023_046.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "coffee",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-29T05:14:34.581Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_047",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Popular choice: Fresh Lime Soda made with premium ingredients.",
+    "price": 871,
+    "discountPercent": 38,
+    "finalPrice": 540,
+    "rating": 4.5,
+    "totalRatings": 112,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_023_047.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "juice",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-11T16:36:06.181Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_048",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Popular choice: Buttermilk made with premium ingredients.",
+    "price": 95,
+    "discountPercent": 26,
+    "finalPrice": 70,
+    "rating": 3.8,
+    "totalRatings": 1818,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_023_048.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "tea"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-02T06:07:28.444Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_049",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Popular choice: Mutton Biryani made with premium ingredients.",
+    "price": 846,
+    "discountPercent": 11,
+    "finalPrice": 753,
+    "rating": 4.1,
+    "totalRatings": 3315,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_023_049.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "non-veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "egg-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-12T03:56:38.036Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_050",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Classic hakka noodles served hot and fresh.",
+    "price": 145,
+    "discountPercent": 8,
+    "finalPrice": 133,
+    "rating": 3.7,
+    "totalRatings": 818,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_023_050.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "fried-rice",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-03T17:18:17.390Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_051",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Popular choice: Hyderabadi Dum Biryani made with premium ingredients.",
+    "price": 221,
+    "discountPercent": 36,
+    "finalPrice": 141,
+    "rating": 3.7,
+    "totalRatings": 2398,
+    "category": "biryani",
+    "subCategory": "veg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_023_051.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "veg-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "veg-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-23T02:47:27.871Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_052",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 149,
+    "discountPercent": 35,
+    "finalPrice": 97,
+    "rating": 3.7,
+    "totalRatings": 2036,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_023_052.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-15T03:55:36.319Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_053",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Popular choice: Fresh Lime Soda made with premium ingredients.",
+    "price": 364,
+    "discountPercent": 1,
+    "finalPrice": 360,
+    "rating": 4.3,
+    "totalRatings": 3035,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_023_053.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "coffee",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-07T09:43:13.237Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_054",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Chef's special fresh lime soda — perfect for a satisfying meal.",
+    "price": 161,
+    "discountPercent": 9,
+    "finalPrice": 147,
+    "rating": 4,
+    "totalRatings": 885,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_023_054.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "tea",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-18T02:50:30.129Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_055",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Classic hot & sour soup served hot and fresh.",
+    "price": 188,
+    "discountPercent": 5,
+    "finalPrice": 179,
+    "rating": 4.4,
+    "totalRatings": 1792,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_023_055.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "manchurian",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-21T22:19:10.618Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_056",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Chef's special buttermilk — perfect for a satisfying meal.",
+    "price": 113,
+    "discountPercent": 13,
+    "finalPrice": 98,
+    "rating": 3.7,
+    "totalRatings": 2581,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_023_056.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-18T15:14:41.909Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_057",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Delicious hakka noodles prepared fresh with authentic spices.",
+    "price": 733,
+    "discountPercent": 40,
+    "finalPrice": 440,
+    "rating": 4,
+    "totalRatings": 1549,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_023_057.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "soup",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-25T12:11:43.734Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_058",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Veg Biryani",
+    "description": "Delicious veg biryani prepared fresh with authentic spices.",
+    "price": 821,
+    "discountPercent": 17,
+    "finalPrice": 681,
+    "rating": 4.1,
+    "totalRatings": 4049,
+    "category": "biryani",
+    "subCategory": "egg-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/veg-biryani/product_vendor_bangalore_023_058.webp",
+    "imageSlug": "veg-biryani",
+    "tags": [
+      "biryani",
+      "egg-biryani",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "biryani",
+      "egg-biryani",
+      "veg biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-14T16:13:01.135Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_059",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Popular choice: Hyderabadi Dum Biryani made with premium ingredients.",
+    "price": 89,
+    "discountPercent": 0,
+    "finalPrice": 89,
+    "rating": 3.7,
+    "totalRatings": 4241,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-dum-biryani/product_vendor_bangalore_023_059.webp",
+    "imageSlug": "hyderabadi-dum-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "hyderabadi",
+      "dum"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "dum",
+      "biryani",
+      "mutton-biryani",
+      "hyderabadi dum biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-28T23:57:49.670Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_060",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Chef's special spring rolls — perfect for a satisfying meal.",
+    "price": 603,
+    "discountPercent": 20,
+    "finalPrice": 482,
+    "rating": 4.3,
+    "totalRatings": 53,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_023_060.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "noodles",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "noodles",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-17T09:55:18.011Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_061",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Classic buttermilk served hot and fresh.",
+    "price": 111,
+    "discountPercent": 33,
+    "finalPrice": 74,
+    "rating": 3.9,
+    "totalRatings": 1862,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_023_061.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "juice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-18T23:14:59.273Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_062",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Classic masala chai served hot and fresh.",
+    "price": 669,
+    "discountPercent": 1,
+    "finalPrice": 662,
+    "rating": 4.2,
+    "totalRatings": 559,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_023_062.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "tea",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-23T01:01:30.063Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_063",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Chef's special veg manchurian — perfect for a satisfying meal.",
+    "price": 453,
+    "discountPercent": 3,
+    "finalPrice": 439,
+    "rating": 4.9,
+    "totalRatings": 2635,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_023_063.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "fried-rice",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-03T21:18:30.057Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_064",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Chef's special masala chai — perfect for a satisfying meal.",
+    "price": 293,
+    "discountPercent": 34,
+    "finalPrice": 193,
+    "rating": 3.9,
+    "totalRatings": 643,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_023_064.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "shake",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-18T18:41:07.737Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_065",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Classic kung pao chicken served hot and fresh.",
+    "price": 105,
+    "discountPercent": 35,
+    "finalPrice": 68,
+    "rating": 4.6,
+    "totalRatings": 4371,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_023_065.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "manchurian",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-20T13:30:21.533Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_066",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Popular choice: Masala Chai made with premium ingredients.",
+    "price": 234,
+    "discountPercent": 34,
+    "finalPrice": 154,
+    "rating": 4.4,
+    "totalRatings": 3126,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_023_066.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "shake",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-20T04:36:28.024Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_067",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Chef's special hakka noodles — perfect for a satisfying meal.",
+    "price": 681,
+    "discountPercent": 17,
+    "finalPrice": 565,
+    "rating": 4.3,
+    "totalRatings": 954,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_023_067.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "soup",
+      "non-veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "soup",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-28T13:55:28.806Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_068",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Popular choice: Chicken Biryani made with premium ingredients.",
+    "price": 342,
+    "discountPercent": 9,
+    "finalPrice": 311,
+    "rating": 4.1,
+    "totalRatings": 1229,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_023_068.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-19T22:10:07.366Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_069",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Popular choice: Buttermilk made with premium ingredients.",
+    "price": 414,
+    "discountPercent": 18,
+    "finalPrice": 339,
+    "rating": 4.9,
+    "totalRatings": 3637,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_023_069.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "juice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-26T20:48:50.709Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_070",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Popular choice: Schezwan Fried Rice made with premium ingredients.",
+    "price": 288,
+    "discountPercent": 7,
+    "finalPrice": 268,
+    "rating": 3.7,
+    "totalRatings": 1213,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_023_070.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "soup",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-19T00:12:57.092Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_071",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Veg Manchurian",
+    "description": "Popular choice: Veg Manchurian made with premium ingredients.",
+    "price": 100,
+    "discountPercent": 29,
+    "finalPrice": 71,
+    "rating": 4.1,
+    "totalRatings": 1998,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/veg-manchurian/product_vendor_bangalore_023_071.webp",
+    "imageSlug": "veg-manchurian",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "manchurian"
+    ],
+    "searchKeywords": [
+      "veg",
+      "manchurian",
+      "chinese",
+      "noodles",
+      "veg manchurian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-10T19:06:33.101Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_072",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Chef's special hot & sour soup — perfect for a satisfying meal.",
+    "price": 408,
+    "discountPercent": 12,
+    "finalPrice": 359,
+    "rating": 4.2,
+    "totalRatings": 4419,
+    "category": "chinese",
+    "subCategory": "noodles",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_023_072.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "noodles",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "noodles",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-26T21:54:38.914Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_073",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Popular choice: Chilli Paneer made with premium ingredients.",
+    "price": 769,
+    "discountPercent": 5,
+    "finalPrice": 731,
+    "rating": 4.8,
+    "totalRatings": 2769,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_023_073.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "dim-sum",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-21T19:24:59.275Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_074",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Chef's special mango shake — perfect for a satisfying meal.",
+    "price": 840,
+    "discountPercent": 18,
+    "finalPrice": 689,
+    "rating": 3.7,
+    "totalRatings": 2986,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_023_074.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "lassi",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-04T16:05:56.336Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_075",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Delicious schezwan fried rice prepared fresh with authentic spices.",
+    "price": 351,
+    "discountPercent": 29,
+    "finalPrice": 249,
+    "rating": 4.7,
+    "totalRatings": 3499,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_023_075.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "manchurian",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-14T09:33:52.215Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_076",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Chef's special buttermilk — perfect for a satisfying meal.",
+    "price": 621,
+    "discountPercent": 10,
+    "finalPrice": 559,
+    "rating": 3.7,
+    "totalRatings": 989,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_023_076.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "tea"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-22T12:48:07.497Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_077",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Delicious mango shake prepared fresh with authentic spices.",
+    "price": 816,
+    "discountPercent": 7,
+    "finalPrice": 759,
+    "rating": 3.8,
+    "totalRatings": 4339,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_023_077.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "tea",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-26T10:27:10.908Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_078",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Classic masala chai served hot and fresh.",
+    "price": 451,
+    "discountPercent": 2,
+    "finalPrice": 442,
+    "rating": 4.4,
+    "totalRatings": 2762,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_023_078.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "tea",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-22T11:45:04.036Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_079",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Popular choice: Mango Shake made with premium ingredients.",
+    "price": 148,
+    "discountPercent": 4,
+    "finalPrice": 142,
+    "rating": 3.8,
+    "totalRatings": 2144,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_023_079.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "lassi",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-05T19:35:28.474Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_080",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Delicious fresh lime soda prepared fresh with authentic spices.",
+    "price": 515,
+    "discountPercent": 2,
+    "finalPrice": 505,
+    "rating": 4.8,
+    "totalRatings": 4270,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_023_080.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "lassi",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "lassi",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-26T12:51:05.598Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_081",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Popular choice: Mango Shake made with premium ingredients.",
+    "price": 105,
+    "discountPercent": 19,
+    "finalPrice": 85,
+    "rating": 3.7,
+    "totalRatings": 2511,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_023_081.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "juice",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-03T13:27:15.360Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_082",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Popular choice: Buttermilk made with premium ingredients.",
+    "price": 564,
+    "discountPercent": 33,
+    "finalPrice": 378,
+    "rating": 3.8,
+    "totalRatings": 3560,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/buttermilk/product_vendor_bangalore_023_082.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-08T06:02:49.833Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_083",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Chef's special cold coffee — perfect for a satisfying meal.",
+    "price": 112,
+    "discountPercent": 28,
+    "finalPrice": 81,
+    "rating": 4.4,
+    "totalRatings": 15,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_023_083.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "tea",
+      "non-veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "tea",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-21T09:14:15.292Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_084",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Hakka Noodles",
+    "description": "Popular choice: Hakka Noodles made with premium ingredients.",
+    "price": 862,
+    "discountPercent": 17,
+    "finalPrice": 715,
+    "rating": 4.8,
+    "totalRatings": 3586,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/hakka-noodles/product_vendor_bangalore_023_084.webp",
+    "imageSlug": "hakka-noodles",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "hakka",
+      "noodles"
+    ],
+    "searchKeywords": [
+      "hakka",
+      "noodles",
+      "chinese",
+      "soup",
+      "hakka noodles"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-09T04:05:13.628Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_085",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Chicken Biryani",
+    "description": "Delicious chicken biryani prepared fresh with authentic spices.",
+    "price": 167,
+    "discountPercent": 15,
+    "finalPrice": 142,
+    "rating": 4.3,
+    "totalRatings": 3077,
+    "category": "biryani",
+    "subCategory": "chicken-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/chicken-biryani/product_vendor_bangalore_023_085.webp",
+    "imageSlug": "chicken-biryani",
+    "tags": [
+      "biryani",
+      "chicken-biryani",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "biryani",
+      "chicken-biryani",
+      "chicken biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-09T06:10:03.293Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_086",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Popular choice: Schezwan Fried Rice made with premium ingredients.",
+    "price": 532,
+    "discountPercent": 22,
+    "finalPrice": 415,
+    "rating": 4.6,
+    "totalRatings": 4499,
+    "category": "chinese",
+    "subCategory": "soup",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_023_086.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "soup",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "soup",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-16T21:23:58.503Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_087",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Classic schezwan fried rice served hot and fresh.",
+    "price": 205,
+    "discountPercent": 22,
+    "finalPrice": 160,
+    "rating": 4.2,
+    "totalRatings": 946,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_023_087.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "manchurian",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-09T23:07:17.975Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_088",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Chilli Paneer",
+    "description": "Chef's special chilli paneer — perfect for a satisfying meal.",
+    "price": 546,
+    "discountPercent": 13,
+    "finalPrice": 475,
+    "rating": 4.2,
+    "totalRatings": 3152,
+    "category": "chinese",
+    "subCategory": "dim-sum",
+    "imageUrl": "https://cdn.myapp.com/products/chilli-paneer/product_vendor_bangalore_023_088.webp",
+    "imageSlug": "chilli-paneer",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "non-veg",
+      "chilli",
+      "paneer"
+    ],
+    "searchKeywords": [
+      "chilli",
+      "paneer",
+      "chinese",
+      "dim-sum",
+      "chilli paneer"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-28T23:35:21.603Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_089",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Classic fresh lime soda served hot and fresh.",
+    "price": 649,
+    "discountPercent": 26,
+    "finalPrice": 480,
+    "rating": 4,
+    "totalRatings": 4507,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/fresh-lime-soda/product_vendor_bangalore_023_089.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "lassi",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-25T11:26:27.031Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_090",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Schezwan Fried Rice",
+    "description": "Popular choice: Schezwan Fried Rice made with premium ingredients.",
+    "price": 734,
+    "discountPercent": 30,
+    "finalPrice": 514,
+    "rating": 3.8,
+    "totalRatings": 2457,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/schezwan-fried-rice/product_vendor_bangalore_023_090.webp",
+    "imageSlug": "schezwan-fried-rice",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "schezwan",
+      "fried",
+      "rice"
+    ],
+    "searchKeywords": [
+      "schezwan",
+      "fried",
+      "rice",
+      "chinese",
+      "manchurian",
+      "schezwan fried rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-09T16:49:49.324Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_091",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Delicious spring rolls prepared fresh with authentic spices.",
+    "price": 489,
+    "discountPercent": 4,
+    "finalPrice": 469,
+    "rating": 3.8,
+    "totalRatings": 536,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_023_091.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "manchurian",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-23T16:54:35.639Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_092",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Classic masala chai served hot and fresh.",
+    "price": 174,
+    "discountPercent": 27,
+    "finalPrice": 127,
+    "rating": 4.4,
+    "totalRatings": 3344,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://cdn.myapp.com/products/masala-chai/product_vendor_bangalore_023_092.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "coffee",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-06-04T14:29:41.465Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_093",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Mutton Biryani",
+    "description": "Classic mutton biryani served hot and fresh.",
+    "price": 545,
+    "discountPercent": 33,
+    "finalPrice": 365,
+    "rating": 3.5,
+    "totalRatings": 3632,
+    "category": "biryani",
+    "subCategory": "mutton-biryani",
+    "imageUrl": "https://cdn.myapp.com/products/mutton-biryani/product_vendor_bangalore_023_093.webp",
+    "imageSlug": "mutton-biryani",
+    "tags": [
+      "biryani",
+      "mutton-biryani",
+      "veg",
+      "mutton"
+    ],
+    "searchKeywords": [
+      "mutton",
+      "biryani",
+      "mutton-biryani",
+      "mutton biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-28T01:47:21.453Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_094",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Kung Pao Chicken",
+    "description": "Chef's special kung pao chicken — perfect for a satisfying meal.",
+    "price": 343,
+    "discountPercent": 26,
+    "finalPrice": 254,
+    "rating": 4.4,
+    "totalRatings": 3769,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/kung-pao-chicken/product_vendor_bangalore_023_094.webp",
+    "imageSlug": "kung-pao-chicken",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "non-veg",
+      "kung",
+      "pao",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "kung",
+      "pao",
+      "chicken",
+      "chinese",
+      "fried-rice",
+      "kung pao chicken"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-28T12:53:41.452Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_095",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Hot & Sour Soup",
+    "description": "Chef's special hot & sour soup — perfect for a satisfying meal.",
+    "price": 625,
+    "discountPercent": 21,
+    "finalPrice": 494,
+    "rating": 3.9,
+    "totalRatings": 4004,
+    "category": "chinese",
+    "subCategory": "fried-rice",
+    "imageUrl": "https://cdn.myapp.com/products/hot-sour-soup/product_vendor_bangalore_023_095.webp",
+    "imageSlug": "hot-sour-soup",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veg",
+      "hot",
+      "&",
+      "sour"
+    ],
+    "searchKeywords": [
+      "hot",
+      "&",
+      "sour",
+      "soup",
+      "chinese",
+      "fried-rice",
+      "hot & sour soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-12T06:44:34.395Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_096",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 339,
+    "discountPercent": 9,
+    "finalPrice": 308,
+    "rating": 3.9,
+    "totalRatings": 4398,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://cdn.myapp.com/products/cold-coffee/product_vendor_bangalore_023_096.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "juice",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-10T20:52:13.410Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_097",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Classic strawberry smoothie served hot and fresh.",
+    "price": 328,
+    "discountPercent": 23,
+    "finalPrice": 253,
+    "rating": 4.6,
+    "totalRatings": 4452,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_023_097.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "lassi",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "lassi",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-18T18:10:02.716Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_098",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Chef's special mango shake — perfect for a satisfying meal.",
+    "price": 103,
+    "discountPercent": 30,
+    "finalPrice": 72,
+    "rating": 3.8,
+    "totalRatings": 1233,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://cdn.myapp.com/products/mango-shake/product_vendor_bangalore_023_098.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "tea",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-17T12:30:37.812Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_099",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Popular choice: Strawberry Smoothie made with premium ingredients.",
+    "price": 678,
+    "discountPercent": 2,
+    "finalPrice": 664,
+    "rating": 4.8,
+    "totalRatings": 282,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://cdn.myapp.com/products/strawberry-smoothie/product_vendor_bangalore_023_099.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "shake",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-01T06:40:01.028Z"
+  },
+  {
+    "id": "product_vendor_bangalore_023_100",
+    "vendorId": "vendor_bangalore_023",
+    "type": "food",
+    "name": "Spring Rolls",
+    "description": "Chef's special spring rolls — perfect for a satisfying meal.",
+    "price": 382,
+    "discountPercent": 40,
+    "finalPrice": 229,
+    "rating": 4.6,
+    "totalRatings": 1978,
+    "category": "chinese",
+    "subCategory": "manchurian",
+    "imageUrl": "https://cdn.myapp.com/products/spring-rolls/product_vendor_bangalore_023_100.webp",
+    "imageSlug": "spring-rolls",
+    "tags": [
+      "chinese",
+      "manchurian",
+      "non-veg",
+      "spring",
+      "rolls"
+    ],
+    "searchKeywords": [
+      "spring",
+      "rolls",
+      "chinese",
+      "manchurian",
+      "spring rolls"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-19T01:49:29.037Z"
+  }
+]

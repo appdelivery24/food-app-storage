@@ -1,0 +1,3582 @@
+[
+  {
+    "id": "product_vendor_delhi_006_001",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Popular choice: Masala Dosa made with premium ingredients.",
+    "price": 884,
+    "discountPercent": 31,
+    "finalPrice": 610,
+    "rating": 4.5,
+    "totalRatings": 4719,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_delhi_006_001.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-10T09:55:26.191Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_002",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Chef's special veg momos — perfect for a satisfying meal.",
+    "price": 757,
+    "discountPercent": 26,
+    "finalPrice": 560,
+    "rating": 3.8,
+    "totalRatings": 1751,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_delhi_006_002.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "vada-pav",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-22T06:55:52.838Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_003",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Classic kathi roll served hot and fresh.",
+    "price": 123,
+    "discountPercent": 33,
+    "finalPrice": 82,
+    "rating": 4.8,
+    "totalRatings": 212,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_delhi_006_003.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "pav-bhaji",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-09T05:52:38.671Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_004",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Popular choice: Dahi Bhalla made with premium ingredients.",
+    "price": 380,
+    "discountPercent": 20,
+    "finalPrice": 304,
+    "rating": 4.7,
+    "totalRatings": 1868,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_delhi_006_004.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "momos",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-13T03:04:56.875Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_005",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Popular choice: Masala Dosa made with premium ingredients.",
+    "price": 275,
+    "discountPercent": 40,
+    "finalPrice": 165,
+    "rating": 4.8,
+    "totalRatings": 2480,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_delhi_006_005.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-02T05:59:35.352Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_006",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Chef's special masala dosa — perfect for a satisfying meal.",
+    "price": 567,
+    "discountPercent": 4,
+    "finalPrice": 544,
+    "rating": 3.9,
+    "totalRatings": 3075,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_delhi_006_006.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-24T03:21:28.174Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_007",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Classic medu vada served hot and fresh.",
+    "price": 531,
+    "discountPercent": 26,
+    "finalPrice": 393,
+    "rating": 4.4,
+    "totalRatings": 2401,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_delhi_006_007.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "dosa",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-06T14:24:16.432Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_008",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Classic aloo tikki chaat served hot and fresh.",
+    "price": 862,
+    "discountPercent": 6,
+    "finalPrice": 810,
+    "rating": 3.7,
+    "totalRatings": 4423,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_delhi_006_008.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "pav-bhaji",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-06T05:59:16.021Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_009",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Popular choice: Medu Vada made with premium ingredients.",
+    "price": 85,
+    "discountPercent": 21,
+    "finalPrice": 67,
+    "rating": 4,
+    "totalRatings": 4994,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_delhi_006_009.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "uttapam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-08T14:10:43.086Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_010",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Classic hyderabadi biryani served hot and fresh.",
+    "price": 668,
+    "discountPercent": 30,
+    "finalPrice": 468,
+    "rating": 4,
+    "totalRatings": 3900,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_delhi_006_010.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "sambar",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-04T11:49:58.386Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_011",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Delicious curd rice prepared fresh with authentic spices.",
+    "price": 390,
+    "discountPercent": 3,
+    "finalPrice": 378,
+    "rating": 3.5,
+    "totalRatings": 2962,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_delhi_006_011.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "sambar",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-18T21:42:06.142Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_012",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Chef's special vada pav — perfect for a satisfying meal.",
+    "price": 176,
+    "discountPercent": 11,
+    "finalPrice": 157,
+    "rating": 4.3,
+    "totalRatings": 3053,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_delhi_006_012.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "chaat",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-29T16:55:12.239Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_013",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Chef's special rava dosa — perfect for a satisfying meal.",
+    "price": 249,
+    "discountPercent": 11,
+    "finalPrice": 222,
+    "rating": 4.8,
+    "totalRatings": 2155,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_delhi_006_013.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-15T08:03:59.123Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_014",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Chef's special vada pav — perfect for a satisfying meal.",
+    "price": 800,
+    "discountPercent": 1,
+    "finalPrice": 792,
+    "rating": 4.4,
+    "totalRatings": 445,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_delhi_006_014.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "chaat",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-30T06:14:40.796Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_015",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Chef's special vada pav — perfect for a satisfying meal.",
+    "price": 257,
+    "discountPercent": 40,
+    "finalPrice": 154,
+    "rating": 3.9,
+    "totalRatings": 3769,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_delhi_006_015.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "pav-bhaji",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-12T19:29:36.926Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_016",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Popular choice: Kathi Roll made with premium ingredients.",
+    "price": 707,
+    "discountPercent": 40,
+    "finalPrice": 424,
+    "rating": 4.7,
+    "totalRatings": 548,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_delhi_006_016.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "rolls",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-20T05:31:51.497Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_017",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Classic uttapam served hot and fresh.",
+    "price": 258,
+    "discountPercent": 7,
+    "finalPrice": 240,
+    "rating": 4.4,
+    "totalRatings": 4093,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_delhi_006_017.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-16T14:30:21.348Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_018",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Popular choice: Veg Momos made with premium ingredients.",
+    "price": 655,
+    "discountPercent": 11,
+    "finalPrice": 583,
+    "rating": 3.8,
+    "totalRatings": 1529,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_delhi_006_018.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-05T13:17:22.803Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_019",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Classic pani puri served hot and fresh.",
+    "price": 834,
+    "discountPercent": 40,
+    "finalPrice": 500,
+    "rating": 4.2,
+    "totalRatings": 747,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_delhi_006_019.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "momos",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-30T06:54:09.676Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_020",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Chef's special vada pav — perfect for a satisfying meal.",
+    "price": 398,
+    "discountPercent": 4,
+    "finalPrice": 382,
+    "rating": 3.6,
+    "totalRatings": 78,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_delhi_006_020.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "rolls",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-24T21:41:32.402Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_021",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Classic idli sambar served hot and fresh.",
+    "price": 164,
+    "discountPercent": 8,
+    "finalPrice": 151,
+    "rating": 3.8,
+    "totalRatings": 4967,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_delhi_006_021.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "idli"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-05T22:44:23.681Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_022",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Classic vada pav served hot and fresh.",
+    "price": 542,
+    "discountPercent": 22,
+    "finalPrice": 423,
+    "rating": 4,
+    "totalRatings": 2705,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_delhi_006_022.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "pav-bhaji",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-12T09:07:08.142Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_023",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 553,
+    "discountPercent": 4,
+    "finalPrice": 531,
+    "rating": 4.2,
+    "totalRatings": 369,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_delhi_006_023.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "idli",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-06-02T14:41:28.791Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_024",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Classic medu vada served hot and fresh.",
+    "price": 553,
+    "discountPercent": 33,
+    "finalPrice": 371,
+    "rating": 4.5,
+    "totalRatings": 923,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_delhi_006_024.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "uttapam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-23T18:35:24.864Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_025",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Popular choice: Dahi Bhalla made with premium ingredients.",
+    "price": 359,
+    "discountPercent": 36,
+    "finalPrice": 230,
+    "rating": 3.8,
+    "totalRatings": 654,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_delhi_006_025.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "vada-pav",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-13T06:55:29.573Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_026",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Popular choice: Kathi Roll made with premium ingredients.",
+    "price": 418,
+    "discountPercent": 31,
+    "finalPrice": 288,
+    "rating": 4.7,
+    "totalRatings": 4420,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_delhi_006_026.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "pav-bhaji",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-10T20:31:40.438Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_027",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 754,
+    "discountPercent": 18,
+    "finalPrice": 618,
+    "rating": 3.8,
+    "totalRatings": 1817,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_delhi_006_027.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "vada",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-23T06:08:56.598Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_028",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Chef's special hyderabadi biryani — perfect for a satisfying meal.",
+    "price": 793,
+    "discountPercent": 27,
+    "finalPrice": 579,
+    "rating": 4.6,
+    "totalRatings": 4969,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_delhi_006_028.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "dosa",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-09T09:54:12.041Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_029",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 306,
+    "discountPercent": 32,
+    "finalPrice": 208,
+    "rating": 4.3,
+    "totalRatings": 4780,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_delhi_006_029.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "idli",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-08T20:47:44.058Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_030",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Classic pav bhaji served hot and fresh.",
+    "price": 562,
+    "discountPercent": 20,
+    "finalPrice": 450,
+    "rating": 4.6,
+    "totalRatings": 2185,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_delhi_006_030.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "chaat",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-31T14:46:18.426Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_031",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Popular choice: Curd Rice made with premium ingredients.",
+    "price": 678,
+    "discountPercent": 16,
+    "finalPrice": 570,
+    "rating": 3.9,
+    "totalRatings": 2709,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_delhi_006_031.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "vada",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-04T11:05:10.398Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_032",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Popular choice: Pav Bhaji made with premium ingredients.",
+    "price": 836,
+    "discountPercent": 4,
+    "finalPrice": 803,
+    "rating": 4.9,
+    "totalRatings": 788,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_delhi_006_032.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "vada-pav",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-07T11:05:34.290Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_033",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 812,
+    "discountPercent": 8,
+    "finalPrice": 747,
+    "rating": 4.3,
+    "totalRatings": 2657,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_delhi_006_033.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "chaat",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-16T13:21:17.301Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_034",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 552,
+    "discountPercent": 35,
+    "finalPrice": 359,
+    "rating": 4.3,
+    "totalRatings": 884,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_delhi_006_034.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "idli",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-23T06:15:11.383Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_035",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Delicious pav bhaji prepared fresh with authentic spices.",
+    "price": 889,
+    "discountPercent": 7,
+    "finalPrice": 827,
+    "rating": 3.9,
+    "totalRatings": 3997,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_delhi_006_035.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "vada-pav",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-06T23:59:02.670Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_036",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Popular choice: Curd Rice made with premium ingredients.",
+    "price": 216,
+    "discountPercent": 38,
+    "finalPrice": 134,
+    "rating": 4.5,
+    "totalRatings": 4211,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_delhi_006_036.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "idli",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-21T15:39:56.603Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_037",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Classic veg momos served hot and fresh.",
+    "price": 503,
+    "discountPercent": 34,
+    "finalPrice": 332,
+    "rating": 4.4,
+    "totalRatings": 1271,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_delhi_006_037.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "vada-pav",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-31T06:48:07.443Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_038",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Popular choice: Veg Momos made with premium ingredients.",
+    "price": 468,
+    "discountPercent": 8,
+    "finalPrice": 431,
+    "rating": 3.6,
+    "totalRatings": 584,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_delhi_006_038.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "pav-bhaji",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-28T21:21:26.687Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_039",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Popular choice: Veg Momos made with premium ingredients.",
+    "price": 479,
+    "discountPercent": 11,
+    "finalPrice": 426,
+    "rating": 4.6,
+    "totalRatings": 4184,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_delhi_006_039.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "rolls",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-24T11:06:18.617Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_040",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 344,
+    "discountPercent": 40,
+    "finalPrice": 206,
+    "rating": 3.6,
+    "totalRatings": 2201,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_delhi_006_040.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "masala"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-07T08:01:29.405Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_041",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 580,
+    "discountPercent": 7,
+    "finalPrice": 539,
+    "rating": 3.9,
+    "totalRatings": 772,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_delhi_006_041.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "uttapam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-27T04:16:52.955Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_042",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Popular choice: Curd Rice made with premium ingredients.",
+    "price": 851,
+    "discountPercent": 30,
+    "finalPrice": 596,
+    "rating": 4.1,
+    "totalRatings": 2487,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_delhi_006_042.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "vada",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-24T13:56:49.675Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_043",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Classic medu vada served hot and fresh.",
+    "price": 896,
+    "discountPercent": 12,
+    "finalPrice": 788,
+    "rating": 3.7,
+    "totalRatings": 2359,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_delhi_006_043.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "uttapam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-12T03:31:19.000Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_044",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Popular choice: Medu Vada made with premium ingredients.",
+    "price": 524,
+    "discountPercent": 15,
+    "finalPrice": 445,
+    "rating": 3.7,
+    "totalRatings": 4037,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_delhi_006_044.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "uttapam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-08T23:46:45.443Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_045",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Popular choice: Aloo Tikki Chaat made with premium ingredients.",
+    "price": 602,
+    "discountPercent": 2,
+    "finalPrice": 590,
+    "rating": 4.3,
+    "totalRatings": 1254,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_delhi_006_045.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "momos",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-09T05:27:05.472Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_046",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Classic aloo tikki chaat served hot and fresh.",
+    "price": 543,
+    "discountPercent": 5,
+    "finalPrice": 516,
+    "rating": 4,
+    "totalRatings": 4837,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_delhi_006_046.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "vada-pav",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-20T04:58:19.951Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_047",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 304,
+    "discountPercent": 26,
+    "finalPrice": 225,
+    "rating": 3.9,
+    "totalRatings": 2002,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_delhi_006_047.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-23T12:52:12.848Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_048",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Delicious idli sambar prepared fresh with authentic spices.",
+    "price": 733,
+    "discountPercent": 35,
+    "finalPrice": 476,
+    "rating": 4.4,
+    "totalRatings": 1707,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_delhi_006_048.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-18T07:05:16.210Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_049",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 269,
+    "discountPercent": 15,
+    "finalPrice": 229,
+    "rating": 3.8,
+    "totalRatings": 300,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_delhi_006_049.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "dosa",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-13T08:32:48.328Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_050",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Delicious kathi roll prepared fresh with authentic spices.",
+    "price": 312,
+    "discountPercent": 8,
+    "finalPrice": 287,
+    "rating": 3.8,
+    "totalRatings": 4793,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_delhi_006_050.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "vada-pav",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-27T19:39:52.750Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_051",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Classic kathi roll served hot and fresh.",
+    "price": 166,
+    "discountPercent": 4,
+    "finalPrice": 159,
+    "rating": 3.6,
+    "totalRatings": 1630,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_delhi_006_051.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "pav-bhaji",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-21T22:53:56.921Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_052",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Popular choice: Pav Bhaji made with premium ingredients.",
+    "price": 401,
+    "discountPercent": 37,
+    "finalPrice": 253,
+    "rating": 3.7,
+    "totalRatings": 4064,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_delhi_006_052.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "chaat",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-13T19:17:56.321Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_053",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Classic pav bhaji served hot and fresh.",
+    "price": 840,
+    "discountPercent": 30,
+    "finalPrice": 588,
+    "rating": 4,
+    "totalRatings": 1182,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_delhi_006_053.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "vada-pav",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-08T02:36:04.621Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_054",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Chef's special pani puri — perfect for a satisfying meal.",
+    "price": 199,
+    "discountPercent": 27,
+    "finalPrice": 145,
+    "rating": 4.5,
+    "totalRatings": 3117,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_delhi_006_054.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "rolls",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-19T23:17:39.379Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_055",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Popular choice: Medu Vada made with premium ingredients.",
+    "price": 841,
+    "discountPercent": 7,
+    "finalPrice": 782,
+    "rating": 3.8,
+    "totalRatings": 3245,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_delhi_006_055.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "sambar",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-13T14:11:33.717Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_056",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Classic pav bhaji served hot and fresh.",
+    "price": 79,
+    "discountPercent": 21,
+    "finalPrice": 62,
+    "rating": 4.2,
+    "totalRatings": 4869,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_delhi_006_056.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "momos",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-06T22:05:26.237Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_057",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Popular choice: Vada Pav made with premium ingredients.",
+    "price": 715,
+    "discountPercent": 40,
+    "finalPrice": 429,
+    "rating": 3.6,
+    "totalRatings": 3395,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_delhi_006_057.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "pav-bhaji",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-28T00:30:31.114Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_058",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Chef's special kathi roll — perfect for a satisfying meal.",
+    "price": 423,
+    "discountPercent": 0,
+    "finalPrice": 423,
+    "rating": 4.7,
+    "totalRatings": 2372,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_delhi_006_058.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "vada-pav",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-28T02:07:47.707Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_059",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Delicious vada pav prepared fresh with authentic spices.",
+    "price": 705,
+    "discountPercent": 29,
+    "finalPrice": 501,
+    "rating": 4.2,
+    "totalRatings": 4940,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_delhi_006_059.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "pav-bhaji",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-24T10:45:02.120Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_060",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Popular choice: Kathi Roll made with premium ingredients.",
+    "price": 270,
+    "discountPercent": 21,
+    "finalPrice": 213,
+    "rating": 4.8,
+    "totalRatings": 533,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_delhi_006_060.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "momos",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-06T13:31:40.819Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_061",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Classic veg momos served hot and fresh.",
+    "price": 217,
+    "discountPercent": 39,
+    "finalPrice": 132,
+    "rating": 4.7,
+    "totalRatings": 291,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_delhi_006_061.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "chaat",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-28T00:30:29.162Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_062",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 540,
+    "discountPercent": 38,
+    "finalPrice": 335,
+    "rating": 4.8,
+    "totalRatings": 2701,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_delhi_006_062.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "dosa",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-04T20:25:40.490Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_063",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Classic aloo tikki chaat served hot and fresh.",
+    "price": 564,
+    "discountPercent": 19,
+    "finalPrice": 457,
+    "rating": 4.2,
+    "totalRatings": 2694,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_delhi_006_063.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "pav-bhaji",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-03T02:46:24.533Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_064",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Chef's special veg momos — perfect for a satisfying meal.",
+    "price": 350,
+    "discountPercent": 3,
+    "finalPrice": 340,
+    "rating": 4.4,
+    "totalRatings": 2740,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_delhi_006_064.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "pav-bhaji",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-06-04T14:45:52.480Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_065",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Classic medu vada served hot and fresh.",
+    "price": 505,
+    "discountPercent": 30,
+    "finalPrice": 354,
+    "rating": 4.9,
+    "totalRatings": 1822,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_delhi_006_065.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "uttapam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-21T19:20:13.663Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_066",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Classic pav bhaji served hot and fresh.",
+    "price": 844,
+    "discountPercent": 9,
+    "finalPrice": 768,
+    "rating": 4.1,
+    "totalRatings": 1982,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_delhi_006_066.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "pav-bhaji",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-22T10:15:43.289Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_067",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 212,
+    "discountPercent": 5,
+    "finalPrice": 201,
+    "rating": 4,
+    "totalRatings": 2740,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/filter-coffee/product_vendor_delhi_006_067.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "sambar",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-28T08:08:13.794Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_068",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 828,
+    "discountPercent": 17,
+    "finalPrice": 687,
+    "rating": 3.6,
+    "totalRatings": 3254,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_delhi_006_068.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-14T20:28:52.159Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_069",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Chef's special pani puri — perfect for a satisfying meal.",
+    "price": 140,
+    "discountPercent": 30,
+    "finalPrice": 98,
+    "rating": 4.8,
+    "totalRatings": 2849,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_delhi_006_069.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "pav-bhaji",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-08T05:13:33.419Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_070",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Delicious curd rice prepared fresh with authentic spices.",
+    "price": 644,
+    "discountPercent": 24,
+    "finalPrice": 489,
+    "rating": 4,
+    "totalRatings": 751,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_delhi_006_070.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "uttapam",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-04T01:17:21.180Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_071",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Delicious kathi roll prepared fresh with authentic spices.",
+    "price": 898,
+    "discountPercent": 2,
+    "finalPrice": 880,
+    "rating": 3.8,
+    "totalRatings": 1811,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_delhi_006_071.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "chaat",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-16T22:15:06.416Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_072",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Classic curd rice served hot and fresh.",
+    "price": 712,
+    "discountPercent": 26,
+    "finalPrice": 527,
+    "rating": 4.9,
+    "totalRatings": 968,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_delhi_006_072.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "uttapam",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-10T13:01:24.327Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_073",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Popular choice: Veg Momos made with premium ingredients.",
+    "price": 402,
+    "discountPercent": 1,
+    "finalPrice": 398,
+    "rating": 3.7,
+    "totalRatings": 3071,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_delhi_006_073.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "chaat",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-26T07:50:21.356Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_074",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Delicious hyderabadi biryani prepared fresh with authentic spices.",
+    "price": 155,
+    "discountPercent": 7,
+    "finalPrice": 144,
+    "rating": 3.8,
+    "totalRatings": 3913,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_delhi_006_074.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "idli",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-04T09:08:00.038Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_075",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Popular choice: Pani Puri made with premium ingredients.",
+    "price": 804,
+    "discountPercent": 8,
+    "finalPrice": 740,
+    "rating": 3.6,
+    "totalRatings": 4583,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_delhi_006_075.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "vada-pav",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-27T05:43:37.292Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_076",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Popular choice: Medu Vada made with premium ingredients.",
+    "price": 769,
+    "discountPercent": 23,
+    "finalPrice": 592,
+    "rating": 4.8,
+    "totalRatings": 699,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_delhi_006_076.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "rasam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-16T13:34:57.893Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_077",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 861,
+    "discountPercent": 40,
+    "finalPrice": 517,
+    "rating": 4.3,
+    "totalRatings": 4444,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/uttapam/product_vendor_delhi_006_077.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-14T04:53:47.775Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_078",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Classic pav bhaji served hot and fresh.",
+    "price": 876,
+    "discountPercent": 21,
+    "finalPrice": 692,
+    "rating": 4.6,
+    "totalRatings": 1812,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_delhi_006_078.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "rolls",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-06-04T11:12:52.066Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_079",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Classic kathi roll served hot and fresh.",
+    "price": 263,
+    "discountPercent": 24,
+    "finalPrice": 200,
+    "rating": 4.6,
+    "totalRatings": 684,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_delhi_006_079.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "rolls",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-31T11:34:01.401Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_080",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 347,
+    "discountPercent": 6,
+    "finalPrice": 326,
+    "rating": 3.9,
+    "totalRatings": 4461,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_delhi_006_080.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "dosa",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-25T23:08:46.691Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_081",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Classic vada pav served hot and fresh.",
+    "price": 520,
+    "discountPercent": 4,
+    "finalPrice": 499,
+    "rating": 3.5,
+    "totalRatings": 3424,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_delhi_006_081.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "chaat",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-16T03:35:40.714Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_082",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Classic medu vada served hot and fresh.",
+    "price": 626,
+    "discountPercent": 21,
+    "finalPrice": 495,
+    "rating": 4.7,
+    "totalRatings": 1689,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/medu-vada/product_vendor_delhi_006_082.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "medu"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-24T04:50:56.297Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_083",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Popular choice: Hyderabadi Biryani made with premium ingredients.",
+    "price": 424,
+    "discountPercent": 31,
+    "finalPrice": 293,
+    "rating": 3.6,
+    "totalRatings": 4949,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_delhi_006_083.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "dosa",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-17T03:39:59.867Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_084",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Delicious hyderabadi biryani prepared fresh with authentic spices.",
+    "price": 389,
+    "discountPercent": 8,
+    "finalPrice": 358,
+    "rating": 4.1,
+    "totalRatings": 4493,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_delhi_006_084.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "uttapam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-17T08:21:49.597Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_085",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Classic vada pav served hot and fresh.",
+    "price": 854,
+    "discountPercent": 7,
+    "finalPrice": 794,
+    "rating": 3.8,
+    "totalRatings": 2829,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_delhi_006_085.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "chaat",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-03T12:31:48.520Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_086",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Chef's special dahi bhalla — perfect for a satisfying meal.",
+    "price": 302,
+    "discountPercent": 6,
+    "finalPrice": 284,
+    "rating": 4.5,
+    "totalRatings": 1343,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_delhi_006_086.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "vada-pav",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-22T23:25:06.327Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_087",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Classic aloo tikki chaat served hot and fresh.",
+    "price": 371,
+    "discountPercent": 25,
+    "finalPrice": 278,
+    "rating": 4.1,
+    "totalRatings": 552,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_delhi_006_087.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "aloo",
+      "tikki"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-18T14:49:33.675Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_088",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Chef's special pani puri — perfect for a satisfying meal.",
+    "price": 611,
+    "discountPercent": 38,
+    "finalPrice": 379,
+    "rating": 4,
+    "totalRatings": 3036,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_delhi_006_088.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "momos",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-12T05:14:19.889Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_089",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Delicious hyderabadi biryani prepared fresh with authentic spices.",
+    "price": 853,
+    "discountPercent": 15,
+    "finalPrice": 725,
+    "rating": 4,
+    "totalRatings": 3603,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_delhi_006_089.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "sambar",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-20T07:27:41.640Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_090",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Classic hyderabadi biryani served hot and fresh.",
+    "price": 679,
+    "discountPercent": 13,
+    "finalPrice": 591,
+    "rating": 4.2,
+    "totalRatings": 3725,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_delhi_006_090.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "uttapam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-21T06:34:17.945Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_091",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Chef's special hyderabadi biryani — perfect for a satisfying meal.",
+    "price": 885,
+    "discountPercent": 24,
+    "finalPrice": 673,
+    "rating": 4.5,
+    "totalRatings": 3102,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/hyderabadi-biryani/product_vendor_delhi_006_091.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "vada",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-13T03:27:27.981Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_092",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Delicious aloo tikki chaat prepared fresh with authentic spices.",
+    "price": 760,
+    "discountPercent": 19,
+    "finalPrice": 616,
+    "rating": 4,
+    "totalRatings": 3041,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_delhi_006_092.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "momos",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-20T05:29:09.381Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_093",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Chef's special masala dosa — perfect for a satisfying meal.",
+    "price": 421,
+    "discountPercent": 8,
+    "finalPrice": 387,
+    "rating": 4.2,
+    "totalRatings": 2253,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_delhi_006_093.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-18T11:07:02.571Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_094",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Classic idli sambar served hot and fresh.",
+    "price": 669,
+    "discountPercent": 13,
+    "finalPrice": 582,
+    "rating": 4.7,
+    "totalRatings": 3187,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://cdn.myapp.com/products/idli-sambar/product_vendor_delhi_006_094.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "idli"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-13T21:38:44.267Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_095",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 563,
+    "discountPercent": 2,
+    "finalPrice": 552,
+    "rating": 3.6,
+    "totalRatings": 2269,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://cdn.myapp.com/products/rava-dosa/product_vendor_delhi_006_095.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-16T11:53:51.122Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_096",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Classic masala dosa served hot and fresh.",
+    "price": 659,
+    "discountPercent": 10,
+    "finalPrice": 593,
+    "rating": 4.5,
+    "totalRatings": 765,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/masala-dosa/product_vendor_delhi_006_096.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "vada",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "vada",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-11T15:30:59.789Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_097",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Chef's special aloo tikki chaat — perfect for a satisfying meal.",
+    "price": 573,
+    "discountPercent": 34,
+    "finalPrice": 378,
+    "rating": 4.7,
+    "totalRatings": 3938,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_delhi_006_097.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "aloo",
+      "tikki"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-31T10:06:14.490Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_098",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Classic curd rice served hot and fresh.",
+    "price": 727,
+    "discountPercent": 25,
+    "finalPrice": 545,
+    "rating": 4.6,
+    "totalRatings": 1773,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://cdn.myapp.com/products/curd-rice/product_vendor_delhi_006_098.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "vada",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-27T12:10:00.321Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_099",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Delicious kathi roll prepared fresh with authentic spices.",
+    "price": 868,
+    "discountPercent": 33,
+    "finalPrice": 582,
+    "rating": 4.7,
+    "totalRatings": 810,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_delhi_006_099.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "pav-bhaji",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-11T14:20:06.944Z"
+  },
+  {
+    "id": "product_vendor_delhi_006_100",
+    "vendorId": "vendor_delhi_006",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Delicious vada pav prepared fresh with authentic spices.",
+    "price": 765,
+    "discountPercent": 26,
+    "finalPrice": 566,
+    "rating": 3.5,
+    "totalRatings": 4216,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_delhi_006_100.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "vada-pav",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-14T22:09:36.365Z"
+  }
+]

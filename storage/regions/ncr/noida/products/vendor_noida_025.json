@@ -1,0 +1,3597 @@
+[
+  {
+    "id": "product_vendor_noida_025_001",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Classic vada pav served hot and fresh.",
+    "price": 808,
+    "discountPercent": 5,
+    "finalPrice": 768,
+    "rating": 4.2,
+    "totalRatings": 2367,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_noida_025_001.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "rolls",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-07T14:37:14.641Z"
+  },
+  {
+    "id": "product_vendor_noida_025_002",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 369,
+    "discountPercent": 37,
+    "finalPrice": 232,
+    "rating": 4.6,
+    "totalRatings": 756,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_025_002.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-02T16:04:22.405Z"
+  },
+  {
+    "id": "product_vendor_noida_025_003",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Delicious pani puri prepared fresh with authentic spices.",
+    "price": 899,
+    "discountPercent": 39,
+    "finalPrice": 548,
+    "rating": 4.4,
+    "totalRatings": 1280,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_noida_025_003.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "non-veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "pav-bhaji",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-06T01:38:34.714Z"
+  },
+  {
+    "id": "product_vendor_noida_025_004",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 738,
+    "discountPercent": 21,
+    "finalPrice": 583,
+    "rating": 4.1,
+    "totalRatings": 455,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_025_004.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-13T18:36:10.206Z"
+  },
+  {
+    "id": "product_vendor_noida_025_005",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Classic vada pav served hot and fresh.",
+    "price": 390,
+    "discountPercent": 17,
+    "finalPrice": 324,
+    "rating": 3.8,
+    "totalRatings": 1204,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_noida_025_005.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "rolls",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-19T03:12:25.557Z"
+  },
+  {
+    "id": "product_vendor_noida_025_006",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Chef's special gulab jamun — perfect for a satisfying meal.",
+    "price": 393,
+    "discountPercent": 39,
+    "finalPrice": 240,
+    "rating": 4.8,
+    "totalRatings": 1263,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_noida_025_006.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "pastry",
+      "veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "pastry",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-06-04T01:53:05.842Z"
+  },
+  {
+    "id": "product_vendor_noida_025_007",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Delicious pani puri prepared fresh with authentic spices.",
+    "price": 806,
+    "discountPercent": 3,
+    "finalPrice": 782,
+    "rating": 4.8,
+    "totalRatings": 296,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_noida_025_007.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "vada-pav",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-24T02:23:57.493Z"
+  },
+  {
+    "id": "product_vendor_noida_025_008",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 236,
+    "discountPercent": 23,
+    "finalPrice": 182,
+    "rating": 4.8,
+    "totalRatings": 3572,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_025_008.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-30T21:48:24.841Z"
+  },
+  {
+    "id": "product_vendor_noida_025_009",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Delicious red velvet cake prepared fresh with authentic spices.",
+    "price": 389,
+    "discountPercent": 17,
+    "finalPrice": 323,
+    "rating": 4.7,
+    "totalRatings": 4483,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_noida_025_009.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "cake",
+      "non-veg",
+      "red",
+      "velvet"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-06-05T06:58:14.235Z"
+  },
+  {
+    "id": "product_vendor_noida_025_010",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 135,
+    "discountPercent": 30,
+    "finalPrice": 95,
+    "rating": 3.8,
+    "totalRatings": 3478,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_025_010.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-22T19:06:49.620Z"
+  },
+  {
+    "id": "product_vendor_noida_025_011",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Popular choice: Red Velvet Cake made with premium ingredients.",
+    "price": 523,
+    "discountPercent": 0,
+    "finalPrice": 523,
+    "rating": 4.5,
+    "totalRatings": 1714,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_noida_025_011.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "non-veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "ice-cream",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-06T23:20:05.309Z"
+  },
+  {
+    "id": "product_vendor_noida_025_012",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 856,
+    "discountPercent": 10,
+    "finalPrice": 770,
+    "rating": 4.3,
+    "totalRatings": 4671,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_025_012.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-04T09:54:26.287Z"
+  },
+  {
+    "id": "product_vendor_noida_025_013",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 645,
+    "discountPercent": 16,
+    "finalPrice": 542,
+    "rating": 3.9,
+    "totalRatings": 2387,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_025_013.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-06T06:48:48.818Z"
+  },
+  {
+    "id": "product_vendor_noida_025_014",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Delicious rasmalai prepared fresh with authentic spices.",
+    "price": 438,
+    "discountPercent": 31,
+    "finalPrice": 302,
+    "rating": 3.7,
+    "totalRatings": 4961,
+    "category": "desserts",
+    "subCategory": "brownie",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_noida_025_014.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "brownie",
+      "veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "brownie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-16T23:51:49.877Z"
+  },
+  {
+    "id": "product_vendor_noida_025_015",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Chocolate Brownie",
+    "description": "Popular choice: Chocolate Brownie made with premium ingredients.",
+    "price": 274,
+    "discountPercent": 14,
+    "finalPrice": 236,
+    "rating": 3.8,
+    "totalRatings": 3133,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/chocolate-brownie/product_vendor_noida_025_015.webp",
+    "imageSlug": "chocolate-brownie",
+    "tags": [
+      "desserts",
+      "pastry",
+      "veg",
+      "chocolate",
+      "brownie"
+    ],
+    "searchKeywords": [
+      "chocolate",
+      "brownie",
+      "desserts",
+      "pastry",
+      "chocolate brownie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-27T07:28:33.792Z"
+  },
+  {
+    "id": "product_vendor_noida_025_016",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Popular choice: Pav Bhaji made with premium ingredients.",
+    "price": 697,
+    "discountPercent": 20,
+    "finalPrice": 558,
+    "rating": 4.1,
+    "totalRatings": 193,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_noida_025_016.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "rolls",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-08T12:52:35.100Z"
+  },
+  {
+    "id": "product_vendor_noida_025_017",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Chef's special vada pav — perfect for a satisfying meal.",
+    "price": 526,
+    "discountPercent": 31,
+    "finalPrice": 363,
+    "rating": 4.6,
+    "totalRatings": 2064,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_noida_025_017.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "vada-pav",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-16T18:09:37.802Z"
+  },
+  {
+    "id": "product_vendor_noida_025_018",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 764,
+    "discountPercent": 10,
+    "finalPrice": 688,
+    "rating": 3.6,
+    "totalRatings": 3663,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_025_018.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-10T13:03:59.695Z"
+  },
+  {
+    "id": "product_vendor_noida_025_019",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Vanilla Ice Cream",
+    "description": "Delicious vanilla ice cream prepared fresh with authentic spices.",
+    "price": 698,
+    "discountPercent": 16,
+    "finalPrice": 586,
+    "rating": 3.6,
+    "totalRatings": 2678,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/vanilla-ice-cream/product_vendor_noida_025_019.webp",
+    "imageSlug": "vanilla-ice-cream",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "non-veg",
+      "vanilla",
+      "ice",
+      "cream"
+    ],
+    "searchKeywords": [
+      "vanilla",
+      "ice",
+      "cream",
+      "desserts",
+      "kulfi",
+      "vanilla ice cream"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-12T19:38:21.079Z"
+  },
+  {
+    "id": "product_vendor_noida_025_020",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Vanilla Ice Cream",
+    "description": "Chef's special vanilla ice cream — perfect for a satisfying meal.",
+    "price": 422,
+    "discountPercent": 15,
+    "finalPrice": 359,
+    "rating": 4.1,
+    "totalRatings": 61,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/vanilla-ice-cream/product_vendor_noida_025_020.webp",
+    "imageSlug": "vanilla-ice-cream",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "vanilla",
+      "ice",
+      "cream"
+    ],
+    "searchKeywords": [
+      "vanilla",
+      "ice",
+      "cream",
+      "desserts",
+      "ice-cream",
+      "vanilla ice cream"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-17T22:57:51.234Z"
+  },
+  {
+    "id": "product_vendor_noida_025_021",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Pav Bhaji",
+    "description": "Delicious pav bhaji prepared fresh with authentic spices.",
+    "price": 710,
+    "discountPercent": 4,
+    "finalPrice": 682,
+    "rating": 4.4,
+    "totalRatings": 3998,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/pav-bhaji/product_vendor_noida_025_021.webp",
+    "imageSlug": "pav-bhaji",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg",
+      "pav",
+      "bhaji"
+    ],
+    "searchKeywords": [
+      "pav",
+      "bhaji",
+      "street-food",
+      "momos",
+      "pav bhaji"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-12T03:48:57.212Z"
+  },
+  {
+    "id": "product_vendor_noida_025_022",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 883,
+    "discountPercent": 19,
+    "finalPrice": 715,
+    "rating": 4,
+    "totalRatings": 3697,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_025_022.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-28T07:35:01.236Z"
+  },
+  {
+    "id": "product_vendor_noida_025_023",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Chocolate Brownie",
+    "description": "Chef's special chocolate brownie — perfect for a satisfying meal.",
+    "price": 588,
+    "discountPercent": 24,
+    "finalPrice": 447,
+    "rating": 3.6,
+    "totalRatings": 4193,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/chocolate-brownie/product_vendor_noida_025_023.webp",
+    "imageSlug": "chocolate-brownie",
+    "tags": [
+      "desserts",
+      "cake",
+      "non-veg",
+      "chocolate",
+      "brownie"
+    ],
+    "searchKeywords": [
+      "chocolate",
+      "brownie",
+      "desserts",
+      "cake",
+      "chocolate brownie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-17T02:30:45.640Z"
+  },
+  {
+    "id": "product_vendor_noida_025_024",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Delicious pani puri prepared fresh with authentic spices.",
+    "price": 209,
+    "discountPercent": 11,
+    "finalPrice": 186,
+    "rating": 4.8,
+    "totalRatings": 3339,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_noida_025_024.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "chaat",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-21T06:41:48.214Z"
+  },
+  {
+    "id": "product_vendor_noida_025_025",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Popular choice: Pani Puri made with premium ingredients.",
+    "price": 642,
+    "discountPercent": 16,
+    "finalPrice": 539,
+    "rating": 4.4,
+    "totalRatings": 2464,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_noida_025_025.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "momos",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-30T20:18:35.619Z"
+  },
+  {
+    "id": "product_vendor_noida_025_026",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 491,
+    "discountPercent": 27,
+    "finalPrice": 358,
+    "rating": 4.7,
+    "totalRatings": 2136,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_025_026.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-20T06:43:25.565Z"
+  },
+  {
+    "id": "product_vendor_noida_025_027",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 593,
+    "discountPercent": 13,
+    "finalPrice": 516,
+    "rating": 3.7,
+    "totalRatings": 1679,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_025_027.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-10T21:48:04.886Z"
+  },
+  {
+    "id": "product_vendor_noida_025_028",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Popular choice: Rasmalai made with premium ingredients.",
+    "price": 309,
+    "discountPercent": 14,
+    "finalPrice": 266,
+    "rating": 4.1,
+    "totalRatings": 1033,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_noida_025_028.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "pastry",
+      "non-veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "pastry"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-25T02:52:39.407Z"
+  },
+  {
+    "id": "product_vendor_noida_025_029",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Chef's special veg momos — perfect for a satisfying meal.",
+    "price": 764,
+    "discountPercent": 39,
+    "finalPrice": 466,
+    "rating": 3.8,
+    "totalRatings": 4825,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_noida_025_029.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "vada-pav",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-13T14:10:58.969Z"
+  },
+  {
+    "id": "product_vendor_noida_025_030",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Popular choice: Avocado Toast made with premium ingredients.",
+    "price": 633,
+    "discountPercent": 29,
+    "finalPrice": 449,
+    "rating": 4.2,
+    "totalRatings": 1101,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_025_030.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-12T22:51:08.047Z"
+  },
+  {
+    "id": "product_vendor_noida_025_031",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Popular choice: Rasmalai made with premium ingredients.",
+    "price": 83,
+    "discountPercent": 19,
+    "finalPrice": 67,
+    "rating": 3.8,
+    "totalRatings": 1494,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_noida_025_031.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "pastry",
+      "veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "pastry"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-11T22:31:36.270Z"
+  },
+  {
+    "id": "product_vendor_noida_025_032",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Classic veg momos served hot and fresh.",
+    "price": 117,
+    "discountPercent": 30,
+    "finalPrice": 82,
+    "rating": 4.3,
+    "totalRatings": 1281,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_noida_025_032.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "chaat",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-05T09:19:58.224Z"
+  },
+  {
+    "id": "product_vendor_noida_025_033",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Chef's special kathi roll — perfect for a satisfying meal.",
+    "price": 624,
+    "discountPercent": 7,
+    "finalPrice": 580,
+    "rating": 3.7,
+    "totalRatings": 4308,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_noida_025_033.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "non-veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "vada-pav",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-12T06:13:57.338Z"
+  },
+  {
+    "id": "product_vendor_noida_025_034",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Chocolate Brownie",
+    "description": "Chef's special chocolate brownie — perfect for a satisfying meal.",
+    "price": 699,
+    "discountPercent": 0,
+    "finalPrice": 699,
+    "rating": 4.5,
+    "totalRatings": 1310,
+    "category": "desserts",
+    "subCategory": "brownie",
+    "imageUrl": "https://cdn.myapp.com/products/chocolate-brownie/product_vendor_noida_025_034.webp",
+    "imageSlug": "chocolate-brownie",
+    "tags": [
+      "desserts",
+      "brownie",
+      "non-veg",
+      "chocolate"
+    ],
+    "searchKeywords": [
+      "chocolate",
+      "brownie",
+      "desserts",
+      "chocolate brownie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-25T00:37:53.665Z"
+  },
+  {
+    "id": "product_vendor_noida_025_035",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Popular choice: Pani Puri made with premium ingredients.",
+    "price": 172,
+    "discountPercent": 37,
+    "finalPrice": 108,
+    "rating": 3.5,
+    "totalRatings": 2647,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_noida_025_035.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "pav-bhaji",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-27T03:20:42.154Z"
+  },
+  {
+    "id": "product_vendor_noida_025_036",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Kulfi Falooda",
+    "description": "Popular choice: Kulfi Falooda made with premium ingredients.",
+    "price": 455,
+    "discountPercent": 2,
+    "finalPrice": 446,
+    "rating": 3.9,
+    "totalRatings": 2227,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/kulfi-falooda/product_vendor_noida_025_036.webp",
+    "imageSlug": "kulfi-falooda",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "kulfi",
+      "falooda"
+    ],
+    "searchKeywords": [
+      "kulfi",
+      "falooda",
+      "desserts",
+      "ice-cream",
+      "kulfi falooda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-14T09:48:23.372Z"
+  },
+  {
+    "id": "product_vendor_noida_025_037",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 682,
+    "discountPercent": 26,
+    "finalPrice": 505,
+    "rating": 4.9,
+    "totalRatings": 1774,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_025_037.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-08T20:06:05.605Z"
+  },
+  {
+    "id": "product_vendor_noida_025_038",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Classic pani puri served hot and fresh.",
+    "price": 841,
+    "discountPercent": 4,
+    "finalPrice": 807,
+    "rating": 4.5,
+    "totalRatings": 1701,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_noida_025_038.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "rolls",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-17T14:26:44.915Z"
+  },
+  {
+    "id": "product_vendor_noida_025_039",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 415,
+    "discountPercent": 6,
+    "finalPrice": 390,
+    "rating": 3.6,
+    "totalRatings": 2377,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_025_039.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-02T15:06:32.529Z"
+  },
+  {
+    "id": "product_vendor_noida_025_040",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Popular choice: Gulab Jamun made with premium ingredients.",
+    "price": 626,
+    "discountPercent": 14,
+    "finalPrice": 538,
+    "rating": 4.2,
+    "totalRatings": 2603,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_noida_025_040.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "non-veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "kulfi",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-22T23:57:26.891Z"
+  },
+  {
+    "id": "product_vendor_noida_025_041",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Classic red velvet cake served hot and fresh.",
+    "price": 170,
+    "discountPercent": 3,
+    "finalPrice": 165,
+    "rating": 4.8,
+    "totalRatings": 2646,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_noida_025_041.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "kulfi",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-11T22:34:41.740Z"
+  },
+  {
+    "id": "product_vendor_noida_025_042",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Delicious pani puri prepared fresh with authentic spices.",
+    "price": 618,
+    "discountPercent": 33,
+    "finalPrice": 414,
+    "rating": 4.4,
+    "totalRatings": 4329,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_noida_025_042.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "pav-bhaji",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-25T00:33:49.854Z"
+  },
+  {
+    "id": "product_vendor_noida_025_043",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 788,
+    "discountPercent": 19,
+    "finalPrice": 638,
+    "rating": 3.8,
+    "totalRatings": 2257,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_025_043.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-09T14:14:28.168Z"
+  },
+  {
+    "id": "product_vendor_noida_025_044",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Classic aloo tikki chaat served hot and fresh.",
+    "price": 546,
+    "discountPercent": 25,
+    "finalPrice": 410,
+    "rating": 4.6,
+    "totalRatings": 419,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_noida_025_044.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "vada-pav",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-25T07:54:03.317Z"
+  },
+  {
+    "id": "product_vendor_noida_025_045",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 160,
+    "discountPercent": 30,
+    "finalPrice": 112,
+    "rating": 3.7,
+    "totalRatings": 2376,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_025_045.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-08T03:36:01.787Z"
+  },
+  {
+    "id": "product_vendor_noida_025_046",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 364,
+    "discountPercent": 5,
+    "finalPrice": 346,
+    "rating": 4.2,
+    "totalRatings": 2170,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_025_046.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-22T19:33:13.413Z"
+  },
+  {
+    "id": "product_vendor_noida_025_047",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Chef's special red velvet cake — perfect for a satisfying meal.",
+    "price": 289,
+    "discountPercent": 27,
+    "finalPrice": 211,
+    "rating": 4.3,
+    "totalRatings": 2800,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_noida_025_047.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "kulfi",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-20T19:39:23.720Z"
+  },
+  {
+    "id": "product_vendor_noida_025_048",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 586,
+    "discountPercent": 24,
+    "finalPrice": 445,
+    "rating": 4.2,
+    "totalRatings": 122,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_025_048.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-11T04:18:59.634Z"
+  },
+  {
+    "id": "product_vendor_noida_025_049",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Chef's special red velvet cake — perfect for a satisfying meal.",
+    "price": 899,
+    "discountPercent": 13,
+    "finalPrice": 782,
+    "rating": 4,
+    "totalRatings": 1702,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_noida_025_049.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "ice-cream",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-25T12:10:29.336Z"
+  },
+  {
+    "id": "product_vendor_noida_025_050",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Classic greek salad served hot and fresh.",
+    "price": 365,
+    "discountPercent": 12,
+    "finalPrice": 321,
+    "rating": 4.4,
+    "totalRatings": 3648,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_025_050.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-02T10:29:06.404Z"
+  },
+  {
+    "id": "product_vendor_noida_025_051",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Chef's special red velvet cake — perfect for a satisfying meal.",
+    "price": 417,
+    "discountPercent": 33,
+    "finalPrice": 279,
+    "rating": 4.1,
+    "totalRatings": 3468,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_noida_025_051.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "non-veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "ice-cream",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-14T18:50:22.308Z"
+  },
+  {
+    "id": "product_vendor_noida_025_052",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 874,
+    "discountPercent": 29,
+    "finalPrice": 621,
+    "rating": 4.5,
+    "totalRatings": 533,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_025_052.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-09T11:00:57.775Z"
+  },
+  {
+    "id": "product_vendor_noida_025_053",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Classic rasmalai served hot and fresh.",
+    "price": 668,
+    "discountPercent": 23,
+    "finalPrice": 514,
+    "rating": 4.7,
+    "totalRatings": 2309,
+    "category": "desserts",
+    "subCategory": "brownie",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_noida_025_053.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "brownie",
+      "veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "brownie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-10T06:21:00.690Z"
+  },
+  {
+    "id": "product_vendor_noida_025_054",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 221,
+    "discountPercent": 15,
+    "finalPrice": 188,
+    "rating": 4.7,
+    "totalRatings": 4001,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_025_054.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-03T12:30:25.845Z"
+  },
+  {
+    "id": "product_vendor_noida_025_055",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Delicious veg momos prepared fresh with authentic spices.",
+    "price": 455,
+    "discountPercent": 33,
+    "finalPrice": 305,
+    "rating": 3.7,
+    "totalRatings": 4353,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_noida_025_055.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "pav-bhaji",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-06T22:35:22.692Z"
+  },
+  {
+    "id": "product_vendor_noida_025_056",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 597,
+    "discountPercent": 30,
+    "finalPrice": 418,
+    "rating": 3.9,
+    "totalRatings": 1300,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_025_056.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-21T07:16:25.278Z"
+  },
+  {
+    "id": "product_vendor_noida_025_057",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Vanilla Ice Cream",
+    "description": "Popular choice: Vanilla Ice Cream made with premium ingredients.",
+    "price": 192,
+    "discountPercent": 28,
+    "finalPrice": 138,
+    "rating": 4.7,
+    "totalRatings": 3202,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/vanilla-ice-cream/product_vendor_noida_025_057.webp",
+    "imageSlug": "vanilla-ice-cream",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "non-veg",
+      "vanilla",
+      "ice",
+      "cream"
+    ],
+    "searchKeywords": [
+      "vanilla",
+      "ice",
+      "cream",
+      "desserts",
+      "ice-cream",
+      "vanilla ice cream"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-02T00:54:10.875Z"
+  },
+  {
+    "id": "product_vendor_noida_025_058",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 774,
+    "discountPercent": 8,
+    "finalPrice": 712,
+    "rating": 3.6,
+    "totalRatings": 142,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_noida_025_058.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "rolls",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-12T06:36:59.956Z"
+  },
+  {
+    "id": "product_vendor_noida_025_059",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 543,
+    "discountPercent": 32,
+    "finalPrice": 369,
+    "rating": 3.9,
+    "totalRatings": 3561,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_025_059.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-29T00:25:49.049Z"
+  },
+  {
+    "id": "product_vendor_noida_025_060",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Classic vada pav served hot and fresh.",
+    "price": 667,
+    "discountPercent": 4,
+    "finalPrice": 640,
+    "rating": 4.5,
+    "totalRatings": 418,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_noida_025_060.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "momos",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-08T04:46:27.961Z"
+  },
+  {
+    "id": "product_vendor_noida_025_061",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Kulfi Falooda",
+    "description": "Classic kulfi falooda served hot and fresh.",
+    "price": 466,
+    "discountPercent": 14,
+    "finalPrice": 401,
+    "rating": 4.6,
+    "totalRatings": 3104,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/kulfi-falooda/product_vendor_noida_025_061.webp",
+    "imageSlug": "kulfi-falooda",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "veg",
+      "falooda"
+    ],
+    "searchKeywords": [
+      "kulfi",
+      "falooda",
+      "desserts",
+      "kulfi falooda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-07T15:04:36.342Z"
+  },
+  {
+    "id": "product_vendor_noida_025_062",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Vanilla Ice Cream",
+    "description": "Classic vanilla ice cream served hot and fresh.",
+    "price": 723,
+    "discountPercent": 36,
+    "finalPrice": 463,
+    "rating": 4.6,
+    "totalRatings": 760,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/vanilla-ice-cream/product_vendor_noida_025_062.webp",
+    "imageSlug": "vanilla-ice-cream",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "non-veg",
+      "vanilla",
+      "ice",
+      "cream"
+    ],
+    "searchKeywords": [
+      "vanilla",
+      "ice",
+      "cream",
+      "desserts",
+      "ice-cream",
+      "vanilla ice cream"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-06-02T19:10:16.258Z"
+  },
+  {
+    "id": "product_vendor_noida_025_063",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Kulfi Falooda",
+    "description": "Chef's special kulfi falooda — perfect for a satisfying meal.",
+    "price": 177,
+    "discountPercent": 22,
+    "finalPrice": 138,
+    "rating": 4.4,
+    "totalRatings": 2539,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/kulfi-falooda/product_vendor_noida_025_063.webp",
+    "imageSlug": "kulfi-falooda",
+    "tags": [
+      "desserts",
+      "pastry",
+      "non-veg",
+      "kulfi",
+      "falooda"
+    ],
+    "searchKeywords": [
+      "kulfi",
+      "falooda",
+      "desserts",
+      "pastry",
+      "kulfi falooda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-03T14:42:50.276Z"
+  },
+  {
+    "id": "product_vendor_noida_025_064",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Classic aloo tikki chaat served hot and fresh.",
+    "price": 203,
+    "discountPercent": 12,
+    "finalPrice": 179,
+    "rating": 3.9,
+    "totalRatings": 1614,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_noida_025_064.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "rolls",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "rolls",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-03T06:44:36.953Z"
+  },
+  {
+    "id": "product_vendor_noida_025_065",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Delicious vada pav prepared fresh with authentic spices.",
+    "price": 274,
+    "discountPercent": 3,
+    "finalPrice": 266,
+    "rating": 3.8,
+    "totalRatings": 1269,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_noida_025_065.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "chaat",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-07T13:19:13.360Z"
+  },
+  {
+    "id": "product_vendor_noida_025_066",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 722,
+    "discountPercent": 13,
+    "finalPrice": 628,
+    "rating": 4.4,
+    "totalRatings": 4701,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/avocado-toast/product_vendor_noida_025_066.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-21T11:20:42.856Z"
+  },
+  {
+    "id": "product_vendor_noida_025_067",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 692,
+    "discountPercent": 23,
+    "finalPrice": 533,
+    "rating": 4.3,
+    "totalRatings": 539,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_025_067.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-10T14:43:06.544Z"
+  },
+  {
+    "id": "product_vendor_noida_025_068",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Classic greek salad served hot and fresh.",
+    "price": 357,
+    "discountPercent": 19,
+    "finalPrice": 289,
+    "rating": 4.3,
+    "totalRatings": 1429,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_025_068.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-02T16:35:59.065Z"
+  },
+  {
+    "id": "product_vendor_noida_025_069",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Classic greek salad served hot and fresh.",
+    "price": 573,
+    "discountPercent": 18,
+    "finalPrice": 470,
+    "rating": 4.6,
+    "totalRatings": 2092,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/greek-salad/product_vendor_noida_025_069.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-29T09:10:51.633Z"
+  },
+  {
+    "id": "product_vendor_noida_025_070",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 176,
+    "discountPercent": 10,
+    "finalPrice": 158,
+    "rating": 3.6,
+    "totalRatings": 4847,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_025_070.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-26T09:37:36.347Z"
+  },
+  {
+    "id": "product_vendor_noida_025_071",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Chef's special aloo tikki chaat — perfect for a satisfying meal.",
+    "price": 423,
+    "discountPercent": 17,
+    "finalPrice": 351,
+    "rating": 3.7,
+    "totalRatings": 3372,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_noida_025_071.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "aloo",
+      "tikki"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-14T16:30:48.375Z"
+  },
+  {
+    "id": "product_vendor_noida_025_072",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 142,
+    "discountPercent": 35,
+    "finalPrice": 92,
+    "rating": 3.7,
+    "totalRatings": 4374,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_025_072.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-14T20:47:27.359Z"
+  },
+  {
+    "id": "product_vendor_noida_025_073",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 810,
+    "discountPercent": 28,
+    "finalPrice": 583,
+    "rating": 4.6,
+    "totalRatings": 540,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_noida_025_073.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "chaat",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-23T13:31:05.144Z"
+  },
+  {
+    "id": "product_vendor_noida_025_074",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 623,
+    "discountPercent": 4,
+    "finalPrice": 598,
+    "rating": 4.5,
+    "totalRatings": 23,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_025_074.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-28T14:48:41.788Z"
+  },
+  {
+    "id": "product_vendor_noida_025_075",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Popular choice: Vada Pav made with premium ingredients.",
+    "price": 693,
+    "discountPercent": 12,
+    "finalPrice": 610,
+    "rating": 4.1,
+    "totalRatings": 4594,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_noida_025_075.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "chaat",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "chaat",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-29T04:43:31.379Z"
+  },
+  {
+    "id": "product_vendor_noida_025_076",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Pani Puri",
+    "description": "Popular choice: Pani Puri made with premium ingredients.",
+    "price": 207,
+    "discountPercent": 29,
+    "finalPrice": 147,
+    "rating": 4.5,
+    "totalRatings": 3178,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/pani-puri/product_vendor_noida_025_076.webp",
+    "imageSlug": "pani-puri",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "pani",
+      "puri"
+    ],
+    "searchKeywords": [
+      "pani",
+      "puri",
+      "street-food",
+      "vada-pav",
+      "pani puri"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-02T19:46:53.559Z"
+  },
+  {
+    "id": "product_vendor_noida_025_077",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Delicious gulab jamun prepared fresh with authentic spices.",
+    "price": 873,
+    "discountPercent": 7,
+    "finalPrice": 812,
+    "rating": 4.2,
+    "totalRatings": 2552,
+    "category": "desserts",
+    "subCategory": "cake",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_noida_025_077.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "cake",
+      "non-veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "cake",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-28T23:19:38.814Z"
+  },
+  {
+    "id": "product_vendor_noida_025_078",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Chef's special vada pav — perfect for a satisfying meal.",
+    "price": 836,
+    "discountPercent": 17,
+    "finalPrice": 694,
+    "rating": 4.3,
+    "totalRatings": 1899,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_noida_025_078.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "momos",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "momos",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-27T04:33:46.497Z"
+  },
+  {
+    "id": "product_vendor_noida_025_079",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 376,
+    "discountPercent": 21,
+    "finalPrice": 297,
+    "rating": 4.9,
+    "totalRatings": 1749,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_025_079.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-30T04:21:42.507Z"
+  },
+  {
+    "id": "product_vendor_noida_025_080",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Chocolate Brownie",
+    "description": "Classic chocolate brownie served hot and fresh.",
+    "price": 425,
+    "discountPercent": 27,
+    "finalPrice": 310,
+    "rating": 4.4,
+    "totalRatings": 1562,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/chocolate-brownie/product_vendor_noida_025_080.webp",
+    "imageSlug": "chocolate-brownie",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "veg",
+      "chocolate",
+      "brownie"
+    ],
+    "searchKeywords": [
+      "chocolate",
+      "brownie",
+      "desserts",
+      "kulfi",
+      "chocolate brownie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-06-04T01:04:48.706Z"
+  },
+  {
+    "id": "product_vendor_noida_025_081",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Veg Momos",
+    "description": "Classic veg momos served hot and fresh.",
+    "price": 438,
+    "discountPercent": 33,
+    "finalPrice": 293,
+    "rating": 3.8,
+    "totalRatings": 872,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/veg-momos/product_vendor_noida_025_081.webp",
+    "imageSlug": "veg-momos",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "momos"
+    ],
+    "searchKeywords": [
+      "veg",
+      "momos",
+      "street-food",
+      "pav-bhaji",
+      "veg momos"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-12T19:19:49.238Z"
+  },
+  {
+    "id": "product_vendor_noida_025_082",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Vanilla Ice Cream",
+    "description": "Chef's special vanilla ice cream — perfect for a satisfying meal.",
+    "price": 737,
+    "discountPercent": 29,
+    "finalPrice": 523,
+    "rating": 4.8,
+    "totalRatings": 3413,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/vanilla-ice-cream/product_vendor_noida_025_082.webp",
+    "imageSlug": "vanilla-ice-cream",
+    "tags": [
+      "desserts",
+      "pastry",
+      "non-veg",
+      "vanilla",
+      "ice",
+      "cream"
+    ],
+    "searchKeywords": [
+      "vanilla",
+      "ice",
+      "cream",
+      "desserts",
+      "pastry",
+      "vanilla ice cream"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-24T14:47:24.277Z"
+  },
+  {
+    "id": "product_vendor_noida_025_083",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Delicious rasmalai prepared fresh with authentic spices.",
+    "price": 479,
+    "discountPercent": 1,
+    "finalPrice": 474,
+    "rating": 4.7,
+    "totalRatings": 4499,
+    "category": "desserts",
+    "subCategory": "brownie",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_noida_025_083.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "brownie",
+      "non-veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "brownie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-10T13:11:51.447Z"
+  },
+  {
+    "id": "product_vendor_noida_025_084",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 298,
+    "discountPercent": 3,
+    "finalPrice": 289,
+    "rating": 4.4,
+    "totalRatings": 4795,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_025_084.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-18T12:57:16.623Z"
+  },
+  {
+    "id": "product_vendor_noida_025_085",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Chocolate Brownie",
+    "description": "Classic chocolate brownie served hot and fresh.",
+    "price": 509,
+    "discountPercent": 24,
+    "finalPrice": 387,
+    "rating": 4.1,
+    "totalRatings": 1247,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/chocolate-brownie/product_vendor_noida_025_085.webp",
+    "imageSlug": "chocolate-brownie",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "chocolate",
+      "brownie"
+    ],
+    "searchKeywords": [
+      "chocolate",
+      "brownie",
+      "desserts",
+      "ice-cream",
+      "chocolate brownie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-18T02:35:01.474Z"
+  },
+  {
+    "id": "product_vendor_noida_025_086",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Red Velvet Cake",
+    "description": "Delicious red velvet cake prepared fresh with authentic spices.",
+    "price": 375,
+    "discountPercent": 18,
+    "finalPrice": 308,
+    "rating": 3.7,
+    "totalRatings": 2087,
+    "category": "desserts",
+    "subCategory": "ice-cream",
+    "imageUrl": "https://cdn.myapp.com/products/red-velvet-cake/product_vendor_noida_025_086.webp",
+    "imageSlug": "red-velvet-cake",
+    "tags": [
+      "desserts",
+      "ice-cream",
+      "veg",
+      "red",
+      "velvet",
+      "cake"
+    ],
+    "searchKeywords": [
+      "red",
+      "velvet",
+      "cake",
+      "desserts",
+      "ice-cream",
+      "red velvet cake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-08T11:38:19.803Z"
+  },
+  {
+    "id": "product_vendor_noida_025_087",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Rasmalai",
+    "description": "Classic rasmalai served hot and fresh.",
+    "price": 870,
+    "discountPercent": 27,
+    "finalPrice": 635,
+    "rating": 4.5,
+    "totalRatings": 2432,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/rasmalai/product_vendor_noida_025_087.webp",
+    "imageSlug": "rasmalai",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "veg",
+      "rasmalai"
+    ],
+    "searchKeywords": [
+      "rasmalai",
+      "desserts",
+      "kulfi"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-22T05:43:02.097Z"
+  },
+  {
+    "id": "product_vendor_noida_025_088",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 613,
+    "discountPercent": 36,
+    "finalPrice": 392,
+    "rating": 3.8,
+    "totalRatings": 1593,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/quinoa-bowl/product_vendor_noida_025_088.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-30T12:16:37.216Z"
+  },
+  {
+    "id": "product_vendor_noida_025_089",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Aloo Tikki Chaat",
+    "description": "Popular choice: Aloo Tikki Chaat made with premium ingredients.",
+    "price": 548,
+    "discountPercent": 28,
+    "finalPrice": 395,
+    "rating": 4.5,
+    "totalRatings": 479,
+    "category": "street-food",
+    "subCategory": "pav-bhaji",
+    "imageUrl": "https://cdn.myapp.com/products/aloo-tikki-chaat/product_vendor_noida_025_089.webp",
+    "imageSlug": "aloo-tikki-chaat",
+    "tags": [
+      "street-food",
+      "pav-bhaji",
+      "veg",
+      "aloo",
+      "tikki",
+      "chaat"
+    ],
+    "searchKeywords": [
+      "aloo",
+      "tikki",
+      "chaat",
+      "street-food",
+      "pav-bhaji",
+      "aloo tikki chaat"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-18T09:32:07.667Z"
+  },
+  {
+    "id": "product_vendor_noida_025_090",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 485,
+    "discountPercent": 10,
+    "finalPrice": 437,
+    "rating": 4,
+    "totalRatings": 3515,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://cdn.myapp.com/products/protein-smoothie/product_vendor_noida_025_090.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-12T13:54:48.324Z"
+  },
+  {
+    "id": "product_vendor_noida_025_091",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Popular choice: Vada Pav made with premium ingredients.",
+    "price": 305,
+    "discountPercent": 25,
+    "finalPrice": 229,
+    "rating": 4.8,
+    "totalRatings": 1165,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_noida_025_091.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "vada-pav",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-17T23:04:18.035Z"
+  },
+  {
+    "id": "product_vendor_noida_025_092",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Classic gulab jamun served hot and fresh.",
+    "price": 444,
+    "discountPercent": 24,
+    "finalPrice": 337,
+    "rating": 4.2,
+    "totalRatings": 4528,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_noida_025_092.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "kulfi",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-11T08:23:01.768Z"
+  },
+  {
+    "id": "product_vendor_noida_025_093",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Kulfi Falooda",
+    "description": "Delicious kulfi falooda prepared fresh with authentic spices.",
+    "price": 268,
+    "discountPercent": 9,
+    "finalPrice": 244,
+    "rating": 3.7,
+    "totalRatings": 4956,
+    "category": "desserts",
+    "subCategory": "kulfi",
+    "imageUrl": "https://cdn.myapp.com/products/kulfi-falooda/product_vendor_noida_025_093.webp",
+    "imageSlug": "kulfi-falooda",
+    "tags": [
+      "desserts",
+      "kulfi",
+      "veg",
+      "falooda"
+    ],
+    "searchKeywords": [
+      "kulfi",
+      "falooda",
+      "desserts",
+      "kulfi falooda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-26T23:00:50.338Z"
+  },
+  {
+    "id": "product_vendor_noida_025_094",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 467,
+    "discountPercent": 39,
+    "finalPrice": 285,
+    "rating": 3.5,
+    "totalRatings": 135,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://cdn.myapp.com/products/grilled-chicken-salad/product_vendor_noida_025_094.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-25T04:17:57.355Z"
+  },
+  {
+    "id": "product_vendor_noida_025_095",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Classic dahi bhalla served hot and fresh.",
+    "price": 441,
+    "discountPercent": 8,
+    "finalPrice": 406,
+    "rating": 3.9,
+    "totalRatings": 4831,
+    "category": "street-food",
+    "subCategory": "chaat",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_noida_025_095.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "chaat",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "chaat",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-16T19:24:18.553Z"
+  },
+  {
+    "id": "product_vendor_noida_025_096",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Gulab Jamun",
+    "description": "Delicious gulab jamun prepared fresh with authentic spices.",
+    "price": 328,
+    "discountPercent": 40,
+    "finalPrice": 197,
+    "rating": 4.5,
+    "totalRatings": 3321,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/gulab-jamun/product_vendor_noida_025_096.webp",
+    "imageSlug": "gulab-jamun",
+    "tags": [
+      "desserts",
+      "pastry",
+      "veg",
+      "gulab",
+      "jamun"
+    ],
+    "searchKeywords": [
+      "gulab",
+      "jamun",
+      "desserts",
+      "pastry",
+      "gulab jamun"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-21T03:32:55.990Z"
+  },
+  {
+    "id": "product_vendor_noida_025_097",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Kulfi Falooda",
+    "description": "Chef's special kulfi falooda — perfect for a satisfying meal.",
+    "price": 125,
+    "discountPercent": 30,
+    "finalPrice": 88,
+    "rating": 4.6,
+    "totalRatings": 545,
+    "category": "desserts",
+    "subCategory": "pastry",
+    "imageUrl": "https://cdn.myapp.com/products/kulfi-falooda/product_vendor_noida_025_097.webp",
+    "imageSlug": "kulfi-falooda",
+    "tags": [
+      "desserts",
+      "pastry",
+      "non-veg",
+      "kulfi",
+      "falooda"
+    ],
+    "searchKeywords": [
+      "kulfi",
+      "falooda",
+      "desserts",
+      "pastry",
+      "kulfi falooda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-09T00:01:22.047Z"
+  },
+  {
+    "id": "product_vendor_noida_025_098",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Kathi Roll",
+    "description": "Classic kathi roll served hot and fresh.",
+    "price": 666,
+    "discountPercent": 9,
+    "finalPrice": 606,
+    "rating": 3.7,
+    "totalRatings": 3291,
+    "category": "street-food",
+    "subCategory": "vada-pav",
+    "imageUrl": "https://cdn.myapp.com/products/kathi-roll/product_vendor_noida_025_098.webp",
+    "imageSlug": "kathi-roll",
+    "tags": [
+      "street-food",
+      "vada-pav",
+      "veg",
+      "kathi",
+      "roll"
+    ],
+    "searchKeywords": [
+      "kathi",
+      "roll",
+      "street-food",
+      "vada-pav",
+      "kathi roll"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-19T10:21:32.101Z"
+  },
+  {
+    "id": "product_vendor_noida_025_099",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Vada Pav",
+    "description": "Chef's special vada pav — perfect for a satisfying meal.",
+    "price": 446,
+    "discountPercent": 35,
+    "finalPrice": 290,
+    "rating": 4.1,
+    "totalRatings": 3319,
+    "category": "street-food",
+    "subCategory": "rolls",
+    "imageUrl": "https://cdn.myapp.com/products/vada-pav/product_vendor_noida_025_099.webp",
+    "imageSlug": "vada-pav",
+    "tags": [
+      "street-food",
+      "rolls",
+      "non-veg",
+      "vada",
+      "pav"
+    ],
+    "searchKeywords": [
+      "vada",
+      "pav",
+      "street-food",
+      "rolls",
+      "vada pav"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-13T21:27:17.061Z"
+  },
+  {
+    "id": "product_vendor_noida_025_100",
+    "vendorId": "vendor_noida_025",
+    "type": "food",
+    "name": "Dahi Bhalla",
+    "description": "Delicious dahi bhalla prepared fresh with authentic spices.",
+    "price": 412,
+    "discountPercent": 32,
+    "finalPrice": 280,
+    "rating": 4,
+    "totalRatings": 2566,
+    "category": "street-food",
+    "subCategory": "momos",
+    "imageUrl": "https://cdn.myapp.com/products/dahi-bhalla/product_vendor_noida_025_100.webp",
+    "imageSlug": "dahi-bhalla",
+    "tags": [
+      "street-food",
+      "momos",
+      "non-veg",
+      "dahi",
+      "bhalla"
+    ],
+    "searchKeywords": [
+      "dahi",
+      "bhalla",
+      "street-food",
+      "momos",
+      "dahi bhalla"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-18T04:22:27.752Z"
+  }
+]
