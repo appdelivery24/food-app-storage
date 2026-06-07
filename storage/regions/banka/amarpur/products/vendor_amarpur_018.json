@@ -1,0 +1,3563 @@
+[
+  {
+    "id": "product_vendor_amarpur_018_001",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Delicious curd rice prepared fresh with authentic spices.",
+    "price": 403,
+    "discountPercent": 35,
+    "finalPrice": 262,
+    "rating": 4.3,
+    "totalRatings": 643,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756144/food-grocery/products/curd-rice/product_vendor_noida_001_005.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "rasam",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-02T05:25:15.169Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_002",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Popular choice: Filter Coffee made with premium ingredients.",
+    "price": 875,
+    "discountPercent": 3,
+    "finalPrice": 849,
+    "rating": 4.2,
+    "totalRatings": 1432,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765139/food-grocery/products/filter-coffee/product_vendor_bangalore_007_017.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-24T19:08:44.444Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_003",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Popular choice: Garlic Bread made with premium ingredients.",
+    "price": 310,
+    "discountPercent": 35,
+    "finalPrice": 202,
+    "rating": 3.6,
+    "totalRatings": 34,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "burger",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-21T00:53:54.525Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_004",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 784,
+    "discountPercent": 14,
+    "finalPrice": 674,
+    "rating": 3.9,
+    "totalRatings": 3307,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "sandwich",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-15T21:12:55.187Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_005",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Classic masala dosa served hot and fresh.",
+    "price": 262,
+    "discountPercent": 38,
+    "finalPrice": 162,
+    "rating": 3.6,
+    "totalRatings": 810,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756164/food-grocery/products/masala-dosa/product_vendor_noida_001_003.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-01T07:27:14.331Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_006",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 717,
+    "discountPercent": 36,
+    "finalPrice": 459,
+    "rating": 4.6,
+    "totalRatings": 555,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-14T12:17:18.510Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_007",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Delicious idli sambar prepared fresh with authentic spices.",
+    "price": 673,
+    "discountPercent": 1,
+    "finalPrice": 666,
+    "rating": 4.2,
+    "totalRatings": 2531,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756158/food-grocery/products/idli-sambar/product_vendor_noida_001_001.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "dosa",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-12T01:09:49.375Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_008",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 318,
+    "discountPercent": 4,
+    "finalPrice": 305,
+    "rating": 4.6,
+    "totalRatings": 1354,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-22T13:22:50.206Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_009",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 522,
+    "discountPercent": 38,
+    "finalPrice": 324,
+    "rating": 4.4,
+    "totalRatings": 1562,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756164/food-grocery/products/masala-dosa/product_vendor_noida_001_003.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "masala"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-21T16:18:59.425Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_010",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 511,
+    "discountPercent": 27,
+    "finalPrice": 373,
+    "rating": 3.8,
+    "totalRatings": 3219,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "fries",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-20T21:09:19.747Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_011",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 604,
+    "discountPercent": 27,
+    "finalPrice": 441,
+    "rating": 4.2,
+    "totalRatings": 3269,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-22T22:09:23.794Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_012",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 388,
+    "discountPercent": 15,
+    "finalPrice": 330,
+    "rating": 4.8,
+    "totalRatings": 1889,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756144/food-grocery/products/curd-rice/product_vendor_noida_001_005.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "idli",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-16T08:51:25.226Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_013",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 176,
+    "discountPercent": 39,
+    "finalPrice": 107,
+    "rating": 4.2,
+    "totalRatings": 4445,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "french"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-27T08:59:20.324Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_014",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 388,
+    "discountPercent": 29,
+    "finalPrice": 275,
+    "rating": 4.8,
+    "totalRatings": 527,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "fries",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-17T19:26:50.524Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_015",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 314,
+    "discountPercent": 29,
+    "finalPrice": 223,
+    "rating": 4,
+    "totalRatings": 4803,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "fries",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-11T23:50:45.230Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_016",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 447,
+    "discountPercent": 33,
+    "finalPrice": 299,
+    "rating": 4.3,
+    "totalRatings": 3862,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-13T08:26:43.652Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_017",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 233,
+    "discountPercent": 3,
+    "finalPrice": 226,
+    "rating": 3.7,
+    "totalRatings": 149,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-08T19:45:14.005Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_018",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Delicious rava dosa prepared fresh with authentic spices.",
+    "price": 486,
+    "discountPercent": 31,
+    "finalPrice": 335,
+    "rating": 4,
+    "totalRatings": 3317,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780806301/food-grocery/products/rava-dosa/product_vendor_bangalore_007_010.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-20T20:11:24.258Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_019",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Popular choice: Cheese Burger made with premium ingredients.",
+    "price": 846,
+    "discountPercent": 28,
+    "finalPrice": 609,
+    "rating": 4.5,
+    "totalRatings": 1610,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "pizza",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-17T13:19:15.424Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_020",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Delicious veg sandwich prepared fresh with authentic spices.",
+    "price": 528,
+    "discountPercent": 18,
+    "finalPrice": 433,
+    "rating": 3.7,
+    "totalRatings": 1320,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "fries",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-26T16:03:18.400Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_021",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 180,
+    "discountPercent": 4,
+    "finalPrice": 173,
+    "rating": 4.6,
+    "totalRatings": 3158,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "pizza",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-26T15:42:22.142Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_022",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Chef's special hyderabadi biryani — perfect for a satisfying meal.",
+    "price": 695,
+    "discountPercent": 39,
+    "finalPrice": 424,
+    "rating": 3.8,
+    "totalRatings": 3759,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756155/food-grocery/products/hyderabadi-biryani/product_vendor_noida_001_002.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "sambar",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-13T21:36:45.618Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_023",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Chef's special uttapam — perfect for a satisfying meal.",
+    "price": 154,
+    "discountPercent": 36,
+    "finalPrice": 99,
+    "rating": 4.3,
+    "totalRatings": 2479,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780807690/food-grocery/products/uttapam/product_vendor_bangalore_007_034.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-05T14:30:02.051Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_024",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Chef's special filter coffee — perfect for a satisfying meal.",
+    "price": 267,
+    "discountPercent": 3,
+    "finalPrice": 259,
+    "rating": 4.9,
+    "totalRatings": 2445,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765139/food-grocery/products/filter-coffee/product_vendor_bangalore_007_017.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "rasam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-25T11:21:16.799Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_025",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 510,
+    "discountPercent": 5,
+    "finalPrice": 485,
+    "rating": 3.9,
+    "totalRatings": 2493,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780807690/food-grocery/products/uttapam/product_vendor_bangalore_007_034.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "idli"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-13T03:40:35.725Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_026",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Chef's special masala dosa — perfect for a satisfying meal.",
+    "price": 169,
+    "discountPercent": 4,
+    "finalPrice": 162,
+    "rating": 3.8,
+    "totalRatings": 1532,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756164/food-grocery/products/masala-dosa/product_vendor_noida_001_003.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-27T07:08:12.621Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_027",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Delicious uttapam prepared fresh with authentic spices.",
+    "price": 612,
+    "discountPercent": 1,
+    "finalPrice": 606,
+    "rating": 4.4,
+    "totalRatings": 3240,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780807690/food-grocery/products/uttapam/product_vendor_bangalore_007_034.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "rasam"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-07T16:38:04.003Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_028",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Classic masala dosa served hot and fresh.",
+    "price": 368,
+    "discountPercent": 14,
+    "finalPrice": 316,
+    "rating": 3.9,
+    "totalRatings": 3912,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756164/food-grocery/products/masala-dosa/product_vendor_noida_001_003.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "masala"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-15T11:43:05.249Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_029",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 302,
+    "discountPercent": 26,
+    "finalPrice": 223,
+    "rating": 4.8,
+    "totalRatings": 3695,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793852/food-grocery/products/medu-vada/product_vendor_bangalore_007_019.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "medu",
+      "vada"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "rasam",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-03T13:19:10.581Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_030",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 877,
+    "discountPercent": 29,
+    "finalPrice": 623,
+    "rating": 3.9,
+    "totalRatings": 2576,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756144/food-grocery/products/curd-rice/product_vendor_noida_001_005.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "uttapam",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-19T04:59:35.903Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_031",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Chef's special filter coffee — perfect for a satisfying meal.",
+    "price": 360,
+    "discountPercent": 11,
+    "finalPrice": 320,
+    "rating": 4.4,
+    "totalRatings": 3876,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765139/food-grocery/products/filter-coffee/product_vendor_bangalore_007_017.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "sambar",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-18T10:28:42.503Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_032",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Popular choice: Garlic Bread made with premium ingredients.",
+    "price": 736,
+    "discountPercent": 0,
+    "finalPrice": 736,
+    "rating": 4.5,
+    "totalRatings": 866,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "burger",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-14T19:01:38.367Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_033",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Chef's special french fries — perfect for a satisfying meal.",
+    "price": 883,
+    "discountPercent": 22,
+    "finalPrice": 689,
+    "rating": 3.8,
+    "totalRatings": 39,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "burger",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-13T20:28:17.111Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_034",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 550,
+    "discountPercent": 18,
+    "finalPrice": 451,
+    "rating": 4.8,
+    "totalRatings": 4700,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756164/food-grocery/products/masala-dosa/product_vendor_noida_001_003.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "rasam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-06T18:01:19.461Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_035",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Chef's special hyderabadi biryani — perfect for a satisfying meal.",
+    "price": 533,
+    "discountPercent": 36,
+    "finalPrice": 341,
+    "rating": 4.7,
+    "totalRatings": 4559,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756155/food-grocery/products/hyderabadi-biryani/product_vendor_noida_001_002.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "rasam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-23T01:03:47.394Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_036",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Classic uttapam served hot and fresh.",
+    "price": 752,
+    "discountPercent": 39,
+    "finalPrice": 459,
+    "rating": 3.6,
+    "totalRatings": 208,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780807690/food-grocery/products/uttapam/product_vendor_bangalore_007_034.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "rasam"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-10T04:30:43.736Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_037",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 388,
+    "discountPercent": 27,
+    "finalPrice": 283,
+    "rating": 3.9,
+    "totalRatings": 4320,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-30T22:49:30.043Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_038",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 442,
+    "discountPercent": 20,
+    "finalPrice": 354,
+    "rating": 3.8,
+    "totalRatings": 2554,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "french"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-24T05:37:35.902Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_039",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 741,
+    "discountPercent": 33,
+    "finalPrice": 496,
+    "rating": 4.5,
+    "totalRatings": 4495,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-10T05:16:56.922Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_040",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 887,
+    "discountPercent": 1,
+    "finalPrice": 878,
+    "rating": 4.1,
+    "totalRatings": 2395,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765139/food-grocery/products/filter-coffee/product_vendor_bangalore_007_017.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "idli",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-08T09:04:53.877Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_041",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Classic curd rice served hot and fresh.",
+    "price": 559,
+    "discountPercent": 12,
+    "finalPrice": 492,
+    "rating": 4.1,
+    "totalRatings": 3682,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756144/food-grocery/products/curd-rice/product_vendor_noida_001_005.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "uttapam",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-16T22:28:32.491Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_042",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Chef's special french fries — perfect for a satisfying meal.",
+    "price": 642,
+    "discountPercent": 13,
+    "finalPrice": 559,
+    "rating": 3.5,
+    "totalRatings": 1370,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "french"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-01T10:27:34.437Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_043",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Chef's special idli sambar — perfect for a satisfying meal.",
+    "price": 870,
+    "discountPercent": 37,
+    "finalPrice": 548,
+    "rating": 4.5,
+    "totalRatings": 4465,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756158/food-grocery/products/idli-sambar/product_vendor_noida_001_001.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "rasam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-19T22:27:05.568Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_044",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Popular choice: Margherita Pizza made with premium ingredients.",
+    "price": 637,
+    "discountPercent": 15,
+    "finalPrice": 541,
+    "rating": 3.5,
+    "totalRatings": 3351,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-16T15:56:06.491Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_045",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 679,
+    "discountPercent": 40,
+    "finalPrice": 407,
+    "rating": 4.1,
+    "totalRatings": 2307,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "french"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-22T02:33:41.433Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_046",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Popular choice: Masala Dosa made with premium ingredients.",
+    "price": 699,
+    "discountPercent": 13,
+    "finalPrice": 608,
+    "rating": 4.6,
+    "totalRatings": 355,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756164/food-grocery/products/masala-dosa/product_vendor_noida_001_003.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-22T20:23:57.817Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_047",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Medu Vada",
+    "description": "Chef's special medu vada — perfect for a satisfying meal.",
+    "price": 734,
+    "discountPercent": 11,
+    "finalPrice": 653,
+    "rating": 4.6,
+    "totalRatings": 2398,
+    "category": "south-indian",
+    "subCategory": "vada",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793852/food-grocery/products/medu-vada/product_vendor_bangalore_007_019.webp",
+    "imageSlug": "medu-vada",
+    "tags": [
+      "south-indian",
+      "vada",
+      "non-veg",
+      "medu"
+    ],
+    "searchKeywords": [
+      "medu",
+      "vada",
+      "south-indian",
+      "medu vada"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-02T18:43:21.020Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_048",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Chef's special uttapam — perfect for a satisfying meal.",
+    "price": 870,
+    "discountPercent": 31,
+    "finalPrice": 600,
+    "rating": 4.4,
+    "totalRatings": 2766,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780807690/food-grocery/products/uttapam/product_vendor_bangalore_007_034.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-20T23:22:39.730Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_049",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Classic uttapam served hot and fresh.",
+    "price": 511,
+    "discountPercent": 30,
+    "finalPrice": 358,
+    "rating": 4.7,
+    "totalRatings": 4533,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780807690/food-grocery/products/uttapam/product_vendor_bangalore_007_034.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "rasam"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-27T19:43:45.232Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_050",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Popular choice: Cheese Burger made with premium ingredients.",
+    "price": 677,
+    "discountPercent": 23,
+    "finalPrice": 521,
+    "rating": 4.7,
+    "totalRatings": 2576,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "fries",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-25T17:44:45.168Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_051",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Popular choice: Uttapam made with premium ingredients.",
+    "price": 527,
+    "discountPercent": 35,
+    "finalPrice": 343,
+    "rating": 4.5,
+    "totalRatings": 547,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780807690/food-grocery/products/uttapam/product_vendor_bangalore_007_034.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-24T16:43:44.149Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_052",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 114,
+    "discountPercent": 19,
+    "finalPrice": 92,
+    "rating": 4.3,
+    "totalRatings": 1501,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-06T04:21:49.754Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_053",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 759,
+    "discountPercent": 5,
+    "finalPrice": 721,
+    "rating": 4.8,
+    "totalRatings": 4609,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-15T16:07:08.033Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_054",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Classic chicken wrap served hot and fresh.",
+    "price": 813,
+    "discountPercent": 19,
+    "finalPrice": 659,
+    "rating": 4.7,
+    "totalRatings": 3291,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "pizza",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-11T13:42:25.425Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_055",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 107,
+    "discountPercent": 1,
+    "finalPrice": 106,
+    "rating": 3.6,
+    "totalRatings": 3304,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-07T03:04:47.095Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_056",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 125,
+    "discountPercent": 13,
+    "finalPrice": 109,
+    "rating": 4.8,
+    "totalRatings": 2685,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-04T02:57:51.554Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_057",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 857,
+    "discountPercent": 14,
+    "finalPrice": 737,
+    "rating": 4.8,
+    "totalRatings": 1994,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-20T12:14:35.689Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_058",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 419,
+    "discountPercent": 14,
+    "finalPrice": 360,
+    "rating": 3.6,
+    "totalRatings": 794,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780806301/food-grocery/products/rava-dosa/product_vendor_bangalore_007_010.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-18T17:09:58.926Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_059",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Classic masala dosa served hot and fresh.",
+    "price": 310,
+    "discountPercent": 30,
+    "finalPrice": 217,
+    "rating": 3.9,
+    "totalRatings": 547,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756164/food-grocery/products/masala-dosa/product_vendor_noida_001_003.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-27T09:58:28.702Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_060",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 453,
+    "discountPercent": 24,
+    "finalPrice": 344,
+    "rating": 4.3,
+    "totalRatings": 525,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-25T21:28:03.130Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_061",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Delicious hyderabadi biryani prepared fresh with authentic spices.",
+    "price": 615,
+    "discountPercent": 4,
+    "finalPrice": 590,
+    "rating": 4.4,
+    "totalRatings": 25,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756155/food-grocery/products/hyderabadi-biryani/product_vendor_noida_001_002.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "dosa",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-07T05:00:52.731Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_062",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 731,
+    "discountPercent": 0,
+    "finalPrice": 731,
+    "rating": 4.8,
+    "totalRatings": 4392,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-23T07:29:19.380Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_063",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Delicious curd rice prepared fresh with authentic spices.",
+    "price": 862,
+    "discountPercent": 40,
+    "finalPrice": 517,
+    "rating": 3.8,
+    "totalRatings": 2691,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756144/food-grocery/products/curd-rice/product_vendor_noida_001_005.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "idli",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-24T10:50:03.790Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_064",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Classic filter coffee served hot and fresh.",
+    "price": 627,
+    "discountPercent": 4,
+    "finalPrice": 602,
+    "rating": 4.2,
+    "totalRatings": 1135,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765139/food-grocery/products/filter-coffee/product_vendor_bangalore_007_017.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "dosa",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-27T04:41:23.131Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_065",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Classic rava dosa served hot and fresh.",
+    "price": 104,
+    "discountPercent": 21,
+    "finalPrice": 82,
+    "rating": 4.7,
+    "totalRatings": 3223,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780806301/food-grocery/products/rava-dosa/product_vendor_bangalore_007_010.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "rava"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-12T13:05:47.886Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_066",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 352,
+    "discountPercent": 25,
+    "finalPrice": 264,
+    "rating": 4.4,
+    "totalRatings": 2686,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "pizza",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-21T00:57:16.778Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_067",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Classic curd rice served hot and fresh.",
+    "price": 779,
+    "discountPercent": 38,
+    "finalPrice": 483,
+    "rating": 3.7,
+    "totalRatings": 3022,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756144/food-grocery/products/curd-rice/product_vendor_noida_001_005.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "rasam",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-06T23:45:52.767Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_068",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Popular choice: Rava Dosa made with premium ingredients.",
+    "price": 284,
+    "discountPercent": 6,
+    "finalPrice": 267,
+    "rating": 4.2,
+    "totalRatings": 4903,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780806301/food-grocery/products/rava-dosa/product_vendor_bangalore_007_010.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-05T20:37:05.586Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_069",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Popular choice: Margherita Pizza made with premium ingredients.",
+    "price": 691,
+    "discountPercent": 19,
+    "finalPrice": 560,
+    "rating": 4.5,
+    "totalRatings": 2612,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-03T00:24:44.867Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_070",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Delicious veg sandwich prepared fresh with authentic spices.",
+    "price": 286,
+    "discountPercent": 33,
+    "finalPrice": 192,
+    "rating": 3.5,
+    "totalRatings": 841,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-12T21:39:16.608Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_071",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 181,
+    "discountPercent": 12,
+    "finalPrice": 159,
+    "rating": 4,
+    "totalRatings": 563,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756144/food-grocery/products/curd-rice/product_vendor_noida_001_005.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "dosa",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-11T23:55:25.333Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_072",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 130,
+    "discountPercent": 11,
+    "finalPrice": 116,
+    "rating": 4.7,
+    "totalRatings": 2021,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "fries",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-24T15:07:21.654Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_073",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 829,
+    "discountPercent": 6,
+    "finalPrice": 779,
+    "rating": 3.8,
+    "totalRatings": 2704,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756164/food-grocery/products/masala-dosa/product_vendor_noida_001_003.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "sambar",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-26T19:32:18.447Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_074",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Chef's special hyderabadi biryani — perfect for a satisfying meal.",
+    "price": 289,
+    "discountPercent": 17,
+    "finalPrice": 240,
+    "rating": 3.5,
+    "totalRatings": 3793,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756155/food-grocery/products/hyderabadi-biryani/product_vendor_noida_001_002.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "rasam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-10T20:43:13.691Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_075",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 276,
+    "discountPercent": 1,
+    "finalPrice": 273,
+    "rating": 4.2,
+    "totalRatings": 593,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "sandwich",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-16T08:18:24.216Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_076",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Delicious idli sambar prepared fresh with authentic spices.",
+    "price": 541,
+    "discountPercent": 31,
+    "finalPrice": 373,
+    "rating": 3.5,
+    "totalRatings": 3081,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756158/food-grocery/products/idli-sambar/product_vendor_noida_001_001.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "uttapam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-20T07:32:55.765Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_077",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Delicious curd rice prepared fresh with authentic spices.",
+    "price": 779,
+    "discountPercent": 17,
+    "finalPrice": 647,
+    "rating": 3.6,
+    "totalRatings": 3797,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756144/food-grocery/products/curd-rice/product_vendor_noida_001_005.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "rasam",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-03T19:29:12.537Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_078",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Delicious filter coffee prepared fresh with authentic spices.",
+    "price": 808,
+    "discountPercent": 31,
+    "finalPrice": 558,
+    "rating": 3.6,
+    "totalRatings": 4706,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765139/food-grocery/products/filter-coffee/product_vendor_bangalore_007_017.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "uttapam",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-06T17:15:32.651Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_079",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 474,
+    "discountPercent": 32,
+    "finalPrice": 322,
+    "rating": 4.9,
+    "totalRatings": 2776,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-17T04:08:03.197Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_080",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Chef's special curd rice — perfect for a satisfying meal.",
+    "price": 138,
+    "discountPercent": 28,
+    "finalPrice": 99,
+    "rating": 4.4,
+    "totalRatings": 331,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756144/food-grocery/products/curd-rice/product_vendor_noida_001_005.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "sambar",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-09T23:14:59.269Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_081",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Delicious idli sambar prepared fresh with authentic spices.",
+    "price": 392,
+    "discountPercent": 7,
+    "finalPrice": 365,
+    "rating": 4.2,
+    "totalRatings": 4917,
+    "category": "south-indian",
+    "subCategory": "rasam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756158/food-grocery/products/idli-sambar/product_vendor_noida_001_001.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "rasam",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "rasam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-29T07:34:51.530Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_082",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 136,
+    "discountPercent": 26,
+    "finalPrice": 101,
+    "rating": 4,
+    "totalRatings": 1373,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-09T23:22:25.071Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_083",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 258,
+    "discountPercent": 14,
+    "finalPrice": 222,
+    "rating": 4.7,
+    "totalRatings": 2346,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "sandwich",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-31T19:02:46.820Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_084",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Popular choice: Idli Sambar made with premium ingredients.",
+    "price": 844,
+    "discountPercent": 11,
+    "finalPrice": 751,
+    "rating": 3.6,
+    "totalRatings": 1380,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756158/food-grocery/products/idli-sambar/product_vendor_noida_001_001.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "dosa",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-15T05:26:56.523Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_085",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 822,
+    "discountPercent": 22,
+    "finalPrice": 641,
+    "rating": 4.1,
+    "totalRatings": 1471,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-19T06:39:56.981Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_086",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 477,
+    "discountPercent": 28,
+    "finalPrice": 343,
+    "rating": 3.6,
+    "totalRatings": 1352,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "pizza",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-17T19:13:04.667Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_087",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Rava Dosa",
+    "description": "Popular choice: Rava Dosa made with premium ingredients.",
+    "price": 317,
+    "discountPercent": 3,
+    "finalPrice": 307,
+    "rating": 4,
+    "totalRatings": 2809,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780806301/food-grocery/products/rava-dosa/product_vendor_bangalore_007_010.webp",
+    "imageSlug": "rava-dosa",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "rava",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "rava",
+      "dosa",
+      "south-indian",
+      "idli",
+      "rava dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-16T12:33:23.812Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_088",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Classic idli sambar served hot and fresh.",
+    "price": 630,
+    "discountPercent": 28,
+    "finalPrice": 454,
+    "rating": 3.7,
+    "totalRatings": 608,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756158/food-grocery/products/idli-sambar/product_vendor_noida_001_001.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "dosa",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-03T20:49:49.846Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_089",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 763,
+    "discountPercent": 33,
+    "finalPrice": 511,
+    "rating": 4.6,
+    "totalRatings": 1067,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "pizza",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-09T04:57:56.562Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_090",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Classic curd rice served hot and fresh.",
+    "price": 232,
+    "discountPercent": 28,
+    "finalPrice": 167,
+    "rating": 4.6,
+    "totalRatings": 3614,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756144/food-grocery/products/curd-rice/product_vendor_noida_001_005.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "idli",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "idli",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-08T08:03:08.849Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_091",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 498,
+    "discountPercent": 17,
+    "finalPrice": 413,
+    "rating": 4.5,
+    "totalRatings": 2024,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "wrap",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-08T14:30:37.409Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_092",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Popular choice: Curd Rice made with premium ingredients.",
+    "price": 722,
+    "discountPercent": 0,
+    "finalPrice": 722,
+    "rating": 4,
+    "totalRatings": 3731,
+    "category": "south-indian",
+    "subCategory": "sambar",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756144/food-grocery/products/curd-rice/product_vendor_noida_001_005.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "sambar",
+      "non-veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "sambar",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-02T11:26:47.315Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_093",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Delicious masala dosa prepared fresh with authentic spices.",
+    "price": 620,
+    "discountPercent": 32,
+    "finalPrice": 422,
+    "rating": 4.7,
+    "totalRatings": 1750,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756164/food-grocery/products/masala-dosa/product_vendor_noida_001_003.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-06-03T12:26:47.856Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_094",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 335,
+    "discountPercent": 20,
+    "finalPrice": 268,
+    "rating": 4.6,
+    "totalRatings": 309,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-25T04:15:36.913Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_095",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Idli Sambar",
+    "description": "Classic idli sambar served hot and fresh.",
+    "price": 646,
+    "discountPercent": 14,
+    "finalPrice": 556,
+    "rating": 4.7,
+    "totalRatings": 2450,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756158/food-grocery/products/idli-sambar/product_vendor_noida_001_001.webp",
+    "imageSlug": "idli-sambar",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "idli",
+      "sambar"
+    ],
+    "searchKeywords": [
+      "idli",
+      "sambar",
+      "south-indian",
+      "uttapam",
+      "idli sambar"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-20T08:40:44.760Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_096",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Curd Rice",
+    "description": "Popular choice: Curd Rice made with premium ingredients.",
+    "price": 561,
+    "discountPercent": 30,
+    "finalPrice": 393,
+    "rating": 3.6,
+    "totalRatings": 98,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756144/food-grocery/products/curd-rice/product_vendor_noida_001_005.webp",
+    "imageSlug": "curd-rice",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "curd",
+      "rice"
+    ],
+    "searchKeywords": [
+      "curd",
+      "rice",
+      "south-indian",
+      "idli",
+      "curd rice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-26T17:49:16.548Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_097",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Uttapam",
+    "description": "Popular choice: Uttapam made with premium ingredients.",
+    "price": 420,
+    "discountPercent": 6,
+    "finalPrice": 395,
+    "rating": 4.8,
+    "totalRatings": 2452,
+    "category": "south-indian",
+    "subCategory": "idli",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780807690/food-grocery/products/uttapam/product_vendor_bangalore_007_034.webp",
+    "imageSlug": "uttapam",
+    "tags": [
+      "south-indian",
+      "idli",
+      "veg",
+      "uttapam"
+    ],
+    "searchKeywords": [
+      "uttapam",
+      "south-indian",
+      "idli"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-05T08:57:23.484Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_098",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Filter Coffee",
+    "description": "Popular choice: Filter Coffee made with premium ingredients.",
+    "price": 168,
+    "discountPercent": 27,
+    "finalPrice": 123,
+    "rating": 4,
+    "totalRatings": 2706,
+    "category": "south-indian",
+    "subCategory": "dosa",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765139/food-grocery/products/filter-coffee/product_vendor_bangalore_007_017.webp",
+    "imageSlug": "filter-coffee",
+    "tags": [
+      "south-indian",
+      "dosa",
+      "non-veg",
+      "filter",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "filter",
+      "coffee",
+      "south-indian",
+      "dosa",
+      "filter coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-02T10:31:01.929Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_099",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Masala Dosa",
+    "description": "Chef's special masala dosa — perfect for a satisfying meal.",
+    "price": 836,
+    "discountPercent": 21,
+    "finalPrice": 660,
+    "rating": 4.7,
+    "totalRatings": 3073,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756164/food-grocery/products/masala-dosa/product_vendor_noida_001_003.webp",
+    "imageSlug": "masala-dosa",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "masala",
+      "dosa"
+    ],
+    "searchKeywords": [
+      "masala",
+      "dosa",
+      "south-indian",
+      "uttapam",
+      "masala dosa"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-06-01T21:32:28.914Z"
+  },
+  {
+    "id": "product_vendor_amarpur_018_100",
+    "vendorId": "vendor_amarpur_018",
+    "type": "food",
+    "name": "Hyderabadi Biryani",
+    "description": "Delicious hyderabadi biryani prepared fresh with authentic spices.",
+    "price": 115,
+    "discountPercent": 34,
+    "finalPrice": 76,
+    "rating": 3.6,
+    "totalRatings": 2021,
+    "category": "south-indian",
+    "subCategory": "uttapam",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756155/food-grocery/products/hyderabadi-biryani/product_vendor_noida_001_002.webp",
+    "imageSlug": "hyderabadi-biryani",
+    "tags": [
+      "south-indian",
+      "uttapam",
+      "veg",
+      "hyderabadi",
+      "biryani"
+    ],
+    "searchKeywords": [
+      "hyderabadi",
+      "biryani",
+      "south-indian",
+      "uttapam",
+      "hyderabadi biryani"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-02T16:40:28.338Z"
+  }
+]

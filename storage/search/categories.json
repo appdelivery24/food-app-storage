@@ -1,17 +1,146 @@
 {
   "version": 1,
-  "count": 14,
-  "updatedAt": "2026-06-06T13:26:33.635Z",
+  "count": 18,
+  "updatedAt": "2026-06-07T14:41:36.342Z",
   "items": [
+    {
+      "id": "chinese",
+      "slug": "chinese",
+      "vendorCount": 72,
+      "productCount": 3657,
+      "cities": [
+        "delhi",
+        "noida",
+        "gurgaon",
+        "mumbai",
+        "bangalore",
+        "amarpur"
+      ],
+      "types": [
+        "restaurant"
+      ],
+      "searchTokens": [
+        "chinese"
+      ]
+    },
+    {
+      "id": "continental",
+      "slug": "continental",
+      "vendorCount": 75,
+      "productCount": 3836,
+      "cities": [
+        "delhi",
+        "noida",
+        "gurgaon",
+        "mumbai",
+        "bangalore",
+        "amarpur"
+      ],
+      "types": [
+        "restaurant"
+      ],
+      "searchTokens": [
+        "continental"
+      ]
+    },
+    {
+      "id": "north-indian",
+      "slug": "north-indian",
+      "vendorCount": 57,
+      "productCount": 2871,
+      "cities": [
+        "delhi",
+        "noida",
+        "gurgaon",
+        "mumbai",
+        "bangalore",
+        "amarpur"
+      ],
+      "types": [
+        "restaurant"
+      ],
+      "searchTokens": [
+        "north-indian",
+        "north",
+        "indian"
+      ]
+    },
+    {
+      "id": "fast-food",
+      "slug": "fast-food",
+      "vendorCount": 54,
+      "productCount": 2856,
+      "cities": [
+        "delhi",
+        "noida",
+        "gurgaon",
+        "mumbai",
+        "bangalore",
+        "amarpur"
+      ],
+      "types": [
+        "restaurant"
+      ],
+      "searchTokens": [
+        "fast-food",
+        "fast",
+        "food"
+      ]
+    },
+    {
+      "id": "healthy",
+      "slug": "healthy",
+      "vendorCount": 66,
+      "productCount": 3209,
+      "cities": [
+        "delhi",
+        "noida",
+        "gurgaon",
+        "mumbai",
+        "bangalore",
+        "amarpur"
+      ],
+      "types": [
+        "restaurant"
+      ],
+      "searchTokens": [
+        "healthy"
+      ]
+    },
+    {
+      "id": "south-indian",
+      "slug": "south-indian",
+      "vendorCount": 53,
+      "productCount": 2490,
+      "cities": [
+        "delhi",
+        "noida",
+        "gurgaon",
+        "mumbai",
+        "bangalore",
+        "amarpur"
+      ],
+      "types": [
+        "restaurant"
+      ],
+      "searchTokens": [
+        "south-indian",
+        "south",
+        "indian"
+      ]
+    },
     {
       "id": "street-food",
       "slug": "street-food",
-      "vendorCount": 3,
-      "productCount": 9,
+      "vendorCount": 58,
+      "productCount": 3061,
       "cities": [
         "delhi",
+        "noida",
         "gurgaon",
-        "bangalore"
+        "mumbai",
+        "bangalore",
+        "amarpur"
       ],
       "types": [
         "restaurant"
@@ -23,31 +152,139 @@
       ]
     },
     {
-      "id": "baby-care",
-      "slug": "baby-care",
-      "vendorCount": 2,
-      "productCount": 4,
+      "id": "beverages",
+      "slug": "beverages",
+      "vendorCount": 53,
+      "productCount": 2461,
       "cities": [
         "delhi",
-        "noida"
+        "noida",
+        "gurgaon",
+        "mumbai",
+        "bangalore",
+        "amarpur"
+      ],
+      "types": [
+        "restaurant"
+      ],
+      "searchTokens": [
+        "beverages"
+      ]
+    },
+    {
+      "id": "biryani",
+      "slug": "biryani",
+      "vendorCount": 56,
+      "productCount": 2706,
+      "cities": [
+        "delhi",
+        "noida",
+        "gurgaon",
+        "mumbai",
+        "bangalore",
+        "amarpur"
+      ],
+      "types": [
+        "restaurant"
+      ],
+      "searchTokens": [
+        "biryani"
+      ]
+    },
+    {
+      "id": "desserts",
+      "slug": "desserts",
+      "vendorCount": 55,
+      "productCount": 2853,
+      "cities": [
+        "delhi",
+        "noida",
+        "gurgaon",
+        "mumbai",
+        "bangalore",
+        "amarpur"
+      ],
+      "types": [
+        "restaurant"
+      ],
+      "searchTokens": [
+        "desserts"
+      ]
+    },
+    {
+      "id": "frozen",
+      "slug": "frozen",
+      "vendorCount": 127,
+      "productCount": 4140,
+      "cities": [
+        "delhi",
+        "noida",
+        "gurgaon",
+        "mumbai",
+        "bangalore",
+        "amarpur"
       ],
       "types": [
         "grocery"
       ],
       "searchTokens": [
-        "baby-care",
-        "baby",
+        "frozen"
+      ]
+    },
+    {
+      "id": "household",
+      "slug": "household",
+      "vendorCount": 102,
+      "productCount": 3381,
+      "cities": [
+        "delhi",
+        "noida",
+        "gurgaon",
+        "mumbai",
+        "bangalore",
+        "amarpur"
+      ],
+      "types": [
+        "grocery"
+      ],
+      "searchTokens": [
+        "household"
+      ]
+    },
+    {
+      "id": "personal-care",
+      "slug": "personal-care",
+      "vendorCount": 120,
+      "productCount": 4067,
+      "cities": [
+        "delhi",
+        "noida",
+        "gurgaon",
+        "mumbai",
+        "bangalore",
+        "amarpur"
+      ],
+      "types": [
+        "grocery"
+      ],
+      "searchTokens": [
+        "personal-care",
+        "personal",
         "care"
       ]
     },
     {
       "id": "dairy-bread-eggs",
       "slug": "dairy-bread-eggs",
-      "vendorCount": 2,
-      "productCount": 3,
+      "vendorCount": 110,
+      "productCount": 3933,
       "cities": [
         "delhi",
-        "noida"
+        "noida",
+        "gurgaon",
+        "mumbai",
+        "bangalore",
+        "amarpur"
       ],
       "types": [
         "grocery"
@@ -60,63 +297,39 @@
       ]
     },
     {
-      "id": "personal-care",
-      "slug": "personal-care",
-      "vendorCount": 1,
-      "productCount": 1,
+      "id": "baby-care",
+      "slug": "baby-care",
+      "vendorCount": 103,
+      "productCount": 3390,
       "cities": [
-        "delhi"
-      ],
-      "types": [
-        "grocery"
-      ],
-      "searchTokens": [
-        "personal-care",
-        "personal",
-        "care"
-      ]
-    },
-    {
-      "id": "south-indian",
-      "slug": "south-indian",
-      "vendorCount": 1,
-      "productCount": 5,
-      "cities": [
-        "noida"
-      ],
-      "types": [
-        "restaurant"
-      ],
-      "searchTokens": [
-        "south-indian",
-        "south",
-        "indian"
-      ]
-    },
-    {
-      "id": "household",
-      "slug": "household",
-      "vendorCount": 3,
-      "productCount": 3,
-      "cities": [
+        "delhi",
         "noida",
         "gurgaon",
-        "bangalore"
+        "mumbai",
+        "bangalore",
+        "amarpur"
       ],
       "types": [
         "grocery"
       ],
       "searchTokens": [
-        "household"
+        "baby-care",
+        "baby",
+        "care"
       ]
     },
     {
       "id": "snacks-beverages",
       "slug": "snacks-beverages",
-      "vendorCount": 1,
-      "productCount": 2,
+      "vendorCount": 111,
+      "productCount": 3608,
       "cities": [
-        "noida"
+        "delhi",
+        "noida",
+        "gurgaon",
+        "mumbai",
+        "bangalore",
+        "amarpur"
       ],
       "types": [
         "grocery"
@@ -128,62 +341,17 @@
       ]
     },
     {
-      "id": "biryani",
-      "slug": "biryani",
-      "vendorCount": 1,
-      "productCount": 2,
-      "cities": [
-        "gurgaon"
-      ],
-      "types": [
-        "restaurant"
-      ],
-      "searchTokens": [
-        "biryani"
-      ]
-    },
-    {
-      "id": "north-indian",
-      "slug": "north-indian",
-      "vendorCount": 1,
-      "productCount": 1,
-      "cities": [
-        "gurgaon"
-      ],
-      "types": [
-        "restaurant"
-      ],
-      "searchTokens": [
-        "north-indian",
-        "north",
-        "indian"
-      ]
-    },
-    {
-      "id": "fruits-vegetables",
-      "slug": "fruits-vegetables",
-      "vendorCount": 1,
-      "productCount": 2,
-      "cities": [
-        "gurgaon"
-      ],
-      "types": [
-        "grocery"
-      ],
-      "searchTokens": [
-        "fruits-vegetables",
-        "fruits",
-        "vegetables"
-      ]
-    },
-    {
       "id": "staples",
       "slug": "staples",
-      "vendorCount": 2,
-      "productCount": 5,
+      "vendorCount": 120,
+      "productCount": 4118,
       "cities": [
+        "delhi",
+        "noida",
         "gurgaon",
-        "mumbai"
+        "mumbai",
+        "bangalore",
+        "amarpur"
       ],
       "types": [
         "grocery"
@@ -193,50 +361,25 @@
       ]
     },
     {
-      "id": "healthy",
-      "slug": "healthy",
-      "vendorCount": 2,
-      "productCount": 6,
+      "id": "fruits-vegetables",
+      "slug": "fruits-vegetables",
+      "vendorCount": 104,
+      "productCount": 3363,
       "cities": [
+        "delhi",
+        "noida",
+        "gurgaon",
         "mumbai",
-        "bangalore"
-      ],
-      "types": [
-        "restaurant"
-      ],
-      "searchTokens": [
-        "healthy"
-      ]
-    },
-    {
-      "id": "frozen",
-      "slug": "frozen",
-      "vendorCount": 2,
-      "productCount": 5,
-      "cities": [
-        "mumbai",
-        "bangalore"
+        "bangalore",
+        "amarpur"
       ],
       "types": [
         "grocery"
       ],
       "searchTokens": [
-        "frozen"
-      ]
-    },
-    {
-      "id": "continental",
-      "slug": "continental",
-      "vendorCount": 1,
-      "productCount": 2,
-      "cities": [
-        "bangalore"
-      ],
-      "types": [
-        "restaurant"
-      ],
-      "searchTokens": [
-        "continental"
+        "fruits-vegetables",
+        "fruits",
+        "vegetables"
       ]
     }
   ]

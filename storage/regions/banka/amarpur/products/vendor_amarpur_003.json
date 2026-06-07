@@ -1,0 +1,3572 @@
+[
+  {
+    "id": "product_vendor_amarpur_003_001",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 789,
+    "discountPercent": 36,
+    "finalPrice": 505,
+    "rating": 3.6,
+    "totalRatings": 492,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756177/food-grocery/products/tomato-soup/product_vendor_bangalore_001_002.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-09T00:06:18.170Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_002",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 673,
+    "discountPercent": 31,
+    "finalPrice": 464,
+    "rating": 3.7,
+    "totalRatings": 2805,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-18T18:13:18.289Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_003",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 751,
+    "discountPercent": 14,
+    "finalPrice": 646,
+    "rating": 4,
+    "totalRatings": 2470,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756177/food-grocery/products/tomato-soup/product_vendor_bangalore_001_002.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-13T14:18:28.780Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_004",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 851,
+    "discountPercent": 7,
+    "finalPrice": 791,
+    "rating": 3.7,
+    "totalRatings": 4179,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762960/food-grocery/products/caesar-salad/product_vendor_bangalore_003_010.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-18T17:21:00.602Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_005",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 647,
+    "discountPercent": 36,
+    "finalPrice": 414,
+    "rating": 4.7,
+    "totalRatings": 2736,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756172/food-grocery/products/protein-smoothie/product_vendor_mumbai_001_002.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-07T14:56:01.358Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_006",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 894,
+    "discountPercent": 16,
+    "finalPrice": 751,
+    "rating": 4,
+    "totalRatings": 2936,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780791291/food-grocery/products/grilled-sandwich/product_vendor_bangalore_003_039.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "soup",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-21T18:11:18.614Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_007",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 440,
+    "discountPercent": 22,
+    "finalPrice": 343,
+    "rating": 4.7,
+    "totalRatings": 1216,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762960/food-grocery/products/caesar-salad/product_vendor_bangalore_003_010.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "steak",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-12T09:04:57.746Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_008",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 150,
+    "discountPercent": 12,
+    "finalPrice": 132,
+    "rating": 3.7,
+    "totalRatings": 1162,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-07T11:10:03.085Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_009",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 518,
+    "discountPercent": 12,
+    "finalPrice": 456,
+    "rating": 4.3,
+    "totalRatings": 447,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756177/food-grocery/products/tomato-soup/product_vendor_bangalore_001_002.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "tomato"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-23T19:05:43.111Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_010",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Popular choice: Grilled Chicken Salad made with premium ingredients.",
+    "price": 803,
+    "discountPercent": 28,
+    "finalPrice": 578,
+    "rating": 4,
+    "totalRatings": 2248,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-26T23:55:17.972Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_011",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 560,
+    "discountPercent": 14,
+    "finalPrice": 482,
+    "rating": 4.7,
+    "totalRatings": 2886,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "smoothie",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-12T18:42:06.602Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_012",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 282,
+    "discountPercent": 10,
+    "finalPrice": 254,
+    "rating": 4.2,
+    "totalRatings": 4187,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756177/food-grocery/products/tomato-soup/product_vendor_bangalore_001_002.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "risotto",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-25T19:02:34.334Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_013",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 779,
+    "discountPercent": 14,
+    "finalPrice": 670,
+    "rating": 4,
+    "totalRatings": 920,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-16T09:31:53.411Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_014",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Popular choice: Grilled Chicken Salad made with premium ingredients.",
+    "price": 509,
+    "discountPercent": 24,
+    "finalPrice": 387,
+    "rating": 3.7,
+    "totalRatings": 500,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-06-01T09:25:46.680Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_015",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 264,
+    "discountPercent": 4,
+    "finalPrice": 253,
+    "rating": 3.8,
+    "totalRatings": 151,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780788362/food-grocery/products/grilled-fish/product_vendor_bangalore_003_003.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-12T00:38:30.869Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_016",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 682,
+    "discountPercent": 22,
+    "finalPrice": 532,
+    "rating": 3.9,
+    "totalRatings": 446,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756149/food-grocery/products/greek-salad/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-21T10:03:16.628Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_017",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 763,
+    "discountPercent": 21,
+    "finalPrice": 603,
+    "rating": 4.1,
+    "totalRatings": 3772,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-26T22:33:59.129Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_018",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 280,
+    "discountPercent": 5,
+    "finalPrice": 266,
+    "rating": 4.4,
+    "totalRatings": 3863,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762960/food-grocery/products/caesar-salad/product_vendor_bangalore_003_010.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-17T23:59:20.272Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_019",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 357,
+    "discountPercent": 2,
+    "finalPrice": 350,
+    "rating": 4.1,
+    "totalRatings": 969,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756149/food-grocery/products/greek-salad/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-08T15:29:19.778Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_020",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 818,
+    "discountPercent": 25,
+    "finalPrice": 614,
+    "rating": 4.4,
+    "totalRatings": 371,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793913/food-grocery/products/mushroom-risotto/product_vendor_bangalore_003_004.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-27T10:00:07.676Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_021",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 582,
+    "discountPercent": 26,
+    "finalPrice": 431,
+    "rating": 4.2,
+    "totalRatings": 1827,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793913/food-grocery/products/mushroom-risotto/product_vendor_bangalore_003_004.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-03T15:38:30.175Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_022",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 864,
+    "discountPercent": 24,
+    "finalPrice": 657,
+    "rating": 4.4,
+    "totalRatings": 255,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-04T00:14:00.570Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_023",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 331,
+    "discountPercent": 23,
+    "finalPrice": 255,
+    "rating": 4.5,
+    "totalRatings": 274,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-06-02T21:51:28.536Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_024",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 187,
+    "discountPercent": 32,
+    "finalPrice": 127,
+    "rating": 4.9,
+    "totalRatings": 629,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-29T14:10:16.431Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_025",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 706,
+    "discountPercent": 33,
+    "finalPrice": 473,
+    "rating": 4.8,
+    "totalRatings": 4229,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-22T19:09:36.947Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_026",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 157,
+    "discountPercent": 20,
+    "finalPrice": 126,
+    "rating": 4.4,
+    "totalRatings": 824,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756172/food-grocery/products/protein-smoothie/product_vendor_mumbai_001_002.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-14T12:36:25.462Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_027",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 823,
+    "discountPercent": 27,
+    "finalPrice": 601,
+    "rating": 3.6,
+    "totalRatings": 1290,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-03T19:11:14.782Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_028",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 697,
+    "discountPercent": 24,
+    "finalPrice": 530,
+    "rating": 4.4,
+    "totalRatings": 4862,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756172/food-grocery/products/protein-smoothie/product_vendor_mumbai_001_002.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-04T13:16:58.837Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_029",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 81,
+    "discountPercent": 2,
+    "finalPrice": 79,
+    "rating": 4.4,
+    "totalRatings": 909,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-28T04:29:13.219Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_030",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Popular choice: Grilled Chicken Salad made with premium ingredients.",
+    "price": 380,
+    "discountPercent": 32,
+    "finalPrice": 258,
+    "rating": 4,
+    "totalRatings": 3496,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-13T04:02:33.005Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_031",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 743,
+    "discountPercent": 39,
+    "finalPrice": 453,
+    "rating": 4.5,
+    "totalRatings": 3447,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-27T00:29:18.627Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_032",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 750,
+    "discountPercent": 39,
+    "finalPrice": 458,
+    "rating": 4,
+    "totalRatings": 764,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-29T20:52:25.935Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_033",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 765,
+    "discountPercent": 24,
+    "finalPrice": 581,
+    "rating": 4,
+    "totalRatings": 4342,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "risotto",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-30T02:00:13.399Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_034",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Delicious mushroom risotto prepared fresh with authentic spices.",
+    "price": 776,
+    "discountPercent": 29,
+    "finalPrice": 551,
+    "rating": 3.7,
+    "totalRatings": 2154,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793913/food-grocery/products/mushroom-risotto/product_vendor_bangalore_003_004.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "mushroom"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-09T13:20:27.554Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_035",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 876,
+    "discountPercent": 22,
+    "finalPrice": 683,
+    "rating": 4.5,
+    "totalRatings": 3885,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762960/food-grocery/products/caesar-salad/product_vendor_bangalore_003_010.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "steak",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-21T22:15:07.953Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_036",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 492,
+    "discountPercent": 27,
+    "finalPrice": 359,
+    "rating": 4.2,
+    "totalRatings": 1569,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780788362/food-grocery/products/grilled-fish/product_vendor_bangalore_003_003.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-21T23:31:34.753Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_037",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 323,
+    "discountPercent": 28,
+    "finalPrice": 233,
+    "rating": 3.7,
+    "totalRatings": 1309,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756172/food-grocery/products/protein-smoothie/product_vendor_mumbai_001_002.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-08T01:10:22.382Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_038",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Classic grilled sandwich served hot and fresh.",
+    "price": 656,
+    "discountPercent": 9,
+    "finalPrice": 597,
+    "rating": 4.1,
+    "totalRatings": 2853,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780791291/food-grocery/products/grilled-sandwich/product_vendor_bangalore_003_039.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "soup",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-11T19:03:00.072Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_039",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 787,
+    "discountPercent": 18,
+    "finalPrice": 645,
+    "rating": 4.5,
+    "totalRatings": 4855,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-09T01:47:24.214Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_040",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 758,
+    "discountPercent": 20,
+    "finalPrice": 606,
+    "rating": 3.7,
+    "totalRatings": 3098,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-20T05:38:05.242Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_041",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 202,
+    "discountPercent": 9,
+    "finalPrice": 184,
+    "rating": 3.7,
+    "totalRatings": 3362,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756149/food-grocery/products/greek-salad/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-21T02:54:22.351Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_042",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 724,
+    "discountPercent": 37,
+    "finalPrice": 456,
+    "rating": 3.9,
+    "totalRatings": 585,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-17T04:01:19.265Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_043",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 446,
+    "discountPercent": 0,
+    "finalPrice": 446,
+    "rating": 4.1,
+    "totalRatings": 3633,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756177/food-grocery/products/tomato-soup/product_vendor_bangalore_001_002.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-09T20:08:18.841Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_044",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 319,
+    "discountPercent": 21,
+    "finalPrice": 252,
+    "rating": 3.8,
+    "totalRatings": 294,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-22T10:47:43.839Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_045",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Classic greek salad served hot and fresh.",
+    "price": 357,
+    "discountPercent": 5,
+    "finalPrice": 339,
+    "rating": 4.8,
+    "totalRatings": 2339,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756149/food-grocery/products/greek-salad/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-27T20:20:04.877Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_046",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 828,
+    "discountPercent": 20,
+    "finalPrice": 662,
+    "rating": 4.1,
+    "totalRatings": 2197,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762960/food-grocery/products/caesar-salad/product_vendor_bangalore_003_010.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-09T03:53:07.392Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_047",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 627,
+    "discountPercent": 32,
+    "finalPrice": 426,
+    "rating": 3.5,
+    "totalRatings": 1180,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "risotto",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-29T23:05:09.388Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_048",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 606,
+    "discountPercent": 7,
+    "finalPrice": 564,
+    "rating": 4.3,
+    "totalRatings": 3758,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-06-02T14:03:42.319Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_049",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 755,
+    "discountPercent": 30,
+    "finalPrice": 529,
+    "rating": 4.6,
+    "totalRatings": 2384,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756177/food-grocery/products/tomato-soup/product_vendor_bangalore_001_002.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-28T01:19:50.511Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_050",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 518,
+    "discountPercent": 12,
+    "finalPrice": 456,
+    "rating": 4.5,
+    "totalRatings": 3402,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756172/food-grocery/products/protein-smoothie/product_vendor_mumbai_001_002.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-27T04:27:56.576Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_051",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Delicious mushroom risotto prepared fresh with authentic spices.",
+    "price": 894,
+    "discountPercent": 1,
+    "finalPrice": 885,
+    "rating": 4.2,
+    "totalRatings": 3852,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793913/food-grocery/products/mushroom-risotto/product_vendor_bangalore_003_004.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "soup",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-30T02:15:27.585Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_052",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 856,
+    "discountPercent": 12,
+    "finalPrice": 753,
+    "rating": 4.7,
+    "totalRatings": 2017,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756149/food-grocery/products/greek-salad/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-22T22:52:43.203Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_053",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 707,
+    "discountPercent": 34,
+    "finalPrice": 467,
+    "rating": 4.2,
+    "totalRatings": 535,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756149/food-grocery/products/greek-salad/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-03T17:36:46.447Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_054",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 782,
+    "discountPercent": 25,
+    "finalPrice": 587,
+    "rating": 3.8,
+    "totalRatings": 589,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-24T09:46:04.657Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_055",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 842,
+    "discountPercent": 9,
+    "finalPrice": 766,
+    "rating": 3.7,
+    "totalRatings": 3854,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756149/food-grocery/products/greek-salad/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-30T20:01:30.549Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_056",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 795,
+    "discountPercent": 15,
+    "finalPrice": 676,
+    "rating": 4.2,
+    "totalRatings": 11,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "alfredo"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-07T18:49:46.029Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_057",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 841,
+    "discountPercent": 10,
+    "finalPrice": 757,
+    "rating": 4,
+    "totalRatings": 1542,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756172/food-grocery/products/protein-smoothie/product_vendor_mumbai_001_002.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-18T19:51:23.660Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_058",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 468,
+    "discountPercent": 33,
+    "finalPrice": 314,
+    "rating": 4.1,
+    "totalRatings": 840,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "alfredo"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-29T07:25:35.963Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_059",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Popular choice: Protein Smoothie made with premium ingredients.",
+    "price": 343,
+    "discountPercent": 9,
+    "finalPrice": 312,
+    "rating": 4.8,
+    "totalRatings": 2403,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756172/food-grocery/products/protein-smoothie/product_vendor_mumbai_001_002.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-01T18:40:35.019Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_060",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Popular choice: Grilled Chicken Salad made with premium ingredients.",
+    "price": 439,
+    "discountPercent": 35,
+    "finalPrice": 285,
+    "rating": 4.4,
+    "totalRatings": 1580,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-19T14:39:26.584Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_061",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 842,
+    "discountPercent": 19,
+    "finalPrice": 682,
+    "rating": 4.7,
+    "totalRatings": 1404,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780788362/food-grocery/products/grilled-fish/product_vendor_bangalore_003_003.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-29T12:36:50.896Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_062",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 417,
+    "discountPercent": 7,
+    "finalPrice": 388,
+    "rating": 4.2,
+    "totalRatings": 4838,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-23T16:55:24.551Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_063",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Popular choice: Mushroom Risotto made with premium ingredients.",
+    "price": 218,
+    "discountPercent": 1,
+    "finalPrice": 216,
+    "rating": 4,
+    "totalRatings": 3882,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793913/food-grocery/products/mushroom-risotto/product_vendor_bangalore_003_004.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-10T09:41:06.196Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_064",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 416,
+    "discountPercent": 7,
+    "finalPrice": 387,
+    "rating": 4.7,
+    "totalRatings": 3915,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780788362/food-grocery/products/grilled-fish/product_vendor_bangalore_003_003.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-09T05:09:00.267Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_065",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Popular choice: Greek Salad made with premium ingredients.",
+    "price": 386,
+    "discountPercent": 4,
+    "finalPrice": 371,
+    "rating": 3.6,
+    "totalRatings": 204,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756149/food-grocery/products/greek-salad/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-06-02T13:09:08.551Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_066",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 306,
+    "discountPercent": 33,
+    "finalPrice": 205,
+    "rating": 4.7,
+    "totalRatings": 25,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780788362/food-grocery/products/grilled-fish/product_vendor_bangalore_003_003.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-20T15:04:31.115Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_067",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Classic greek salad served hot and fresh.",
+    "price": 198,
+    "discountPercent": 1,
+    "finalPrice": 196,
+    "rating": 4.6,
+    "totalRatings": 1336,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756149/food-grocery/products/greek-salad/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-17T18:41:37.603Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_068",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 771,
+    "discountPercent": 1,
+    "finalPrice": 763,
+    "rating": 3.7,
+    "totalRatings": 4573,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756177/food-grocery/products/tomato-soup/product_vendor_bangalore_001_002.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-23T00:22:13.985Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_069",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 684,
+    "discountPercent": 16,
+    "finalPrice": 575,
+    "rating": 4.5,
+    "totalRatings": 3631,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780791291/food-grocery/products/grilled-sandwich/product_vendor_bangalore_003_039.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "steak",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-25T06:34:27.426Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_070",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 332,
+    "discountPercent": 17,
+    "finalPrice": 276,
+    "rating": 4.9,
+    "totalRatings": 4041,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793913/food-grocery/products/mushroom-risotto/product_vendor_bangalore_003_004.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "mushroom"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-24T15:17:48.075Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_071",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 202,
+    "discountPercent": 10,
+    "finalPrice": 182,
+    "rating": 4.8,
+    "totalRatings": 911,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-02T15:12:08.827Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_072",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 895,
+    "discountPercent": 11,
+    "finalPrice": 797,
+    "rating": 4.9,
+    "totalRatings": 4972,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-29T14:20:10.219Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_073",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 484,
+    "discountPercent": 10,
+    "finalPrice": 436,
+    "rating": 3.6,
+    "totalRatings": 3818,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756177/food-grocery/products/tomato-soup/product_vendor_bangalore_001_002.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-28T00:41:05.928Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_074",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 892,
+    "discountPercent": 27,
+    "finalPrice": 651,
+    "rating": 4,
+    "totalRatings": 4015,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756149/food-grocery/products/greek-salad/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-02T11:30:05.746Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_075",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 590,
+    "discountPercent": 35,
+    "finalPrice": 384,
+    "rating": 4.1,
+    "totalRatings": 1004,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-02T04:30:43.994Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_076",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 828,
+    "discountPercent": 24,
+    "finalPrice": 629,
+    "rating": 4.2,
+    "totalRatings": 554,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762960/food-grocery/products/caesar-salad/product_vendor_bangalore_003_010.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "soup",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-29T01:47:05.542Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_077",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 607,
+    "discountPercent": 8,
+    "finalPrice": 558,
+    "rating": 4.3,
+    "totalRatings": 3717,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756177/food-grocery/products/tomato-soup/product_vendor_bangalore_001_002.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-18T19:24:38.955Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_078",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 680,
+    "discountPercent": 22,
+    "finalPrice": 530,
+    "rating": 4.7,
+    "totalRatings": 1287,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-27T16:46:19.954Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_079",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 564,
+    "discountPercent": 20,
+    "finalPrice": 451,
+    "rating": 4.7,
+    "totalRatings": 4083,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-31T00:28:46.171Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_080",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 791,
+    "discountPercent": 39,
+    "finalPrice": 483,
+    "rating": 4,
+    "totalRatings": 4219,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-23T14:23:53.104Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_081",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 117,
+    "discountPercent": 11,
+    "finalPrice": 104,
+    "rating": 4.3,
+    "totalRatings": 125,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-23T15:37:57.152Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_082",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Delicious caesar salad prepared fresh with authentic spices.",
+    "price": 87,
+    "discountPercent": 21,
+    "finalPrice": 69,
+    "rating": 3.7,
+    "totalRatings": 1492,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762960/food-grocery/products/caesar-salad/product_vendor_bangalore_003_010.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "steak",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-13T11:56:26.284Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_083",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 754,
+    "discountPercent": 38,
+    "finalPrice": 467,
+    "rating": 4.9,
+    "totalRatings": 4505,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756149/food-grocery/products/greek-salad/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-23T07:01:37.172Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_084",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 225,
+    "discountPercent": 18,
+    "finalPrice": 185,
+    "rating": 4.5,
+    "totalRatings": 3261,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-05T15:28:31.154Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_085",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 249,
+    "discountPercent": 18,
+    "finalPrice": 204,
+    "rating": 3.7,
+    "totalRatings": 1789,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-06T12:11:46.947Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_086",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 536,
+    "discountPercent": 14,
+    "finalPrice": 461,
+    "rating": 4.4,
+    "totalRatings": 4690,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756177/food-grocery/products/tomato-soup/product_vendor_bangalore_001_002.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "pasta",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-23T15:29:09.864Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_087",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 340,
+    "discountPercent": 19,
+    "finalPrice": 275,
+    "rating": 4.8,
+    "totalRatings": 3893,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-13T04:55:58.622Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_088",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 142,
+    "discountPercent": 17,
+    "finalPrice": 118,
+    "rating": 4.8,
+    "totalRatings": 4064,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-11T23:48:33.082Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_089",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 134,
+    "discountPercent": 19,
+    "finalPrice": 109,
+    "rating": 4.6,
+    "totalRatings": 3477,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756177/food-grocery/products/tomato-soup/product_vendor_bangalore_001_002.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-18T21:35:52.648Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_090",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 887,
+    "discountPercent": 23,
+    "finalPrice": 683,
+    "rating": 4.3,
+    "totalRatings": 4105,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780791291/food-grocery/products/grilled-sandwich/product_vendor_bangalore_003_039.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "pasta",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "pasta",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-13T22:59:32.282Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_091",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Classic caesar salad served hot and fresh.",
+    "price": 195,
+    "discountPercent": 7,
+    "finalPrice": 181,
+    "rating": 4,
+    "totalRatings": 1527,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762960/food-grocery/products/caesar-salad/product_vendor_bangalore_003_010.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-20T14:44:41.689Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_092",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 740,
+    "discountPercent": 38,
+    "finalPrice": 459,
+    "rating": 3.5,
+    "totalRatings": 2582,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-24T01:04:38.338Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_093",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 546,
+    "discountPercent": 39,
+    "finalPrice": 333,
+    "rating": 4.9,
+    "totalRatings": 473,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756172/food-grocery/products/protein-smoothie/product_vendor_mumbai_001_002.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-02T01:58:54.696Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_094",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 659,
+    "discountPercent": 17,
+    "finalPrice": 547,
+    "rating": 3.5,
+    "totalRatings": 1006,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-16T14:11:49.963Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_095",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 226,
+    "discountPercent": 28,
+    "finalPrice": 163,
+    "rating": 4.5,
+    "totalRatings": 2295,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-11T17:59:53.237Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_096",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Popular choice: Tomato Soup made with premium ingredients.",
+    "price": 508,
+    "discountPercent": 14,
+    "finalPrice": 437,
+    "rating": 4.5,
+    "totalRatings": 1646,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756177/food-grocery/products/tomato-soup/product_vendor_bangalore_001_002.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-09T00:35:07.447Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_097",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 776,
+    "discountPercent": 21,
+    "finalPrice": 613,
+    "rating": 4,
+    "totalRatings": 3902,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780791291/food-grocery/products/grilled-sandwich/product_vendor_bangalore_003_039.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "risotto",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-17T04:02:48.131Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_098",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 558,
+    "discountPercent": 19,
+    "finalPrice": 452,
+    "rating": 4,
+    "totalRatings": 4052,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-12T23:45:05.539Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_099",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 388,
+    "discountPercent": 24,
+    "finalPrice": 295,
+    "rating": 3.7,
+    "totalRatings": 2633,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-18T10:23:32.316Z"
+  },
+  {
+    "id": "product_vendor_amarpur_003_100",
+    "vendorId": "vendor_amarpur_003",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 711,
+    "discountPercent": 11,
+    "finalPrice": 633,
+    "rating": 3.9,
+    "totalRatings": 4554,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-18T21:40:14.437Z"
+  }
+]

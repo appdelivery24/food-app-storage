@@ -21,6 +21,12 @@
       "cities": [
         "bangalore"
       ]
+    },
+    "banka": {
+      "name": "Banka, Bihar",
+      "cities": [
+        "amarpur"
+      ]
     }
   },
   "cities": [
@@ -58,6 +64,18 @@
       "vendors": 100,
       "products": 10000,
       "manifestVersion": "62e32b4f6f0de439a0953725097142cf"
+    },
+    {
+      "id": "amarpur",
+      "name": "Amarpur",
+      "region": "banka",
+      "center": {
+        "latitude": 25.0397,
+        "longitude": 86.9025
+      },
+      "manifestVersion": "e2b1d6082bbfcfd53e220d20f545fcc7",
+      "vendors": 100,
+      "products": 10000
     }
   ],
   "scale": {
@@ -66,10 +84,10 @@
     "restaurantsPerCity": 50,
     "groceryPerCity": 50
   },
-  "totalVendors": 500,
-  "totalProducts": 50000,
+  "totalVendors": 600,
+  "totalProducts": 60000,
   "generatedAt": "2026-06-06T13:41:50.170Z",
-  "manifestVersion": "98b0f11c072ccfc30c46cb6060e4ff75",
+  "manifestVersion": "fd6622167c99e0741098df8a71c30371",
   "cityManifests": [
     {
       "id": "delhi",
@@ -100,7 +118,13 @@
       "region": "south",
       "manifestVersion": "62e32b4f6f0de439a0953725097142cf",
       "entryCount": 203
+    },
+    {
+      "id": "amarpur",
+      "region": "banka",
+      "manifestVersion": "e2b1d6082bbfcfd53e220d20f545fcc7",
+      "entryCount": 203
     }
   ],
-  "manifestUpdatedAt": "2026-06-07T07:13:03.160Z"
+  "manifestUpdatedAt": "2026-06-07T14:59:23.807Z"
 }

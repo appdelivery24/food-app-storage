@@ -1,0 +1,3327 @@
+{
+  "version": 2,
+  "manifestVersion": "e2b1d6082bbfcfd53e220d20f545fcc7",
+  "cityId": "amarpur",
+  "region": "banka",
+  "name": "Amarpur",
+  "entryCount": 203,
+  "updatedAt": "2026-06-07T14:57:31.539Z",
+  "basePath": "regions/banka/amarpur",
+  "sections": {
+    "meta": {
+      "label": "City metadata",
+      "syncPolicy": "on-change",
+      "pollIntervalSec": null,
+      "fileCount": 1,
+      "sectionVersion": "a20df112c4eccc206d6da52dd9ee5a1b",
+      "files": [
+        {
+          "path": "meta.json",
+          "md5": "aeda7184d614fc525cbef88f5a34194f",
+          "sizeBytes": 275,
+          "updatedAt": "2026-06-07T14:41:15.284Z"
+        }
+      ]
+    },
+    "vendors": {
+      "label": "Static vendor index",
+      "syncPolicy": "on-change",
+      "pollIntervalSec": null,
+      "fileCount": 1,
+      "sectionVersion": "eba38081fd4f1cfaeae83c906c7822b3",
+      "files": [
+        {
+          "path": "vendors/index.json",
+          "md5": "387710478b189ea630ae04442c9c9e88",
+          "sizeBytes": 88645,
+          "updatedAt": "2026-06-07T14:57:30.843Z"
+        }
+      ]
+    },
+    "products": {
+      "label": "Static products per vendor",
+      "syncPolicy": "on-change",
+      "pollIntervalSec": null,
+      "fileCount": 100,
+      "sectionVersion": "a4a45d1faa227afbcbd165b8a07e6488",
+      "files": [
+        {
+          "path": "products/vendor_amarpur_001.json",
+          "md5": "0ed7b76825feb26878691fefac8a561a",
+          "sizeBytes": 94477,
+          "updatedAt": "2026-06-07T14:56:36.691Z",
+          "vendorId": "vendor_amarpur_001"
+        },
+        {
+          "path": "products/vendor_amarpur_002.json",
+          "md5": "ccb9853e6032dc84a115a78b6fcb7508",
+          "sizeBytes": 94834,
+          "updatedAt": "2026-06-07T14:56:36.694Z",
+          "vendorId": "vendor_amarpur_002"
+        },
+        {
+          "path": "products/vendor_amarpur_003.json",
+          "md5": "21d6c3de0b91579ece41468670d2be31",
+          "sizeBytes": 93924,
+          "updatedAt": "2026-06-07T14:56:36.696Z",
+          "vendorId": "vendor_amarpur_003"
+        },
+        {
+          "path": "products/vendor_amarpur_004.json",
+          "md5": "5dc3bd73b927b1c3b80bbb3c714a8416",
+          "sizeBytes": 93933,
+          "updatedAt": "2026-06-07T14:56:36.698Z",
+          "vendorId": "vendor_amarpur_004"
+        },
+        {
+          "path": "products/vendor_amarpur_005.json",
+          "md5": "8e61139b61fb6022ecf21b7e486bfbc3",
+          "sizeBytes": 94504,
+          "updatedAt": "2026-06-07T14:56:36.700Z",
+          "vendorId": "vendor_amarpur_005"
+        },
+        {
+          "path": "products/vendor_amarpur_006.json",
+          "md5": "d9f8684c3e76eae2b11e0c5aef994cfa",
+          "sizeBytes": 94297,
+          "updatedAt": "2026-06-07T14:56:36.702Z",
+          "vendorId": "vendor_amarpur_006"
+        },
+        {
+          "path": "products/vendor_amarpur_007.json",
+          "md5": "720352c469faa8c023990d36f92ae48d",
+          "sizeBytes": 93595,
+          "updatedAt": "2026-06-07T14:56:36.704Z",
+          "vendorId": "vendor_amarpur_007"
+        },
+        {
+          "path": "products/vendor_amarpur_008.json",
+          "md5": "c2a6108229dbd6bfd38979cffbf0f09f",
+          "sizeBytes": 94562,
+          "updatedAt": "2026-06-07T14:56:36.705Z",
+          "vendorId": "vendor_amarpur_008"
+        },
+        {
+          "path": "products/vendor_amarpur_009.json",
+          "md5": "282518af9be79a8e94e93e3671007ce9",
+          "sizeBytes": 94205,
+          "updatedAt": "2026-06-07T14:56:36.707Z",
+          "vendorId": "vendor_amarpur_009"
+        },
+        {
+          "path": "products/vendor_amarpur_010.json",
+          "md5": "3e58082b360eaf39286b724810e952b4",
+          "sizeBytes": 94415,
+          "updatedAt": "2026-06-07T14:56:36.710Z",
+          "vendorId": "vendor_amarpur_010"
+        },
+        {
+          "path": "products/vendor_amarpur_011.json",
+          "md5": "0c1e86d933ef879455c40223a3f8aefe",
+          "sizeBytes": 94020,
+          "updatedAt": "2026-06-07T14:56:36.712Z",
+          "vendorId": "vendor_amarpur_011"
+        },
+        {
+          "path": "products/vendor_amarpur_012.json",
+          "md5": "add80c94890b1d9f103a91acc25b3e4b",
+          "sizeBytes": 92850,
+          "updatedAt": "2026-06-07T14:56:36.714Z",
+          "vendorId": "vendor_amarpur_012"
+        },
+        {
+          "path": "products/vendor_amarpur_013.json",
+          "md5": "10b992a89b1d4c48d68b2be9758fd260",
+          "sizeBytes": 94784,
+          "updatedAt": "2026-06-07T14:56:36.716Z",
+          "vendorId": "vendor_amarpur_013"
+        },
+        {
+          "path": "products/vendor_amarpur_014.json",
+          "md5": "5b12d7dde37613a80ff8aa7357ab070b",
+          "sizeBytes": 93970,
+          "updatedAt": "2026-06-07T14:56:36.717Z",
+          "vendorId": "vendor_amarpur_014"
+        },
+        {
+          "path": "products/vendor_amarpur_015.json",
+          "md5": "722f8ebe666e691a0b2d683c6aff7a27",
+          "sizeBytes": 93726,
+          "updatedAt": "2026-06-07T14:56:36.719Z",
+          "vendorId": "vendor_amarpur_015"
+        },
+        {
+          "path": "products/vendor_amarpur_016.json",
+          "md5": "eb594e157547e8a289cc097a69735210",
+          "sizeBytes": 94466,
+          "updatedAt": "2026-06-07T14:56:36.721Z",
+          "vendorId": "vendor_amarpur_016"
+        },
+        {
+          "path": "products/vendor_amarpur_017.json",
+          "md5": "72e832e0f8b862445dcaf44c0580923b",
+          "sizeBytes": 95986,
+          "updatedAt": "2026-06-07T14:56:36.724Z",
+          "vendorId": "vendor_amarpur_017"
+        },
+        {
+          "path": "products/vendor_amarpur_018.json",
+          "md5": "1a0acb7cf6bc538da9f0742f1319f3db",
+          "sizeBytes": 93156,
+          "updatedAt": "2026-06-07T14:56:36.726Z",
+          "vendorId": "vendor_amarpur_018"
+        },
+        {
+          "path": "products/vendor_amarpur_019.json",
+          "md5": "2fc2c7a3fb0239ed3f4cdfa21f796347",
+          "sizeBytes": 95057,
+          "updatedAt": "2026-06-07T14:56:36.728Z",
+          "vendorId": "vendor_amarpur_019"
+        },
+        {
+          "path": "products/vendor_amarpur_020.json",
+          "md5": "bc69b5276f2ebf0e5de7ed07cc105e29",
+          "sizeBytes": 94104,
+          "updatedAt": "2026-06-07T14:56:36.730Z",
+          "vendorId": "vendor_amarpur_020"
+        },
+        {
+          "path": "products/vendor_amarpur_021.json",
+          "md5": "4c9fb1d2d872b9a3190925916c136daf",
+          "sizeBytes": 94324,
+          "updatedAt": "2026-06-07T14:56:36.733Z",
+          "vendorId": "vendor_amarpur_021"
+        },
+        {
+          "path": "products/vendor_amarpur_022.json",
+          "md5": "d390e119f313db01053f76a8a460cf77",
+          "sizeBytes": 93530,
+          "updatedAt": "2026-06-07T14:56:36.734Z",
+          "vendorId": "vendor_amarpur_022"
+        },
+        {
+          "path": "products/vendor_amarpur_023.json",
+          "md5": "c4846e716b98c458063999cd00eac7e1",
+          "sizeBytes": 93075,
+          "updatedAt": "2026-06-07T14:56:36.737Z",
+          "vendorId": "vendor_amarpur_023"
+        },
+        {
+          "path": "products/vendor_amarpur_024.json",
+          "md5": "30809af773fbb9d9bc089f2ff51f56ce",
+          "sizeBytes": 92763,
+          "updatedAt": "2026-06-07T14:56:36.739Z",
+          "vendorId": "vendor_amarpur_024"
+        },
+        {
+          "path": "products/vendor_amarpur_025.json",
+          "md5": "1b902381388a9a933f85f6534ca5a299",
+          "sizeBytes": 93989,
+          "updatedAt": "2026-06-07T14:56:36.741Z",
+          "vendorId": "vendor_amarpur_025"
+        },
+        {
+          "path": "products/vendor_amarpur_026.json",
+          "md5": "e076c6dfb983db748fcf8210da395db2",
+          "sizeBytes": 94914,
+          "updatedAt": "2026-06-07T14:56:36.743Z",
+          "vendorId": "vendor_amarpur_026"
+        },
+        {
+          "path": "products/vendor_amarpur_027.json",
+          "md5": "14198cdbccfff18cf27e7ef03c1672a4",
+          "sizeBytes": 94755,
+          "updatedAt": "2026-06-07T14:56:36.745Z",
+          "vendorId": "vendor_amarpur_027"
+        },
+        {
+          "path": "products/vendor_amarpur_028.json",
+          "md5": "6155c14214e18e9f897a2d643a997fee",
+          "sizeBytes": 94584,
+          "updatedAt": "2026-06-07T14:56:36.747Z",
+          "vendorId": "vendor_amarpur_028"
+        },
+        {
+          "path": "products/vendor_amarpur_029.json",
+          "md5": "be4f5af74221165ba2b9f5f2a5380aef",
+          "sizeBytes": 94866,
+          "updatedAt": "2026-06-07T14:56:36.749Z",
+          "vendorId": "vendor_amarpur_029"
+        },
+        {
+          "path": "products/vendor_amarpur_030.json",
+          "md5": "1a7797e19a523017cb1f5cf3f85186ee",
+          "sizeBytes": 94841,
+          "updatedAt": "2026-06-07T14:56:36.752Z",
+          "vendorId": "vendor_amarpur_030"
+        },
+        {
+          "path": "products/vendor_amarpur_031.json",
+          "md5": "4231c907b7f120229701523a88279e4b",
+          "sizeBytes": 94189,
+          "updatedAt": "2026-06-07T14:56:36.754Z",
+          "vendorId": "vendor_amarpur_031"
+        },
+        {
+          "path": "products/vendor_amarpur_032.json",
+          "md5": "bad7f3d37504047b41f655e958c005b3",
+          "sizeBytes": 94684,
+          "updatedAt": "2026-06-07T14:56:36.756Z",
+          "vendorId": "vendor_amarpur_032"
+        },
+        {
+          "path": "products/vendor_amarpur_033.json",
+          "md5": "5c3e836ebcf1667600633634ca8a1908",
+          "sizeBytes": 94043,
+          "updatedAt": "2026-06-07T14:56:36.757Z",
+          "vendorId": "vendor_amarpur_033"
+        },
+        {
+          "path": "products/vendor_amarpur_034.json",
+          "md5": "f6c6d11d6273766c9b922f85818bebf8",
+          "sizeBytes": 94041,
+          "updatedAt": "2026-06-07T14:56:36.759Z",
+          "vendorId": "vendor_amarpur_034"
+        },
+        {
+          "path": "products/vendor_amarpur_035.json",
+          "md5": "d0c0f2632ef848f0affa64350a79350d",
+          "sizeBytes": 93657,
+          "updatedAt": "2026-06-07T14:56:36.761Z",
+          "vendorId": "vendor_amarpur_035"
+        },
+        {
+          "path": "products/vendor_amarpur_036.json",
+          "md5": "ea2947f314a42f7eef292b27fd512dea",
+          "sizeBytes": 95614,
+          "updatedAt": "2026-06-07T14:56:36.763Z",
+          "vendorId": "vendor_amarpur_036"
+        },
+        {
+          "path": "products/vendor_amarpur_037.json",
+          "md5": "fcc0cac56f510a06c69d219edcf52fd6",
+          "sizeBytes": 95814,
+          "updatedAt": "2026-06-07T14:56:36.765Z",
+          "vendorId": "vendor_amarpur_037"
+        },
+        {
+          "path": "products/vendor_amarpur_038.json",
+          "md5": "94c138aadcec81a13a1d587663c54453",
+          "sizeBytes": 92965,
+          "updatedAt": "2026-06-07T14:56:36.767Z",
+          "vendorId": "vendor_amarpur_038"
+        },
+        {
+          "path": "products/vendor_amarpur_039.json",
+          "md5": "aae3a5bf1257dea4c06d69e1de01d8be",
+          "sizeBytes": 93757,
+          "updatedAt": "2026-06-07T14:56:36.769Z",
+          "vendorId": "vendor_amarpur_039"
+        },
+        {
+          "path": "products/vendor_amarpur_040.json",
+          "md5": "43522765f15a7264dac960bc2b361ca2",
+          "sizeBytes": 94680,
+          "updatedAt": "2026-06-07T14:56:36.771Z",
+          "vendorId": "vendor_amarpur_040"
+        },
+        {
+          "path": "products/vendor_amarpur_041.json",
+          "md5": "197d9f24ac081a44f25d62818bd416a6",
+          "sizeBytes": 94420,
+          "updatedAt": "2026-06-07T14:56:36.774Z",
+          "vendorId": "vendor_amarpur_041"
+        },
+        {
+          "path": "products/vendor_amarpur_042.json",
+          "md5": "7d6bcbc5f6fae80ad674a395eb71afd8",
+          "sizeBytes": 93956,
+          "updatedAt": "2026-06-07T14:56:36.776Z",
+          "vendorId": "vendor_amarpur_042"
+        },
+        {
+          "path": "products/vendor_amarpur_043.json",
+          "md5": "1b811dd6dd06b64ebd7dd14056cc8a1e",
+          "sizeBytes": 93577,
+          "updatedAt": "2026-06-07T14:56:36.778Z",
+          "vendorId": "vendor_amarpur_043"
+        },
+        {
+          "path": "products/vendor_amarpur_044.json",
+          "md5": "3612d2e9b729ed9fe8d8da3df4b0b53b",
+          "sizeBytes": 94782,
+          "updatedAt": "2026-06-07T14:56:36.780Z",
+          "vendorId": "vendor_amarpur_044"
+        },
+        {
+          "path": "products/vendor_amarpur_045.json",
+          "md5": "c3bbd72b6a19cd9669921215c8e99ff5",
+          "sizeBytes": 94807,
+          "updatedAt": "2026-06-07T14:56:36.782Z",
+          "vendorId": "vendor_amarpur_045"
+        },
+        {
+          "path": "products/vendor_amarpur_046.json",
+          "md5": "16246ea0cec88fcf3a4965951841da9b",
+          "sizeBytes": 95440,
+          "updatedAt": "2026-06-07T14:56:36.784Z",
+          "vendorId": "vendor_amarpur_046"
+        },
+        {
+          "path": "products/vendor_amarpur_047.json",
+          "md5": "9a59ee855ac751ee3cd0f71650a483cc",
+          "sizeBytes": 92422,
+          "updatedAt": "2026-06-07T14:56:36.786Z",
+          "vendorId": "vendor_amarpur_047"
+        },
+        {
+          "path": "products/vendor_amarpur_048.json",
+          "md5": "4609886c7c4a4af5410585cc4a57666a",
+          "sizeBytes": 94380,
+          "updatedAt": "2026-06-07T14:56:36.788Z",
+          "vendorId": "vendor_amarpur_048"
+        },
+        {
+          "path": "products/vendor_amarpur_049.json",
+          "md5": "c5df2045e032b3ba224116607ee9112d",
+          "sizeBytes": 93733,
+          "updatedAt": "2026-06-07T14:56:36.790Z",
+          "vendorId": "vendor_amarpur_049"
+        },
+        {
+          "path": "products/vendor_amarpur_050.json",
+          "md5": "32b3c27f5d269bd8d344dceedd53878e",
+          "sizeBytes": 93476,
+          "updatedAt": "2026-06-07T14:56:36.792Z",
+          "vendorId": "vendor_amarpur_050"
+        },
+        {
+          "path": "products/vendor_amarpur_051.json",
+          "md5": "fe4e8b0724836cdad0b54251f76bcd3f",
+          "sizeBytes": 98634,
+          "updatedAt": "2026-06-07T14:56:36.794Z",
+          "vendorId": "vendor_amarpur_051"
+        },
+        {
+          "path": "products/vendor_amarpur_052.json",
+          "md5": "2443b34f681da8a82b437bc10123151f",
+          "sizeBytes": 99833,
+          "updatedAt": "2026-06-07T14:56:36.796Z",
+          "vendorId": "vendor_amarpur_052"
+        },
+        {
+          "path": "products/vendor_amarpur_053.json",
+          "md5": "5a7f5743ef166d235c64df957f85f87f",
+          "sizeBytes": 101114,
+          "updatedAt": "2026-06-07T14:56:36.798Z",
+          "vendorId": "vendor_amarpur_053"
+        },
+        {
+          "path": "products/vendor_amarpur_054.json",
+          "md5": "4a96453c6da645e8591a1a5673156148",
+          "sizeBytes": 99777,
+          "updatedAt": "2026-06-07T14:56:36.800Z",
+          "vendorId": "vendor_amarpur_054"
+        },
+        {
+          "path": "products/vendor_amarpur_055.json",
+          "md5": "fac4b7d8edf5e10d1a9c3994f9919a86",
+          "sizeBytes": 99379,
+          "updatedAt": "2026-06-07T14:56:36.802Z",
+          "vendorId": "vendor_amarpur_055"
+        },
+        {
+          "path": "products/vendor_amarpur_056.json",
+          "md5": "9d45aac6a8a26d871385f33964f22873",
+          "sizeBytes": 98672,
+          "updatedAt": "2026-06-07T14:56:36.804Z",
+          "vendorId": "vendor_amarpur_056"
+        },
+        {
+          "path": "products/vendor_amarpur_057.json",
+          "md5": "439952143755c8b26a40e6255b9234dd",
+          "sizeBytes": 100625,
+          "updatedAt": "2026-06-07T14:56:36.806Z",
+          "vendorId": "vendor_amarpur_057"
+        },
+        {
+          "path": "products/vendor_amarpur_058.json",
+          "md5": "7e01413ed9048ff42181241df7243cd9",
+          "sizeBytes": 99626,
+          "updatedAt": "2026-06-07T14:56:36.807Z",
+          "vendorId": "vendor_amarpur_058"
+        },
+        {
+          "path": "products/vendor_amarpur_059.json",
+          "md5": "fa3f9384f7630248bef5f1bfe8a08a12",
+          "sizeBytes": 98573,
+          "updatedAt": "2026-06-07T14:56:36.810Z",
+          "vendorId": "vendor_amarpur_059"
+        },
+        {
+          "path": "products/vendor_amarpur_060.json",
+          "md5": "7f13985fd438e16a45179dcd9cc99e2d",
+          "sizeBytes": 99659,
+          "updatedAt": "2026-06-07T14:56:36.812Z",
+          "vendorId": "vendor_amarpur_060"
+        },
+        {
+          "path": "products/vendor_amarpur_061.json",
+          "md5": "fa5069718fa902d8953a31ed5b535eb4",
+          "sizeBytes": 100029,
+          "updatedAt": "2026-06-07T14:56:36.814Z",
+          "vendorId": "vendor_amarpur_061"
+        },
+        {
+          "path": "products/vendor_amarpur_062.json",
+          "md5": "a2a9d95ba41d6cf86b1d55e5b6f545dc",
+          "sizeBytes": 99316,
+          "updatedAt": "2026-06-07T14:56:36.816Z",
+          "vendorId": "vendor_amarpur_062"
+        },
+        {
+          "path": "products/vendor_amarpur_063.json",
+          "md5": "dfde435588ea3da88237733acf1a41e7",
+          "sizeBytes": 101358,
+          "updatedAt": "2026-06-07T14:56:36.818Z",
+          "vendorId": "vendor_amarpur_063"
+        },
+        {
+          "path": "products/vendor_amarpur_064.json",
+          "md5": "2fc4de5c334b71e150c8d82e892c6919",
+          "sizeBytes": 97955,
+          "updatedAt": "2026-06-07T14:56:36.820Z",
+          "vendorId": "vendor_amarpur_064"
+        },
+        {
+          "path": "products/vendor_amarpur_065.json",
+          "md5": "5e8cac656a6de23ee87fec8dee3e7d4c",
+          "sizeBytes": 100058,
+          "updatedAt": "2026-06-07T14:56:36.822Z",
+          "vendorId": "vendor_amarpur_065"
+        },
+        {
+          "path": "products/vendor_amarpur_066.json",
+          "md5": "4b5457d3c099c5d7c04dc44c86568c96",
+          "sizeBytes": 100378,
+          "updatedAt": "2026-06-07T14:56:36.824Z",
+          "vendorId": "vendor_amarpur_066"
+        },
+        {
+          "path": "products/vendor_amarpur_067.json",
+          "md5": "ce6005704c0d0da07d6b16a6cb3d22f7",
+          "sizeBytes": 100363,
+          "updatedAt": "2026-06-07T14:56:36.826Z",
+          "vendorId": "vendor_amarpur_067"
+        },
+        {
+          "path": "products/vendor_amarpur_068.json",
+          "md5": "c3b9c58cff358eee7499560ff9b196d8",
+          "sizeBytes": 99930,
+          "updatedAt": "2026-06-07T14:56:36.828Z",
+          "vendorId": "vendor_amarpur_068"
+        },
+        {
+          "path": "products/vendor_amarpur_069.json",
+          "md5": "973d4621268a3b4060296d0b62ec7d7c",
+          "sizeBytes": 100240,
+          "updatedAt": "2026-06-07T14:56:36.830Z",
+          "vendorId": "vendor_amarpur_069"
+        },
+        {
+          "path": "products/vendor_amarpur_070.json",
+          "md5": "08a95b87421aa966674d05d24734beea",
+          "sizeBytes": 98916,
+          "updatedAt": "2026-06-07T14:56:36.831Z",
+          "vendorId": "vendor_amarpur_070"
+        },
+        {
+          "path": "products/vendor_amarpur_071.json",
+          "md5": "b6e8a117e573137c607e9f59f2895dda",
+          "sizeBytes": 99612,
+          "updatedAt": "2026-06-07T14:56:36.833Z",
+          "vendorId": "vendor_amarpur_071"
+        },
+        {
+          "path": "products/vendor_amarpur_072.json",
+          "md5": "cbc04857af38ce756cd282e0b76a9d0e",
+          "sizeBytes": 98241,
+          "updatedAt": "2026-06-07T14:56:36.835Z",
+          "vendorId": "vendor_amarpur_072"
+        },
+        {
+          "path": "products/vendor_amarpur_073.json",
+          "md5": "a90abb54ed084d55a73e9188d9ebcfc9",
+          "sizeBytes": 100424,
+          "updatedAt": "2026-06-07T14:56:36.837Z",
+          "vendorId": "vendor_amarpur_073"
+        },
+        {
+          "path": "products/vendor_amarpur_074.json",
+          "md5": "2686d9eb6d01fba573645b701a7cc70f",
+          "sizeBytes": 100445,
+          "updatedAt": "2026-06-07T14:56:36.839Z",
+          "vendorId": "vendor_amarpur_074"
+        },
+        {
+          "path": "products/vendor_amarpur_075.json",
+          "md5": "77d7a49dad8f64694acdbac07de415d1",
+          "sizeBytes": 100070,
+          "updatedAt": "2026-06-07T14:56:36.841Z",
+          "vendorId": "vendor_amarpur_075"
+        },
+        {
+          "path": "products/vendor_amarpur_076.json",
+          "md5": "bcd58c16d8fc2adf1f1ca5ee7291e2a9",
+          "sizeBytes": 97906,
+          "updatedAt": "2026-06-07T14:56:36.843Z",
+          "vendorId": "vendor_amarpur_076"
+        },
+        {
+          "path": "products/vendor_amarpur_077.json",
+          "md5": "7da6e7275a16819c66cc9474ae7918c9",
+          "sizeBytes": 99816,
+          "updatedAt": "2026-06-07T14:56:36.845Z",
+          "vendorId": "vendor_amarpur_077"
+        },
+        {
+          "path": "products/vendor_amarpur_078.json",
+          "md5": "62f7053fcb34b4feb1f017413c5c7d46",
+          "sizeBytes": 100757,
+          "updatedAt": "2026-06-07T14:56:36.847Z",
+          "vendorId": "vendor_amarpur_078"
+        },
+        {
+          "path": "products/vendor_amarpur_079.json",
+          "md5": "35f40b5f62a34bc479417f5dcfb42701",
+          "sizeBytes": 99445,
+          "updatedAt": "2026-06-07T14:56:36.849Z",
+          "vendorId": "vendor_amarpur_079"
+        },
+        {
+          "path": "products/vendor_amarpur_080.json",
+          "md5": "3181b4a7a95969bef160b62d85db91b4",
+          "sizeBytes": 99986,
+          "updatedAt": "2026-06-07T14:56:36.851Z",
+          "vendorId": "vendor_amarpur_080"
+        },
+        {
+          "path": "products/vendor_amarpur_081.json",
+          "md5": "903263da7b1c9217b193852cd52dca1e",
+          "sizeBytes": 100746,
+          "updatedAt": "2026-06-07T14:56:36.854Z",
+          "vendorId": "vendor_amarpur_081"
+        },
+        {
+          "path": "products/vendor_amarpur_082.json",
+          "md5": "707f3993a8cf097c00724695c4280459",
+          "sizeBytes": 98440,
+          "updatedAt": "2026-06-07T14:56:36.856Z",
+          "vendorId": "vendor_amarpur_082"
+        },
+        {
+          "path": "products/vendor_amarpur_083.json",
+          "md5": "c523618a7fec4bcce9f54b57b2376f94",
+          "sizeBytes": 100531,
+          "updatedAt": "2026-06-07T14:56:36.859Z",
+          "vendorId": "vendor_amarpur_083"
+        },
+        {
+          "path": "products/vendor_amarpur_084.json",
+          "md5": "d0675b08ba6db75df3d715c04e25a739",
+          "sizeBytes": 99703,
+          "updatedAt": "2026-06-07T14:56:36.861Z",
+          "vendorId": "vendor_amarpur_084"
+        },
+        {
+          "path": "products/vendor_amarpur_085.json",
+          "md5": "e4a94369768a0636d417e9713991904d",
+          "sizeBytes": 97374,
+          "updatedAt": "2026-06-07T14:56:36.863Z",
+          "vendorId": "vendor_amarpur_085"
+        },
+        {
+          "path": "products/vendor_amarpur_086.json",
+          "md5": "c98b57c545a6bbc75ee7b8199a145be1",
+          "sizeBytes": 98802,
+          "updatedAt": "2026-06-07T14:56:36.865Z",
+          "vendorId": "vendor_amarpur_086"
+        },
+        {
+          "path": "products/vendor_amarpur_087.json",
+          "md5": "ee0f39ce85a0f478fbbab81aab1407a0",
+          "sizeBytes": 100117,
+          "updatedAt": "2026-06-07T14:56:36.867Z",
+          "vendorId": "vendor_amarpur_087"
+        },
+        {
+          "path": "products/vendor_amarpur_088.json",
+          "md5": "23f5d7d8eaf342d157f0fdd86003ff3a",
+          "sizeBytes": 100217,
+          "updatedAt": "2026-06-07T14:56:36.869Z",
+          "vendorId": "vendor_amarpur_088"
+        },
+        {
+          "path": "products/vendor_amarpur_089.json",
+          "md5": "ef1063bb019f48863245e23ebc215d68",
+          "sizeBytes": 100782,
+          "updatedAt": "2026-06-07T14:56:36.871Z",
+          "vendorId": "vendor_amarpur_089"
+        },
+        {
+          "path": "products/vendor_amarpur_090.json",
+          "md5": "3e4b11fb5e81be28f75fc64d46c1ec15",
+          "sizeBytes": 101149,
+          "updatedAt": "2026-06-07T14:56:36.873Z",
+          "vendorId": "vendor_amarpur_090"
+        },
+        {
+          "path": "products/vendor_amarpur_091.json",
+          "md5": "659aee70aed0b1df247d94a22f4d6e8c",
+          "sizeBytes": 99378,
+          "updatedAt": "2026-06-07T14:56:36.875Z",
+          "vendorId": "vendor_amarpur_091"
+        },
+        {
+          "path": "products/vendor_amarpur_092.json",
+          "md5": "b68f5cbfcdf7aad8496c684d256c7070",
+          "sizeBytes": 99427,
+          "updatedAt": "2026-06-07T14:56:36.877Z",
+          "vendorId": "vendor_amarpur_092"
+        },
+        {
+          "path": "products/vendor_amarpur_093.json",
+          "md5": "d6536db3b93238b6fd23f7b4b5602761",
+          "sizeBytes": 98868,
+          "updatedAt": "2026-06-07T14:56:36.879Z",
+          "vendorId": "vendor_amarpur_093"
+        },
+        {
+          "path": "products/vendor_amarpur_094.json",
+          "md5": "8dc3107bbe3607fe5f8c36af7c98d0a3",
+          "sizeBytes": 98938,
+          "updatedAt": "2026-06-07T14:56:36.881Z",
+          "vendorId": "vendor_amarpur_094"
+        },
+        {
+          "path": "products/vendor_amarpur_095.json",
+          "md5": "ee08b9b28fdff62b2688c89ee9e5f1e7",
+          "sizeBytes": 98897,
+          "updatedAt": "2026-06-07T14:56:36.883Z",
+          "vendorId": "vendor_amarpur_095"
+        },
+        {
+          "path": "products/vendor_amarpur_096.json",
+          "md5": "a03a8a82b36838ec5b660302d20c36de",
+          "sizeBytes": 100489,
+          "updatedAt": "2026-06-07T14:56:36.885Z",
+          "vendorId": "vendor_amarpur_096"
+        },
+        {
+          "path": "products/vendor_amarpur_097.json",
+          "md5": "c05b3046db8ade5d670a58058e9e1d6b",
+          "sizeBytes": 99912,
+          "updatedAt": "2026-06-07T14:56:36.887Z",
+          "vendorId": "vendor_amarpur_097"
+        },
+        {
+          "path": "products/vendor_amarpur_098.json",
+          "md5": "ad7158058436aedd02bfc0bc77295d1f",
+          "sizeBytes": 99014,
+          "updatedAt": "2026-06-07T14:56:36.889Z",
+          "vendorId": "vendor_amarpur_098"
+        },
+        {
+          "path": "products/vendor_amarpur_099.json",
+          "md5": "1d3b51b99de33c31e70a319648d30237",
+          "sizeBytes": 98496,
+          "updatedAt": "2026-06-07T14:56:36.891Z",
+          "vendorId": "vendor_amarpur_099"
+        },
+        {
+          "path": "products/vendor_amarpur_100.json",
+          "md5": "f2768282307e104df8496daf573c62ca",
+          "sizeBytes": 99549,
+          "updatedAt": "2026-06-07T14:56:36.893Z",
+          "vendorId": "vendor_amarpur_100"
+        }
+      ]
+    },
+    "liveVendors": {
+      "label": "Live vendor state",
+      "syncPolicy": "poll",
+      "pollIntervalSec": 60,
+      "fileCount": 1,
+      "sectionVersion": "f1382759af8854f1c90fa625a62e74a0",
+      "files": [
+        {
+          "path": "live/vendors/index.json",
+          "md5": "db77f3d0f05c3030cac1046c973ee1bc",
+          "sizeBytes": 25912,
+          "updatedAt": "2026-06-07T14:41:15.284Z"
+        }
+      ]
+    },
+    "liveProducts": {
+      "label": "Live product state per vendor",
+      "syncPolicy": "poll",
+      "pollIntervalSec": 60,
+      "fileCount": 100,
+      "sectionVersion": "35e4c6b8064e6bfcc39b2a97f99c392e",
+      "files": [
+        {
+          "path": "live/products/vendor_amarpur_001.json",
+          "md5": "59cdc4b9334f53fb63443fd20ade4e4c",
+          "sizeBytes": 20275,
+          "updatedAt": "2026-06-07T14:41:15.081Z",
+          "vendorId": "vendor_amarpur_001"
+        },
+        {
+          "path": "live/products/vendor_amarpur_002.json",
+          "md5": "0f36a93bb824f452104286e9727792b5",
+          "sizeBytes": 20271,
+          "updatedAt": "2026-06-07T14:41:15.084Z",
+          "vendorId": "vendor_amarpur_002"
+        },
+        {
+          "path": "live/products/vendor_amarpur_003.json",
+          "md5": "b993f1b375beb3352b41a85a4aa38397",
+          "sizeBytes": 20272,
+          "updatedAt": "2026-06-07T14:41:15.087Z",
+          "vendorId": "vendor_amarpur_003"
+        },
+        {
+          "path": "live/products/vendor_amarpur_004.json",
+          "md5": "ae17df070a19bc920681469420dedc9a",
+          "sizeBytes": 20269,
+          "updatedAt": "2026-06-07T14:41:15.089Z",
+          "vendorId": "vendor_amarpur_004"
+        },
+        {
+          "path": "live/products/vendor_amarpur_005.json",
+          "md5": "c275a7dfea8c9fea516d75aae66271a1",
+          "sizeBytes": 20276,
+          "updatedAt": "2026-06-07T14:41:15.091Z",
+          "vendorId": "vendor_amarpur_005"
+        },
+        {
+          "path": "live/products/vendor_amarpur_006.json",
+          "md5": "3f2e58ced6395548b73a55b0e880e241",
+          "sizeBytes": 20266,
+          "updatedAt": "2026-06-07T14:41:15.093Z",
+          "vendorId": "vendor_amarpur_006"
+        },
+        {
+          "path": "live/products/vendor_amarpur_007.json",
+          "md5": "839fd86966301e813f7263120221f231",
+          "sizeBytes": 20266,
+          "updatedAt": "2026-06-07T14:41:15.095Z",
+          "vendorId": "vendor_amarpur_007"
+        },
+        {
+          "path": "live/products/vendor_amarpur_008.json",
+          "md5": "964598d8f0c2b1f80a1c0f37188de9b0",
+          "sizeBytes": 20271,
+          "updatedAt": "2026-06-07T14:41:15.097Z",
+          "vendorId": "vendor_amarpur_008"
+        },
+        {
+          "path": "live/products/vendor_amarpur_009.json",
+          "md5": "ab0fbac6b58af1f51b8bfbdbf6ea3741",
+          "sizeBytes": 20274,
+          "updatedAt": "2026-06-07T14:41:15.100Z",
+          "vendorId": "vendor_amarpur_009"
+        },
+        {
+          "path": "live/products/vendor_amarpur_010.json",
+          "md5": "7e24b4c7622cfbc2ec9c1fb5a47874e0",
+          "sizeBytes": 20270,
+          "updatedAt": "2026-06-07T14:41:15.103Z",
+          "vendorId": "vendor_amarpur_010"
+        },
+        {
+          "path": "live/products/vendor_amarpur_011.json",
+          "md5": "0b801bf300c8ac017ac73b194106a0cf",
+          "sizeBytes": 20275,
+          "updatedAt": "2026-06-07T14:41:15.106Z",
+          "vendorId": "vendor_amarpur_011"
+        },
+        {
+          "path": "live/products/vendor_amarpur_012.json",
+          "md5": "384bd164e995f835f59f44a0864f186a",
+          "sizeBytes": 20270,
+          "updatedAt": "2026-06-07T14:41:15.107Z",
+          "vendorId": "vendor_amarpur_012"
+        },
+        {
+          "path": "live/products/vendor_amarpur_013.json",
+          "md5": "a1a46896aa17b8c61df05f3c77a74bc9",
+          "sizeBytes": 20274,
+          "updatedAt": "2026-06-07T14:41:15.110Z",
+          "vendorId": "vendor_amarpur_013"
+        },
+        {
+          "path": "live/products/vendor_amarpur_014.json",
+          "md5": "7f019e1681ab932fdf56b837fe6d774c",
+          "sizeBytes": 20274,
+          "updatedAt": "2026-06-07T14:41:15.111Z",
+          "vendorId": "vendor_amarpur_014"
+        },
+        {
+          "path": "live/products/vendor_amarpur_015.json",
+          "md5": "bcb9758694714376a97f8021a2e8e3ba",
+          "sizeBytes": 20273,
+          "updatedAt": "2026-06-07T14:41:15.114Z",
+          "vendorId": "vendor_amarpur_015"
+        },
+        {
+          "path": "live/products/vendor_amarpur_016.json",
+          "md5": "c94889776b8eba00c1800288e68b820c",
+          "sizeBytes": 20273,
+          "updatedAt": "2026-06-07T14:41:15.116Z",
+          "vendorId": "vendor_amarpur_016"
+        },
+        {
+          "path": "live/products/vendor_amarpur_017.json",
+          "md5": "f55fc1ced3046e64ff7fab9086d59369",
+          "sizeBytes": 20273,
+          "updatedAt": "2026-06-07T14:41:15.117Z",
+          "vendorId": "vendor_amarpur_017"
+        },
+        {
+          "path": "live/products/vendor_amarpur_018.json",
+          "md5": "f0775a871321b17ed65129686cb41bc5",
+          "sizeBytes": 20268,
+          "updatedAt": "2026-06-07T14:41:15.119Z",
+          "vendorId": "vendor_amarpur_018"
+        },
+        {
+          "path": "live/products/vendor_amarpur_019.json",
+          "md5": "ebe04f064d4c32f9a88eb57917f221c1",
+          "sizeBytes": 20276,
+          "updatedAt": "2026-06-07T14:41:15.121Z",
+          "vendorId": "vendor_amarpur_019"
+        },
+        {
+          "path": "live/products/vendor_amarpur_020.json",
+          "md5": "b365919c4ca102372535b0603a451f8a",
+          "sizeBytes": 20276,
+          "updatedAt": "2026-06-07T14:41:15.122Z",
+          "vendorId": "vendor_amarpur_020"
+        },
+        {
+          "path": "live/products/vendor_amarpur_021.json",
+          "md5": "11f477a3a10950814a27367cbd3a494e",
+          "sizeBytes": 20267,
+          "updatedAt": "2026-06-07T14:41:15.124Z",
+          "vendorId": "vendor_amarpur_021"
+        },
+        {
+          "path": "live/products/vendor_amarpur_022.json",
+          "md5": "2e523f3693f5378e17cd886cba80dccd",
+          "sizeBytes": 20271,
+          "updatedAt": "2026-06-07T14:41:15.125Z",
+          "vendorId": "vendor_amarpur_022"
+        },
+        {
+          "path": "live/products/vendor_amarpur_023.json",
+          "md5": "38ea2198fb03416d253cd6689698c665",
+          "sizeBytes": 20272,
+          "updatedAt": "2026-06-07T14:41:15.127Z",
+          "vendorId": "vendor_amarpur_023"
+        },
+        {
+          "path": "live/products/vendor_amarpur_024.json",
+          "md5": "b3671c103c514ba8be2e055c8592ed43",
+          "sizeBytes": 20267,
+          "updatedAt": "2026-06-07T14:41:15.129Z",
+          "vendorId": "vendor_amarpur_024"
+        },
+        {
+          "path": "live/products/vendor_amarpur_025.json",
+          "md5": "0af973e6bf6c1181c445d599999e3e08",
+          "sizeBytes": 20265,
+          "updatedAt": "2026-06-07T14:41:15.130Z",
+          "vendorId": "vendor_amarpur_025"
+        },
+        {
+          "path": "live/products/vendor_amarpur_026.json",
+          "md5": "1a91a88978b0b270d65342b9697a8775",
+          "sizeBytes": 20271,
+          "updatedAt": "2026-06-07T14:41:15.131Z",
+          "vendorId": "vendor_amarpur_026"
+        },
+        {
+          "path": "live/products/vendor_amarpur_027.json",
+          "md5": "7d74e34acb9275b4e3c1f8dc9bccf2e9",
+          "sizeBytes": 20267,
+          "updatedAt": "2026-06-07T14:41:15.134Z",
+          "vendorId": "vendor_amarpur_027"
+        },
+        {
+          "path": "live/products/vendor_amarpur_028.json",
+          "md5": "a93d439aac67a645c8546fda38ae8afe",
+          "sizeBytes": 20276,
+          "updatedAt": "2026-06-07T14:41:15.135Z",
+          "vendorId": "vendor_amarpur_028"
+        },
+        {
+          "path": "live/products/vendor_amarpur_029.json",
+          "md5": "2a873311b6b1fe0721dd3a82285c61ca",
+          "sizeBytes": 20275,
+          "updatedAt": "2026-06-07T14:41:15.137Z",
+          "vendorId": "vendor_amarpur_029"
+        },
+        {
+          "path": "live/products/vendor_amarpur_030.json",
+          "md5": "e725d843027be6a59a9dd7d1a4999d6c",
+          "sizeBytes": 20272,
+          "updatedAt": "2026-06-07T14:41:15.139Z",
+          "vendorId": "vendor_amarpur_030"
+        },
+        {
+          "path": "live/products/vendor_amarpur_031.json",
+          "md5": "d327aa083b9984692f95ef7993117329",
+          "sizeBytes": 20268,
+          "updatedAt": "2026-06-07T14:41:15.140Z",
+          "vendorId": "vendor_amarpur_031"
+        },
+        {
+          "path": "live/products/vendor_amarpur_032.json",
+          "md5": "e25e83132bbbf5f25d078b47dda1cf2b",
+          "sizeBytes": 20270,
+          "updatedAt": "2026-06-07T14:41:15.142Z",
+          "vendorId": "vendor_amarpur_032"
+        },
+        {
+          "path": "live/products/vendor_amarpur_033.json",
+          "md5": "82838a2882161cb177c5fc97f250fc3d",
+          "sizeBytes": 20262,
+          "updatedAt": "2026-06-07T14:41:15.144Z",
+          "vendorId": "vendor_amarpur_033"
+        },
+        {
+          "path": "live/products/vendor_amarpur_034.json",
+          "md5": "759d08697b73d400274eed8bd08e84e2",
+          "sizeBytes": 20264,
+          "updatedAt": "2026-06-07T14:41:15.145Z",
+          "vendorId": "vendor_amarpur_034"
+        },
+        {
+          "path": "live/products/vendor_amarpur_035.json",
+          "md5": "3abdcd40c40851ab30e69208b868ab3f",
+          "sizeBytes": 20269,
+          "updatedAt": "2026-06-07T14:41:15.147Z",
+          "vendorId": "vendor_amarpur_035"
+        },
+        {
+          "path": "live/products/vendor_amarpur_036.json",
+          "md5": "5f4024f0d21f76a97dd821031d807ccf",
+          "sizeBytes": 20282,
+          "updatedAt": "2026-06-07T14:41:15.149Z",
+          "vendorId": "vendor_amarpur_036"
+        },
+        {
+          "path": "live/products/vendor_amarpur_037.json",
+          "md5": "b2998b78c3b565a1207759f02b118100",
+          "sizeBytes": 20279,
+          "updatedAt": "2026-06-07T14:41:15.151Z",
+          "vendorId": "vendor_amarpur_037"
+        },
+        {
+          "path": "live/products/vendor_amarpur_038.json",
+          "md5": "62e12803803743826bc8049e469ceb3b",
+          "sizeBytes": 20271,
+          "updatedAt": "2026-06-07T14:41:15.152Z",
+          "vendorId": "vendor_amarpur_038"
+        },
+        {
+          "path": "live/products/vendor_amarpur_039.json",
+          "md5": "7448c93c609d1fbc8afa122ac754e7c8",
+          "sizeBytes": 20273,
+          "updatedAt": "2026-06-07T14:41:15.154Z",
+          "vendorId": "vendor_amarpur_039"
+        },
+        {
+          "path": "live/products/vendor_amarpur_040.json",
+          "md5": "96e5c5e8e4d8b2e9fa3acd06aed66fa1",
+          "sizeBytes": 20270,
+          "updatedAt": "2026-06-07T14:41:15.155Z",
+          "vendorId": "vendor_amarpur_040"
+        },
+        {
+          "path": "live/products/vendor_amarpur_041.json",
+          "md5": "f5821f0f77977d36f455b28e243f2989",
+          "sizeBytes": 20279,
+          "updatedAt": "2026-06-07T14:41:15.156Z",
+          "vendorId": "vendor_amarpur_041"
+        },
+        {
+          "path": "live/products/vendor_amarpur_042.json",
+          "md5": "35b0c7e1d938d37086b263fe28d6857f",
+          "sizeBytes": 20268,
+          "updatedAt": "2026-06-07T14:41:15.158Z",
+          "vendorId": "vendor_amarpur_042"
+        },
+        {
+          "path": "live/products/vendor_amarpur_043.json",
+          "md5": "33216442c8c0aa10f167b54548fd3416",
+          "sizeBytes": 20271,
+          "updatedAt": "2026-06-07T14:41:15.160Z",
+          "vendorId": "vendor_amarpur_043"
+        },
+        {
+          "path": "live/products/vendor_amarpur_044.json",
+          "md5": "888acd47cc399acb27eb76c51c801189",
+          "sizeBytes": 20269,
+          "updatedAt": "2026-06-07T14:41:15.161Z",
+          "vendorId": "vendor_amarpur_044"
+        },
+        {
+          "path": "live/products/vendor_amarpur_045.json",
+          "md5": "ae98116c308321ae9a2c100c2deb1119",
+          "sizeBytes": 20282,
+          "updatedAt": "2026-06-07T14:41:15.162Z",
+          "vendorId": "vendor_amarpur_045"
+        },
+        {
+          "path": "live/products/vendor_amarpur_046.json",
+          "md5": "45efb2693a496f48bd9643017ff5c6f3",
+          "sizeBytes": 20275,
+          "updatedAt": "2026-06-07T14:41:15.164Z",
+          "vendorId": "vendor_amarpur_046"
+        },
+        {
+          "path": "live/products/vendor_amarpur_047.json",
+          "md5": "8b8c7b7cbcde0764725d58d7c1e85e84",
+          "sizeBytes": 20281,
+          "updatedAt": "2026-06-07T14:41:15.165Z",
+          "vendorId": "vendor_amarpur_047"
+        },
+        {
+          "path": "live/products/vendor_amarpur_048.json",
+          "md5": "839a3d96d51f56b22a5938f57f4a0d23",
+          "sizeBytes": 20269,
+          "updatedAt": "2026-06-07T14:41:15.167Z",
+          "vendorId": "vendor_amarpur_048"
+        },
+        {
+          "path": "live/products/vendor_amarpur_049.json",
+          "md5": "f5f5d5817df60f0f5f3211ee486d8f5d",
+          "sizeBytes": 20270,
+          "updatedAt": "2026-06-07T14:41:15.169Z",
+          "vendorId": "vendor_amarpur_049"
+        },
+        {
+          "path": "live/products/vendor_amarpur_050.json",
+          "md5": "6af6b5a94b278a65803c83ad1da1a004",
+          "sizeBytes": 20275,
+          "updatedAt": "2026-06-07T14:41:15.171Z",
+          "vendorId": "vendor_amarpur_050"
+        },
+        {
+          "path": "live/products/vendor_amarpur_051.json",
+          "md5": "42fa9e95bea8597da63a133c93fb8a50",
+          "sizeBytes": 20330,
+          "updatedAt": "2026-06-07T14:41:15.173Z",
+          "vendorId": "vendor_amarpur_051"
+        },
+        {
+          "path": "live/products/vendor_amarpur_052.json",
+          "md5": "8527ca33c093a913347ac65ff27dcac7",
+          "sizeBytes": 20325,
+          "updatedAt": "2026-06-07T14:41:15.177Z",
+          "vendorId": "vendor_amarpur_052"
+        },
+        {
+          "path": "live/products/vendor_amarpur_053.json",
+          "md5": "720c97897dbc5566c0f64ddeb5967a76",
+          "sizeBytes": 20330,
+          "updatedAt": "2026-06-07T14:41:15.179Z",
+          "vendorId": "vendor_amarpur_053"
+        },
+        {
+          "path": "live/products/vendor_amarpur_054.json",
+          "md5": "8b15d92cef343909ebc742336fa8b513",
+          "sizeBytes": 20332,
+          "updatedAt": "2026-06-07T14:41:15.182Z",
+          "vendorId": "vendor_amarpur_054"
+        },
+        {
+          "path": "live/products/vendor_amarpur_055.json",
+          "md5": "9b9d03a42ca8d813e153c26f8f34d883",
+          "sizeBytes": 20330,
+          "updatedAt": "2026-06-07T14:41:15.185Z",
+          "vendorId": "vendor_amarpur_055"
+        },
+        {
+          "path": "live/products/vendor_amarpur_056.json",
+          "md5": "c704660c917f9539ab19b6c120ade6ec",
+          "sizeBytes": 20319,
+          "updatedAt": "2026-06-07T14:41:15.187Z",
+          "vendorId": "vendor_amarpur_056"
+        },
+        {
+          "path": "live/products/vendor_amarpur_057.json",
+          "md5": "a6bc724a3ea1614a4ee791ddcac8464c",
+          "sizeBytes": 20322,
+          "updatedAt": "2026-06-07T14:41:15.189Z",
+          "vendorId": "vendor_amarpur_057"
+        },
+        {
+          "path": "live/products/vendor_amarpur_058.json",
+          "md5": "567f05e773276f8be69347abe86b7715",
+          "sizeBytes": 20319,
+          "updatedAt": "2026-06-07T14:41:15.194Z",
+          "vendorId": "vendor_amarpur_058"
+        },
+        {
+          "path": "live/products/vendor_amarpur_059.json",
+          "md5": "ad73e28f41c9554e5fb933bf8d9645bf",
+          "sizeBytes": 20329,
+          "updatedAt": "2026-06-07T14:41:15.197Z",
+          "vendorId": "vendor_amarpur_059"
+        },
+        {
+          "path": "live/products/vendor_amarpur_060.json",
+          "md5": "8d4b8919f57f501880e1a13cc5cfd0a1",
+          "sizeBytes": 20322,
+          "updatedAt": "2026-06-07T14:41:15.200Z",
+          "vendorId": "vendor_amarpur_060"
+        },
+        {
+          "path": "live/products/vendor_amarpur_061.json",
+          "md5": "487de84f4ae1599b7d3036f95f126eff",
+          "sizeBytes": 20324,
+          "updatedAt": "2026-06-07T14:41:15.202Z",
+          "vendorId": "vendor_amarpur_061"
+        },
+        {
+          "path": "live/products/vendor_amarpur_062.json",
+          "md5": "e96844e4766cdc403875d8f333d647d2",
+          "sizeBytes": 20326,
+          "updatedAt": "2026-06-07T14:41:15.204Z",
+          "vendorId": "vendor_amarpur_062"
+        },
+        {
+          "path": "live/products/vendor_amarpur_063.json",
+          "md5": "ea087f70814d8eef770979da8be15c4b",
+          "sizeBytes": 20328,
+          "updatedAt": "2026-06-07T14:41:15.206Z",
+          "vendorId": "vendor_amarpur_063"
+        },
+        {
+          "path": "live/products/vendor_amarpur_064.json",
+          "md5": "a87057badfc38a17cafa05e7ef79a98f",
+          "sizeBytes": 20328,
+          "updatedAt": "2026-06-07T14:41:15.208Z",
+          "vendorId": "vendor_amarpur_064"
+        },
+        {
+          "path": "live/products/vendor_amarpur_065.json",
+          "md5": "8f9b8130bedc0a8134a149c757d43779",
+          "sizeBytes": 20334,
+          "updatedAt": "2026-06-07T14:41:15.210Z",
+          "vendorId": "vendor_amarpur_065"
+        },
+        {
+          "path": "live/products/vendor_amarpur_066.json",
+          "md5": "ca0f0571cf6055ec056c6db9f05ac224",
+          "sizeBytes": 20329,
+          "updatedAt": "2026-06-07T14:41:15.213Z",
+          "vendorId": "vendor_amarpur_066"
+        },
+        {
+          "path": "live/products/vendor_amarpur_067.json",
+          "md5": "81c9bed9b1d7c3e016c8136ff3f143a3",
+          "sizeBytes": 20331,
+          "updatedAt": "2026-06-07T14:41:15.215Z",
+          "vendorId": "vendor_amarpur_067"
+        },
+        {
+          "path": "live/products/vendor_amarpur_068.json",
+          "md5": "5057ffbdcca8fb014bfcc311b010b8d9",
+          "sizeBytes": 20320,
+          "updatedAt": "2026-06-07T14:41:15.218Z",
+          "vendorId": "vendor_amarpur_068"
+        },
+        {
+          "path": "live/products/vendor_amarpur_069.json",
+          "md5": "b50649d38442d4c15dbe5664327c1ac3",
+          "sizeBytes": 20332,
+          "updatedAt": "2026-06-07T14:41:15.220Z",
+          "vendorId": "vendor_amarpur_069"
+        },
+        {
+          "path": "live/products/vendor_amarpur_070.json",
+          "md5": "9af8e657d5289b5279e8bca95c6dcf09",
+          "sizeBytes": 20338,
+          "updatedAt": "2026-06-07T14:41:15.222Z",
+          "vendorId": "vendor_amarpur_070"
+        },
+        {
+          "path": "live/products/vendor_amarpur_071.json",
+          "md5": "aacb9c91e5c82af564fc695223eb7e47",
+          "sizeBytes": 20305,
+          "updatedAt": "2026-06-07T14:41:15.224Z",
+          "vendorId": "vendor_amarpur_071"
+        },
+        {
+          "path": "live/products/vendor_amarpur_072.json",
+          "md5": "766a24c823891a832d0d1b298ad0e654",
+          "sizeBytes": 20328,
+          "updatedAt": "2026-06-07T14:41:15.227Z",
+          "vendorId": "vendor_amarpur_072"
+        },
+        {
+          "path": "live/products/vendor_amarpur_073.json",
+          "md5": "4cb973e9f01ddfc9647186e6d4f0fa60",
+          "sizeBytes": 20319,
+          "updatedAt": "2026-06-07T14:41:15.229Z",
+          "vendorId": "vendor_amarpur_073"
+        },
+        {
+          "path": "live/products/vendor_amarpur_074.json",
+          "md5": "e8963e6e2b9c2981844642227f2d2e56",
+          "sizeBytes": 20321,
+          "updatedAt": "2026-06-07T14:41:15.231Z",
+          "vendorId": "vendor_amarpur_074"
+        },
+        {
+          "path": "live/products/vendor_amarpur_075.json",
+          "md5": "ac910b8793e00e42d028e607210e48c0",
+          "sizeBytes": 20326,
+          "updatedAt": "2026-06-07T14:41:15.234Z",
+          "vendorId": "vendor_amarpur_075"
+        },
+        {
+          "path": "live/products/vendor_amarpur_076.json",
+          "md5": "fee1d3d26ae4c19a3f88298146d002aa",
+          "sizeBytes": 20327,
+          "updatedAt": "2026-06-07T14:41:15.236Z",
+          "vendorId": "vendor_amarpur_076"
+        },
+        {
+          "path": "live/products/vendor_amarpur_077.json",
+          "md5": "57229f052766ca0ffbb3ab91b13c1ac1",
+          "sizeBytes": 20329,
+          "updatedAt": "2026-06-07T14:41:15.238Z",
+          "vendorId": "vendor_amarpur_077"
+        },
+        {
+          "path": "live/products/vendor_amarpur_078.json",
+          "md5": "da5ed77612745b37575a7a0a3d6d490c",
+          "sizeBytes": 20318,
+          "updatedAt": "2026-06-07T14:41:15.240Z",
+          "vendorId": "vendor_amarpur_078"
+        },
+        {
+          "path": "live/products/vendor_amarpur_079.json",
+          "md5": "3092d2beaa41db9842b027ebbe7f8ab7",
+          "sizeBytes": 20324,
+          "updatedAt": "2026-06-07T14:41:15.242Z",
+          "vendorId": "vendor_amarpur_079"
+        },
+        {
+          "path": "live/products/vendor_amarpur_080.json",
+          "md5": "aebe204e87fe25a5e7c1b5d365d5bbc3",
+          "sizeBytes": 20323,
+          "updatedAt": "2026-06-07T14:41:15.244Z",
+          "vendorId": "vendor_amarpur_080"
+        },
+        {
+          "path": "live/products/vendor_amarpur_081.json",
+          "md5": "79a4e2cd64967fda25062a4ccbd850c4",
+          "sizeBytes": 20335,
+          "updatedAt": "2026-06-07T14:41:15.246Z",
+          "vendorId": "vendor_amarpur_081"
+        },
+        {
+          "path": "live/products/vendor_amarpur_082.json",
+          "md5": "78846ad71f4c00639d887f1a40a7ed8f",
+          "sizeBytes": 20325,
+          "updatedAt": "2026-06-07T14:41:15.247Z",
+          "vendorId": "vendor_amarpur_082"
+        },
+        {
+          "path": "live/products/vendor_amarpur_083.json",
+          "md5": "49a7b1d151b3dc524e2c8bc41de8cc3c",
+          "sizeBytes": 20331,
+          "updatedAt": "2026-06-07T14:41:15.249Z",
+          "vendorId": "vendor_amarpur_083"
+        },
+        {
+          "path": "live/products/vendor_amarpur_084.json",
+          "md5": "3cf5853af3af831738431cedcdcaa1f5",
+          "sizeBytes": 20322,
+          "updatedAt": "2026-06-07T14:41:15.251Z",
+          "vendorId": "vendor_amarpur_084"
+        },
+        {
+          "path": "live/products/vendor_amarpur_085.json",
+          "md5": "8d3ae46d9c9ba6773f66dc45ac54f85f",
+          "sizeBytes": 20337,
+          "updatedAt": "2026-06-07T14:41:15.252Z",
+          "vendorId": "vendor_amarpur_085"
+        },
+        {
+          "path": "live/products/vendor_amarpur_086.json",
+          "md5": "fb876f658f4dfe72fd821138013f7017",
+          "sizeBytes": 20334,
+          "updatedAt": "2026-06-07T14:41:15.255Z",
+          "vendorId": "vendor_amarpur_086"
+        },
+        {
+          "path": "live/products/vendor_amarpur_087.json",
+          "md5": "5080c7300e760b0e5d9042d51c858e7c",
+          "sizeBytes": 20312,
+          "updatedAt": "2026-06-07T14:41:15.257Z",
+          "vendorId": "vendor_amarpur_087"
+        },
+        {
+          "path": "live/products/vendor_amarpur_088.json",
+          "md5": "bad4cf2f088db42086cda68f81cd14f9",
+          "sizeBytes": 20325,
+          "updatedAt": "2026-06-07T14:41:15.258Z",
+          "vendorId": "vendor_amarpur_088"
+        },
+        {
+          "path": "live/products/vendor_amarpur_089.json",
+          "md5": "564f848eb28f518c2cfd9615731215ef",
+          "sizeBytes": 20339,
+          "updatedAt": "2026-06-07T14:41:15.260Z",
+          "vendorId": "vendor_amarpur_089"
+        },
+        {
+          "path": "live/products/vendor_amarpur_090.json",
+          "md5": "dbebc95c0dd9facbe89da962ef666911",
+          "sizeBytes": 20324,
+          "updatedAt": "2026-06-07T14:41:15.262Z",
+          "vendorId": "vendor_amarpur_090"
+        },
+        {
+          "path": "live/products/vendor_amarpur_091.json",
+          "md5": "f44c300ab4b6a8906cea51302196a3cb",
+          "sizeBytes": 20318,
+          "updatedAt": "2026-06-07T14:41:15.264Z",
+          "vendorId": "vendor_amarpur_091"
+        },
+        {
+          "path": "live/products/vendor_amarpur_092.json",
+          "md5": "30da356aea8a14d9e49548a4857eaeff",
+          "sizeBytes": 20328,
+          "updatedAt": "2026-06-07T14:41:15.266Z",
+          "vendorId": "vendor_amarpur_092"
+        },
+        {
+          "path": "live/products/vendor_amarpur_093.json",
+          "md5": "fbc2884f4337bad2fc10bd3359dbba9e",
+          "sizeBytes": 20324,
+          "updatedAt": "2026-06-07T14:41:15.269Z",
+          "vendorId": "vendor_amarpur_093"
+        },
+        {
+          "path": "live/products/vendor_amarpur_094.json",
+          "md5": "21c8413fefd2f9911a867288bd9afc60",
+          "sizeBytes": 20319,
+          "updatedAt": "2026-06-07T14:41:15.270Z",
+          "vendorId": "vendor_amarpur_094"
+        },
+        {
+          "path": "live/products/vendor_amarpur_095.json",
+          "md5": "7b6441f1560dff946f401a0f9e638e3a",
+          "sizeBytes": 20332,
+          "updatedAt": "2026-06-07T14:41:15.272Z",
+          "vendorId": "vendor_amarpur_095"
+        },
+        {
+          "path": "live/products/vendor_amarpur_096.json",
+          "md5": "49768978dc9b14a1ceec1b0a3e277fbb",
+          "sizeBytes": 20317,
+          "updatedAt": "2026-06-07T14:41:15.274Z",
+          "vendorId": "vendor_amarpur_096"
+        },
+        {
+          "path": "live/products/vendor_amarpur_097.json",
+          "md5": "4559b1ce5a33c768bab4eeabdcd3d822",
+          "sizeBytes": 20320,
+          "updatedAt": "2026-06-07T14:41:15.277Z",
+          "vendorId": "vendor_amarpur_097"
+        },
+        {
+          "path": "live/products/vendor_amarpur_098.json",
+          "md5": "cfd20a0a24971292e48fa04b8e44900a",
+          "sizeBytes": 20319,
+          "updatedAt": "2026-06-07T14:41:15.278Z",
+          "vendorId": "vendor_amarpur_098"
+        },
+        {
+          "path": "live/products/vendor_amarpur_099.json",
+          "md5": "b4301bb96f3ed5031d4696620c752895",
+          "sizeBytes": 20322,
+          "updatedAt": "2026-06-07T14:41:15.280Z",
+          "vendorId": "vendor_amarpur_099"
+        },
+        {
+          "path": "live/products/vendor_amarpur_100.json",
+          "md5": "f8dd2a7785be690cced29098c81c39f9",
+          "sizeBytes": 20324,
+          "updatedAt": "2026-06-07T14:41:15.282Z",
+          "vendorId": "vendor_amarpur_100"
+        }
+      ]
+    }
+  },
+  "sync": {
+    "totalFiles": 203,
+    "compareBy": "md5",
+    "actions": {
+      "download": "Local path missing OR local MD5 !== manifest MD5",
+      "skip": "Local path exists AND local MD5 === manifest MD5",
+      "delete": "Local path exists BUT path not listed in sync.paths",
+      "update": "Same as download — MD5 mismatch means file was updated on CDN"
+    },
+    "order": [
+      "meta",
+      "vendors",
+      "products",
+      "liveVendors",
+      "liveProducts"
+    ],
+    "sectionVersions": {
+      "meta": "a20df112c4eccc206d6da52dd9ee5a1b",
+      "vendors": "eba38081fd4f1cfaeae83c906c7822b3",
+      "products": "a4a45d1faa227afbcbd165b8a07e6488",
+      "liveVendors": "f1382759af8854f1c90fa625a62e74a0",
+      "liveProducts": "35e4c6b8064e6bfcc39b2a97f99c392e"
+    },
+    "paths": [
+      "live/products/vendor_amarpur_001.json",
+      "live/products/vendor_amarpur_002.json",
+      "live/products/vendor_amarpur_003.json",
+      "live/products/vendor_amarpur_004.json",
+      "live/products/vendor_amarpur_005.json",
+      "live/products/vendor_amarpur_006.json",
+      "live/products/vendor_amarpur_007.json",
+      "live/products/vendor_amarpur_008.json",
+      "live/products/vendor_amarpur_009.json",
+      "live/products/vendor_amarpur_010.json",
+      "live/products/vendor_amarpur_011.json",
+      "live/products/vendor_amarpur_012.json",
+      "live/products/vendor_amarpur_013.json",
+      "live/products/vendor_amarpur_014.json",
+      "live/products/vendor_amarpur_015.json",
+      "live/products/vendor_amarpur_016.json",
+      "live/products/vendor_amarpur_017.json",
+      "live/products/vendor_amarpur_018.json",
+      "live/products/vendor_amarpur_019.json",
+      "live/products/vendor_amarpur_020.json",
+      "live/products/vendor_amarpur_021.json",
+      "live/products/vendor_amarpur_022.json",
+      "live/products/vendor_amarpur_023.json",
+      "live/products/vendor_amarpur_024.json",
+      "live/products/vendor_amarpur_025.json",
+      "live/products/vendor_amarpur_026.json",
+      "live/products/vendor_amarpur_027.json",
+      "live/products/vendor_amarpur_028.json",
+      "live/products/vendor_amarpur_029.json",
+      "live/products/vendor_amarpur_030.json",
+      "live/products/vendor_amarpur_031.json",
+      "live/products/vendor_amarpur_032.json",
+      "live/products/vendor_amarpur_033.json",
+      "live/products/vendor_amarpur_034.json",
+      "live/products/vendor_amarpur_035.json",
+      "live/products/vendor_amarpur_036.json",
+      "live/products/vendor_amarpur_037.json",
+      "live/products/vendor_amarpur_038.json",
+      "live/products/vendor_amarpur_039.json",
+      "live/products/vendor_amarpur_040.json",
+      "live/products/vendor_amarpur_041.json",
+      "live/products/vendor_amarpur_042.json",
+      "live/products/vendor_amarpur_043.json",
+      "live/products/vendor_amarpur_044.json",
+      "live/products/vendor_amarpur_045.json",
+      "live/products/vendor_amarpur_046.json",
+      "live/products/vendor_amarpur_047.json",
+      "live/products/vendor_amarpur_048.json",
+      "live/products/vendor_amarpur_049.json",
+      "live/products/vendor_amarpur_050.json",
+      "live/products/vendor_amarpur_051.json",
+      "live/products/vendor_amarpur_052.json",
+      "live/products/vendor_amarpur_053.json",
+      "live/products/vendor_amarpur_054.json",
+      "live/products/vendor_amarpur_055.json",
+      "live/products/vendor_amarpur_056.json",
+      "live/products/vendor_amarpur_057.json",
+      "live/products/vendor_amarpur_058.json",
+      "live/products/vendor_amarpur_059.json",
+      "live/products/vendor_amarpur_060.json",
+      "live/products/vendor_amarpur_061.json",
+      "live/products/vendor_amarpur_062.json",
+      "live/products/vendor_amarpur_063.json",
+      "live/products/vendor_amarpur_064.json",
+      "live/products/vendor_amarpur_065.json",
+      "live/products/vendor_amarpur_066.json",
+      "live/products/vendor_amarpur_067.json",
+      "live/products/vendor_amarpur_068.json",
+      "live/products/vendor_amarpur_069.json",
+      "live/products/vendor_amarpur_070.json",
+      "live/products/vendor_amarpur_071.json",
+      "live/products/vendor_amarpur_072.json",
+      "live/products/vendor_amarpur_073.json",
+      "live/products/vendor_amarpur_074.json",
+      "live/products/vendor_amarpur_075.json",
+      "live/products/vendor_amarpur_076.json",
+      "live/products/vendor_amarpur_077.json",
+      "live/products/vendor_amarpur_078.json",
+      "live/products/vendor_amarpur_079.json",
+      "live/products/vendor_amarpur_080.json",
+      "live/products/vendor_amarpur_081.json",
+      "live/products/vendor_amarpur_082.json",
+      "live/products/vendor_amarpur_083.json",
+      "live/products/vendor_amarpur_084.json",
+      "live/products/vendor_amarpur_085.json",
+      "live/products/vendor_amarpur_086.json",
+      "live/products/vendor_amarpur_087.json",
+      "live/products/vendor_amarpur_088.json",
+      "live/products/vendor_amarpur_089.json",
+      "live/products/vendor_amarpur_090.json",
+      "live/products/vendor_amarpur_091.json",
+      "live/products/vendor_amarpur_092.json",
+      "live/products/vendor_amarpur_093.json",
+      "live/products/vendor_amarpur_094.json",
+      "live/products/vendor_amarpur_095.json",
+      "live/products/vendor_amarpur_096.json",
+      "live/products/vendor_amarpur_097.json",
+      "live/products/vendor_amarpur_098.json",
+      "live/products/vendor_amarpur_099.json",
+      "live/products/vendor_amarpur_100.json",
+      "live/vendors/index.json",
+      "meta.json",
+      "products/vendor_amarpur_001.json",
+      "products/vendor_amarpur_002.json",
+      "products/vendor_amarpur_003.json",
+      "products/vendor_amarpur_004.json",
+      "products/vendor_amarpur_005.json",
+      "products/vendor_amarpur_006.json",
+      "products/vendor_amarpur_007.json",
+      "products/vendor_amarpur_008.json",
+      "products/vendor_amarpur_009.json",
+      "products/vendor_amarpur_010.json",
+      "products/vendor_amarpur_011.json",
+      "products/vendor_amarpur_012.json",
+      "products/vendor_amarpur_013.json",
+      "products/vendor_amarpur_014.json",
+      "products/vendor_amarpur_015.json",
+      "products/vendor_amarpur_016.json",
+      "products/vendor_amarpur_017.json",
+      "products/vendor_amarpur_018.json",
+      "products/vendor_amarpur_019.json",
+      "products/vendor_amarpur_020.json",
+      "products/vendor_amarpur_021.json",
+      "products/vendor_amarpur_022.json",
+      "products/vendor_amarpur_023.json",
+      "products/vendor_amarpur_024.json",
+      "products/vendor_amarpur_025.json",
+      "products/vendor_amarpur_026.json",
+      "products/vendor_amarpur_027.json",
+      "products/vendor_amarpur_028.json",
+      "products/vendor_amarpur_029.json",
+      "products/vendor_amarpur_030.json",
+      "products/vendor_amarpur_031.json",
+      "products/vendor_amarpur_032.json",
+      "products/vendor_amarpur_033.json",
+      "products/vendor_amarpur_034.json",
+      "products/vendor_amarpur_035.json",
+      "products/vendor_amarpur_036.json",
+      "products/vendor_amarpur_037.json",
+      "products/vendor_amarpur_038.json",
+      "products/vendor_amarpur_039.json",
+      "products/vendor_amarpur_040.json",
+      "products/vendor_amarpur_041.json",
+      "products/vendor_amarpur_042.json",
+      "products/vendor_amarpur_043.json",
+      "products/vendor_amarpur_044.json",
+      "products/vendor_amarpur_045.json",
+      "products/vendor_amarpur_046.json",
+      "products/vendor_amarpur_047.json",
+      "products/vendor_amarpur_048.json",
+      "products/vendor_amarpur_049.json",
+      "products/vendor_amarpur_050.json",
+      "products/vendor_amarpur_051.json",
+      "products/vendor_amarpur_052.json",
+      "products/vendor_amarpur_053.json",
+      "products/vendor_amarpur_054.json",
+      "products/vendor_amarpur_055.json",
+      "products/vendor_amarpur_056.json",
+      "products/vendor_amarpur_057.json",
+      "products/vendor_amarpur_058.json",
+      "products/vendor_amarpur_059.json",
+      "products/vendor_amarpur_060.json",
+      "products/vendor_amarpur_061.json",
+      "products/vendor_amarpur_062.json",
+      "products/vendor_amarpur_063.json",
+      "products/vendor_amarpur_064.json",
+      "products/vendor_amarpur_065.json",
+      "products/vendor_amarpur_066.json",
+      "products/vendor_amarpur_067.json",
+      "products/vendor_amarpur_068.json",
+      "products/vendor_amarpur_069.json",
+      "products/vendor_amarpur_070.json",
+      "products/vendor_amarpur_071.json",
+      "products/vendor_amarpur_072.json",
+      "products/vendor_amarpur_073.json",
+      "products/vendor_amarpur_074.json",
+      "products/vendor_amarpur_075.json",
+      "products/vendor_amarpur_076.json",
+      "products/vendor_amarpur_077.json",
+      "products/vendor_amarpur_078.json",
+      "products/vendor_amarpur_079.json",
+      "products/vendor_amarpur_080.json",
+      "products/vendor_amarpur_081.json",
+      "products/vendor_amarpur_082.json",
+      "products/vendor_amarpur_083.json",
+      "products/vendor_amarpur_084.json",
+      "products/vendor_amarpur_085.json",
+      "products/vendor_amarpur_086.json",
+      "products/vendor_amarpur_087.json",
+      "products/vendor_amarpur_088.json",
+      "products/vendor_amarpur_089.json",
+      "products/vendor_amarpur_090.json",
+      "products/vendor_amarpur_091.json",
+      "products/vendor_amarpur_092.json",
+      "products/vendor_amarpur_093.json",
+      "products/vendor_amarpur_094.json",
+      "products/vendor_amarpur_095.json",
+      "products/vendor_amarpur_096.json",
+      "products/vendor_amarpur_097.json",
+      "products/vendor_amarpur_098.json",
+      "products/vendor_amarpur_099.json",
+      "products/vendor_amarpur_100.json",
+      "vendors/index.json"
+    ]
+  },
+  "entries": [
+    {
+      "path": "live/products/vendor_amarpur_001.json",
+      "md5": "59cdc4b9334f53fb63443fd20ade4e4c",
+      "sizeBytes": 20275,
+      "updatedAt": "2026-06-07T14:41:15.081Z",
+      "vendorId": "vendor_amarpur_001",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_002.json",
+      "md5": "0f36a93bb824f452104286e9727792b5",
+      "sizeBytes": 20271,
+      "updatedAt": "2026-06-07T14:41:15.084Z",
+      "vendorId": "vendor_amarpur_002",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_003.json",
+      "md5": "b993f1b375beb3352b41a85a4aa38397",
+      "sizeBytes": 20272,
+      "updatedAt": "2026-06-07T14:41:15.087Z",
+      "vendorId": "vendor_amarpur_003",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_004.json",
+      "md5": "ae17df070a19bc920681469420dedc9a",
+      "sizeBytes": 20269,
+      "updatedAt": "2026-06-07T14:41:15.089Z",
+      "vendorId": "vendor_amarpur_004",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_005.json",
+      "md5": "c275a7dfea8c9fea516d75aae66271a1",
+      "sizeBytes": 20276,
+      "updatedAt": "2026-06-07T14:41:15.091Z",
+      "vendorId": "vendor_amarpur_005",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_006.json",
+      "md5": "3f2e58ced6395548b73a55b0e880e241",
+      "sizeBytes": 20266,
+      "updatedAt": "2026-06-07T14:41:15.093Z",
+      "vendorId": "vendor_amarpur_006",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_007.json",
+      "md5": "839fd86966301e813f7263120221f231",
+      "sizeBytes": 20266,
+      "updatedAt": "2026-06-07T14:41:15.095Z",
+      "vendorId": "vendor_amarpur_007",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_008.json",
+      "md5": "964598d8f0c2b1f80a1c0f37188de9b0",
+      "sizeBytes": 20271,
+      "updatedAt": "2026-06-07T14:41:15.097Z",
+      "vendorId": "vendor_amarpur_008",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_009.json",
+      "md5": "ab0fbac6b58af1f51b8bfbdbf6ea3741",
+      "sizeBytes": 20274,
+      "updatedAt": "2026-06-07T14:41:15.100Z",
+      "vendorId": "vendor_amarpur_009",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_010.json",
+      "md5": "7e24b4c7622cfbc2ec9c1fb5a47874e0",
+      "sizeBytes": 20270,
+      "updatedAt": "2026-06-07T14:41:15.103Z",
+      "vendorId": "vendor_amarpur_010",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_011.json",
+      "md5": "0b801bf300c8ac017ac73b194106a0cf",
+      "sizeBytes": 20275,
+      "updatedAt": "2026-06-07T14:41:15.106Z",
+      "vendorId": "vendor_amarpur_011",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_012.json",
+      "md5": "384bd164e995f835f59f44a0864f186a",
+      "sizeBytes": 20270,
+      "updatedAt": "2026-06-07T14:41:15.107Z",
+      "vendorId": "vendor_amarpur_012",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_013.json",
+      "md5": "a1a46896aa17b8c61df05f3c77a74bc9",
+      "sizeBytes": 20274,
+      "updatedAt": "2026-06-07T14:41:15.110Z",
+      "vendorId": "vendor_amarpur_013",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_014.json",
+      "md5": "7f019e1681ab932fdf56b837fe6d774c",
+      "sizeBytes": 20274,
+      "updatedAt": "2026-06-07T14:41:15.111Z",
+      "vendorId": "vendor_amarpur_014",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_015.json",
+      "md5": "bcb9758694714376a97f8021a2e8e3ba",
+      "sizeBytes": 20273,
+      "updatedAt": "2026-06-07T14:41:15.114Z",
+      "vendorId": "vendor_amarpur_015",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_016.json",
+      "md5": "c94889776b8eba00c1800288e68b820c",
+      "sizeBytes": 20273,
+      "updatedAt": "2026-06-07T14:41:15.116Z",
+      "vendorId": "vendor_amarpur_016",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_017.json",
+      "md5": "f55fc1ced3046e64ff7fab9086d59369",
+      "sizeBytes": 20273,
+      "updatedAt": "2026-06-07T14:41:15.117Z",
+      "vendorId": "vendor_amarpur_017",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_018.json",
+      "md5": "f0775a871321b17ed65129686cb41bc5",
+      "sizeBytes": 20268,
+      "updatedAt": "2026-06-07T14:41:15.119Z",
+      "vendorId": "vendor_amarpur_018",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_019.json",
+      "md5": "ebe04f064d4c32f9a88eb57917f221c1",
+      "sizeBytes": 20276,
+      "updatedAt": "2026-06-07T14:41:15.121Z",
+      "vendorId": "vendor_amarpur_019",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_020.json",
+      "md5": "b365919c4ca102372535b0603a451f8a",
+      "sizeBytes": 20276,
+      "updatedAt": "2026-06-07T14:41:15.122Z",
+      "vendorId": "vendor_amarpur_020",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_021.json",
+      "md5": "11f477a3a10950814a27367cbd3a494e",
+      "sizeBytes": 20267,
+      "updatedAt": "2026-06-07T14:41:15.124Z",
+      "vendorId": "vendor_amarpur_021",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_022.json",
+      "md5": "2e523f3693f5378e17cd886cba80dccd",
+      "sizeBytes": 20271,
+      "updatedAt": "2026-06-07T14:41:15.125Z",
+      "vendorId": "vendor_amarpur_022",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_023.json",
+      "md5": "38ea2198fb03416d253cd6689698c665",
+      "sizeBytes": 20272,
+      "updatedAt": "2026-06-07T14:41:15.127Z",
+      "vendorId": "vendor_amarpur_023",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_024.json",
+      "md5": "b3671c103c514ba8be2e055c8592ed43",
+      "sizeBytes": 20267,
+      "updatedAt": "2026-06-07T14:41:15.129Z",
+      "vendorId": "vendor_amarpur_024",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_025.json",
+      "md5": "0af973e6bf6c1181c445d599999e3e08",
+      "sizeBytes": 20265,
+      "updatedAt": "2026-06-07T14:41:15.130Z",
+      "vendorId": "vendor_amarpur_025",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_026.json",
+      "md5": "1a91a88978b0b270d65342b9697a8775",
+      "sizeBytes": 20271,
+      "updatedAt": "2026-06-07T14:41:15.131Z",
+      "vendorId": "vendor_amarpur_026",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_027.json",
+      "md5": "7d74e34acb9275b4e3c1f8dc9bccf2e9",
+      "sizeBytes": 20267,
+      "updatedAt": "2026-06-07T14:41:15.134Z",
+      "vendorId": "vendor_amarpur_027",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_028.json",
+      "md5": "a93d439aac67a645c8546fda38ae8afe",
+      "sizeBytes": 20276,
+      "updatedAt": "2026-06-07T14:41:15.135Z",
+      "vendorId": "vendor_amarpur_028",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_029.json",
+      "md5": "2a873311b6b1fe0721dd3a82285c61ca",
+      "sizeBytes": 20275,
+      "updatedAt": "2026-06-07T14:41:15.137Z",
+      "vendorId": "vendor_amarpur_029",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_030.json",
+      "md5": "e725d843027be6a59a9dd7d1a4999d6c",
+      "sizeBytes": 20272,
+      "updatedAt": "2026-06-07T14:41:15.139Z",
+      "vendorId": "vendor_amarpur_030",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_031.json",
+      "md5": "d327aa083b9984692f95ef7993117329",
+      "sizeBytes": 20268,
+      "updatedAt": "2026-06-07T14:41:15.140Z",
+      "vendorId": "vendor_amarpur_031",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_032.json",
+      "md5": "e25e83132bbbf5f25d078b47dda1cf2b",
+      "sizeBytes": 20270,
+      "updatedAt": "2026-06-07T14:41:15.142Z",
+      "vendorId": "vendor_amarpur_032",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_033.json",
+      "md5": "82838a2882161cb177c5fc97f250fc3d",
+      "sizeBytes": 20262,
+      "updatedAt": "2026-06-07T14:41:15.144Z",
+      "vendorId": "vendor_amarpur_033",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_034.json",
+      "md5": "759d08697b73d400274eed8bd08e84e2",
+      "sizeBytes": 20264,
+      "updatedAt": "2026-06-07T14:41:15.145Z",
+      "vendorId": "vendor_amarpur_034",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_035.json",
+      "md5": "3abdcd40c40851ab30e69208b868ab3f",
+      "sizeBytes": 20269,
+      "updatedAt": "2026-06-07T14:41:15.147Z",
+      "vendorId": "vendor_amarpur_035",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_036.json",
+      "md5": "5f4024f0d21f76a97dd821031d807ccf",
+      "sizeBytes": 20282,
+      "updatedAt": "2026-06-07T14:41:15.149Z",
+      "vendorId": "vendor_amarpur_036",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_037.json",
+      "md5": "b2998b78c3b565a1207759f02b118100",
+      "sizeBytes": 20279,
+      "updatedAt": "2026-06-07T14:41:15.151Z",
+      "vendorId": "vendor_amarpur_037",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_038.json",
+      "md5": "62e12803803743826bc8049e469ceb3b",
+      "sizeBytes": 20271,
+      "updatedAt": "2026-06-07T14:41:15.152Z",
+      "vendorId": "vendor_amarpur_038",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_039.json",
+      "md5": "7448c93c609d1fbc8afa122ac754e7c8",
+      "sizeBytes": 20273,
+      "updatedAt": "2026-06-07T14:41:15.154Z",
+      "vendorId": "vendor_amarpur_039",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_040.json",
+      "md5": "96e5c5e8e4d8b2e9fa3acd06aed66fa1",
+      "sizeBytes": 20270,
+      "updatedAt": "2026-06-07T14:41:15.155Z",
+      "vendorId": "vendor_amarpur_040",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_041.json",
+      "md5": "f5821f0f77977d36f455b28e243f2989",
+      "sizeBytes": 20279,
+      "updatedAt": "2026-06-07T14:41:15.156Z",
+      "vendorId": "vendor_amarpur_041",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_042.json",
+      "md5": "35b0c7e1d938d37086b263fe28d6857f",
+      "sizeBytes": 20268,
+      "updatedAt": "2026-06-07T14:41:15.158Z",
+      "vendorId": "vendor_amarpur_042",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_043.json",
+      "md5": "33216442c8c0aa10f167b54548fd3416",
+      "sizeBytes": 20271,
+      "updatedAt": "2026-06-07T14:41:15.160Z",
+      "vendorId": "vendor_amarpur_043",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_044.json",
+      "md5": "888acd47cc399acb27eb76c51c801189",
+      "sizeBytes": 20269,
+      "updatedAt": "2026-06-07T14:41:15.161Z",
+      "vendorId": "vendor_amarpur_044",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_045.json",
+      "md5": "ae98116c308321ae9a2c100c2deb1119",
+      "sizeBytes": 20282,
+      "updatedAt": "2026-06-07T14:41:15.162Z",
+      "vendorId": "vendor_amarpur_045",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_046.json",
+      "md5": "45efb2693a496f48bd9643017ff5c6f3",
+      "sizeBytes": 20275,
+      "updatedAt": "2026-06-07T14:41:15.164Z",
+      "vendorId": "vendor_amarpur_046",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_047.json",
+      "md5": "8b8c7b7cbcde0764725d58d7c1e85e84",
+      "sizeBytes": 20281,
+      "updatedAt": "2026-06-07T14:41:15.165Z",
+      "vendorId": "vendor_amarpur_047",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_048.json",
+      "md5": "839a3d96d51f56b22a5938f57f4a0d23",
+      "sizeBytes": 20269,
+      "updatedAt": "2026-06-07T14:41:15.167Z",
+      "vendorId": "vendor_amarpur_048",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_049.json",
+      "md5": "f5f5d5817df60f0f5f3211ee486d8f5d",
+      "sizeBytes": 20270,
+      "updatedAt": "2026-06-07T14:41:15.169Z",
+      "vendorId": "vendor_amarpur_049",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_050.json",
+      "md5": "6af6b5a94b278a65803c83ad1da1a004",
+      "sizeBytes": 20275,
+      "updatedAt": "2026-06-07T14:41:15.171Z",
+      "vendorId": "vendor_amarpur_050",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_051.json",
+      "md5": "42fa9e95bea8597da63a133c93fb8a50",
+      "sizeBytes": 20330,
+      "updatedAt": "2026-06-07T14:41:15.173Z",
+      "vendorId": "vendor_amarpur_051",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_052.json",
+      "md5": "8527ca33c093a913347ac65ff27dcac7",
+      "sizeBytes": 20325,
+      "updatedAt": "2026-06-07T14:41:15.177Z",
+      "vendorId": "vendor_amarpur_052",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_053.json",
+      "md5": "720c97897dbc5566c0f64ddeb5967a76",
+      "sizeBytes": 20330,
+      "updatedAt": "2026-06-07T14:41:15.179Z",
+      "vendorId": "vendor_amarpur_053",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_054.json",
+      "md5": "8b15d92cef343909ebc742336fa8b513",
+      "sizeBytes": 20332,
+      "updatedAt": "2026-06-07T14:41:15.182Z",
+      "vendorId": "vendor_amarpur_054",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_055.json",
+      "md5": "9b9d03a42ca8d813e153c26f8f34d883",
+      "sizeBytes": 20330,
+      "updatedAt": "2026-06-07T14:41:15.185Z",
+      "vendorId": "vendor_amarpur_055",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_056.json",
+      "md5": "c704660c917f9539ab19b6c120ade6ec",
+      "sizeBytes": 20319,
+      "updatedAt": "2026-06-07T14:41:15.187Z",
+      "vendorId": "vendor_amarpur_056",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_057.json",
+      "md5": "a6bc724a3ea1614a4ee791ddcac8464c",
+      "sizeBytes": 20322,
+      "updatedAt": "2026-06-07T14:41:15.189Z",
+      "vendorId": "vendor_amarpur_057",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_058.json",
+      "md5": "567f05e773276f8be69347abe86b7715",
+      "sizeBytes": 20319,
+      "updatedAt": "2026-06-07T14:41:15.194Z",
+      "vendorId": "vendor_amarpur_058",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_059.json",
+      "md5": "ad73e28f41c9554e5fb933bf8d9645bf",
+      "sizeBytes": 20329,
+      "updatedAt": "2026-06-07T14:41:15.197Z",
+      "vendorId": "vendor_amarpur_059",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_060.json",
+      "md5": "8d4b8919f57f501880e1a13cc5cfd0a1",
+      "sizeBytes": 20322,
+      "updatedAt": "2026-06-07T14:41:15.200Z",
+      "vendorId": "vendor_amarpur_060",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_061.json",
+      "md5": "487de84f4ae1599b7d3036f95f126eff",
+      "sizeBytes": 20324,
+      "updatedAt": "2026-06-07T14:41:15.202Z",
+      "vendorId": "vendor_amarpur_061",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_062.json",
+      "md5": "e96844e4766cdc403875d8f333d647d2",
+      "sizeBytes": 20326,
+      "updatedAt": "2026-06-07T14:41:15.204Z",
+      "vendorId": "vendor_amarpur_062",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_063.json",
+      "md5": "ea087f70814d8eef770979da8be15c4b",
+      "sizeBytes": 20328,
+      "updatedAt": "2026-06-07T14:41:15.206Z",
+      "vendorId": "vendor_amarpur_063",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_064.json",
+      "md5": "a87057badfc38a17cafa05e7ef79a98f",
+      "sizeBytes": 20328,
+      "updatedAt": "2026-06-07T14:41:15.208Z",
+      "vendorId": "vendor_amarpur_064",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_065.json",
+      "md5": "8f9b8130bedc0a8134a149c757d43779",
+      "sizeBytes": 20334,
+      "updatedAt": "2026-06-07T14:41:15.210Z",
+      "vendorId": "vendor_amarpur_065",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_066.json",
+      "md5": "ca0f0571cf6055ec056c6db9f05ac224",
+      "sizeBytes": 20329,
+      "updatedAt": "2026-06-07T14:41:15.213Z",
+      "vendorId": "vendor_amarpur_066",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_067.json",
+      "md5": "81c9bed9b1d7c3e016c8136ff3f143a3",
+      "sizeBytes": 20331,
+      "updatedAt": "2026-06-07T14:41:15.215Z",
+      "vendorId": "vendor_amarpur_067",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_068.json",
+      "md5": "5057ffbdcca8fb014bfcc311b010b8d9",
+      "sizeBytes": 20320,
+      "updatedAt": "2026-06-07T14:41:15.218Z",
+      "vendorId": "vendor_amarpur_068",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_069.json",
+      "md5": "b50649d38442d4c15dbe5664327c1ac3",
+      "sizeBytes": 20332,
+      "updatedAt": "2026-06-07T14:41:15.220Z",
+      "vendorId": "vendor_amarpur_069",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_070.json",
+      "md5": "9af8e657d5289b5279e8bca95c6dcf09",
+      "sizeBytes": 20338,
+      "updatedAt": "2026-06-07T14:41:15.222Z",
+      "vendorId": "vendor_amarpur_070",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_071.json",
+      "md5": "aacb9c91e5c82af564fc695223eb7e47",
+      "sizeBytes": 20305,
+      "updatedAt": "2026-06-07T14:41:15.224Z",
+      "vendorId": "vendor_amarpur_071",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_072.json",
+      "md5": "766a24c823891a832d0d1b298ad0e654",
+      "sizeBytes": 20328,
+      "updatedAt": "2026-06-07T14:41:15.227Z",
+      "vendorId": "vendor_amarpur_072",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_073.json",
+      "md5": "4cb973e9f01ddfc9647186e6d4f0fa60",
+      "sizeBytes": 20319,
+      "updatedAt": "2026-06-07T14:41:15.229Z",
+      "vendorId": "vendor_amarpur_073",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_074.json",
+      "md5": "e8963e6e2b9c2981844642227f2d2e56",
+      "sizeBytes": 20321,
+      "updatedAt": "2026-06-07T14:41:15.231Z",
+      "vendorId": "vendor_amarpur_074",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_075.json",
+      "md5": "ac910b8793e00e42d028e607210e48c0",
+      "sizeBytes": 20326,
+      "updatedAt": "2026-06-07T14:41:15.234Z",
+      "vendorId": "vendor_amarpur_075",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_076.json",
+      "md5": "fee1d3d26ae4c19a3f88298146d002aa",
+      "sizeBytes": 20327,
+      "updatedAt": "2026-06-07T14:41:15.236Z",
+      "vendorId": "vendor_amarpur_076",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_077.json",
+      "md5": "57229f052766ca0ffbb3ab91b13c1ac1",
+      "sizeBytes": 20329,
+      "updatedAt": "2026-06-07T14:41:15.238Z",
+      "vendorId": "vendor_amarpur_077",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_078.json",
+      "md5": "da5ed77612745b37575a7a0a3d6d490c",
+      "sizeBytes": 20318,
+      "updatedAt": "2026-06-07T14:41:15.240Z",
+      "vendorId": "vendor_amarpur_078",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_079.json",
+      "md5": "3092d2beaa41db9842b027ebbe7f8ab7",
+      "sizeBytes": 20324,
+      "updatedAt": "2026-06-07T14:41:15.242Z",
+      "vendorId": "vendor_amarpur_079",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_080.json",
+      "md5": "aebe204e87fe25a5e7c1b5d365d5bbc3",
+      "sizeBytes": 20323,
+      "updatedAt": "2026-06-07T14:41:15.244Z",
+      "vendorId": "vendor_amarpur_080",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_081.json",
+      "md5": "79a4e2cd64967fda25062a4ccbd850c4",
+      "sizeBytes": 20335,
+      "updatedAt": "2026-06-07T14:41:15.246Z",
+      "vendorId": "vendor_amarpur_081",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_082.json",
+      "md5": "78846ad71f4c00639d887f1a40a7ed8f",
+      "sizeBytes": 20325,
+      "updatedAt": "2026-06-07T14:41:15.247Z",
+      "vendorId": "vendor_amarpur_082",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_083.json",
+      "md5": "49a7b1d151b3dc524e2c8bc41de8cc3c",
+      "sizeBytes": 20331,
+      "updatedAt": "2026-06-07T14:41:15.249Z",
+      "vendorId": "vendor_amarpur_083",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_084.json",
+      "md5": "3cf5853af3af831738431cedcdcaa1f5",
+      "sizeBytes": 20322,
+      "updatedAt": "2026-06-07T14:41:15.251Z",
+      "vendorId": "vendor_amarpur_084",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_085.json",
+      "md5": "8d3ae46d9c9ba6773f66dc45ac54f85f",
+      "sizeBytes": 20337,
+      "updatedAt": "2026-06-07T14:41:15.252Z",
+      "vendorId": "vendor_amarpur_085",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_086.json",
+      "md5": "fb876f658f4dfe72fd821138013f7017",
+      "sizeBytes": 20334,
+      "updatedAt": "2026-06-07T14:41:15.255Z",
+      "vendorId": "vendor_amarpur_086",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_087.json",
+      "md5": "5080c7300e760b0e5d9042d51c858e7c",
+      "sizeBytes": 20312,
+      "updatedAt": "2026-06-07T14:41:15.257Z",
+      "vendorId": "vendor_amarpur_087",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_088.json",
+      "md5": "bad4cf2f088db42086cda68f81cd14f9",
+      "sizeBytes": 20325,
+      "updatedAt": "2026-06-07T14:41:15.258Z",
+      "vendorId": "vendor_amarpur_088",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_089.json",
+      "md5": "564f848eb28f518c2cfd9615731215ef",
+      "sizeBytes": 20339,
+      "updatedAt": "2026-06-07T14:41:15.260Z",
+      "vendorId": "vendor_amarpur_089",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_090.json",
+      "md5": "dbebc95c0dd9facbe89da962ef666911",
+      "sizeBytes": 20324,
+      "updatedAt": "2026-06-07T14:41:15.262Z",
+      "vendorId": "vendor_amarpur_090",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_091.json",
+      "md5": "f44c300ab4b6a8906cea51302196a3cb",
+      "sizeBytes": 20318,
+      "updatedAt": "2026-06-07T14:41:15.264Z",
+      "vendorId": "vendor_amarpur_091",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_092.json",
+      "md5": "30da356aea8a14d9e49548a4857eaeff",
+      "sizeBytes": 20328,
+      "updatedAt": "2026-06-07T14:41:15.266Z",
+      "vendorId": "vendor_amarpur_092",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_093.json",
+      "md5": "fbc2884f4337bad2fc10bd3359dbba9e",
+      "sizeBytes": 20324,
+      "updatedAt": "2026-06-07T14:41:15.269Z",
+      "vendorId": "vendor_amarpur_093",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_094.json",
+      "md5": "21c8413fefd2f9911a867288bd9afc60",
+      "sizeBytes": 20319,
+      "updatedAt": "2026-06-07T14:41:15.270Z",
+      "vendorId": "vendor_amarpur_094",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_095.json",
+      "md5": "7b6441f1560dff946f401a0f9e638e3a",
+      "sizeBytes": 20332,
+      "updatedAt": "2026-06-07T14:41:15.272Z",
+      "vendorId": "vendor_amarpur_095",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_096.json",
+      "md5": "49768978dc9b14a1ceec1b0a3e277fbb",
+      "sizeBytes": 20317,
+      "updatedAt": "2026-06-07T14:41:15.274Z",
+      "vendorId": "vendor_amarpur_096",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_097.json",
+      "md5": "4559b1ce5a33c768bab4eeabdcd3d822",
+      "sizeBytes": 20320,
+      "updatedAt": "2026-06-07T14:41:15.277Z",
+      "vendorId": "vendor_amarpur_097",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_098.json",
+      "md5": "cfd20a0a24971292e48fa04b8e44900a",
+      "sizeBytes": 20319,
+      "updatedAt": "2026-06-07T14:41:15.278Z",
+      "vendorId": "vendor_amarpur_098",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_099.json",
+      "md5": "b4301bb96f3ed5031d4696620c752895",
+      "sizeBytes": 20322,
+      "updatedAt": "2026-06-07T14:41:15.280Z",
+      "vendorId": "vendor_amarpur_099",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/products/vendor_amarpur_100.json",
+      "md5": "f8dd2a7785be690cced29098c81c39f9",
+      "sizeBytes": 20324,
+      "updatedAt": "2026-06-07T14:41:15.282Z",
+      "vendorId": "vendor_amarpur_100",
+      "type": "liveProducts"
+    },
+    {
+      "path": "live/vendors/index.json",
+      "md5": "db77f3d0f05c3030cac1046c973ee1bc",
+      "sizeBytes": 25912,
+      "updatedAt": "2026-06-07T14:41:15.284Z",
+      "type": "liveVendors"
+    },
+    {
+      "path": "meta.json",
+      "md5": "aeda7184d614fc525cbef88f5a34194f",
+      "sizeBytes": 275,
+      "updatedAt": "2026-06-07T14:41:15.284Z",
+      "type": "meta"
+    },
+    {
+      "path": "products/vendor_amarpur_001.json",
+      "md5": "0ed7b76825feb26878691fefac8a561a",
+      "sizeBytes": 94477,
+      "updatedAt": "2026-06-07T14:56:36.691Z",
+      "vendorId": "vendor_amarpur_001",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_002.json",
+      "md5": "ccb9853e6032dc84a115a78b6fcb7508",
+      "sizeBytes": 94834,
+      "updatedAt": "2026-06-07T14:56:36.694Z",
+      "vendorId": "vendor_amarpur_002",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_003.json",
+      "md5": "21d6c3de0b91579ece41468670d2be31",
+      "sizeBytes": 93924,
+      "updatedAt": "2026-06-07T14:56:36.696Z",
+      "vendorId": "vendor_amarpur_003",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_004.json",
+      "md5": "5dc3bd73b927b1c3b80bbb3c714a8416",
+      "sizeBytes": 93933,
+      "updatedAt": "2026-06-07T14:56:36.698Z",
+      "vendorId": "vendor_amarpur_004",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_005.json",
+      "md5": "8e61139b61fb6022ecf21b7e486bfbc3",
+      "sizeBytes": 94504,
+      "updatedAt": "2026-06-07T14:56:36.700Z",
+      "vendorId": "vendor_amarpur_005",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_006.json",
+      "md5": "d9f8684c3e76eae2b11e0c5aef994cfa",
+      "sizeBytes": 94297,
+      "updatedAt": "2026-06-07T14:56:36.702Z",
+      "vendorId": "vendor_amarpur_006",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_007.json",
+      "md5": "720352c469faa8c023990d36f92ae48d",
+      "sizeBytes": 93595,
+      "updatedAt": "2026-06-07T14:56:36.704Z",
+      "vendorId": "vendor_amarpur_007",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_008.json",
+      "md5": "c2a6108229dbd6bfd38979cffbf0f09f",
+      "sizeBytes": 94562,
+      "updatedAt": "2026-06-07T14:56:36.705Z",
+      "vendorId": "vendor_amarpur_008",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_009.json",
+      "md5": "282518af9be79a8e94e93e3671007ce9",
+      "sizeBytes": 94205,
+      "updatedAt": "2026-06-07T14:56:36.707Z",
+      "vendorId": "vendor_amarpur_009",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_010.json",
+      "md5": "3e58082b360eaf39286b724810e952b4",
+      "sizeBytes": 94415,
+      "updatedAt": "2026-06-07T14:56:36.710Z",
+      "vendorId": "vendor_amarpur_010",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_011.json",
+      "md5": "0c1e86d933ef879455c40223a3f8aefe",
+      "sizeBytes": 94020,
+      "updatedAt": "2026-06-07T14:56:36.712Z",
+      "vendorId": "vendor_amarpur_011",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_012.json",
+      "md5": "add80c94890b1d9f103a91acc25b3e4b",
+      "sizeBytes": 92850,
+      "updatedAt": "2026-06-07T14:56:36.714Z",
+      "vendorId": "vendor_amarpur_012",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_013.json",
+      "md5": "10b992a89b1d4c48d68b2be9758fd260",
+      "sizeBytes": 94784,
+      "updatedAt": "2026-06-07T14:56:36.716Z",
+      "vendorId": "vendor_amarpur_013",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_014.json",
+      "md5": "5b12d7dde37613a80ff8aa7357ab070b",
+      "sizeBytes": 93970,
+      "updatedAt": "2026-06-07T14:56:36.717Z",
+      "vendorId": "vendor_amarpur_014",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_015.json",
+      "md5": "722f8ebe666e691a0b2d683c6aff7a27",
+      "sizeBytes": 93726,
+      "updatedAt": "2026-06-07T14:56:36.719Z",
+      "vendorId": "vendor_amarpur_015",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_016.json",
+      "md5": "eb594e157547e8a289cc097a69735210",
+      "sizeBytes": 94466,
+      "updatedAt": "2026-06-07T14:56:36.721Z",
+      "vendorId": "vendor_amarpur_016",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_017.json",
+      "md5": "72e832e0f8b862445dcaf44c0580923b",
+      "sizeBytes": 95986,
+      "updatedAt": "2026-06-07T14:56:36.724Z",
+      "vendorId": "vendor_amarpur_017",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_018.json",
+      "md5": "1a0acb7cf6bc538da9f0742f1319f3db",
+      "sizeBytes": 93156,
+      "updatedAt": "2026-06-07T14:56:36.726Z",
+      "vendorId": "vendor_amarpur_018",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_019.json",
+      "md5": "2fc2c7a3fb0239ed3f4cdfa21f796347",
+      "sizeBytes": 95057,
+      "updatedAt": "2026-06-07T14:56:36.728Z",
+      "vendorId": "vendor_amarpur_019",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_020.json",
+      "md5": "bc69b5276f2ebf0e5de7ed07cc105e29",
+      "sizeBytes": 94104,
+      "updatedAt": "2026-06-07T14:56:36.730Z",
+      "vendorId": "vendor_amarpur_020",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_021.json",
+      "md5": "4c9fb1d2d872b9a3190925916c136daf",
+      "sizeBytes": 94324,
+      "updatedAt": "2026-06-07T14:56:36.733Z",
+      "vendorId": "vendor_amarpur_021",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_022.json",
+      "md5": "d390e119f313db01053f76a8a460cf77",
+      "sizeBytes": 93530,
+      "updatedAt": "2026-06-07T14:56:36.734Z",
+      "vendorId": "vendor_amarpur_022",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_023.json",
+      "md5": "c4846e716b98c458063999cd00eac7e1",
+      "sizeBytes": 93075,
+      "updatedAt": "2026-06-07T14:56:36.737Z",
+      "vendorId": "vendor_amarpur_023",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_024.json",
+      "md5": "30809af773fbb9d9bc089f2ff51f56ce",
+      "sizeBytes": 92763,
+      "updatedAt": "2026-06-07T14:56:36.739Z",
+      "vendorId": "vendor_amarpur_024",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_025.json",
+      "md5": "1b902381388a9a933f85f6534ca5a299",
+      "sizeBytes": 93989,
+      "updatedAt": "2026-06-07T14:56:36.741Z",
+      "vendorId": "vendor_amarpur_025",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_026.json",
+      "md5": "e076c6dfb983db748fcf8210da395db2",
+      "sizeBytes": 94914,
+      "updatedAt": "2026-06-07T14:56:36.743Z",
+      "vendorId": "vendor_amarpur_026",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_027.json",
+      "md5": "14198cdbccfff18cf27e7ef03c1672a4",
+      "sizeBytes": 94755,
+      "updatedAt": "2026-06-07T14:56:36.745Z",
+      "vendorId": "vendor_amarpur_027",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_028.json",
+      "md5": "6155c14214e18e9f897a2d643a997fee",
+      "sizeBytes": 94584,
+      "updatedAt": "2026-06-07T14:56:36.747Z",
+      "vendorId": "vendor_amarpur_028",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_029.json",
+      "md5": "be4f5af74221165ba2b9f5f2a5380aef",
+      "sizeBytes": 94866,
+      "updatedAt": "2026-06-07T14:56:36.749Z",
+      "vendorId": "vendor_amarpur_029",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_030.json",
+      "md5": "1a7797e19a523017cb1f5cf3f85186ee",
+      "sizeBytes": 94841,
+      "updatedAt": "2026-06-07T14:56:36.752Z",
+      "vendorId": "vendor_amarpur_030",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_031.json",
+      "md5": "4231c907b7f120229701523a88279e4b",
+      "sizeBytes": 94189,
+      "updatedAt": "2026-06-07T14:56:36.754Z",
+      "vendorId": "vendor_amarpur_031",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_032.json",
+      "md5": "bad7f3d37504047b41f655e958c005b3",
+      "sizeBytes": 94684,
+      "updatedAt": "2026-06-07T14:56:36.756Z",
+      "vendorId": "vendor_amarpur_032",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_033.json",
+      "md5": "5c3e836ebcf1667600633634ca8a1908",
+      "sizeBytes": 94043,
+      "updatedAt": "2026-06-07T14:56:36.757Z",
+      "vendorId": "vendor_amarpur_033",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_034.json",
+      "md5": "f6c6d11d6273766c9b922f85818bebf8",
+      "sizeBytes": 94041,
+      "updatedAt": "2026-06-07T14:56:36.759Z",
+      "vendorId": "vendor_amarpur_034",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_035.json",
+      "md5": "d0c0f2632ef848f0affa64350a79350d",
+      "sizeBytes": 93657,
+      "updatedAt": "2026-06-07T14:56:36.761Z",
+      "vendorId": "vendor_amarpur_035",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_036.json",
+      "md5": "ea2947f314a42f7eef292b27fd512dea",
+      "sizeBytes": 95614,
+      "updatedAt": "2026-06-07T14:56:36.763Z",
+      "vendorId": "vendor_amarpur_036",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_037.json",
+      "md5": "fcc0cac56f510a06c69d219edcf52fd6",
+      "sizeBytes": 95814,
+      "updatedAt": "2026-06-07T14:56:36.765Z",
+      "vendorId": "vendor_amarpur_037",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_038.json",
+      "md5": "94c138aadcec81a13a1d587663c54453",
+      "sizeBytes": 92965,
+      "updatedAt": "2026-06-07T14:56:36.767Z",
+      "vendorId": "vendor_amarpur_038",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_039.json",
+      "md5": "aae3a5bf1257dea4c06d69e1de01d8be",
+      "sizeBytes": 93757,
+      "updatedAt": "2026-06-07T14:56:36.769Z",
+      "vendorId": "vendor_amarpur_039",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_040.json",
+      "md5": "43522765f15a7264dac960bc2b361ca2",
+      "sizeBytes": 94680,
+      "updatedAt": "2026-06-07T14:56:36.771Z",
+      "vendorId": "vendor_amarpur_040",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_041.json",
+      "md5": "197d9f24ac081a44f25d62818bd416a6",
+      "sizeBytes": 94420,
+      "updatedAt": "2026-06-07T14:56:36.774Z",
+      "vendorId": "vendor_amarpur_041",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_042.json",
+      "md5": "7d6bcbc5f6fae80ad674a395eb71afd8",
+      "sizeBytes": 93956,
+      "updatedAt": "2026-06-07T14:56:36.776Z",
+      "vendorId": "vendor_amarpur_042",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_043.json",
+      "md5": "1b811dd6dd06b64ebd7dd14056cc8a1e",
+      "sizeBytes": 93577,
+      "updatedAt": "2026-06-07T14:56:36.778Z",
+      "vendorId": "vendor_amarpur_043",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_044.json",
+      "md5": "3612d2e9b729ed9fe8d8da3df4b0b53b",
+      "sizeBytes": 94782,
+      "updatedAt": "2026-06-07T14:56:36.780Z",
+      "vendorId": "vendor_amarpur_044",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_045.json",
+      "md5": "c3bbd72b6a19cd9669921215c8e99ff5",
+      "sizeBytes": 94807,
+      "updatedAt": "2026-06-07T14:56:36.782Z",
+      "vendorId": "vendor_amarpur_045",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_046.json",
+      "md5": "16246ea0cec88fcf3a4965951841da9b",
+      "sizeBytes": 95440,
+      "updatedAt": "2026-06-07T14:56:36.784Z",
+      "vendorId": "vendor_amarpur_046",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_047.json",
+      "md5": "9a59ee855ac751ee3cd0f71650a483cc",
+      "sizeBytes": 92422,
+      "updatedAt": "2026-06-07T14:56:36.786Z",
+      "vendorId": "vendor_amarpur_047",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_048.json",
+      "md5": "4609886c7c4a4af5410585cc4a57666a",
+      "sizeBytes": 94380,
+      "updatedAt": "2026-06-07T14:56:36.788Z",
+      "vendorId": "vendor_amarpur_048",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_049.json",
+      "md5": "c5df2045e032b3ba224116607ee9112d",
+      "sizeBytes": 93733,
+      "updatedAt": "2026-06-07T14:56:36.790Z",
+      "vendorId": "vendor_amarpur_049",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_050.json",
+      "md5": "32b3c27f5d269bd8d344dceedd53878e",
+      "sizeBytes": 93476,
+      "updatedAt": "2026-06-07T14:56:36.792Z",
+      "vendorId": "vendor_amarpur_050",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_051.json",
+      "md5": "fe4e8b0724836cdad0b54251f76bcd3f",
+      "sizeBytes": 98634,
+      "updatedAt": "2026-06-07T14:56:36.794Z",
+      "vendorId": "vendor_amarpur_051",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_052.json",
+      "md5": "2443b34f681da8a82b437bc10123151f",
+      "sizeBytes": 99833,
+      "updatedAt": "2026-06-07T14:56:36.796Z",
+      "vendorId": "vendor_amarpur_052",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_053.json",
+      "md5": "5a7f5743ef166d235c64df957f85f87f",
+      "sizeBytes": 101114,
+      "updatedAt": "2026-06-07T14:56:36.798Z",
+      "vendorId": "vendor_amarpur_053",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_054.json",
+      "md5": "4a96453c6da645e8591a1a5673156148",
+      "sizeBytes": 99777,
+      "updatedAt": "2026-06-07T14:56:36.800Z",
+      "vendorId": "vendor_amarpur_054",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_055.json",
+      "md5": "fac4b7d8edf5e10d1a9c3994f9919a86",
+      "sizeBytes": 99379,
+      "updatedAt": "2026-06-07T14:56:36.802Z",
+      "vendorId": "vendor_amarpur_055",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_056.json",
+      "md5": "9d45aac6a8a26d871385f33964f22873",
+      "sizeBytes": 98672,
+      "updatedAt": "2026-06-07T14:56:36.804Z",
+      "vendorId": "vendor_amarpur_056",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_057.json",
+      "md5": "439952143755c8b26a40e6255b9234dd",
+      "sizeBytes": 100625,
+      "updatedAt": "2026-06-07T14:56:36.806Z",
+      "vendorId": "vendor_amarpur_057",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_058.json",
+      "md5": "7e01413ed9048ff42181241df7243cd9",
+      "sizeBytes": 99626,
+      "updatedAt": "2026-06-07T14:56:36.807Z",
+      "vendorId": "vendor_amarpur_058",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_059.json",
+      "md5": "fa3f9384f7630248bef5f1bfe8a08a12",
+      "sizeBytes": 98573,
+      "updatedAt": "2026-06-07T14:56:36.810Z",
+      "vendorId": "vendor_amarpur_059",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_060.json",
+      "md5": "7f13985fd438e16a45179dcd9cc99e2d",
+      "sizeBytes": 99659,
+      "updatedAt": "2026-06-07T14:56:36.812Z",
+      "vendorId": "vendor_amarpur_060",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_061.json",
+      "md5": "fa5069718fa902d8953a31ed5b535eb4",
+      "sizeBytes": 100029,
+      "updatedAt": "2026-06-07T14:56:36.814Z",
+      "vendorId": "vendor_amarpur_061",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_062.json",
+      "md5": "a2a9d95ba41d6cf86b1d55e5b6f545dc",
+      "sizeBytes": 99316,
+      "updatedAt": "2026-06-07T14:56:36.816Z",
+      "vendorId": "vendor_amarpur_062",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_063.json",
+      "md5": "dfde435588ea3da88237733acf1a41e7",
+      "sizeBytes": 101358,
+      "updatedAt": "2026-06-07T14:56:36.818Z",
+      "vendorId": "vendor_amarpur_063",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_064.json",
+      "md5": "2fc4de5c334b71e150c8d82e892c6919",
+      "sizeBytes": 97955,
+      "updatedAt": "2026-06-07T14:56:36.820Z",
+      "vendorId": "vendor_amarpur_064",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_065.json",
+      "md5": "5e8cac656a6de23ee87fec8dee3e7d4c",
+      "sizeBytes": 100058,
+      "updatedAt": "2026-06-07T14:56:36.822Z",
+      "vendorId": "vendor_amarpur_065",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_066.json",
+      "md5": "4b5457d3c099c5d7c04dc44c86568c96",
+      "sizeBytes": 100378,
+      "updatedAt": "2026-06-07T14:56:36.824Z",
+      "vendorId": "vendor_amarpur_066",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_067.json",
+      "md5": "ce6005704c0d0da07d6b16a6cb3d22f7",
+      "sizeBytes": 100363,
+      "updatedAt": "2026-06-07T14:56:36.826Z",
+      "vendorId": "vendor_amarpur_067",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_068.json",
+      "md5": "c3b9c58cff358eee7499560ff9b196d8",
+      "sizeBytes": 99930,
+      "updatedAt": "2026-06-07T14:56:36.828Z",
+      "vendorId": "vendor_amarpur_068",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_069.json",
+      "md5": "973d4621268a3b4060296d0b62ec7d7c",
+      "sizeBytes": 100240,
+      "updatedAt": "2026-06-07T14:56:36.830Z",
+      "vendorId": "vendor_amarpur_069",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_070.json",
+      "md5": "08a95b87421aa966674d05d24734beea",
+      "sizeBytes": 98916,
+      "updatedAt": "2026-06-07T14:56:36.831Z",
+      "vendorId": "vendor_amarpur_070",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_071.json",
+      "md5": "b6e8a117e573137c607e9f59f2895dda",
+      "sizeBytes": 99612,
+      "updatedAt": "2026-06-07T14:56:36.833Z",
+      "vendorId": "vendor_amarpur_071",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_072.json",
+      "md5": "cbc04857af38ce756cd282e0b76a9d0e",
+      "sizeBytes": 98241,
+      "updatedAt": "2026-06-07T14:56:36.835Z",
+      "vendorId": "vendor_amarpur_072",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_073.json",
+      "md5": "a90abb54ed084d55a73e9188d9ebcfc9",
+      "sizeBytes": 100424,
+      "updatedAt": "2026-06-07T14:56:36.837Z",
+      "vendorId": "vendor_amarpur_073",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_074.json",
+      "md5": "2686d9eb6d01fba573645b701a7cc70f",
+      "sizeBytes": 100445,
+      "updatedAt": "2026-06-07T14:56:36.839Z",
+      "vendorId": "vendor_amarpur_074",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_075.json",
+      "md5": "77d7a49dad8f64694acdbac07de415d1",
+      "sizeBytes": 100070,
+      "updatedAt": "2026-06-07T14:56:36.841Z",
+      "vendorId": "vendor_amarpur_075",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_076.json",
+      "md5": "bcd58c16d8fc2adf1f1ca5ee7291e2a9",
+      "sizeBytes": 97906,
+      "updatedAt": "2026-06-07T14:56:36.843Z",
+      "vendorId": "vendor_amarpur_076",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_077.json",
+      "md5": "7da6e7275a16819c66cc9474ae7918c9",
+      "sizeBytes": 99816,
+      "updatedAt": "2026-06-07T14:56:36.845Z",
+      "vendorId": "vendor_amarpur_077",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_078.json",
+      "md5": "62f7053fcb34b4feb1f017413c5c7d46",
+      "sizeBytes": 100757,
+      "updatedAt": "2026-06-07T14:56:36.847Z",
+      "vendorId": "vendor_amarpur_078",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_079.json",
+      "md5": "35f40b5f62a34bc479417f5dcfb42701",
+      "sizeBytes": 99445,
+      "updatedAt": "2026-06-07T14:56:36.849Z",
+      "vendorId": "vendor_amarpur_079",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_080.json",
+      "md5": "3181b4a7a95969bef160b62d85db91b4",
+      "sizeBytes": 99986,
+      "updatedAt": "2026-06-07T14:56:36.851Z",
+      "vendorId": "vendor_amarpur_080",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_081.json",
+      "md5": "903263da7b1c9217b193852cd52dca1e",
+      "sizeBytes": 100746,
+      "updatedAt": "2026-06-07T14:56:36.854Z",
+      "vendorId": "vendor_amarpur_081",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_082.json",
+      "md5": "707f3993a8cf097c00724695c4280459",
+      "sizeBytes": 98440,
+      "updatedAt": "2026-06-07T14:56:36.856Z",
+      "vendorId": "vendor_amarpur_082",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_083.json",
+      "md5": "c523618a7fec4bcce9f54b57b2376f94",
+      "sizeBytes": 100531,
+      "updatedAt": "2026-06-07T14:56:36.859Z",
+      "vendorId": "vendor_amarpur_083",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_084.json",
+      "md5": "d0675b08ba6db75df3d715c04e25a739",
+      "sizeBytes": 99703,
+      "updatedAt": "2026-06-07T14:56:36.861Z",
+      "vendorId": "vendor_amarpur_084",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_085.json",
+      "md5": "e4a94369768a0636d417e9713991904d",
+      "sizeBytes": 97374,
+      "updatedAt": "2026-06-07T14:56:36.863Z",
+      "vendorId": "vendor_amarpur_085",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_086.json",
+      "md5": "c98b57c545a6bbc75ee7b8199a145be1",
+      "sizeBytes": 98802,
+      "updatedAt": "2026-06-07T14:56:36.865Z",
+      "vendorId": "vendor_amarpur_086",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_087.json",
+      "md5": "ee0f39ce85a0f478fbbab81aab1407a0",
+      "sizeBytes": 100117,
+      "updatedAt": "2026-06-07T14:56:36.867Z",
+      "vendorId": "vendor_amarpur_087",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_088.json",
+      "md5": "23f5d7d8eaf342d157f0fdd86003ff3a",
+      "sizeBytes": 100217,
+      "updatedAt": "2026-06-07T14:56:36.869Z",
+      "vendorId": "vendor_amarpur_088",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_089.json",
+      "md5": "ef1063bb019f48863245e23ebc215d68",
+      "sizeBytes": 100782,
+      "updatedAt": "2026-06-07T14:56:36.871Z",
+      "vendorId": "vendor_amarpur_089",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_090.json",
+      "md5": "3e4b11fb5e81be28f75fc64d46c1ec15",
+      "sizeBytes": 101149,
+      "updatedAt": "2026-06-07T14:56:36.873Z",
+      "vendorId": "vendor_amarpur_090",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_091.json",
+      "md5": "659aee70aed0b1df247d94a22f4d6e8c",
+      "sizeBytes": 99378,
+      "updatedAt": "2026-06-07T14:56:36.875Z",
+      "vendorId": "vendor_amarpur_091",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_092.json",
+      "md5": "b68f5cbfcdf7aad8496c684d256c7070",
+      "sizeBytes": 99427,
+      "updatedAt": "2026-06-07T14:56:36.877Z",
+      "vendorId": "vendor_amarpur_092",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_093.json",
+      "md5": "d6536db3b93238b6fd23f7b4b5602761",
+      "sizeBytes": 98868,
+      "updatedAt": "2026-06-07T14:56:36.879Z",
+      "vendorId": "vendor_amarpur_093",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_094.json",
+      "md5": "8dc3107bbe3607fe5f8c36af7c98d0a3",
+      "sizeBytes": 98938,
+      "updatedAt": "2026-06-07T14:56:36.881Z",
+      "vendorId": "vendor_amarpur_094",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_095.json",
+      "md5": "ee08b9b28fdff62b2688c89ee9e5f1e7",
+      "sizeBytes": 98897,
+      "updatedAt": "2026-06-07T14:56:36.883Z",
+      "vendorId": "vendor_amarpur_095",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_096.json",
+      "md5": "a03a8a82b36838ec5b660302d20c36de",
+      "sizeBytes": 100489,
+      "updatedAt": "2026-06-07T14:56:36.885Z",
+      "vendorId": "vendor_amarpur_096",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_097.json",
+      "md5": "c05b3046db8ade5d670a58058e9e1d6b",
+      "sizeBytes": 99912,
+      "updatedAt": "2026-06-07T14:56:36.887Z",
+      "vendorId": "vendor_amarpur_097",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_098.json",
+      "md5": "ad7158058436aedd02bfc0bc77295d1f",
+      "sizeBytes": 99014,
+      "updatedAt": "2026-06-07T14:56:36.889Z",
+      "vendorId": "vendor_amarpur_098",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_099.json",
+      "md5": "1d3b51b99de33c31e70a319648d30237",
+      "sizeBytes": 98496,
+      "updatedAt": "2026-06-07T14:56:36.891Z",
+      "vendorId": "vendor_amarpur_099",
+      "type": "products"
+    },
+    {
+      "path": "products/vendor_amarpur_100.json",
+      "md5": "f2768282307e104df8496daf573c62ca",
+      "sizeBytes": 99549,
+      "updatedAt": "2026-06-07T14:56:36.893Z",
+      "vendorId": "vendor_amarpur_100",
+      "type": "products"
+    },
+    {
+      "path": "vendors/index.json",
+      "md5": "387710478b189ea630ae04442c9c9e88",
+      "sizeBytes": 88645,
+      "updatedAt": "2026-06-07T14:57:30.843Z",
+      "type": "vendors"
+    }
+  ]
+}

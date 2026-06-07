@@ -1,0 +1,3585 @@
+[
+  {
+    "id": "product_vendor_amarpur_005_001",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Popular choice: Grilled Sandwich made with premium ingredients.",
+    "price": 689,
+    "discountPercent": 40,
+    "finalPrice": 413,
+    "rating": 4.9,
+    "totalRatings": 1830,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780791291/food-grocery/products/grilled-sandwich/product_vendor_bangalore_003_039.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "soup",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-28T21:02:10.671Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_002",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 676,
+    "discountPercent": 25,
+    "finalPrice": 507,
+    "rating": 3.8,
+    "totalRatings": 2888,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762960/food-grocery/products/caesar-salad/product_vendor_bangalore_003_010.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "pasta",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-07T06:54:34.972Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_003",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 767,
+    "discountPercent": 38,
+    "finalPrice": 476,
+    "rating": 3.9,
+    "totalRatings": 3079,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-28T05:37:49.041Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_004",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Classic cheese burger served hot and fresh.",
+    "price": 593,
+    "discountPercent": 21,
+    "finalPrice": 468,
+    "rating": 4.3,
+    "totalRatings": 1191,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-09T14:34:02.996Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_005",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Chef's special cold coffee — perfect for a satisfying meal.",
+    "price": 238,
+    "discountPercent": 13,
+    "finalPrice": 207,
+    "rating": 4.5,
+    "totalRatings": 2150,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763984/food-grocery/products/cold-coffee/product_vendor_bangalore_001_008.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "shake",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-24T18:44:42.869Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_006",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Chef's special masala chai — perfect for a satisfying meal.",
+    "price": 427,
+    "discountPercent": 14,
+    "finalPrice": 367,
+    "rating": 3.9,
+    "totalRatings": 1786,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793520/food-grocery/products/masala-chai/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "coffee",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-02T08:21:58.535Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_007",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Popular choice: Paneer Tikka Pizza made with premium ingredients.",
+    "price": 87,
+    "discountPercent": 22,
+    "finalPrice": 68,
+    "rating": 4.4,
+    "totalRatings": 4897,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-16T01:47:59.437Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_008",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Popular choice: Cheese Burger made with premium ingredients.",
+    "price": 106,
+    "discountPercent": 17,
+    "finalPrice": 88,
+    "rating": 3.8,
+    "totalRatings": 1177,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "sandwich",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-01T17:31:14.178Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_009",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Popular choice: Grilled Fish made with premium ingredients.",
+    "price": 755,
+    "discountPercent": 6,
+    "finalPrice": 710,
+    "rating": 3.7,
+    "totalRatings": 4658,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780788362/food-grocery/products/grilled-fish/product_vendor_bangalore_003_003.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "steak",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-25T05:02:08.317Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_010",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 483,
+    "discountPercent": 36,
+    "finalPrice": 309,
+    "rating": 4.5,
+    "totalRatings": 4842,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-14T01:04:57.868Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_011",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 602,
+    "discountPercent": 31,
+    "finalPrice": 415,
+    "rating": 4.2,
+    "totalRatings": 684,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762960/food-grocery/products/caesar-salad/product_vendor_bangalore_003_010.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "steak",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-30T00:04:42.711Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_012",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Delicious mango shake prepared fresh with authentic spices.",
+    "price": 669,
+    "discountPercent": 19,
+    "finalPrice": 542,
+    "rating": 4.3,
+    "totalRatings": 488,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793362/food-grocery/products/mango-shake/product_vendor_bangalore_001_011.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "juice",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-06T15:29:00.233Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_013",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Chef's special buttermilk — perfect for a satisfying meal.",
+    "price": 678,
+    "discountPercent": 19,
+    "finalPrice": 549,
+    "rating": 4.7,
+    "totalRatings": 204,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762883/food-grocery/products/buttermilk/product_vendor_bangalore_001_007.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "lassi",
+      "non-veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "lassi"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-28T10:04:37.246Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_014",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Popular choice: Buttermilk made with premium ingredients.",
+    "price": 579,
+    "discountPercent": 16,
+    "finalPrice": 486,
+    "rating": 3.9,
+    "totalRatings": 2953,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762883/food-grocery/products/buttermilk/product_vendor_bangalore_001_007.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "lassi"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-20T00:07:14.991Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_015",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 141,
+    "discountPercent": 3,
+    "finalPrice": 137,
+    "rating": 4.5,
+    "totalRatings": 2180,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-03T15:37:57.025Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_016",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Classic cold coffee served hot and fresh.",
+    "price": 454,
+    "discountPercent": 29,
+    "finalPrice": 322,
+    "rating": 3.7,
+    "totalRatings": 3922,
+    "category": "beverages",
+    "subCategory": "tea",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763984/food-grocery/products/cold-coffee/product_vendor_bangalore_001_008.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "tea",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "tea",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-16T09:55:30.042Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_017",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Delicious grilled fish prepared fresh with authentic spices.",
+    "price": 384,
+    "discountPercent": 20,
+    "finalPrice": 307,
+    "rating": 3.9,
+    "totalRatings": 1218,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780788362/food-grocery/products/grilled-fish/product_vendor_bangalore_003_003.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-01T06:09:51.484Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_018",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 595,
+    "discountPercent": 2,
+    "finalPrice": 583,
+    "rating": 4.7,
+    "totalRatings": 1544,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763984/food-grocery/products/cold-coffee/product_vendor_bangalore_001_008.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "shake",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-10-15T22:55:05.323Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_019",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Chef's special strawberry smoothie — perfect for a satisfying meal.",
+    "price": 541,
+    "discountPercent": 0,
+    "finalPrice": 541,
+    "rating": 3.9,
+    "totalRatings": 4953,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780806824/food-grocery/products/strawberry-smoothie/product_vendor_bangalore_001_050.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "shake",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-26T11:00:12.395Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_020",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Popular choice: Cold Coffee made with premium ingredients.",
+    "price": 418,
+    "discountPercent": 12,
+    "finalPrice": 368,
+    "rating": 4,
+    "totalRatings": 1545,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763984/food-grocery/products/cold-coffee/product_vendor_bangalore_001_008.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "juice",
+      "non-veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "juice",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-25T11:48:55.623Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_021",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 427,
+    "discountPercent": 40,
+    "finalPrice": 256,
+    "rating": 4.6,
+    "totalRatings": 4503,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "margherita"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-22T15:44:16.035Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_022",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Delicious buttermilk prepared fresh with authentic spices.",
+    "price": 665,
+    "discountPercent": 25,
+    "finalPrice": 499,
+    "rating": 4.1,
+    "totalRatings": 3349,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762883/food-grocery/products/buttermilk/product_vendor_bangalore_001_007.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "juice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-25T04:26:04.053Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_023",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Delicious buttermilk prepared fresh with authentic spices.",
+    "price": 652,
+    "discountPercent": 7,
+    "finalPrice": 606,
+    "rating": 4,
+    "totalRatings": 3785,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762883/food-grocery/products/buttermilk/product_vendor_bangalore_001_007.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "juice"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-25T22:38:06.965Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_024",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Chef's special cold coffee — perfect for a satisfying meal.",
+    "price": 879,
+    "discountPercent": 24,
+    "finalPrice": 668,
+    "rating": 4.4,
+    "totalRatings": 230,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763984/food-grocery/products/cold-coffee/product_vendor_bangalore_001_008.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "juice",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-24T16:10:18.912Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_025",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Chef's special fresh lime soda — perfect for a satisfying meal.",
+    "price": 550,
+    "discountPercent": 2,
+    "finalPrice": 539,
+    "rating": 3.5,
+    "totalRatings": 512,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765509/food-grocery/products/fresh-lime-soda/product_vendor_bangalore_001_028.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "shake",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-25T00:42:38.579Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_026",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Classic caesar salad served hot and fresh.",
+    "price": 256,
+    "discountPercent": 18,
+    "finalPrice": 210,
+    "rating": 3.9,
+    "totalRatings": 3484,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762960/food-grocery/products/caesar-salad/product_vendor_bangalore_003_010.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "grilled",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-25T01:48:30.674Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_027",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Classic strawberry smoothie served hot and fresh.",
+    "price": 195,
+    "discountPercent": 21,
+    "finalPrice": 154,
+    "rating": 4.7,
+    "totalRatings": 57,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780806824/food-grocery/products/strawberry-smoothie/product_vendor_bangalore_001_050.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "lassi",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "lassi",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-29T17:14:12.786Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_028",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Classic strawberry smoothie served hot and fresh.",
+    "price": 651,
+    "discountPercent": 22,
+    "finalPrice": 508,
+    "rating": 4.7,
+    "totalRatings": 3127,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780806824/food-grocery/products/strawberry-smoothie/product_vendor_bangalore_001_050.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "shake",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-07T07:08:25.885Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_029",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Delicious cold coffee prepared fresh with authentic spices.",
+    "price": 216,
+    "discountPercent": 14,
+    "finalPrice": 186,
+    "rating": 4.4,
+    "totalRatings": 3460,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763984/food-grocery/products/cold-coffee/product_vendor_bangalore_001_008.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "juice",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-28T16:19:42.583Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_030",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Delicious alfredo pasta prepared fresh with authentic spices.",
+    "price": 575,
+    "discountPercent": 7,
+    "finalPrice": 535,
+    "rating": 4,
+    "totalRatings": 2744,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-23T16:26:55.210Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_031",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Popular choice: Strawberry Smoothie made with premium ingredients.",
+    "price": 711,
+    "discountPercent": 37,
+    "finalPrice": 448,
+    "rating": 4.6,
+    "totalRatings": 1013,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780806824/food-grocery/products/strawberry-smoothie/product_vendor_bangalore_001_050.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "lassi",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "lassi",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-17T03:36:08.941Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_032",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Delicious fresh lime soda prepared fresh with authentic spices.",
+    "price": 549,
+    "discountPercent": 31,
+    "finalPrice": 379,
+    "rating": 3.8,
+    "totalRatings": 1316,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765509/food-grocery/products/fresh-lime-soda/product_vendor_bangalore_001_028.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "juice",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-05T08:10:52.028Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_033",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 668,
+    "discountPercent": 22,
+    "finalPrice": 521,
+    "rating": 4.3,
+    "totalRatings": 505,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780791291/food-grocery/products/grilled-sandwich/product_vendor_bangalore_003_039.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "soup",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-16T14:48:03.108Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_034",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 618,
+    "discountPercent": 9,
+    "finalPrice": 562,
+    "rating": 4.6,
+    "totalRatings": 3037,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-28T03:17:11.920Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_035",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Classic tomato soup served hot and fresh.",
+    "price": 365,
+    "discountPercent": 12,
+    "finalPrice": 321,
+    "rating": 4,
+    "totalRatings": 151,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756177/food-grocery/products/tomato-soup/product_vendor_bangalore_001_002.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-07T22:16:29.333Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_036",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Chef's special alfredo pasta — perfect for a satisfying meal.",
+    "price": 886,
+    "discountPercent": 34,
+    "finalPrice": 585,
+    "rating": 4.3,
+    "totalRatings": 4754,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "steak",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-09T21:26:13.066Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_037",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 431,
+    "discountPercent": 26,
+    "finalPrice": 319,
+    "rating": 4.1,
+    "totalRatings": 2718,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-29T15:17:45.250Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_038",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 291,
+    "discountPercent": 23,
+    "finalPrice": 224,
+    "rating": 4.1,
+    "totalRatings": 3989,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-31T03:49:29.691Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_039",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 298,
+    "discountPercent": 16,
+    "finalPrice": 250,
+    "rating": 4.9,
+    "totalRatings": 4396,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-23T11:20:02.419Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_040",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Chef's special french fries — perfect for a satisfying meal.",
+    "price": 777,
+    "discountPercent": 11,
+    "finalPrice": 692,
+    "rating": 3.9,
+    "totalRatings": 35,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-05T17:01:51.035Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_041",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Delicious masala chai prepared fresh with authentic spices.",
+    "price": 549,
+    "discountPercent": 28,
+    "finalPrice": 395,
+    "rating": 4,
+    "totalRatings": 474,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793520/food-grocery/products/masala-chai/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "juice",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-19T19:27:43.115Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_042",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 191,
+    "discountPercent": 30,
+    "finalPrice": 134,
+    "rating": 4.2,
+    "totalRatings": 2260,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793913/food-grocery/products/mushroom-risotto/product_vendor_bangalore_003_004.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-09T04:13:16.186Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_043",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Popular choice: Strawberry Smoothie made with premium ingredients.",
+    "price": 321,
+    "discountPercent": 4,
+    "finalPrice": 308,
+    "rating": 4.3,
+    "totalRatings": 4778,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780806824/food-grocery/products/strawberry-smoothie/product_vendor_bangalore_001_050.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "lassi",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-11-22T14:41:56.726Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_044",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 588,
+    "discountPercent": 38,
+    "finalPrice": 365,
+    "rating": 4.1,
+    "totalRatings": 3493,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-31T03:05:43.994Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_045",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 298,
+    "discountPercent": 0,
+    "finalPrice": 298,
+    "rating": 3.7,
+    "totalRatings": 2258,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "sandwich",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-08T16:11:46.359Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_046",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 291,
+    "discountPercent": 17,
+    "finalPrice": 242,
+    "rating": 4.9,
+    "totalRatings": 3804,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "sandwich",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-01T16:16:20.941Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_047",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Chef's special strawberry smoothie — perfect for a satisfying meal.",
+    "price": 693,
+    "discountPercent": 28,
+    "finalPrice": 499,
+    "rating": 4,
+    "totalRatings": 1371,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780806824/food-grocery/products/strawberry-smoothie/product_vendor_bangalore_001_050.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "coffee",
+      "non-veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "coffee",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-06T22:22:38.942Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_048",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 452,
+    "discountPercent": 23,
+    "finalPrice": 348,
+    "rating": 3.7,
+    "totalRatings": 3637,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-15T00:48:12.145Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_049",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 300,
+    "discountPercent": 34,
+    "finalPrice": 198,
+    "rating": 4.3,
+    "totalRatings": 1084,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780791291/food-grocery/products/grilled-sandwich/product_vendor_bangalore_003_039.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "soup",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-01-09T16:51:55.846Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_050",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Popular choice: Strawberry Smoothie made with premium ingredients.",
+    "price": 387,
+    "discountPercent": 21,
+    "finalPrice": 306,
+    "rating": 4.5,
+    "totalRatings": 2777,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780806824/food-grocery/products/strawberry-smoothie/product_vendor_bangalore_001_050.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "juice",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-06-28T20:47:15.055Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_051",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Classic cold coffee served hot and fresh.",
+    "price": 651,
+    "discountPercent": 13,
+    "finalPrice": 566,
+    "rating": 3.6,
+    "totalRatings": 3983,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763984/food-grocery/products/cold-coffee/product_vendor_bangalore_001_008.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "shake",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-04T08:01:23.095Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_052",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 629,
+    "discountPercent": 7,
+    "finalPrice": 585,
+    "rating": 4,
+    "totalRatings": 3546,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-06T21:25:07.649Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_053",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Classic alfredo pasta served hot and fresh.",
+    "price": 119,
+    "discountPercent": 20,
+    "finalPrice": 95,
+    "rating": 4.5,
+    "totalRatings": 2010,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "soup",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-08T09:05:08.072Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_054",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Alfredo Pasta",
+    "description": "Popular choice: Alfredo Pasta made with premium ingredients.",
+    "price": 757,
+    "discountPercent": 1,
+    "finalPrice": 749,
+    "rating": 3.7,
+    "totalRatings": 469,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756136/food-grocery/products/alfredo-pasta/product_vendor_bangalore_001_001.webp",
+    "imageSlug": "alfredo-pasta",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "alfredo",
+      "pasta"
+    ],
+    "searchKeywords": [
+      "alfredo",
+      "pasta",
+      "continental",
+      "grilled",
+      "alfredo pasta"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-28T08:02:08.823Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_055",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Delicious mango shake prepared fresh with authentic spices.",
+    "price": 703,
+    "discountPercent": 35,
+    "finalPrice": 457,
+    "rating": 4.6,
+    "totalRatings": 1593,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793362/food-grocery/products/mango-shake/product_vendor_bangalore_001_011.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "mango"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-03T10:02:49.640Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_056",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Classic cold coffee served hot and fresh.",
+    "price": 80,
+    "discountPercent": 16,
+    "finalPrice": 67,
+    "rating": 3.8,
+    "totalRatings": 3001,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763984/food-grocery/products/cold-coffee/product_vendor_bangalore_001_008.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "lassi",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-15T01:54:18.732Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_057",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 575,
+    "discountPercent": 16,
+    "finalPrice": 483,
+    "rating": 4.3,
+    "totalRatings": 87,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793913/food-grocery/products/mushroom-risotto/product_vendor_bangalore_003_004.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "pasta",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-29T00:52:48.002Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_058",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 590,
+    "discountPercent": 18,
+    "finalPrice": 484,
+    "rating": 4.7,
+    "totalRatings": 4458,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793913/food-grocery/products/mushroom-risotto/product_vendor_bangalore_003_004.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-26T20:33:36.590Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_059",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 353,
+    "discountPercent": 26,
+    "finalPrice": 261,
+    "rating": 4.2,
+    "totalRatings": 2860,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780791291/food-grocery/products/grilled-sandwich/product_vendor_bangalore_003_039.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "soup",
+      "non-veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "soup",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-07-31T15:07:43.232Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_060",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Mango Shake",
+    "description": "Chef's special mango shake — perfect for a satisfying meal.",
+    "price": 354,
+    "discountPercent": 16,
+    "finalPrice": 297,
+    "rating": 4.8,
+    "totalRatings": 3901,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793362/food-grocery/products/mango-shake/product_vendor_bangalore_001_011.webp",
+    "imageSlug": "mango-shake",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "mango",
+      "shake"
+    ],
+    "searchKeywords": [
+      "mango",
+      "shake",
+      "beverages",
+      "coffee",
+      "mango shake"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-21T20:05:49.161Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_061",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 489,
+    "discountPercent": 6,
+    "finalPrice": 460,
+    "rating": 4,
+    "totalRatings": 3634,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793913/food-grocery/products/mushroom-risotto/product_vendor_bangalore_003_004.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-06-03T23:20:41.840Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_062",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 569,
+    "discountPercent": 9,
+    "finalPrice": 518,
+    "rating": 4,
+    "totalRatings": 2391,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-10T15:39:23.673Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_063",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Classic cheese burger served hot and fresh.",
+    "price": 720,
+    "discountPercent": 1,
+    "finalPrice": 713,
+    "rating": 4.2,
+    "totalRatings": 1991,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "sandwich",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-13T22:12:00.172Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_064",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 703,
+    "discountPercent": 30,
+    "finalPrice": 492,
+    "rating": 4.2,
+    "totalRatings": 2011,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "margherita"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-05-03T13:23:28.762Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_065",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Popular choice: Cheese Burger made with premium ingredients.",
+    "price": 123,
+    "discountPercent": 7,
+    "finalPrice": 114,
+    "rating": 4.8,
+    "totalRatings": 3769,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "pizza",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-09-12T10:43:29.934Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_066",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Delicious masala chai prepared fresh with authentic spices.",
+    "price": 324,
+    "discountPercent": 13,
+    "finalPrice": 282,
+    "rating": 4.2,
+    "totalRatings": 2757,
+    "category": "beverages",
+    "subCategory": "juice",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793520/food-grocery/products/masala-chai/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "juice",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "juice",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-24T04:40:54.198Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_067",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 297,
+    "discountPercent": 37,
+    "finalPrice": 187,
+    "rating": 4.7,
+    "totalRatings": 1585,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756177/food-grocery/products/tomato-soup/product_vendor_bangalore_001_002.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-17T16:14:29.625Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_068",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Classic french fries served hot and fresh.",
+    "price": 896,
+    "discountPercent": 24,
+    "finalPrice": 681,
+    "rating": 3.8,
+    "totalRatings": 56,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "french"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-24T18:17:22.372Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_069",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Delicious veg sandwich prepared fresh with authentic spices.",
+    "price": 688,
+    "discountPercent": 34,
+    "finalPrice": 454,
+    "rating": 4.8,
+    "totalRatings": 144,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "pizza",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-04T20:08:16.933Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_070",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Chef's special margherita pizza — perfect for a satisfying meal.",
+    "price": 402,
+    "discountPercent": 11,
+    "finalPrice": 358,
+    "rating": 3.5,
+    "totalRatings": 3370,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "margherita"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-16T07:35:30.894Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_071",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Classic mushroom risotto served hot and fresh.",
+    "price": 565,
+    "discountPercent": 5,
+    "finalPrice": 537,
+    "rating": 4.4,
+    "totalRatings": 3580,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793913/food-grocery/products/mushroom-risotto/product_vendor_bangalore_003_004.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "steak",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-12T05:13:16.357Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_072",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Chef's special grilled fish — perfect for a satisfying meal.",
+    "price": 799,
+    "discountPercent": 10,
+    "finalPrice": 719,
+    "rating": 3.7,
+    "totalRatings": 1032,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780788362/food-grocery/products/grilled-fish/product_vendor_bangalore_003_003.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "risotto",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-27T15:51:18.525Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_073",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 328,
+    "discountPercent": 39,
+    "finalPrice": 200,
+    "rating": 4.6,
+    "totalRatings": 3608,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780788362/food-grocery/products/grilled-fish/product_vendor_bangalore_003_003.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-03-26T09:48:37.989Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_074",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Popular choice: Garlic Bread made with premium ingredients.",
+    "price": 137,
+    "discountPercent": 14,
+    "finalPrice": 118,
+    "rating": 4.8,
+    "totalRatings": 4870,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-20T17:32:06.628Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_075",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Buttermilk",
+    "description": "Delicious buttermilk prepared fresh with authentic spices.",
+    "price": 646,
+    "discountPercent": 6,
+    "finalPrice": 607,
+    "rating": 4,
+    "totalRatings": 2692,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762883/food-grocery/products/buttermilk/product_vendor_bangalore_001_007.webp",
+    "imageSlug": "buttermilk",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "buttermilk"
+    ],
+    "searchKeywords": [
+      "buttermilk",
+      "beverages",
+      "shake"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-09-25T04:49:49.459Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_076",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Fresh Lime Soda",
+    "description": "Popular choice: Fresh Lime Soda made with premium ingredients.",
+    "price": 758,
+    "discountPercent": 39,
+    "finalPrice": 462,
+    "rating": 3.7,
+    "totalRatings": 4986,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765509/food-grocery/products/fresh-lime-soda/product_vendor_bangalore_001_028.webp",
+    "imageSlug": "fresh-lime-soda",
+    "tags": [
+      "beverages",
+      "shake",
+      "non-veg",
+      "fresh",
+      "lime",
+      "soda"
+    ],
+    "searchKeywords": [
+      "fresh",
+      "lime",
+      "soda",
+      "beverages",
+      "shake",
+      "fresh lime soda"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-06-04T05:34:48.347Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_077",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 641,
+    "discountPercent": 4,
+    "finalPrice": 615,
+    "rating": 3.7,
+    "totalRatings": 3707,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-14T01:25:01.809Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_078",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 757,
+    "discountPercent": 23,
+    "finalPrice": 583,
+    "rating": 4.4,
+    "totalRatings": 1277,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "burger",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-19T18:09:21.877Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_079",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Delicious french fries prepared fresh with authentic spices.",
+    "price": 346,
+    "discountPercent": 15,
+    "finalPrice": 294,
+    "rating": 4.7,
+    "totalRatings": 375,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "burger",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-12T00:01:29.220Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_080",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 653,
+    "discountPercent": 33,
+    "finalPrice": 438,
+    "rating": 4,
+    "totalRatings": 4759,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-06-05T07:34:18.356Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_081",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Classic chicken wrap served hot and fresh.",
+    "price": 201,
+    "discountPercent": 23,
+    "finalPrice": 155,
+    "rating": 4.5,
+    "totalRatings": 2762,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "fries",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-19T19:04:31.288Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_082",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 160,
+    "discountPercent": 31,
+    "finalPrice": 110,
+    "rating": 4.7,
+    "totalRatings": 3352,
+    "category": "continental",
+    "subCategory": "risotto",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762960/food-grocery/products/caesar-salad/product_vendor_bangalore_003_010.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "risotto",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "risotto",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-26T08:56:51.028Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_083",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Masala Chai",
+    "description": "Chef's special masala chai — perfect for a satisfying meal.",
+    "price": 325,
+    "discountPercent": 25,
+    "finalPrice": 244,
+    "rating": 4.2,
+    "totalRatings": 1811,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793520/food-grocery/products/masala-chai/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "masala-chai",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "masala",
+      "chai"
+    ],
+    "searchKeywords": [
+      "masala",
+      "chai",
+      "beverages",
+      "shake",
+      "masala chai"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-22T23:17:34.967Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_084",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Strawberry Smoothie",
+    "description": "Delicious strawberry smoothie prepared fresh with authentic spices.",
+    "price": 585,
+    "discountPercent": 23,
+    "finalPrice": 450,
+    "rating": 3.7,
+    "totalRatings": 1646,
+    "category": "beverages",
+    "subCategory": "coffee",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780806824/food-grocery/products/strawberry-smoothie/product_vendor_bangalore_001_050.webp",
+    "imageSlug": "strawberry-smoothie",
+    "tags": [
+      "beverages",
+      "coffee",
+      "veg",
+      "strawberry",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "strawberry",
+      "smoothie",
+      "beverages",
+      "coffee",
+      "strawberry smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-21T18:10:47.493Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_085",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 319,
+    "discountPercent": 35,
+    "finalPrice": 207,
+    "rating": 4.2,
+    "totalRatings": 3814,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793913/food-grocery/products/mushroom-risotto/product_vendor_bangalore_003_004.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-25T01:10:30.113Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_086",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Delicious grilled sandwich prepared fresh with authentic spices.",
+    "price": 608,
+    "discountPercent": 34,
+    "finalPrice": 401,
+    "rating": 4.7,
+    "totalRatings": 2004,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780791291/food-grocery/products/grilled-sandwich/product_vendor_bangalore_003_039.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "grilled",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "soup",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-02T02:26:56.187Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_087",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 240,
+    "discountPercent": 4,
+    "finalPrice": 230,
+    "rating": 4,
+    "totalRatings": 535,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-25T22:49:52.473Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_088",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Chef's special tomato soup — perfect for a satisfying meal.",
+    "price": 451,
+    "discountPercent": 19,
+    "finalPrice": 365,
+    "rating": 4.7,
+    "totalRatings": 1518,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756177/food-grocery/products/tomato-soup/product_vendor_bangalore_001_002.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "grilled",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-06T07:48:25.091Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_089",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 865,
+    "discountPercent": 25,
+    "finalPrice": 649,
+    "rating": 4.7,
+    "totalRatings": 1732,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "wrap",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-05-26T16:54:50.944Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_090",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Classic chicken wrap served hot and fresh.",
+    "price": 460,
+    "discountPercent": 38,
+    "finalPrice": 285,
+    "rating": 3.7,
+    "totalRatings": 1059,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "fries",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-03T17:37:34.937Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_091",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Grilled Sandwich",
+    "description": "Chef's special grilled sandwich — perfect for a satisfying meal.",
+    "price": 693,
+    "discountPercent": 18,
+    "finalPrice": 568,
+    "rating": 4.8,
+    "totalRatings": 1054,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780791291/food-grocery/products/grilled-sandwich/product_vendor_bangalore_003_039.webp",
+    "imageSlug": "grilled-sandwich",
+    "tags": [
+      "continental",
+      "grilled",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "sandwich",
+      "continental",
+      "grilled sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-25T08:16:24.257Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_092",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 518,
+    "discountPercent": 24,
+    "finalPrice": 394,
+    "rating": 4.2,
+    "totalRatings": 313,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-28T22:41:41.942Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_093",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 829,
+    "discountPercent": 12,
+    "finalPrice": 730,
+    "rating": 4.2,
+    "totalRatings": 1811,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-26T18:06:16.080Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_094",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Mushroom Risotto",
+    "description": "Chef's special mushroom risotto — perfect for a satisfying meal.",
+    "price": 631,
+    "discountPercent": 4,
+    "finalPrice": 606,
+    "rating": 4.3,
+    "totalRatings": 3124,
+    "category": "continental",
+    "subCategory": "grilled",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793913/food-grocery/products/mushroom-risotto/product_vendor_bangalore_003_004.webp",
+    "imageSlug": "mushroom-risotto",
+    "tags": [
+      "continental",
+      "grilled",
+      "non-veg",
+      "mushroom",
+      "risotto"
+    ],
+    "searchKeywords": [
+      "mushroom",
+      "risotto",
+      "continental",
+      "grilled",
+      "mushroom risotto"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-10-06T14:14:14.116Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_095",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Chef's special cold coffee — perfect for a satisfying meal.",
+    "price": 774,
+    "discountPercent": 29,
+    "finalPrice": 550,
+    "rating": 4.6,
+    "totalRatings": 2439,
+    "category": "beverages",
+    "subCategory": "shake",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763984/food-grocery/products/cold-coffee/product_vendor_bangalore_001_008.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "shake",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "shake",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-13T13:58:11.101Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_096",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Grilled Fish",
+    "description": "Classic grilled fish served hot and fresh.",
+    "price": 389,
+    "discountPercent": 38,
+    "finalPrice": 241,
+    "rating": 4.1,
+    "totalRatings": 3481,
+    "category": "continental",
+    "subCategory": "pasta",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780788362/food-grocery/products/grilled-fish/product_vendor_bangalore_003_003.webp",
+    "imageSlug": "grilled-fish",
+    "tags": [
+      "continental",
+      "pasta",
+      "non-veg",
+      "grilled",
+      "fish"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "fish",
+      "continental",
+      "pasta",
+      "grilled fish"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-17T11:20:45.600Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_097",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Chef's special caesar salad — perfect for a satisfying meal.",
+    "price": 399,
+    "discountPercent": 29,
+    "finalPrice": 283,
+    "rating": 3.5,
+    "totalRatings": 3285,
+    "category": "continental",
+    "subCategory": "soup",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762960/food-grocery/products/caesar-salad/product_vendor_bangalore_003_010.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "soup",
+      "veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "soup",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-16T06:33:43.896Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_098",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Tomato Soup",
+    "description": "Delicious tomato soup prepared fresh with authentic spices.",
+    "price": 137,
+    "discountPercent": 40,
+    "finalPrice": 82,
+    "rating": 4.2,
+    "totalRatings": 2162,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756177/food-grocery/products/tomato-soup/product_vendor_bangalore_001_002.webp",
+    "imageSlug": "tomato-soup",
+    "tags": [
+      "continental",
+      "steak",
+      "veg",
+      "tomato",
+      "soup"
+    ],
+    "searchKeywords": [
+      "tomato",
+      "soup",
+      "continental",
+      "steak",
+      "tomato soup"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-26T12:26:50.689Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_099",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Cold Coffee",
+    "description": "Delicious cold coffee prepared fresh with authentic spices.",
+    "price": 795,
+    "discountPercent": 38,
+    "finalPrice": 493,
+    "rating": 3.8,
+    "totalRatings": 3921,
+    "category": "beverages",
+    "subCategory": "lassi",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763984/food-grocery/products/cold-coffee/product_vendor_bangalore_001_008.webp",
+    "imageSlug": "cold-coffee",
+    "tags": [
+      "beverages",
+      "lassi",
+      "veg",
+      "cold",
+      "coffee"
+    ],
+    "searchKeywords": [
+      "cold",
+      "coffee",
+      "beverages",
+      "lassi",
+      "cold coffee"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-12T23:37:45.532Z"
+  },
+  {
+    "id": "product_vendor_amarpur_005_100",
+    "vendorId": "vendor_amarpur_005",
+    "type": "food",
+    "name": "Caesar Salad",
+    "description": "Classic caesar salad served hot and fresh.",
+    "price": 443,
+    "discountPercent": 23,
+    "finalPrice": 341,
+    "rating": 4.4,
+    "totalRatings": 2934,
+    "category": "continental",
+    "subCategory": "steak",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762960/food-grocery/products/caesar-salad/product_vendor_bangalore_003_010.webp",
+    "imageSlug": "caesar-salad",
+    "tags": [
+      "continental",
+      "steak",
+      "non-veg",
+      "caesar",
+      "salad"
+    ],
+    "searchKeywords": [
+      "caesar",
+      "salad",
+      "continental",
+      "steak",
+      "caesar salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-01-06T13:53:51.217Z"
+  }
+]

@@ -5,7 +5,7 @@
   "region": "ncr",
   "name": "Noida",
   "entryCount": 203,
-  "updatedAt": "2026-06-07T07:13:02.544Z",
+  "updatedAt": "2026-06-07T14:57:31.061Z",
   "basePath": "regions/ncr/noida",
   "sections": {
     "meta": {
@@ -1478,7 +1478,7 @@
     "actions": {
       "download": "Local path missing OR local MD5 !== manifest MD5",
       "skip": "Local path exists AND local MD5 === manifest MD5",
-      "delete": "Local path exists BUT path not listed in sections.*.files or index.paths",
+      "delete": "Local path exists BUT path not listed in sync.paths",
       "update": "Same as download — MD5 mismatch means file was updated on CDN"
     },
     "order": [

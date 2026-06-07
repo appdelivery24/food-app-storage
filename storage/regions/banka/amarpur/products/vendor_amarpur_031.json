@@ -1,0 +1,3591 @@
+[
+  {
+    "id": "product_vendor_amarpur_031_001",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 113,
+    "discountPercent": 11,
+    "finalPrice": 101,
+    "rating": 4.5,
+    "totalRatings": 2299,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756172/food-grocery/products/protein-smoothie/product_vendor_mumbai_001_002.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "protein"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-03T14:50:17.389Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_002",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 353,
+    "discountPercent": 26,
+    "finalPrice": 261,
+    "rating": 4.2,
+    "totalRatings": 2981,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-31T15:48:53.492Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_003",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 116,
+    "discountPercent": 24,
+    "finalPrice": 88,
+    "rating": 4.4,
+    "totalRatings": 4747,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-30T08:38:46.512Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_004",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 370,
+    "discountPercent": 3,
+    "finalPrice": 359,
+    "rating": 4.8,
+    "totalRatings": 4693,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-06-01T09:38:17.098Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_005",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Classic cheese burger served hot and fresh.",
+    "price": 142,
+    "discountPercent": 34,
+    "finalPrice": 94,
+    "rating": 3.9,
+    "totalRatings": 3623,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "cheese"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-21T01:12:38.016Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_006",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 369,
+    "discountPercent": 20,
+    "finalPrice": 295,
+    "rating": 3.8,
+    "totalRatings": 4875,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-23T15:27:15.013Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_007",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 646,
+    "discountPercent": 28,
+    "finalPrice": 465,
+    "rating": 4,
+    "totalRatings": 1479,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "fries",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-03T01:57:16.931Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_008",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Delicious greek salad prepared fresh with authentic spices.",
+    "price": 286,
+    "discountPercent": 24,
+    "finalPrice": 217,
+    "rating": 4.6,
+    "totalRatings": 2827,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756149/food-grocery/products/greek-salad/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "bowl",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-28T00:59:18.891Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_009",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 255,
+    "discountPercent": 40,
+    "finalPrice": 153,
+    "rating": 4.6,
+    "totalRatings": 2660,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "cheese"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-02T15:30:54.232Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_010",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 651,
+    "discountPercent": 3,
+    "finalPrice": 631,
+    "rating": 3.6,
+    "totalRatings": 763,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-28T19:33:36.317Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_011",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 532,
+    "discountPercent": 22,
+    "finalPrice": 415,
+    "rating": 4.6,
+    "totalRatings": 343,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "fries",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-24T14:52:50.245Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_012",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 512,
+    "discountPercent": 22,
+    "finalPrice": 399,
+    "rating": 3.7,
+    "totalRatings": 2816,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "pizza",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-14T22:08:59.481Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_013",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 251,
+    "discountPercent": 21,
+    "finalPrice": 198,
+    "rating": 3.6,
+    "totalRatings": 80,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-12T12:38:27.144Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_014",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 157,
+    "discountPercent": 5,
+    "finalPrice": 149,
+    "rating": 3.8,
+    "totalRatings": 4415,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "wrap",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-02-07T21:34:16.546Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_015",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Popular choice: Veg Sandwich made with premium ingredients.",
+    "price": 105,
+    "discountPercent": 28,
+    "finalPrice": 76,
+    "rating": 4,
+    "totalRatings": 158,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-05T05:10:14.284Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_016",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Popular choice: Grilled Chicken Salad made with premium ingredients.",
+    "price": 87,
+    "discountPercent": 38,
+    "finalPrice": 54,
+    "rating": 4.9,
+    "totalRatings": 498,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-01-21T22:50:34.981Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_017",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 819,
+    "discountPercent": 0,
+    "finalPrice": 819,
+    "rating": 3.8,
+    "totalRatings": 638,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-08T17:11:12.117Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_018",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 437,
+    "discountPercent": 24,
+    "finalPrice": 332,
+    "rating": 4.1,
+    "totalRatings": 1827,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-06-05T06:19:45.128Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_019",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 174,
+    "discountPercent": 32,
+    "finalPrice": 118,
+    "rating": 4,
+    "totalRatings": 3842,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-21T15:29:43.882Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_020",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 85,
+    "discountPercent": 5,
+    "finalPrice": 81,
+    "rating": 4.4,
+    "totalRatings": 3447,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-13T01:12:03.872Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_021",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Classic greek salad served hot and fresh.",
+    "price": 249,
+    "discountPercent": 10,
+    "finalPrice": 224,
+    "rating": 4.1,
+    "totalRatings": 934,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756149/food-grocery/products/greek-salad/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "non-veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-28T17:58:34.668Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_022",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 330,
+    "discountPercent": 33,
+    "finalPrice": 221,
+    "rating": 3.7,
+    "totalRatings": 2105,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-12T06:46:18.799Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_023",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Popular choice: Garlic Bread made with premium ingredients.",
+    "price": 686,
+    "discountPercent": 15,
+    "finalPrice": 583,
+    "rating": 4.3,
+    "totalRatings": 2587,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-02-21T10:50:48.284Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_024",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Classic garlic bread served hot and fresh.",
+    "price": 436,
+    "discountPercent": 4,
+    "finalPrice": 419,
+    "rating": 3.6,
+    "totalRatings": 865,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-22T19:17:55.519Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_025",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Delicious french fries prepared fresh with authentic spices.",
+    "price": 724,
+    "discountPercent": 2,
+    "finalPrice": 710,
+    "rating": 4.1,
+    "totalRatings": 1510,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "pizza",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-07-06T14:17:02.746Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_026",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 889,
+    "discountPercent": 21,
+    "finalPrice": 702,
+    "rating": 4.1,
+    "totalRatings": 4720,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "fries",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-20T07:24:42.244Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_027",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 373,
+    "discountPercent": 31,
+    "finalPrice": 257,
+    "rating": 4.3,
+    "totalRatings": 3463,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "sandwich",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-10T20:20:16.761Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_028",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 850,
+    "discountPercent": 19,
+    "finalPrice": 689,
+    "rating": 4.2,
+    "totalRatings": 855,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-18T18:01:05.248Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_029",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 662,
+    "discountPercent": 14,
+    "finalPrice": 569,
+    "rating": 3.9,
+    "totalRatings": 1401,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "sandwich",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-18T14:04:11.903Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_030",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Chef's special chicken wrap — perfect for a satisfying meal.",
+    "price": 228,
+    "discountPercent": 9,
+    "finalPrice": 207,
+    "rating": 4.7,
+    "totalRatings": 3684,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "pizza",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2025-10-17T20:38:52.632Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_031",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 114,
+    "discountPercent": 21,
+    "finalPrice": 90,
+    "rating": 4.7,
+    "totalRatings": 274,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756172/food-grocery/products/protein-smoothie/product_vendor_mumbai_001_002.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-26T00:05:33.097Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_032",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 643,
+    "discountPercent": 3,
+    "finalPrice": 624,
+    "rating": 4.4,
+    "totalRatings": 3668,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-15T08:51:03.261Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_033",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Chef's special avocado toast — perfect for a satisfying meal.",
+    "price": 260,
+    "discountPercent": 13,
+    "finalPrice": 226,
+    "rating": 3.7,
+    "totalRatings": 4887,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-14T10:42:13.441Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_034",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Popular choice: Grilled Chicken Salad made with premium ingredients.",
+    "price": 585,
+    "discountPercent": 16,
+    "finalPrice": 491,
+    "rating": 4.6,
+    "totalRatings": 3502,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "grilled",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-12T12:01:04.754Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_035",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 397,
+    "discountPercent": 3,
+    "finalPrice": 385,
+    "rating": 4.9,
+    "totalRatings": 249,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "margherita"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-10-10T07:19:29.516Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_036",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Popular choice: Cheese Burger made with premium ingredients.",
+    "price": 114,
+    "discountPercent": 28,
+    "finalPrice": 82,
+    "rating": 4.6,
+    "totalRatings": 412,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "wrap",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-25T16:34:50.849Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_037",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 480,
+    "discountPercent": 30,
+    "finalPrice": 336,
+    "rating": 4.8,
+    "totalRatings": 1691,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-09-19T12:22:28.589Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_038",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Chef's special french fries — perfect for a satisfying meal.",
+    "price": 216,
+    "discountPercent": 2,
+    "finalPrice": 212,
+    "rating": 4.3,
+    "totalRatings": 1174,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-13T23:36:04.563Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_039",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 694,
+    "discountPercent": 14,
+    "finalPrice": 597,
+    "rating": 4.8,
+    "totalRatings": 1187,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-19T15:18:59.601Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_040",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 525,
+    "discountPercent": 19,
+    "finalPrice": 425,
+    "rating": 3.9,
+    "totalRatings": 2066,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "sandwich",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2026-04-05T00:48:27.967Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_041",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 536,
+    "discountPercent": 3,
+    "finalPrice": 520,
+    "rating": 4.5,
+    "totalRatings": 2998,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-30T14:50:46.608Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_042",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 256,
+    "discountPercent": 9,
+    "finalPrice": 233,
+    "rating": 4.3,
+    "totalRatings": 3189,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-23T08:29:51.117Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_043",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Delicious quinoa bowl prepared fresh with authentic spices.",
+    "price": 850,
+    "discountPercent": 25,
+    "finalPrice": 638,
+    "rating": 4.7,
+    "totalRatings": 2994,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-04T00:48:04.038Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_044",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Classic protein smoothie served hot and fresh.",
+    "price": 873,
+    "discountPercent": 29,
+    "finalPrice": 620,
+    "rating": 4.5,
+    "totalRatings": 4100,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756172/food-grocery/products/protein-smoothie/product_vendor_mumbai_001_002.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2026-03-03T20:43:06.789Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_045",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 514,
+    "discountPercent": 26,
+    "finalPrice": 380,
+    "rating": 3.9,
+    "totalRatings": 1554,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-25T02:34:55.316Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_046",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 82,
+    "discountPercent": 35,
+    "finalPrice": 53,
+    "rating": 3.6,
+    "totalRatings": 52,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-08-28T19:07:55.242Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_047",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Delicious veg sandwich prepared fresh with authentic spices.",
+    "price": 260,
+    "discountPercent": 36,
+    "finalPrice": 166,
+    "rating": 4.9,
+    "totalRatings": 2918,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "pizza",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-12-06T07:40:09.608Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_048",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Delicious french fries prepared fresh with authentic spices.",
+    "price": 198,
+    "discountPercent": 8,
+    "finalPrice": 182,
+    "rating": 3.7,
+    "totalRatings": 375,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-03T08:47:35.516Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_049",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 873,
+    "discountPercent": 29,
+    "finalPrice": 620,
+    "rating": 4.7,
+    "totalRatings": 4042,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2026-04-13T09:32:09.616Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_050",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Chef's special quinoa bowl — perfect for a satisfying meal.",
+    "price": 709,
+    "discountPercent": 5,
+    "finalPrice": 674,
+    "rating": 4.8,
+    "totalRatings": 2406,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2026-05-01T21:06:14.380Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_051",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 363,
+    "discountPercent": 10,
+    "finalPrice": 327,
+    "rating": 4,
+    "totalRatings": 3478,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-18T21:31:55.078Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_052",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Delicious veg sandwich prepared fresh with authentic spices.",
+    "price": 788,
+    "discountPercent": 35,
+    "finalPrice": 512,
+    "rating": 4.5,
+    "totalRatings": 4369,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "pizza",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-02T18:09:52.770Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_053",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Delicious protein smoothie prepared fresh with authentic spices.",
+    "price": 336,
+    "discountPercent": 11,
+    "finalPrice": 299,
+    "rating": 4,
+    "totalRatings": 2358,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756172/food-grocery/products/protein-smoothie/product_vendor_mumbai_001_002.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "salad",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-28T17:56:40.443Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_054",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 470,
+    "discountPercent": 32,
+    "finalPrice": 320,
+    "rating": 4.1,
+    "totalRatings": 3281,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "fries",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-23T05:59:31.414Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_055",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 245,
+    "discountPercent": 31,
+    "finalPrice": 169,
+    "rating": 4.8,
+    "totalRatings": 4372,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-06-29T08:58:02.050Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_056",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Popular choice: Avocado Toast made with premium ingredients.",
+    "price": 369,
+    "discountPercent": 10,
+    "finalPrice": 332,
+    "rating": 4.6,
+    "totalRatings": 4075,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "protein-meal",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-07-28T01:42:01.378Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_057",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 435,
+    "discountPercent": 25,
+    "finalPrice": 326,
+    "rating": 4.1,
+    "totalRatings": 2995,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "wrap",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-04-20T15:00:57.516Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_058",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 278,
+    "discountPercent": 0,
+    "finalPrice": 278,
+    "rating": 4,
+    "totalRatings": 4642,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-14T23:12:52.758Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_059",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 803,
+    "discountPercent": 17,
+    "finalPrice": 666,
+    "rating": 4.1,
+    "totalRatings": 375,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "quinoa"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-30T03:35:22.207Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_060",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Classic margherita pizza served hot and fresh.",
+    "price": 222,
+    "discountPercent": 25,
+    "finalPrice": 167,
+    "rating": 3.9,
+    "totalRatings": 1835,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "sandwich",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-08-12T02:55:10.465Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_061",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 665,
+    "discountPercent": 0,
+    "finalPrice": 665,
+    "rating": 3.7,
+    "totalRatings": 3213,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "smoothie",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-03-07T21:00:25.323Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_062",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 861,
+    "discountPercent": 9,
+    "finalPrice": 784,
+    "rating": 4.6,
+    "totalRatings": 1475,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-07-18T00:47:53.870Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_063",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Delicious veg sandwich prepared fresh with authentic spices.",
+    "price": 439,
+    "discountPercent": 21,
+    "finalPrice": 347,
+    "rating": 3.9,
+    "totalRatings": 1430,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "burger",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-31T23:28:34.358Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_064",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Delicious grilled chicken salad prepared fresh with authentic spices.",
+    "price": 501,
+    "discountPercent": 39,
+    "finalPrice": 306,
+    "rating": 4.5,
+    "totalRatings": 4918,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-11-23T20:42:50.485Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_065",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Classic grilled chicken salad served hot and fresh.",
+    "price": 561,
+    "discountPercent": 28,
+    "finalPrice": 404,
+    "rating": 3.9,
+    "totalRatings": 157,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "non-veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-12-30T23:19:22.092Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_066",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Popular choice: Chicken Wrap made with premium ingredients.",
+    "price": 199,
+    "discountPercent": 24,
+    "finalPrice": 151,
+    "rating": 3.7,
+    "totalRatings": 941,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "serving"
+    },
+    "createdAt": "2026-02-05T11:53:27.880Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_067",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Popular choice: Quinoa Bowl made with premium ingredients.",
+    "price": 836,
+    "discountPercent": 7,
+    "finalPrice": 777,
+    "rating": 3.6,
+    "totalRatings": 2179,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-10T07:40:54.722Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_068",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 291,
+    "discountPercent": 29,
+    "finalPrice": 207,
+    "rating": 4.6,
+    "totalRatings": 4513,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "salad",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-10-15T07:40:06.853Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_069",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Popular choice: Avocado Toast made with premium ingredients.",
+    "price": 287,
+    "discountPercent": 13,
+    "finalPrice": 250,
+    "rating": 4.8,
+    "totalRatings": 4129,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2026-02-13T05:24:28.155Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_070",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Popular choice: French Fries made with premium ingredients.",
+    "price": 896,
+    "discountPercent": 24,
+    "finalPrice": 681,
+    "rating": 4.2,
+    "totalRatings": 4946,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "wrap",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2026-05-16T12:30:20.570Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_071",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Chef's special garlic bread — perfect for a satisfying meal.",
+    "price": 195,
+    "discountPercent": 20,
+    "finalPrice": 156,
+    "rating": 4.6,
+    "totalRatings": 3954,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "pizza",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-24T07:50:10.734Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_072",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 102,
+    "discountPercent": 6,
+    "finalPrice": 96,
+    "rating": 4.9,
+    "totalRatings": 4698,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-04-15T08:49:32.306Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_073",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Chef's special veg sandwich — perfect for a satisfying meal.",
+    "price": 524,
+    "discountPercent": 6,
+    "finalPrice": 493,
+    "rating": 4.7,
+    "totalRatings": 4225,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "pizza",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-02-23T14:29:33.981Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_074",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 755,
+    "discountPercent": 18,
+    "finalPrice": 619,
+    "rating": 4.9,
+    "totalRatings": 2595,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "protein-meal",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-06-30T15:34:16.210Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_075",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 162,
+    "discountPercent": 19,
+    "finalPrice": 131,
+    "rating": 4.4,
+    "totalRatings": 175,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756149/food-grocery/products/greek-salad/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "greek"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2025-09-06T06:54:12.845Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_076",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Classic paneer tikka pizza served hot and fresh.",
+    "price": 546,
+    "discountPercent": 38,
+    "finalPrice": 339,
+    "rating": 4.4,
+    "totalRatings": 1009,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "fries",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-27T21:17:02.909Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_077",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Delicious cheese burger prepared fresh with authentic spices.",
+    "price": 788,
+    "discountPercent": 3,
+    "finalPrice": 764,
+    "rating": 4.5,
+    "totalRatings": 3022,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "sandwich",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-01T17:27:45.794Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_078",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Delicious paneer tikka pizza prepared fresh with authentic spices.",
+    "price": 660,
+    "discountPercent": 2,
+    "finalPrice": 647,
+    "rating": 4.4,
+    "totalRatings": 4642,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "veg",
+      "paneer",
+      "tikka",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "burger",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-21T18:17:40.206Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_079",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 401,
+    "discountPercent": 20,
+    "finalPrice": 321,
+    "rating": 4,
+    "totalRatings": 1744,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "cheese"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "serving"
+    },
+    "createdAt": "2025-12-14T07:10:07.638Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_080",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Classic greek salad served hot and fresh.",
+    "price": 360,
+    "discountPercent": 13,
+    "finalPrice": 313,
+    "rating": 4.9,
+    "totalRatings": 856,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756149/food-grocery/products/greek-salad/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2025-12-03T02:36:37.672Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_081",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 519,
+    "discountPercent": 1,
+    "finalPrice": 514,
+    "rating": 4.6,
+    "totalRatings": 4764,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "protein-meal",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-21T06:45:54.059Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_082",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "French Fries",
+    "description": "Chef's special french fries — perfect for a satisfying meal.",
+    "price": 494,
+    "discountPercent": 18,
+    "finalPrice": 405,
+    "rating": 4.8,
+    "totalRatings": 1262,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780765348/food-grocery/products/french-fries/product_vendor_bangalore_011_017.webp",
+    "imageSlug": "french-fries",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "french",
+      "fries"
+    ],
+    "searchKeywords": [
+      "french",
+      "fries",
+      "fast-food",
+      "sandwich",
+      "french fries"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-03-30T10:36:00.183Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_083",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Quinoa Bowl",
+    "description": "Classic quinoa bowl served hot and fresh.",
+    "price": 502,
+    "discountPercent": 16,
+    "finalPrice": 422,
+    "rating": 4.7,
+    "totalRatings": 3776,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756173/food-grocery/products/quinoa-bowl/product_vendor_mumbai_001_005.webp",
+    "imageSlug": "quinoa-bowl",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "quinoa",
+      "bowl"
+    ],
+    "searchKeywords": [
+      "quinoa",
+      "bowl",
+      "healthy",
+      "smoothie",
+      "quinoa bowl"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "plate"
+    },
+    "createdAt": "2026-04-27T14:16:31.856Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_084",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 250,
+    "discountPercent": 11,
+    "finalPrice": 223,
+    "rating": 3.5,
+    "totalRatings": 1831,
+    "category": "healthy",
+    "subCategory": "protein-meal",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756172/food-grocery/products/protein-smoothie/product_vendor_mumbai_001_002.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "protein-meal",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "protein-meal",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "combo"
+    },
+    "createdAt": "2025-08-21T22:50:29.523Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_085",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Protein Smoothie",
+    "description": "Chef's special protein smoothie — perfect for a satisfying meal.",
+    "price": 240,
+    "discountPercent": 11,
+    "finalPrice": 214,
+    "rating": 4.8,
+    "totalRatings": 1558,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756172/food-grocery/products/protein-smoothie/product_vendor_mumbai_001_002.webp",
+    "imageSlug": "protein-smoothie",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "protein",
+      "smoothie"
+    ],
+    "searchKeywords": [
+      "protein",
+      "smoothie",
+      "healthy",
+      "bowl",
+      "protein smoothie"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-11-26T01:26:30.566Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_086",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Chef's special margherita pizza — perfect for a satisfying meal.",
+    "price": 284,
+    "discountPercent": 26,
+    "finalPrice": 210,
+    "rating": 4.7,
+    "totalRatings": 3685,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "fries",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-08-03T11:45:53.520Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_087",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Delicious veg sandwich prepared fresh with authentic spices.",
+    "price": 564,
+    "discountPercent": 4,
+    "finalPrice": 541,
+    "rating": 4.8,
+    "totalRatings": 1248,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "non-veg",
+      "veg"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "medium",
+      "unit": "plate"
+    },
+    "createdAt": "2026-01-19T14:11:11.836Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_088",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Popular choice: Garlic Bread made with premium ingredients.",
+    "price": 884,
+    "discountPercent": 31,
+    "finalPrice": 610,
+    "rating": 4.6,
+    "totalRatings": 2312,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "fries",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "fries",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "extra-hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-13T13:23:31.175Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_089",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Chicken Wrap",
+    "description": "Delicious chicken wrap prepared fresh with authentic spices.",
+    "price": 411,
+    "discountPercent": 17,
+    "finalPrice": 341,
+    "rating": 4.6,
+    "totalRatings": 4712,
+    "category": "fast-food",
+    "subCategory": "fries",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763495/food-grocery/products/chicken-wrap/product_vendor_bangalore_011_009.webp",
+    "imageSlug": "chicken-wrap",
+    "tags": [
+      "fast-food",
+      "fries",
+      "non-veg",
+      "chicken",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "chicken",
+      "wrap",
+      "fast-food",
+      "fries",
+      "chicken wrap"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "plate"
+    },
+    "createdAt": "2025-12-19T18:31:37.969Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_090",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Greek Salad",
+    "description": "Chef's special greek salad — perfect for a satisfying meal.",
+    "price": 412,
+    "discountPercent": 31,
+    "finalPrice": 284,
+    "rating": 4.2,
+    "totalRatings": 3567,
+    "category": "healthy",
+    "subCategory": "smoothie",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756149/food-grocery/products/greek-salad/product_vendor_bangalore_001_003.webp",
+    "imageSlug": "greek-salad",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "veg",
+      "greek",
+      "salad"
+    ],
+    "searchKeywords": [
+      "greek",
+      "salad",
+      "healthy",
+      "smoothie",
+      "greek salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-23T00:04:10.758Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_091",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Margherita Pizza",
+    "description": "Delicious margherita pizza prepared fresh with authentic spices.",
+    "price": 256,
+    "discountPercent": 24,
+    "finalPrice": 195,
+    "rating": 4.7,
+    "totalRatings": 4464,
+    "category": "fast-food",
+    "subCategory": "burger",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780793444/food-grocery/products/margherita-pizza/product_vendor_bangalore_011_023.webp",
+    "imageSlug": "margherita-pizza",
+    "tags": [
+      "fast-food",
+      "burger",
+      "non-veg",
+      "margherita",
+      "pizza"
+    ],
+    "searchKeywords": [
+      "margherita",
+      "pizza",
+      "fast-food",
+      "burger",
+      "margherita pizza"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "mild",
+      "unit": "piece"
+    },
+    "createdAt": "2025-07-18T18:56:19.978Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_092",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Delicious avocado toast prepared fresh with authentic spices.",
+    "price": 877,
+    "discountPercent": 7,
+    "finalPrice": 816,
+    "rating": 4.1,
+    "totalRatings": 4819,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "bowl",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "piece"
+    },
+    "createdAt": "2026-05-18T06:28:04.500Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_093",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Paneer Tikka Pizza",
+    "description": "Chef's special paneer tikka pizza — perfect for a satisfying meal.",
+    "price": 691,
+    "discountPercent": 4,
+    "finalPrice": 663,
+    "rating": 4.6,
+    "totalRatings": 4547,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780805436/food-grocery/products/paneer-tikka-pizza/product_vendor_bangalore_011_024.webp",
+    "imageSlug": "paneer-tikka-pizza",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "paneer",
+      "tikka"
+    ],
+    "searchKeywords": [
+      "paneer",
+      "tikka",
+      "pizza",
+      "fast-food",
+      "paneer tikka pizza"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "serving"
+    },
+    "createdAt": "2025-08-29T11:12:17.368Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_094",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 347,
+    "discountPercent": 25,
+    "finalPrice": 260,
+    "rating": 3.8,
+    "totalRatings": 4908,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-06-26T06:45:08.872Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_095",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 848,
+    "discountPercent": 20,
+    "finalPrice": 678,
+    "rating": 4.2,
+    "totalRatings": 3727,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "mild",
+      "unit": "plate"
+    },
+    "createdAt": "2025-11-14T19:42:53.987Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_096",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Veg Sandwich",
+    "description": "Classic veg sandwich served hot and fresh.",
+    "price": 214,
+    "discountPercent": 31,
+    "finalPrice": 148,
+    "rating": 3.6,
+    "totalRatings": 1671,
+    "category": "fast-food",
+    "subCategory": "wrap",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780808187/food-grocery/products/veg-sandwich/product_vendor_bangalore_011_008.webp",
+    "imageSlug": "veg-sandwich",
+    "tags": [
+      "fast-food",
+      "wrap",
+      "non-veg",
+      "veg",
+      "sandwich"
+    ],
+    "searchKeywords": [
+      "veg",
+      "sandwich",
+      "fast-food",
+      "wrap",
+      "veg sandwich"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "extra-hot",
+      "unit": "bowl"
+    },
+    "createdAt": "2025-09-23T08:13:57.467Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_097",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Cheese Burger",
+    "description": "Chef's special cheese burger — perfect for a satisfying meal.",
+    "price": 520,
+    "discountPercent": 36,
+    "finalPrice": 333,
+    "rating": 3.8,
+    "totalRatings": 2192,
+    "category": "fast-food",
+    "subCategory": "sandwich",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780763332/food-grocery/products/cheese-burger/product_vendor_bangalore_011_001.webp",
+    "imageSlug": "cheese-burger",
+    "tags": [
+      "fast-food",
+      "sandwich",
+      "veg",
+      "cheese",
+      "burger"
+    ],
+    "searchKeywords": [
+      "cheese",
+      "burger",
+      "fast-food",
+      "sandwich",
+      "cheese burger"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "medium",
+      "unit": "combo"
+    },
+    "createdAt": "2026-03-26T01:49:37.363Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_098",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Grilled Chicken Salad",
+    "description": "Chef's special grilled chicken salad — perfect for a satisfying meal.",
+    "price": 554,
+    "discountPercent": 4,
+    "finalPrice": 532,
+    "rating": 4.2,
+    "totalRatings": 2485,
+    "category": "healthy",
+    "subCategory": "bowl",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780756153/food-grocery/products/grilled-chicken-salad/product_vendor_mumbai_001_004.webp",
+    "imageSlug": "grilled-chicken-salad",
+    "tags": [
+      "healthy",
+      "bowl",
+      "veg",
+      "grilled",
+      "chicken",
+      "salad"
+    ],
+    "searchKeywords": [
+      "grilled",
+      "chicken",
+      "salad",
+      "healthy",
+      "bowl",
+      "grilled chicken salad"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2026-01-11T17:08:51.052Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_099",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Avocado Toast",
+    "description": "Classic avocado toast served hot and fresh.",
+    "price": 453,
+    "discountPercent": 24,
+    "finalPrice": 344,
+    "rating": 3.7,
+    "totalRatings": 2736,
+    "category": "healthy",
+    "subCategory": "salad",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780762259/food-grocery/products/avocado-toast/product_vendor_bangalore_001_031.webp",
+    "imageSlug": "avocado-toast",
+    "tags": [
+      "healthy",
+      "salad",
+      "non-veg",
+      "avocado",
+      "toast"
+    ],
+    "searchKeywords": [
+      "avocado",
+      "toast",
+      "healthy",
+      "salad",
+      "avocado toast"
+    ],
+    "staticData": {
+      "veg": false,
+      "spicyLevel": "hot",
+      "unit": "combo"
+    },
+    "createdAt": "2025-06-16T17:11:29.398Z"
+  },
+  {
+    "id": "product_vendor_amarpur_031_100",
+    "vendorId": "vendor_amarpur_031",
+    "type": "food",
+    "name": "Garlic Bread",
+    "description": "Delicious garlic bread prepared fresh with authentic spices.",
+    "price": 801,
+    "discountPercent": 24,
+    "finalPrice": 609,
+    "rating": 4.1,
+    "totalRatings": 2786,
+    "category": "fast-food",
+    "subCategory": "pizza",
+    "imageUrl": "https://res.cloudinary.com/dqqwjyzyr/image/upload/v1780766103/food-grocery/products/garlic-bread/product_vendor_bangalore_011_002.webp",
+    "imageSlug": "garlic-bread",
+    "tags": [
+      "fast-food",
+      "pizza",
+      "veg",
+      "garlic",
+      "bread"
+    ],
+    "searchKeywords": [
+      "garlic",
+      "bread",
+      "fast-food",
+      "pizza",
+      "garlic bread"
+    ],
+    "staticData": {
+      "veg": true,
+      "spicyLevel": "hot",
+      "unit": "piece"
+    },
+    "createdAt": "2025-11-06T10:54:51.664Z"
+  }
+]
